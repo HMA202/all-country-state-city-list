@@ -81,26 +81,6 @@ console.log(city.translations.fa); // Persian / Farsi (منامه)
 console.log(city.translations["zh-CN"]); // Chinese (马纳马)
 console.log(city.translations.hi); //Hindi (मनामा)
 ```
-
- "br": "Manama",
-      "ko": "마나마",
-      "pt-BR": "Manama",
-      "pt": "Manama",
-      "nl": "Manama",
-      "hr": "Manama",
-      "fa": "منامه",
-      "de": "Manama",
-      "es": "Manama",
-      "fr": "Manama",
-      "ja": "マナーマ",
-      "it": "Manama",
-      "zh-CN": "马纳马",
-      "tr": "Manama",
-      "ru": "Манама",
-      "uk": "Манама",
-      "pl": "Manama",
-      "ar": "المنامة",
-      "hi": "मनामा"
 ---
 ## 👨‍💻 Author
 
