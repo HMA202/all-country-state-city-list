@@ -26,7 +26,60 @@
 npm install all-country-state-city-list
 ```
 ---
+## 🚀 Usage
 
+### 📦 Import Library
+
+```js
+const geo = require('all-country-state-city-list');
+```
+
+🌍 Get All Countries
+```js
+const countries = geo.getCountries();
+
+console.log(countries);
+```
+
+🏛️ Get States by Country Code
+```js
+const states = geo.getStates('AE'); // United Arab Emirates
+
+console.log(states);
+```
+
+
+🏙️ Get Cities by Country
+```js
+const cities = geo.getCities('AE');
+
+console.log(cities);
+```
+🔎 Get Cities by State (Advanced)
+
+```js
+const cities = geo.getCities('AE', 'Dubai');
+
+console.log(cities);
+
+```
+📍 Get Single City
+```js
+const city = geo.getCity('AD', 'Andorra la Vella');
+
+console.log(city.name);
+```
+
+🌐 Multilingual Support (i18n)
+
+```js
+console.log(city.translations.ar); // العربية
+console.log(city.translations.fr); // French
+console.log(city.translations.ja); // Japanese
+```
+
+
+---
 ## 👨‍💻 Author
 
 <p align="center">

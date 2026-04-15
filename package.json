@@ -19,6 +19,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_GITHUB/all-country-state-city-list"
-  }
+     "url": "git+https://github.com/HMA202/all-country-state-city-list.git"
+
+  },
+    "homepage": "https://github.com/HMA202/all-country-state-city-list#readme"
+
 }
