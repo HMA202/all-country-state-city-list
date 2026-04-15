@@ -43,7 +43,7 @@ console.log(countries);
 
 🏛️ Get States by Country Code
 ```js
-const states = geo.getStates('AE'); // United Arab Emirates
+const states = geo.getStates('BH'); //Bahrain
 
 console.log(states);
 ```
@@ -51,14 +51,14 @@ console.log(states);
 
 🏙️ Get Cities by Country
 ```js
-const cities = geo.getCities('AE');
+const cities = geo.getCities('BH');
 
 console.log(cities);
 ```
 🔎 Get Cities by State (Advanced)
 
 ```js
-const cities = geo.getCities('AE', 'Dubai');
+const cities = geo.getCities('BH', 'Manama');
 
 console.log(cities);
 
@@ -73,12 +73,34 @@ console.log(city.name);
 🌐 Multilingual Support (i18n)
 
 ```js
-console.log(city.translations.ar); // العربية
-console.log(city.translations.fr); // French
-console.log(city.translations.ja); // Japanese
+console.log(city.translations.ar); // العربية (المنامة)
+console.log(city.translations.fr); // French (Manama)
+console.log(city.translations.ja); // Japanese (マナーマ)
+console.log(city.translations.ko); // Korean (마나마)
+console.log(city.translations.fa); // Persian / Farsi (منامه)
+console.log(city.translations["zh-CN"]); // Chinese (马纳马)
+console.log(city.translations.hi); //Hindi (मनामा)
 ```
 
-
+ "br": "Manama",
+      "ko": "마나마",
+      "pt-BR": "Manama",
+      "pt": "Manama",
+      "nl": "Manama",
+      "hr": "Manama",
+      "fa": "منامه",
+      "de": "Manama",
+      "es": "Manama",
+      "fr": "Manama",
+      "ja": "マナーマ",
+      "it": "Manama",
+      "zh-CN": "马纳马",
+      "tr": "Manama",
+      "ru": "Манама",
+      "uk": "Манама",
+      "pl": "Manama",
+      "ar": "المنامة",
+      "hi": "मनामा"
 ---
 ## 👨‍💻 Author
 

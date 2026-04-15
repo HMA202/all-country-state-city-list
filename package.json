@@ -1,6 +1,6 @@
 {
   "name": "all-country-state-city-list",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A lightweight library for countries, states and cities data",
   "main": "lib/index.js",
   "type": "commonjs",
