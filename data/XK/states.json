@@ -1,0 +1,79 @@
+[
+  {
+    "id": 4874,
+    "name": "Ferizaj",
+    "iso2": "XUF",
+    "native": "Ferizaj",
+    "latitude": "42.37018440",
+    "longitude": "21.14832810",
+    "type": "district",
+    "timezone": "Europe/Belgrade",
+    "CountryID": 248
+  },
+  {
+    "id": 4876,
+    "name": "Gjakove",
+    "iso2": "XDG",
+    "native": "Gjakove",
+    "latitude": "42.37987930",
+    "longitude": "20.43162260",
+    "type": "district",
+    "timezone": "Europe/Belgrade",
+    "CountryID": 248
+  },
+  {
+    "id": 4877,
+    "name": "Gjilan",
+    "iso2": "XGJ",
+    "native": "Gjilan",
+    "latitude": "42.46352060",
+    "longitude": "21.46940110",
+    "type": "district",
+    "timezone": "Europe/Belgrade",
+    "CountryID": 248
+  },
+  {
+    "id": 4878,
+    "name": "Mitrovica",
+    "iso2": "XKM",
+    "native": "Mitrovica",
+    "latitude": "42.87904240",
+    "longitude": "20.86578620",
+    "type": "district",
+    "timezone": "Europe/Belgrade",
+    "CountryID": 248
+  },
+  {
+    "id": 5321,
+    "name": "Peja",
+    "iso2": "PEJ",
+    "native": "Peja",
+    "latitude": "42.65939860",
+    "longitude": "20.28857570",
+    "type": "district",
+    "timezone": "Europe/Belgrade",
+    "CountryID": 248
+  },
+  {
+    "id": 4879,
+    "name": "Pristina",
+    "iso2": "XPI",
+    "native": "Pristina",
+    "latitude": "42.66291380",
+    "longitude": "21.16550280",
+    "type": "district",
+    "timezone": "Europe/Belgrade",
+    "CountryID": 248
+  },
+  {
+    "id": 5322,
+    "name": "Prizren",
+    "iso2": "PRI",
+    "native": "Prizren",
+    "latitude": "42.21301510",
+    "longitude": "20.73633390",
+    "type": "district",
+    "timezone": "Europe/Belgrade",
+    "CountryID": 248
+  }
+]

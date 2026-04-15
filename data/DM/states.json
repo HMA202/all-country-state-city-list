@@ -1,0 +1,112 @@
+[
+  {
+    "id": 4082,
+    "name": "Saint Andrew",
+    "iso2": "02",
+    "native": "Saint Andrew",
+    "latitude": "15.42385390",
+    "longitude": "-61.34165130",
+    "type": "parish",
+    "timezone": "America/Dominica",
+    "CountryID": 61
+  },
+  {
+    "id": 4078,
+    "name": "Saint David",
+    "iso2": "03",
+    "native": "Saint David",
+    "latitude": "15.42385390",
+    "longitude": "-61.34165130",
+    "type": "parish",
+    "timezone": "America/Dominica",
+    "CountryID": 61
+  },
+  {
+    "id": 4079,
+    "name": "Saint George",
+    "iso2": "04",
+    "native": "Saint George",
+    "latitude": "15.30588490",
+    "longitude": "-61.34772860",
+    "type": "parish",
+    "timezone": "America/Dominica",
+    "CountryID": 61
+  },
+  {
+    "id": 4076,
+    "name": "Saint John",
+    "iso2": "05",
+    "native": "Saint John",
+    "latitude": "15.57391580",
+    "longitude": "-61.43697570",
+    "type": "parish",
+    "timezone": "America/Dominica",
+    "CountryID": 61
+  },
+  {
+    "id": 4085,
+    "name": "Saint Joseph",
+    "iso2": "06",
+    "native": "Saint Joseph",
+    "latitude": "15.40631550",
+    "longitude": "-61.42390930",
+    "type": "parish",
+    "timezone": "America/Dominica",
+    "CountryID": 61
+  },
+  {
+    "id": 4083,
+    "name": "Saint Luke",
+    "iso2": "07",
+    "native": "Saint Luke",
+    "latitude": "15.25264830",
+    "longitude": "-61.36068480",
+    "type": "parish",
+    "timezone": "America/Dominica",
+    "CountryID": 61
+  },
+  {
+    "id": 4077,
+    "name": "Saint Mark",
+    "iso2": "08",
+    "native": "Saint Mark",
+    "latitude": "15.22852650",
+    "longitude": "-61.35000410",
+    "type": "parish",
+    "timezone": "America/Dominica",
+    "CountryID": 61
+  },
+  {
+    "id": 4080,
+    "name": "Saint Patrick",
+    "iso2": "09",
+    "native": "Saint Patrick",
+    "latitude": "15.27704260",
+    "longitude": "-61.29647750",
+    "type": "parish",
+    "timezone": "America/Dominica",
+    "CountryID": 61
+  },
+  {
+    "id": 4084,
+    "name": "Saint Paul",
+    "iso2": "10",
+    "native": "Saint Paul",
+    "latitude": "15.36301840",
+    "longitude": "-61.36134160",
+    "type": "parish",
+    "timezone": "America/Dominica",
+    "CountryID": 61
+  },
+  {
+    "id": 4081,
+    "name": "Saint Peter",
+    "iso2": "11",
+    "native": "Saint Peter",
+    "latitude": "15.49975910",
+    "longitude": "-61.44034710",
+    "type": "parish",
+    "timezone": "America/Dominica",
+    "CountryID": 61
+  }
+]

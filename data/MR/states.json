@@ -1,0 +1,167 @@
+[
+  {
+    "id": 3344,
+    "name": "Adrar",
+    "iso2": "07",
+    "native": "أدرار",
+    "latitude": "21.00906230",
+    "longitude": "-10.22074490",
+    "type": "region",
+    "timezone": "Africa/Nouakchott",
+    "CountryID": 139
+  },
+  {
+    "id": 3349,
+    "name": "Assaba",
+    "iso2": "03",
+    "native": "عصابة",
+    "latitude": "16.58091850",
+    "longitude": "-11.53637240",
+    "type": "region",
+    "timezone": "Africa/Nouakchott",
+    "CountryID": 139
+  },
+  {
+    "id": 3339,
+    "name": "Brakna",
+    "iso2": "05",
+    "native": "براكنا",
+    "latitude": "17.24756380",
+    "longitude": "-13.40377140",
+    "type": "region",
+    "timezone": "Africa/Nouakchott",
+    "CountryID": 139
+  },
+  {
+    "id": 3346,
+    "name": "Dakhlet Nouadhibou",
+    "iso2": "08",
+    "native": "داخلة نواذيبو",
+    "latitude": "20.80195370",
+    "longitude": "-16.00127080",
+    "type": "region",
+    "timezone": "Africa/Nouakchott",
+    "CountryID": 139
+  },
+  {
+    "id": 3341,
+    "name": "Gorgol",
+    "iso2": "04",
+    "native": "غورغول",
+    "latitude": "16.00622750",
+    "longitude": "-12.83608340",
+    "type": "region",
+    "timezone": "Africa/Nouakchott",
+    "CountryID": 139
+  },
+  {
+    "id": 3350,
+    "name": "Guidimaka",
+    "iso2": "10",
+    "native": "غيديماكا",
+    "latitude": "15.37668960",
+    "longitude": "-12.12466300",
+    "type": "region",
+    "timezone": "Africa/Nouakchott",
+    "CountryID": 139
+  },
+  {
+    "id": 3338,
+    "name": "Hodh Ech Chargui",
+    "iso2": "01",
+    "native": "حوض الشرقي",
+    "latitude": "18.19411120",
+    "longitude": "-7.09216520",
+    "type": "region",
+    "timezone": "Africa/Nouakchott",
+    "CountryID": 139
+  },
+  {
+    "id": 3351,
+    "name": "Hodh El Gharbi",
+    "iso2": "02",
+    "native": "حوض الغربي",
+    "latitude": "16.56939220",
+    "longitude": "-9.83223660",
+    "type": "region",
+    "timezone": "Africa/Nouakchott",
+    "CountryID": 139
+  },
+  {
+    "id": 3342,
+    "name": "Inchiri",
+    "iso2": "12",
+    "native": "إنشيري",
+    "latitude": "19.99227660",
+    "longitude": "-15.11376700",
+    "type": "region",
+    "timezone": "Africa/Nouakchott",
+    "CountryID": 139
+  },
+  {
+    "id": 3343,
+    "name": "Nouakchott-Nord",
+    "iso2": "14",
+    "native": "نواكشوط الشمالية",
+    "latitude": "18.10249450",
+    "longitude": "-15.91928190",
+    "type": "region",
+    "timezone": "Africa/Nouakchott",
+    "CountryID": 139
+  },
+  {
+    "id": 3352,
+    "name": "Nouakchott-Ouest",
+    "iso2": "13",
+    "native": "نواكشوط الغربية",
+    "latitude": "18.11279450",
+    "longitude": "-15.99302760",
+    "type": "region",
+    "timezone": "Africa/Nouakchott",
+    "CountryID": 139
+  },
+  {
+    "id": 3347,
+    "name": "Nouakchott-Sud",
+    "iso2": "15",
+    "native": "نواكشوط الجنوبية",
+    "latitude": "18.00339450",
+    "longitude": "-15.96582900",
+    "type": "region",
+    "timezone": "Africa/Nouakchott",
+    "CountryID": 139
+  },
+  {
+    "id": 3345,
+    "name": "Tagant",
+    "iso2": "09",
+    "native": "تاجانت",
+    "latitude": "18.57298930",
+    "longitude": "-10.39379260",
+    "type": "region",
+    "timezone": "Africa/Nouakchott",
+    "CountryID": 139
+  },
+  {
+    "id": 3340,
+    "name": "Tiris Zemmour",
+    "iso2": "11",
+    "native": "تيريس زمور",
+    "latitude": "24.19513920",
+    "longitude": "-9.66641990",
+    "type": "region",
+    "timezone": "Africa/Nouakchott",
+    "CountryID": 139
+  },
+  {
+    "id": 3348,
+    "name": "Trarza",
+    "iso2": "06",
+    "native": "ترارزة",
+    "latitude": "17.92264200",
+    "longitude": "-14.84760170",
+    "type": "region",
+    "timezone": "Africa/Nouakchott",
+    "CountryID": 139
+  }
+]

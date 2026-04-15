@@ -1,0 +1,74 @@
+[
+  {
+    "id": 108993,
+    "name": "Alapi Village",
+    "latitude": "-8.52074000",
+    "longitude": "179.19680000",
+    "CountryID": 228,
+    "StateID": 3951
+  },
+  {
+    "id": 108995,
+    "name": "Fakaifou Village",
+    "latitude": "-8.51758000",
+    "longitude": "179.20094000",
+    "CountryID": 228,
+    "StateID": 3951
+  },
+  {
+    "id": 108996,
+    "name": "Funafuti",
+    "latitude": "-8.52425000",
+    "longitude": "179.19417000",
+    "CountryID": 228,
+    "StateID": 3951
+  },
+  {
+    "id": 109001,
+    "name": "Toga Village",
+    "latitude": "-6.28764000",
+    "longitude": "176.31472000",
+    "CountryID": 228,
+    "StateID": 3947
+  },
+  {
+    "id": 108997,
+    "name": "Kulia Village",
+    "latitude": "-6.10819000",
+    "longitude": "177.33393000",
+    "CountryID": 228,
+    "StateID": 3946
+  },
+  {
+    "id": 108998,
+    "name": "Niulakita",
+    "latitude": "-10.78800000",
+    "longitude": "179.46600000",
+    "CountryID": 228,
+    "StateID": 3946
+  },
+  {
+    "id": 109000,
+    "name": "Tanrake Village",
+    "latitude": "-7.24562000",
+    "longitude": "177.14511000",
+    "CountryID": 228,
+    "StateID": 3948
+  },
+  {
+    "id": 108999,
+    "name": "Savave Village",
+    "latitude": "-8.02731000",
+    "longitude": "178.31351000",
+    "CountryID": 228,
+    "StateID": 3952
+  },
+  {
+    "id": 108994,
+    "name": "Asau Village",
+    "latitude": "-7.49026000",
+    "longitude": "178.68016000",
+    "CountryID": 228,
+    "StateID": 3950
+  }
+]

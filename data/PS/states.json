@@ -1,0 +1,178 @@
+[
+  {
+    "id": 5118,
+    "name": "Bethlehem",
+    "iso2": "BTH",
+    "native": "بيت لحم",
+    "latitude": "31.70539960",
+    "longitude": "35.19368770",
+    "type": "governorate",
+    "timezone": "Asia/Gaza",
+    "CountryID": 169
+  },
+  {
+    "id": 5119,
+    "name": "Deir El Balah",
+    "iso2": "DEB",
+    "native": "دير البلح",
+    "latitude": "31.42028970",
+    "longitude": "34.28616400",
+    "type": "governorate",
+    "timezone": "Asia/Gaza",
+    "CountryID": 169
+  },
+  {
+    "id": 5120,
+    "name": "Gaza",
+    "iso2": "GZA",
+    "native": "غزة",
+    "latitude": "31.48723970",
+    "longitude": "34.14998900",
+    "type": "governorate",
+    "timezone": "Asia/Gaza",
+    "CountryID": 169
+  },
+  {
+    "id": 5121,
+    "name": "Hebron",
+    "iso2": "HBN",
+    "native": "الخليل",
+    "latitude": "31.53260010",
+    "longitude": "35.06394750",
+    "type": "governorate",
+    "timezone": "Asia/Gaza",
+    "CountryID": 169
+  },
+  {
+    "id": 5122,
+    "name": "Jenin",
+    "iso2": "JEN",
+    "native": "جنين",
+    "latitude": "32.42637610",
+    "longitude": "35.08568870",
+    "type": "governorate",
+    "timezone": "Asia/Gaza",
+    "CountryID": 169
+  },
+  {
+    "id": 5123,
+    "name": "Jericho ",
+    "iso2": "JRH",
+    "native": "أريحا",
+    "latitude": "31.96764250",
+    "longitude": "35.13542790",
+    "type": "governorate",
+    "timezone": "Asia/Gaza",
+    "CountryID": 169
+  },
+  {
+    "id": 5124,
+    "name": "Jerusalem (Quds)",
+    "iso2": "JEM",
+    "native": "القدس",
+    "latitude": "31.80203280",
+    "longitude": "34.95996640",
+    "type": "governorate",
+    "timezone": "Asia/Gaza",
+    "CountryID": 169
+  },
+  {
+    "id": 5125,
+    "name": "Khan Yunis",
+    "iso2": "KYS",
+    "native": "خان يونس",
+    "latitude": "31.32987660",
+    "longitude": "34.22548330",
+    "type": "governorate",
+    "timezone": "Asia/Gaza",
+    "CountryID": 169
+  },
+  {
+    "id": 5126,
+    "name": "Nablus",
+    "iso2": "NBS",
+    "native": "نابلس",
+    "latitude": "32.22437550",
+    "longitude": "35.20647930",
+    "type": "governorate",
+    "timezone": "Asia/Gaza",
+    "CountryID": 169
+  },
+  {
+    "id": 5127,
+    "name": "North Gaza",
+    "iso2": "NGZ",
+    "native": "شمال غزة",
+    "latitude": "31.54750600",
+    "longitude": "34.42814090",
+    "type": "governorate",
+    "timezone": "Asia/Gaza",
+    "CountryID": 169
+  },
+  {
+    "id": 5128,
+    "name": "Qalqilya",
+    "iso2": "QQA",
+    "native": "قلقيلية",
+    "latitude": "32.18103230",
+    "longitude": "34.99369990",
+    "type": "governorate",
+    "timezone": "Asia/Gaza",
+    "CountryID": 169
+  },
+  {
+    "id": 5129,
+    "name": "Rafah",
+    "iso2": "RFH",
+    "native": "رفح",
+    "latitude": "31.29688990",
+    "longitude": "34.11166850",
+    "type": "governorate",
+    "timezone": "Asia/Gaza",
+    "CountryID": 169
+  },
+  {
+    "id": 5130,
+    "name": "Ramallah",
+    "iso2": "RBH",
+    "native": "رام الله",
+    "latitude": "31.94301450",
+    "longitude": "34.86456510",
+    "type": "governorate",
+    "timezone": "Asia/Gaza",
+    "CountryID": 169
+  },
+  {
+    "id": 5131,
+    "name": "Salfit",
+    "iso2": "SLT",
+    "native": "سلفيت",
+    "latitude": "32.11122720",
+    "longitude": "34.95787690",
+    "type": "governorate",
+    "timezone": "Asia/Gaza",
+    "CountryID": 169
+  },
+  {
+    "id": 5132,
+    "name": "Tubas",
+    "iso2": "TBS",
+    "native": "طوباس",
+    "latitude": "32.29380430",
+    "longitude": "34.85109800",
+    "type": "governorate",
+    "timezone": "Asia/Gaza",
+    "CountryID": 169
+  },
+  {
+    "id": 5133,
+    "name": "Tulkarm",
+    "iso2": "TKM",
+    "native": "طولكرم",
+    "latitude": "32.32766720",
+    "longitude": "34.92311080",
+    "type": "governorate",
+    "timezone": "Asia/Gaza",
+    "CountryID": 169
+  }
+]

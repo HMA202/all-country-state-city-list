@@ -1,0 +1,79 @@
+[
+  {
+    "id": 2959,
+    "name": "Brest",
+    "iso2": "BR",
+    "native": "Брэст",
+    "latitude": "52.09375100",
+    "longitude": "23.68518510",
+    "type": "oblast",
+    "timezone": "Europe/Minsk",
+    "CountryID": 21
+  },
+  {
+    "id": 2955,
+    "name": "Gomel",
+    "iso2": "HO",
+    "native": "Гомель",
+    "latitude": "52.42389360",
+    "longitude": "31.01316980",
+    "type": "oblast",
+    "timezone": "Europe/Minsk",
+    "CountryID": 21
+  },
+  {
+    "id": 2956,
+    "name": "Grodno",
+    "iso2": "HR",
+    "native": "Гродна",
+    "latitude": "53.68345990",
+    "longitude": "23.83426480",
+    "type": "oblast",
+    "timezone": "Europe/Minsk",
+    "CountryID": 21
+  },
+  {
+    "id": 2957,
+    "name": "Minsk",
+    "iso2": "MI",
+    "native": "Мінск",
+    "latitude": "53.90247160",
+    "longitude": "27.56182250",
+    "type": "oblast",
+    "timezone": "Europe/Minsk",
+    "CountryID": 21
+  },
+  {
+    "id": 2958,
+    "name": "Minsk",
+    "iso2": "HM",
+    "native": "Мінск",
+    "latitude": "53.90247160",
+    "longitude": "27.56182250",
+    "type": "city",
+    "timezone": "Europe/Minsk",
+    "CountryID": 21
+  },
+  {
+    "id": 2954,
+    "name": "Mogilev",
+    "iso2": "MA",
+    "native": "Магілёў",
+    "latitude": "53.90902450",
+    "longitude": "30.34298380",
+    "type": "oblast",
+    "timezone": "Europe/Minsk",
+    "CountryID": 21
+  },
+  {
+    "id": 2960,
+    "name": "Vitebsk",
+    "iso2": "VI",
+    "native": "Віцебск",
+    "latitude": "55.23819720",
+    "longitude": "28.77422030",
+    "type": "oblast",
+    "timezone": "Europe/Minsk",
+    "CountryID": 21
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "id": 982,
+    "name": "Attapeu",
+    "iso2": "AT",
+    "native": "ອັດຕະປື",
+    "latitude": "14.79073000",
+    "longitude": "107.10083180",
+    "type": "province",
+    "timezone": "Asia/Vientiane",
+    "CountryID": 119
+  },
+  {
+    "id": 991,
+    "name": "Bokeo",
+    "iso2": "BK",
+    "native": "ບໍ່ແກ້ວ",
+    "latitude": "20.31744500",
+    "longitude": "100.39581120",
+    "type": "province",
+    "timezone": "Asia/Vientiane",
+    "CountryID": 119
+  },
+  {
+    "id": 985,
+    "name": "Bolikhamsai",
+    "iso2": "BL",
+    "native": "ບໍລິຄຳໄຊ",
+    "latitude": "18.58065940",
+    "longitude": "104.14915940",
+    "type": "province",
+    "timezone": "Asia/Vientiane",
+    "CountryID": 119
+  },
+  {
+    "id": 996,
+    "name": "Champasak",
+    "iso2": "CH",
+    "native": "ຈໍາປາສັກ",
+    "latitude": "14.88728850",
+    "longitude": "105.87658040",
+    "type": "province",
+    "timezone": "Asia/Vientiane",
+    "CountryID": 119
+  },
+  {
+    "id": 989,
+    "name": "Houaphanh",
+    "iso2": "HO",
+    "native": "ຫົວພັນ",
+    "latitude": "20.23547480",
+    "longitude": "103.62033870",
+    "type": "province",
+    "timezone": "Asia/Vientiane",
+    "CountryID": 119
+  },
+  {
+    "id": 986,
+    "name": "Khammouane",
+    "iso2": "KH",
+    "native": "ຄຳມ່ວນ",
+    "latitude": "17.58420550",
+    "longitude": "105.24713250",
+    "type": "province",
+    "timezone": "Asia/Vientiane",
+    "CountryID": 119
+  },
+  {
+    "id": 992,
+    "name": "Luang Namtha",
+    "iso2": "LM",
+    "native": "ຫຼວງນ້ຳທາ",
+    "latitude": "20.93300400",
+    "longitude": "101.05867370",
+    "type": "province",
+    "timezone": "Asia/Vientiane",
+    "CountryID": 119
+  },
+  {
+    "id": 978,
+    "name": "Luang Prabang",
+    "iso2": "LP",
+    "native": "ຫຼວງພະບາງ",
+    "latitude": "20.21154150",
+    "longitude": "102.61268400",
+    "type": "province",
+    "timezone": "Asia/Vientiane",
+    "CountryID": 119
+  },
+  {
+    "id": 988,
+    "name": "Oudomxay",
+    "iso2": "OU",
+    "native": "ອຸດົມໄຊ",
+    "latitude": "20.69301340",
+    "longitude": "101.98536780",
+    "type": "province",
+    "timezone": "Asia/Vientiane",
+    "CountryID": 119
+  },
+  {
+    "id": 987,
+    "name": "Phongsaly",
+    "iso2": "PH",
+    "native": "ຜົ້ງສາລີ",
+    "latitude": "21.67678160",
+    "longitude": "102.27731770",
+    "type": "province",
+    "timezone": "Asia/Vientiane",
+    "CountryID": 119
+  },
+  {
+    "id": 993,
+    "name": "Sainyabuli",
+    "iso2": "XA",
+    "native": "ໄຊຍາບູລີ",
+    "latitude": "19.25361390",
+    "longitude": "101.61809850",
+    "type": "province",
+    "timezone": "Asia/Vientiane",
+    "CountryID": 119
+  },
+  {
+    "id": 981,
+    "name": "Salavan",
+    "iso2": "SL",
+    "native": "ສາລະວັນ",
+    "latitude": "15.87128000",
+    "longitude": "106.33895650",
+    "type": "province",
+    "timezone": "Asia/Vientiane",
+    "CountryID": 119
+  },
+  {
+    "id": 990,
+    "name": "Savannakhet",
+    "iso2": "SV",
+    "native": "ສະຫວັນນະເຂດ",
+    "latitude": "16.50019580",
+    "longitude": "105.71559460",
+    "type": "province",
+    "timezone": "Asia/Vientiane",
+    "CountryID": 119
+  },
+  {
+    "id": 984,
+    "name": "Sekong",
+    "iso2": "XE",
+    "native": "ເຊກອງ",
+    "latitude": "15.86604190",
+    "longitude": "106.96377820",
+    "type": "province",
+    "timezone": "Asia/Vientiane",
+    "CountryID": 119
+  },
+  {
+    "id": 980,
+    "name": "Vientiane",
+    "iso2": "VI",
+    "native": "ວຽງຈັນ",
+    "latitude": "17.96409880",
+    "longitude": "102.61337070",
+    "type": "province",
+    "timezone": "Asia/Vientiane",
+    "CountryID": 119
+  },
+  {
+    "id": 979,
+    "name": "Vientiane",
+    "iso2": "VT",
+    "native": "ວຽງຈັນ",
+    "latitude": "17.96409880",
+    "longitude": "102.61337070",
+    "type": "prefecture",
+    "timezone": "Asia/Vientiane",
+    "CountryID": 119
+  },
+  {
+    "id": 983,
+    "name": "Xaisomboun",
+    "iso2": "XS",
+    "native": "ໄຊສົມບູນ",
+    "latitude": "18.86317250",
+    "longitude": "103.03447830",
+    "type": "province",
+    "timezone": "Asia/Vientiane",
+    "CountryID": 119
+  },
+  {
+    "id": 995,
+    "name": "Xiangkhouang",
+    "iso2": "XI",
+    "native": "ຊຽງຂວາງ",
+    "latitude": "19.41304790",
+    "longitude": "103.46801260",
+    "type": "province",
+    "timezone": "Asia/Vientiane",
+    "CountryID": 119
+  }
+]

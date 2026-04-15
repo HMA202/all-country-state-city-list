@@ -1,0 +1,134 @@
+[
+  {
+    "id": 2613,
+    "name": "Drenthe",
+    "iso2": "DR",
+    "native": "Drenthe",
+    "latitude": "52.90679220",
+    "longitude": "6.63684230",
+    "type": "province",
+    "timezone": "Europe/Amsterdam",
+    "CountryID": 156
+  },
+  {
+    "id": 2619,
+    "name": "Flevoland",
+    "iso2": "FL",
+    "native": "Flevoland",
+    "latitude": "52.44843750",
+    "longitude": "5.42353970",
+    "type": "province",
+    "timezone": "Europe/Amsterdam",
+    "CountryID": 156
+  },
+  {
+    "id": 2622,
+    "name": "Friesland",
+    "iso2": "FR",
+    "native": "Frieland",
+    "latitude": "53.09236890",
+    "longitude": "5.77704300",
+    "type": "province",
+    "timezone": "Europe/Amsterdam",
+    "CountryID": 156
+  },
+  {
+    "id": 2611,
+    "name": "Gelderland",
+    "iso2": "GE",
+    "native": "Gelderland",
+    "latitude": "52.10140410",
+    "longitude": "5.95157010",
+    "type": "province",
+    "timezone": "Europe/Amsterdam",
+    "CountryID": 156
+  },
+  {
+    "id": 2617,
+    "name": "Groningen",
+    "iso2": "GR",
+    "native": "Groningen",
+    "latitude": "53.21938350",
+    "longitude": "6.56650170",
+    "type": "province",
+    "timezone": "Europe/Amsterdam",
+    "CountryID": 156
+  },
+  {
+    "id": 2615,
+    "name": "Limburg",
+    "iso2": "LI",
+    "native": "Limburg",
+    "latitude": "51.20151960",
+    "longitude": "5.90463020",
+    "type": "province",
+    "timezone": "Europe/Amsterdam",
+    "CountryID": 156
+  },
+  {
+    "id": 2623,
+    "name": "North Brabant",
+    "iso2": "NB",
+    "native": "Noord-Brabant",
+    "latitude": "51.60177230",
+    "longitude": "5.44413910",
+    "type": "province",
+    "timezone": "Europe/Amsterdam",
+    "CountryID": 156
+  },
+  {
+    "id": 2612,
+    "name": "North Holland",
+    "iso2": "NH",
+    "native": "Noord-Holland",
+    "latitude": "52.72128250",
+    "longitude": "4.82066500",
+    "type": "province",
+    "timezone": "Europe/Amsterdam",
+    "CountryID": 156
+  },
+  {
+    "id": 2618,
+    "name": "Overijssel",
+    "iso2": "OV",
+    "native": "Overijssel",
+    "latitude": "52.42541430",
+    "longitude": "6.46106110",
+    "type": "province",
+    "timezone": "Europe/Amsterdam",
+    "CountryID": 156
+  },
+  {
+    "id": 2614,
+    "name": "South Holland",
+    "iso2": "ZH",
+    "native": "Zuid -Holland",
+    "latitude": "51.99667920",
+    "longitude": "4.55973970",
+    "type": "province",
+    "timezone": "Europe/Amsterdam",
+    "CountryID": 156
+  },
+  {
+    "id": 2610,
+    "name": "Utrecht",
+    "iso2": "UT",
+    "native": "Utrecht",
+    "latitude": "52.09073740",
+    "longitude": "5.12142010",
+    "type": "province",
+    "timezone": "Europe/Amsterdam",
+    "CountryID": 156
+  },
+  {
+    "id": 2620,
+    "name": "Zeeland",
+    "iso2": "ZE",
+    "native": "Zeeland",
+    "latitude": "51.41629750",
+    "longitude": "3.70280610",
+    "type": "province",
+    "timezone": "Europe/Amsterdam",
+    "CountryID": 156
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1381,
+    "name": "Antwerp",
+    "iso2": "VAN",
+    "native": "Antwerpen",
+    "latitude": "51.21944750",
+    "longitude": "4.40246430",
+    "type": "province",
+    "timezone": "Europe/Brussels",
+    "CountryID": 22
+  },
+  {
+    "id": 1376,
+    "name": "Brussels-Capital ",
+    "iso2": "BRU",
+    "native": "Brussel-kapitaal",
+    "latitude": "50.83879510",
+    "longitude": "4.37530410",
+    "type": "region",
+    "timezone": "Europe/Brussels",
+    "CountryID": 22
+  },
+  {
+    "id": 1377,
+    "name": "East Flanders",
+    "iso2": "VOV",
+    "native": "Oost -Vlaanderen",
+    "latitude": "51.03754230",
+    "longitude": "3.81178300",
+    "type": "province",
+    "timezone": "Europe/Brussels",
+    "CountryID": 22
+  },
+  {
+    "id": 1373,
+    "name": "Flanders",
+    "iso2": "VLG",
+    "native": "Vlaanderen",
+    "latitude": "51.09624620",
+    "longitude": "4.17862910",
+    "type": "region",
+    "timezone": "Europe/Brussels",
+    "CountryID": 22
+  },
+  {
+    "id": 1374,
+    "name": "Flemish Brabant",
+    "iso2": "VBR",
+    "native": "Vlaams Brabant",
+    "latitude": "50.86865160",
+    "longitude": "4.78862380",
+    "type": "province",
+    "timezone": "Europe/Brussels",
+    "CountryID": 22
+  },
+  {
+    "id": 1375,
+    "name": "Hainaut",
+    "iso2": "WHT",
+    "native": "Hainaut",
+    "latitude": "50.36192000",
+    "longitude": "4.12521700",
+    "type": "province",
+    "timezone": "Europe/Brussels",
+    "CountryID": 22
+  },
+  {
+    "id": 1384,
+    "name": "Liège",
+    "iso2": "WLG",
+    "native": "Aan het zeren",
+    "latitude": "50.64509440",
+    "longitude": "5.57361120",
+    "type": "province",
+    "timezone": "Europe/Brussels",
+    "CountryID": 22
+  },
+  {
+    "id": 1372,
+    "name": "Limburg",
+    "iso2": "VLI",
+    "native": "Limburg",
+    "latitude": "50.99779370",
+    "longitude": "5.44535750",
+    "type": "province",
+    "timezone": "Europe/Brussels",
+    "CountryID": 22
+  },
+  {
+    "id": 1379,
+    "name": "Luxembourg",
+    "iso2": "WLX",
+    "native": "Luxemburg",
+    "latitude": "49.96380050",
+    "longitude": "5.43980190",
+    "type": "province",
+    "timezone": "Europe/Brussels",
+    "CountryID": 22
+  },
+  {
+    "id": 1378,
+    "name": "Namur",
+    "iso2": "WNA",
+    "native": "Namur",
+    "latitude": "50.46738830",
+    "longitude": "4.87198540",
+    "type": "province",
+    "timezone": "Europe/Brussels",
+    "CountryID": 22
+  },
+  {
+    "id": 1380,
+    "name": "Wallonia",
+    "iso2": "WAL",
+    "native": "Wallonia",
+    "latitude": "50.15455230",
+    "longitude": "5.39921190",
+    "type": "region",
+    "timezone": "Europe/Brussels",
+    "CountryID": 22
+  },
+  {
+    "id": 1382,
+    "name": "Walloon Brabant",
+    "iso2": "WBR",
+    "native": "Walloon Brabant",
+    "latitude": "50.66631060",
+    "longitude": "4.55000740",
+    "type": "province",
+    "timezone": "Europe/Brussels",
+    "CountryID": 22
+  },
+  {
+    "id": 1383,
+    "name": "West Flanders",
+    "iso2": "VWV",
+    "native": "West Vlaanderen",
+    "latitude": "51.04047470",
+    "longitude": "2.99942130",
+    "type": "province",
+    "timezone": "Europe/Brussels",
+    "CountryID": 22
+  }
+]

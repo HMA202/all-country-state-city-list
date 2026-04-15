@@ -1,0 +1,202 @@
+[
+  {
+    "id": 160257,
+    "name": "Agana Heights Village",
+    "latitude": "13.46559000",
+    "longitude": "144.74795000",
+    "CountryID": 89,
+    "StateID": 5254
+  },
+  {
+    "id": 160258,
+    "name": "Asan-Maina Village",
+    "latitude": "13.47215000",
+    "longitude": "144.71654000",
+    "CountryID": 89,
+    "StateID": 5255
+  },
+  {
+    "id": 160259,
+    "name": "Barrigada Village",
+    "latitude": "13.46913000",
+    "longitude": "144.79901000",
+    "CountryID": 89,
+    "StateID": 5256
+  },
+  {
+    "id": 160260,
+    "name": "Chalan Pago-Ordot Village",
+    "latitude": "13.44741000",
+    "longitude": "144.75902000",
+    "CountryID": 89,
+    "StateID": 5257
+  },
+  {
+    "id": 160261,
+    "name": "Dededo Village",
+    "latitude": "13.51777000",
+    "longitude": "144.83910000",
+    "CountryID": 89,
+    "StateID": 5258
+  },
+  {
+    "id": 160262,
+    "name": "Agat Village",
+    "latitude": "13.38300000",
+    "longitude": "144.66003000",
+    "CountryID": 89,
+    "StateID": 5259
+  },
+  {
+    "id": 160269,
+    "name": "Hagåtña",
+    "latitude": "13.47567000",
+    "longitude": "144.74886000",
+    "CountryID": 89,
+    "StateID": 5265
+  },
+  {
+    "id": 160268,
+    "name": "Hagåtña Village",
+    "latitude": "13.47279000",
+    "longitude": "144.75802000",
+    "CountryID": 89,
+    "StateID": 5265
+  },
+  {
+    "id": 160263,
+    "name": "Inarajan Village",
+    "latitude": "13.27363000",
+    "longitude": "144.74845000",
+    "CountryID": 89,
+    "StateID": 5261
+  },
+  {
+    "id": 160265,
+    "name": "Adacao",
+    "latitude": "13.49242000",
+    "longitude": "144.84470000",
+    "CountryID": 89,
+    "StateID": 5263
+  },
+  {
+    "id": 160266,
+    "name": "Mangilao Village",
+    "latitude": "13.44761000",
+    "longitude": "144.80109000",
+    "CountryID": 89,
+    "StateID": 5263
+  },
+  {
+    "id": 160264,
+    "name": "Merizo Village",
+    "latitude": "13.26584000",
+    "longitude": "144.66908000",
+    "CountryID": 89,
+    "StateID": 5262
+  },
+  {
+    "id": 160267,
+    "name": "Mongmong-Toto-Maite Village",
+    "latitude": "13.46857000",
+    "longitude": "144.78214000",
+    "CountryID": 89,
+    "StateID": 5264
+  },
+  {
+    "id": 160270,
+    "name": "Piti Village",
+    "latitude": "13.46256000",
+    "longitude": "144.69331000",
+    "CountryID": 89,
+    "StateID": 5266
+  },
+  {
+    "id": 160271,
+    "name": "Apra Harbor",
+    "latitude": "13.42827000",
+    "longitude": "144.65252000",
+    "CountryID": 89,
+    "StateID": 5267
+  },
+  {
+    "id": 160272,
+    "name": "Santa Rita Village",
+    "latitude": "13.38608000",
+    "longitude": "144.67226000",
+    "CountryID": 89,
+    "StateID": 5267
+  },
+  {
+    "id": 160273,
+    "name": "Sinajana Village",
+    "latitude": "13.46334000",
+    "longitude": "144.75406000",
+    "CountryID": 89,
+    "StateID": 5268
+  },
+  {
+    "id": 160274,
+    "name": "Talofofo Village",
+    "latitude": "13.35513000",
+    "longitude": "144.75835000",
+    "CountryID": 89,
+    "StateID": 5269
+  },
+  {
+    "id": 160276,
+    "name": "Apotgan",
+    "latitude": "13.48817000",
+    "longitude": "144.77644000",
+    "CountryID": 89,
+    "StateID": 5270
+  },
+  {
+    "id": 160275,
+    "name": "Tamuning",
+    "latitude": "13.48754000",
+    "longitude": "144.78143000",
+    "CountryID": 89,
+    "StateID": 5270
+  },
+  {
+    "id": 160277,
+    "name": "Tamuning-Tumon-Harmon Village",
+    "latitude": "13.48773000",
+    "longitude": "144.78138000",
+    "CountryID": 89,
+    "StateID": 5270
+  },
+  {
+    "id": 160279,
+    "name": "Anao",
+    "latitude": "13.52890000",
+    "longitude": "144.91820000",
+    "CountryID": 89,
+    "StateID": 5271
+  },
+  {
+    "id": 160278,
+    "name": "Chaguian",
+    "latitude": "13.57175000",
+    "longitude": "144.88058000",
+    "CountryID": 89,
+    "StateID": 5271
+  },
+  {
+    "id": 160280,
+    "name": "Yigo Village",
+    "latitude": "13.53605000",
+    "longitude": "144.88855000",
+    "CountryID": 89,
+    "StateID": 5271
+  },
+  {
+    "id": 160281,
+    "name": "Yona Village",
+    "latitude": "13.40974000",
+    "longitude": "144.77697000",
+    "CountryID": 89,
+    "StateID": 5272
+  }
+]

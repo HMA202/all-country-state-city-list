@@ -1,0 +1,46 @@
+[
+  {
+    "id": 5436,
+    "name": "Saint-Benoît",
+    "iso2": "01",
+    "native": "Saint-Benoît",
+    "latitude": "-21.08104330",
+    "longitude": "55.60281270",
+    "type": "district",
+    "timezone": "Indian/Reunion",
+    "CountryID": 180
+  },
+  {
+    "id": 5437,
+    "name": "Saint-Denis",
+    "iso2": "02",
+    "native": "Saint-Denis",
+    "latitude": "-20.87998890",
+    "longitude": "55.44813700",
+    "type": "district",
+    "timezone": "Indian/Reunion",
+    "CountryID": 180
+  },
+  {
+    "id": 5438,
+    "name": "Saint-Paul",
+    "iso2": "03",
+    "native": "Saint-Paul",
+    "latitude": "-21.00060990",
+    "longitude": "55.27715850",
+    "type": "district",
+    "timezone": "Indian/Reunion",
+    "CountryID": 180
+  },
+  {
+    "id": 5439,
+    "name": "Saint-Pierre",
+    "iso2": "04",
+    "native": "Saint-Pierre",
+    "latitude": "-21.23774370",
+    "longitude": "55.48997640",
+    "type": "district",
+    "timezone": "Indian/Reunion",
+    "CountryID": 180
+  }
+]

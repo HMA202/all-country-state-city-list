@@ -1,0 +1,200 @@
+[
+  {
+    "id": 2785,
+    "name": "Alto Paraguay",
+    "iso2": "16",
+    "native": "Alto Paraguay",
+    "latitude": "-20.50000000",
+    "longitude": "-59.16666700",
+    "type": "department",
+    "timezone": "America/Asuncion",
+    "CountryID": 172
+  },
+  {
+    "id": 2784,
+    "name": "Alto Paraná",
+    "iso2": "10",
+    "native": "Alto paraná",
+    "latitude": "-25.50000000",
+    "longitude": "-54.83333300",
+    "type": "department",
+    "timezone": "America/Asuncion",
+    "CountryID": 172
+  },
+  {
+    "id": 2782,
+    "name": "Amambay",
+    "iso2": "13",
+    "native": "Amambay",
+    "latitude": "-23.00000000",
+    "longitude": "-56.00000000",
+    "type": "department",
+    "timezone": "America/Asuncion",
+    "CountryID": 172
+  },
+  {
+    "id": 5221,
+    "name": "Asuncion",
+    "iso2": "ASU",
+    "native": "Asunción",
+    "latitude": "-25.28004590",
+    "longitude": "-57.63438140",
+    "type": "department",
+    "timezone": "America/Asuncion",
+    "CountryID": 172
+  },
+  {
+    "id": 2780,
+    "name": "Boquerón",
+    "iso2": "19",
+    "native": "Boquerón",
+    "latitude": "-22.66430640",
+    "longitude": "-61.00158770",
+    "type": "department",
+    "timezone": "America/Asuncion",
+    "CountryID": 172
+  },
+  {
+    "id": 2773,
+    "name": "Caaguazú",
+    "iso2": "5",
+    "native": "Caaguazú",
+    "latitude": "-25.46458180",
+    "longitude": "-56.01385100",
+    "type": "department",
+    "timezone": "America/Asuncion",
+    "CountryID": 172
+  },
+  {
+    "id": 2775,
+    "name": "Caazapá",
+    "iso2": "6",
+    "native": "Caazapá",
+    "latitude": "-26.19733020",
+    "longitude": "-56.36664220",
+    "type": "department",
+    "timezone": "America/Asuncion",
+    "CountryID": 172
+  },
+  {
+    "id": 2771,
+    "name": "Canindeyú",
+    "iso2": "14",
+    "native": "Canindeyú",
+    "latitude": "-24.25000000",
+    "longitude": "-55.25000000",
+    "type": "department",
+    "timezone": "America/Asuncion",
+    "CountryID": 172
+  },
+  {
+    "id": 2777,
+    "name": "Central",
+    "iso2": "11",
+    "native": "Central",
+    "latitude": "-25.50000000",
+    "longitude": "-57.50000000",
+    "type": "department",
+    "timezone": "America/Asuncion",
+    "CountryID": 172
+  },
+  {
+    "id": 2779,
+    "name": "Concepción",
+    "iso2": "1",
+    "native": "Concepción",
+    "latitude": "-23.40682810",
+    "longitude": "-57.44278020",
+    "type": "department",
+    "timezone": "America/Asuncion",
+    "CountryID": 172
+  },
+  {
+    "id": 2783,
+    "name": "Cordillera",
+    "iso2": "3",
+    "native": "Cordillera",
+    "latitude": "-25.25000000",
+    "longitude": "-57.00000000",
+    "type": "department",
+    "timezone": "America/Asuncion",
+    "CountryID": 172
+  },
+  {
+    "id": 2772,
+    "name": "Guairá",
+    "iso2": "4",
+    "native": "Guairá",
+    "latitude": "-25.75000000",
+    "longitude": "-56.50000000",
+    "type": "department",
+    "timezone": "America/Asuncion",
+    "CountryID": 172
+  },
+  {
+    "id": 2778,
+    "name": "Itapúa",
+    "iso2": "7",
+    "native": "Itapúa",
+    "latitude": "-26.83333300",
+    "longitude": "-55.83333300",
+    "type": "department",
+    "timezone": "America/Asuncion",
+    "CountryID": 172
+  },
+  {
+    "id": 2786,
+    "name": "Misiones",
+    "iso2": "8",
+    "native": "Misiones",
+    "latitude": "-27.00000000",
+    "longitude": "-57.00000000",
+    "type": "department",
+    "timezone": "America/Asuncion",
+    "CountryID": 172
+  },
+  {
+    "id": 2781,
+    "name": "Ñeembucú",
+    "iso2": "12",
+    "native": "Ñeembucú",
+    "latitude": "-27.00000000",
+    "longitude": "-58.00000000",
+    "type": "department",
+    "timezone": "America/Asuncion",
+    "CountryID": 172
+  },
+  {
+    "id": 2774,
+    "name": "Paraguarí",
+    "iso2": "9",
+    "native": "Paraguarí",
+    "latitude": "-25.62621740",
+    "longitude": "-57.15206420",
+    "type": "department",
+    "timezone": "America/Asuncion",
+    "CountryID": 172
+  },
+  {
+    "id": 2770,
+    "name": "Presidente Hayes",
+    "iso2": "15",
+    "native": "Presidente Hayes",
+    "latitude": "-23.50000000",
+    "longitude": "-58.83333300",
+    "type": "department",
+    "timezone": "America/Asuncion",
+    "CountryID": 172
+  },
+  {
+    "id": 2776,
+    "name": "San Pedro",
+    "iso2": "2",
+    "native": "San Pedro",
+    "latitude": "-24.25000000",
+    "longitude": "-56.50000000",
+    "type": "department",
+    "timezone": "America/Asuncion",
+    "CountryID": 172
+  }
+]

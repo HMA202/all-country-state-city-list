@@ -1,0 +1,1058 @@
+[
+  {
+    "id": 153955,
+    "name": "Al-Dawha",
+    "latitude": "31.69773990",
+    "longitude": "35.14595450",
+    "CountryID": 169,
+    "StateID": 5118
+  },
+  {
+    "id": 153957,
+    "name": "al-Khader",
+    "latitude": "31.69484540",
+    "longitude": "35.15014530",
+    "CountryID": 169,
+    "StateID": 5118
+  },
+  {
+    "id": 153960,
+    "name": "al-Ubeidiya",
+    "latitude": "31.72386430",
+    "longitude": "35.27122130",
+    "CountryID": 169,
+    "StateID": 5118
+  },
+  {
+    "id": 153950,
+    "name": "Battir",
+    "latitude": "31.72821540",
+    "longitude": "35.11743230",
+    "CountryID": 169,
+    "StateID": 5118
+  },
+  {
+    "id": 153951,
+    "name": "Beit Fajjar",
+    "latitude": "31.62166990",
+    "longitude": "35.13430330",
+    "CountryID": 169,
+    "StateID": 5118
+  },
+  {
+    "id": 153952,
+    "name": "Beit Jala",
+    "latitude": "31.71603340",
+    "longitude": "35.16654930",
+    "CountryID": 169,
+    "StateID": 5118
+  },
+  {
+    "id": 153953,
+    "name": "Beit Sahour",
+    "latitude": "31.69787040",
+    "longitude": "35.20793030",
+    "CountryID": 169,
+    "StateID": 5118
+  },
+  {
+    "id": 153954,
+    "name": "Bethlehem",
+    "latitude": "31.70541650",
+    "longitude": "35.18184280",
+    "CountryID": 169,
+    "StateID": 5118
+  },
+  {
+    "id": 153956,
+    "name": "Husan",
+    "latitude": "31.70846040",
+    "longitude": "35.11282530",
+    "CountryID": 169,
+    "StateID": 5118
+  },
+  {
+    "id": 153958,
+    "name": "Nahalin",
+    "latitude": "31.68564240",
+    "longitude": "35.09976230",
+    "CountryID": 169,
+    "StateID": 5118
+  },
+  {
+    "id": 153959,
+    "name": "Tuqu'",
+    "latitude": "31.63912740",
+    "longitude": "35.19189030",
+    "CountryID": 169,
+    "StateID": 5118
+  },
+  {
+    "id": 153961,
+    "name": "Za'atara",
+    "latitude": "31.67447840",
+    "longitude": "35.23449130",
+    "CountryID": 169,
+    "StateID": 5118
+  },
+  {
+    "id": 153963,
+    "name": "az-Zawayda",
+    "latitude": "31.42979750",
+    "longitude": "34.35014230",
+    "CountryID": 169,
+    "StateID": 5119
+  },
+  {
+    "id": 153962,
+    "name": "Deir al-Balah",
+    "latitude": "31.41717350",
+    "longitude": "34.33033130",
+    "CountryID": 169,
+    "StateID": 5119
+  },
+  {
+    "id": 153965,
+    "name": "Al-Zahra",
+    "latitude": "31.47246750",
+    "longitude": "34.37782930",
+    "CountryID": 169,
+    "StateID": 5120
+  },
+  {
+    "id": 153964,
+    "name": "Gaza City",
+    "latitude": "31.50172950",
+    "longitude": "34.44624480",
+    "CountryID": 169,
+    "StateID": 5120
+  },
+  {
+    "id": 153970,
+    "name": "ad-Dhahiriya",
+    "latitude": "31.40967250",
+    "longitude": "34.95490830",
+    "CountryID": 169,
+    "StateID": 5121
+  },
+  {
+    "id": 153980,
+    "name": "as-Samu",
+    "latitude": "31.39864450",
+    "longitude": "35.04468830",
+    "CountryID": 169,
+    "StateID": 5121
+  },
+  {
+    "id": 153971,
+    "name": "Bani Na'im",
+    "latitude": "31.51490050",
+    "longitude": "35.14474030",
+    "CountryID": 169,
+    "StateID": 5121
+  },
+  {
+    "id": 153972,
+    "name": "Beit 'Awwa",
+    "latitude": "31.50675240",
+    "longitude": "34.92956130",
+    "CountryID": 169,
+    "StateID": 5121
+  },
+  {
+    "id": 153973,
+    "name": "Beit Ula",
+    "latitude": "31.59845640",
+    "longitude": "35.00577530",
+    "CountryID": 169,
+    "StateID": 5121
+  },
+  {
+    "id": 153974,
+    "name": "Beit Ummar",
+    "latitude": "31.62284640",
+    "longitude": "35.08159930",
+    "CountryID": 169,
+    "StateID": 5121
+  },
+  {
+    "id": 153975,
+    "name": "Deir Sammit",
+    "latitude": "31.51996340",
+    "longitude": "34.95207130",
+    "CountryID": 169,
+    "StateID": 5121
+  },
+  {
+    "id": 153966,
+    "name": "Dura",
+    "latitude": "31.50512740",
+    "longitude": "35.00692730",
+    "CountryID": 169,
+    "StateID": 5121
+  },
+  {
+    "id": 153967,
+    "name": "Halhul",
+    "latitude": "31.57992420",
+    "longitude": "35.07930450",
+    "CountryID": 169,
+    "StateID": 5121
+  },
+  {
+    "id": 153968,
+    "name": "Hebron",
+    "latitude": "31.53260350",
+    "longitude": "35.07922630",
+    "CountryID": 169,
+    "StateID": 5121
+  },
+  {
+    "id": 153976,
+    "name": "Idhna",
+    "latitude": "31.55728640",
+    "longitude": "34.95864330",
+    "CountryID": 169,
+    "StateID": 5121
+  },
+  {
+    "id": 153977,
+    "name": "Kharas",
+    "latitude": "31.61225240",
+    "longitude": "35.02365130",
+    "CountryID": 169,
+    "StateID": 5121
+  },
+  {
+    "id": 153978,
+    "name": "Nuba",
+    "latitude": "31.61382080",
+    "longitude": "35.00579200",
+    "CountryID": 169,
+    "StateID": 5121
+  },
+  {
+    "id": 153979,
+    "name": "Sa'ir",
+    "latitude": "31.58248950",
+    "longitude": "35.12317630",
+    "CountryID": 169,
+    "StateID": 5121
+  },
+  {
+    "id": 153981,
+    "name": "Surif",
+    "latitude": "31.64958640",
+    "longitude": "35.04411230",
+    "CountryID": 169,
+    "StateID": 5121
+  },
+  {
+    "id": 153983,
+    "name": "Taffuh",
+    "latitude": "31.53848250",
+    "longitude": "35.03037330",
+    "CountryID": 169,
+    "StateID": 5121
+  },
+  {
+    "id": 153982,
+    "name": "Tarqumiya",
+    "latitude": "31.57736440",
+    "longitude": "34.99357430",
+    "CountryID": 169,
+    "StateID": 5121
+  },
+  {
+    "id": 153969,
+    "name": "Yatta",
+    "latitude": "31.44418450",
+    "longitude": "35.06950530",
+    "CountryID": 169,
+    "StateID": 5121
+  },
+  {
+    "id": 153986,
+    "name": "Ajjah",
+    "latitude": "32.36001710",
+    "longitude": "35.17739430",
+    "CountryID": 169,
+    "StateID": 5122
+  },
+  {
+    "id": 153997,
+    "name": "al-Yamun",
+    "latitude": "32.48671110",
+    "longitude": "35.21299230",
+    "CountryID": 169,
+    "StateID": 5122
+  },
+  {
+    "id": 153987,
+    "name": "Arrabah",
+    "latitude": "32.40331010",
+    "longitude": "35.18531430",
+    "CountryID": 169,
+    "StateID": 5122
+  },
+  {
+    "id": 153988,
+    "name": "Burqin",
+    "latitude": "32.45616900",
+    "longitude": "35.24108830",
+    "CountryID": 169,
+    "StateID": 5122
+  },
+  {
+    "id": 153989,
+    "name": "Deir Abu Da'if",
+    "latitude": "32.45609510",
+    "longitude": "35.34432230",
+    "CountryID": 169,
+    "StateID": 5122
+  },
+  {
+    "id": 153990,
+    "name": "Jaba",
+    "latitude": "32.32506110",
+    "longitude": "35.19956430",
+    "CountryID": 169,
+    "StateID": 5122
+  },
+  {
+    "id": 153984,
+    "name": "Jenin",
+    "latitude": "32.45728400",
+    "longitude": "35.28161440",
+    "CountryID": 169,
+    "StateID": 5122
+  },
+  {
+    "id": 153991,
+    "name": "Kafr Dan",
+    "latitude": "32.47801110",
+    "longitude": "35.23318730",
+    "CountryID": 169,
+    "StateID": 5122
+  },
+  {
+    "id": 153992,
+    "name": "Kafr Rai",
+    "latitude": "32.37345210",
+    "longitude": "35.13493630",
+    "CountryID": 169,
+    "StateID": 5122
+  },
+  {
+    "id": 153993,
+    "name": "Meithalun",
+    "latitude": "32.34924410",
+    "longitude": "35.25088430",
+    "CountryID": 169,
+    "StateID": 5122
+  },
+  {
+    "id": 153985,
+    "name": "Qabatiya",
+    "latitude": "32.40961710",
+    "longitude": "35.25949330",
+    "CountryID": 169,
+    "StateID": 5122
+  },
+  {
+    "id": 153995,
+    "name": "Silat ad-Dhahr",
+    "latitude": "32.31753210",
+    "longitude": "35.16663230",
+    "CountryID": 169,
+    "StateID": 5122
+  },
+  {
+    "id": 153994,
+    "name": "Silat al-Harithiya",
+    "latitude": "32.50979700",
+    "longitude": "35.20684730",
+    "CountryID": 169,
+    "StateID": 5122
+  },
+  {
+    "id": 153996,
+    "name": "Ya'bad",
+    "latitude": "32.44686800",
+    "longitude": "35.14667430",
+    "CountryID": 169,
+    "StateID": 5122
+  },
+  {
+    "id": 153998,
+    "name": "Zababdeh",
+    "latitude": "32.38523610",
+    "longitude": "35.30287930",
+    "CountryID": 169,
+    "StateID": 5122
+  },
+  {
+    "id": 154000,
+    "name": "al-Auja",
+    "latitude": "31.94809930",
+    "longitude": "35.45056430",
+    "CountryID": 169,
+    "StateID": 5123
+  },
+  {
+    "id": 154001,
+    "name": "al-Jiftlik",
+    "latitude": "32.14143230",
+    "longitude": "35.44660250",
+    "CountryID": 169,
+    "StateID": 5123
+  },
+  {
+    "id": 153999,
+    "name": "Jericho",
+    "latitude": "31.85950700",
+    "longitude": "35.44390820",
+    "CountryID": 169,
+    "StateID": 5123
+  },
+  {
+    "id": 154003,
+    "name": "Abu Dis",
+    "latitude": "31.76361630",
+    "longitude": "35.23712230",
+    "CountryID": 169,
+    "StateID": 5124
+  },
+  {
+    "id": 154004,
+    "name": "Ar-Ram",
+    "latitude": "31.84928630",
+    "longitude": "35.21288930",
+    "CountryID": 169,
+    "StateID": 5124
+  },
+  {
+    "id": 154006,
+    "name": "Beit 'Anan",
+    "latitude": "31.85109930",
+    "longitude": "35.09111930",
+    "CountryID": 169,
+    "StateID": 5124
+  },
+  {
+    "id": 154005,
+    "name": "Biddu",
+    "latitude": "31.83445820",
+    "longitude": "35.07441730",
+    "CountryID": 169,
+    "StateID": 5124
+  },
+  {
+    "id": 154007,
+    "name": "Bir Nabala",
+    "latitude": "31.85121630",
+    "longitude": "35.18023530",
+    "CountryID": 169,
+    "StateID": 5124
+  },
+  {
+    "id": 154002,
+    "name": "East Jerusalem",
+    "latitude": "31.79650430",
+    "longitude": "35.01054340",
+    "CountryID": 169,
+    "StateID": 5124
+  },
+  {
+    "id": 154008,
+    "name": "Hizma",
+    "latitude": "31.83649540",
+    "longitude": "35.24263130",
+    "CountryID": 169,
+    "StateID": 5124
+  },
+  {
+    "id": 154009,
+    "name": "Kafr Aqab",
+    "latitude": "31.87472270",
+    "longitude": "35.21724000",
+    "CountryID": 169,
+    "StateID": 5124
+  },
+  {
+    "id": 154011,
+    "name": "Qalandiya",
+    "latitude": "31.86163130",
+    "longitude": "35.18731430",
+    "CountryID": 169,
+    "StateID": 5124
+  },
+  {
+    "id": 154010,
+    "name": "Qatanna",
+    "latitude": "31.82695730",
+    "longitude": "35.08960030",
+    "CountryID": 169,
+    "StateID": 5124
+  },
+  {
+    "id": 154012,
+    "name": "Abasan al-Kabira",
+    "latitude": "31.32316050",
+    "longitude": "34.32342530",
+    "CountryID": 169,
+    "StateID": 5125
+  },
+  {
+    "id": 154015,
+    "name": "Abasan al-Saghira",
+    "latitude": "31.33974350",
+    "longitude": "34.32603330",
+    "CountryID": 169,
+    "StateID": 5125
+  },
+  {
+    "id": 154017,
+    "name": "Al-Qarara",
+    "latitude": "31.37134650",
+    "longitude": "34.31466030",
+    "CountryID": 169,
+    "StateID": 5125
+  },
+  {
+    "id": 154013,
+    "name": "Bani Suheila",
+    "latitude": "31.34213850",
+    "longitude": "34.30465430",
+    "CountryID": 169,
+    "StateID": 5125
+  },
+  {
+    "id": 154014,
+    "name": "Khan Yunis",
+    "latitude": "31.34623510",
+    "longitude": "34.28339890",
+    "CountryID": 169,
+    "StateID": 5125
+  },
+  {
+    "id": 154016,
+    "name": "Khuzaʽa",
+    "latitude": "31.30705660",
+    "longitude": "34.33944730",
+    "CountryID": 169,
+    "StateID": 5125
+  },
+  {
+    "id": 154019,
+    "name": "Aqraba",
+    "latitude": "32.12762020",
+    "longitude": "35.32213530",
+    "CountryID": 169,
+    "StateID": 5126
+  },
+  {
+    "id": 154020,
+    "name": "Asira ash-Shamaliya",
+    "latitude": "32.25186910",
+    "longitude": "35.24757130",
+    "CountryID": 169,
+    "StateID": 5126
+  },
+  {
+    "id": 154026,
+    "name": "Beit Furik",
+    "latitude": "32.17549020",
+    "longitude": "35.31588430",
+    "CountryID": 169,
+    "StateID": 5126
+  },
+  {
+    "id": 154021,
+    "name": "Beita",
+    "latitude": "32.14137420",
+    "longitude": "35.26579930",
+    "CountryID": 169,
+    "StateID": 5126
+  },
+  {
+    "id": 154022,
+    "name": "Huwara",
+    "latitude": "32.15134720",
+    "longitude": "35.23619930",
+    "CountryID": 169,
+    "StateID": 5126
+  },
+  {
+    "id": 154023,
+    "name": "Jammain",
+    "latitude": "32.13211420",
+    "longitude": "35.18274230",
+    "CountryID": 169,
+    "StateID": 5126
+  },
+  {
+    "id": 154018,
+    "name": "Nablus",
+    "latitude": "32.22437550",
+    "longitude": "35.20647930",
+    "CountryID": 169,
+    "StateID": 5126
+  },
+  {
+    "id": 154024,
+    "name": "Qabalan",
+    "latitude": "32.10185420",
+    "longitude": "35.26712930",
+    "CountryID": 169,
+    "StateID": 5126
+  },
+  {
+    "id": 154025,
+    "name": "Sebastia",
+    "latitude": "32.27827510",
+    "longitude": "35.17803330",
+    "CountryID": 169,
+    "StateID": 5126
+  },
+  {
+    "id": 154027,
+    "name": "Beit Hanoun",
+    "latitude": "31.53851740",
+    "longitude": "34.51617030",
+    "CountryID": 169,
+    "StateID": 5127
+  },
+  {
+    "id": 154028,
+    "name": "Beit Lahia",
+    "latitude": "31.55132340",
+    "longitude": "34.48862230",
+    "CountryID": 169,
+    "StateID": 5127
+  },
+  {
+    "id": 154029,
+    "name": "Izbat Beit Hanoun",
+    "latitude": "31.54728950",
+    "longitude": "34.50197220",
+    "CountryID": 169,
+    "StateID": 5127
+  },
+  {
+    "id": 154030,
+    "name": "Jabalia",
+    "latitude": "31.52943050",
+    "longitude": "34.45914130",
+    "CountryID": 169,
+    "StateID": 5127
+  },
+  {
+    "id": 154031,
+    "name": "Azzun",
+    "latitude": "32.17713520",
+    "longitude": "35.03535730",
+    "CountryID": 169,
+    "StateID": 5128
+  },
+  {
+    "id": 154032,
+    "name": "Hableh",
+    "latitude": "32.16387820",
+    "longitude": "34.95768030",
+    "CountryID": 169,
+    "StateID": 5128
+  },
+  {
+    "id": 154034,
+    "name": "Kafr Thulth",
+    "latitude": "32.15283320",
+    "longitude": "35.02469030",
+    "CountryID": 169,
+    "StateID": 5128
+  },
+  {
+    "id": 154033,
+    "name": "Qalqilya",
+    "latitude": "32.19604910",
+    "longitude": "34.96091330",
+    "CountryID": 169,
+    "StateID": 5128
+  },
+  {
+    "id": 154037,
+    "name": "Al Qarya as Suwaydiya",
+    "latitude": "31.32316550",
+    "longitude": "34.20157530",
+    "CountryID": 169,
+    "StateID": 5129
+  },
+  {
+    "id": 154035,
+    "name": "Al-Bayuk",
+    "latitude": "31.26347860",
+    "longitude": "34.26098130",
+    "CountryID": 169,
+    "StateID": 5129
+  },
+  {
+    "id": 154036,
+    "name": "Al-Mawasi",
+    "latitude": "31.34844960",
+    "longitude": "34.23553630",
+    "CountryID": 169,
+    "StateID": 5129
+  },
+  {
+    "id": 154038,
+    "name": "Rafah",
+    "latitude": "31.29681450",
+    "longitude": "34.22288230",
+    "CountryID": 169,
+    "StateID": 5129
+  },
+  {
+    "id": 154039,
+    "name": "Shokat as-Sufi",
+    "latitude": "31.25091250",
+    "longitude": "34.24516720",
+    "CountryID": 169,
+    "StateID": 5129
+  },
+  {
+    "id": 154040,
+    "name": "Al-Bireh",
+    "latitude": "31.91259730",
+    "longitude": "35.20111730",
+    "CountryID": 169,
+    "StateID": 5130
+  },
+  {
+    "id": 154050,
+    "name": "al-Mazra'a ash-Sharqiya",
+    "latitude": "32.00327220",
+    "longitude": "35.25553230",
+    "CountryID": 169,
+    "StateID": 5130
+  },
+  {
+    "id": 154044,
+    "name": "Bani Zeid al-Sharqiya",
+    "latitude": "32.04074320",
+    "longitude": "35.15327830",
+    "CountryID": 169,
+    "StateID": 5130
+  },
+  {
+    "id": 154045,
+    "name": "Beit Liqya",
+    "latitude": "31.86997130",
+    "longitude": "35.04460230",
+    "CountryID": 169,
+    "StateID": 5130
+  },
+  {
+    "id": 154042,
+    "name": "Beitunia",
+    "latitude": "31.88931530",
+    "longitude": "35.14921330",
+    "CountryID": 169,
+    "StateID": 5130
+  },
+  {
+    "id": 154046,
+    "name": "Bir Zeit",
+    "latitude": "31.97534830",
+    "longitude": "35.17544230",
+    "CountryID": 169,
+    "StateID": 5130
+  },
+  {
+    "id": 154047,
+    "name": "Deir Dibwan",
+    "latitude": "31.91123930",
+    "longitude": "35.24838830",
+    "CountryID": 169,
+    "StateID": 5130
+  },
+  {
+    "id": 154048,
+    "name": "Deir Jarir",
+    "latitude": "31.96564630",
+    "longitude": "35.27317630",
+    "CountryID": 169,
+    "StateID": 5130
+  },
+  {
+    "id": 154049,
+    "name": "Kharbatha al-Misbah",
+    "latitude": "31.88530030",
+    "longitude": "35.05147330",
+    "CountryID": 169,
+    "StateID": 5130
+  },
+  {
+    "id": 154051,
+    "name": "Ni'lin",
+    "latitude": "31.94687730",
+    "longitude": "35.00086130",
+    "CountryID": 169,
+    "StateID": 5130
+  },
+  {
+    "id": 154041,
+    "name": "Ramallah",
+    "latitude": "31.90741710",
+    "longitude": "35.16468200",
+    "CountryID": 169,
+    "StateID": 5130
+  },
+  {
+    "id": 154043,
+    "name": "Rawabi",
+    "latitude": "32.01021570",
+    "longitude": "35.17129410",
+    "CountryID": 169,
+    "StateID": 5130
+  },
+  {
+    "id": 154052,
+    "name": "Silwad",
+    "latitude": "31.97942420",
+    "longitude": "35.24126530",
+    "CountryID": 169,
+    "StateID": 5130
+  },
+  {
+    "id": 154053,
+    "name": "Sinjil",
+    "latitude": "32.03364130",
+    "longitude": "35.24333530",
+    "CountryID": 169,
+    "StateID": 5130
+  },
+  {
+    "id": 154054,
+    "name": "Turmus Ayya",
+    "latitude": "32.03276020",
+    "longitude": "35.26777530",
+    "CountryID": 169,
+    "StateID": 5130
+  },
+  {
+    "id": 154071,
+    "name": "az-Zawiya",
+    "latitude": "32.09470520",
+    "longitude": "35.01867630",
+    "CountryID": 169,
+    "StateID": 5131
+  },
+  {
+    "id": 154055,
+    "name": "Biddya",
+    "latitude": "32.11340020",
+    "longitude": "35.05686530",
+    "CountryID": 169,
+    "StateID": 5131
+  },
+  {
+    "id": 154056,
+    "name": "Bruqin",
+    "latitude": "32.07264720",
+    "longitude": "35.07780630",
+    "CountryID": 169,
+    "StateID": 5131
+  },
+  {
+    "id": 154057,
+    "name": "Deir Ballut",
+    "latitude": "32.06506720",
+    "longitude": "35.00494930",
+    "CountryID": 169,
+    "StateID": 5131
+  },
+  {
+    "id": 154058,
+    "name": "Deir Istiya",
+    "latitude": "32.13079620",
+    "longitude": "35.11953630",
+    "CountryID": 169,
+    "StateID": 5131
+  },
+  {
+    "id": 154059,
+    "name": "Farkha",
+    "latitude": "32.06877720",
+    "longitude": "35.13027630",
+    "CountryID": 169,
+    "StateID": 5131
+  },
+  {
+    "id": 154060,
+    "name": "Haris",
+    "latitude": "32.11344920",
+    "longitude": "35.12311630",
+    "CountryID": 169,
+    "StateID": 5131
+  },
+  {
+    "id": 154061,
+    "name": "Iskaka",
+    "latitude": "32.10295520",
+    "longitude": "35.20394930",
+    "CountryID": 169,
+    "StateID": 5131
+  },
+  {
+    "id": 154062,
+    "name": "Kafr ad-Dik",
+    "latitude": "32.06863540",
+    "longitude": "35.06050810",
+    "CountryID": 169,
+    "StateID": 5131
+  },
+  {
+    "id": 154063,
+    "name": "Kifl Hares",
+    "latitude": "32.11692420",
+    "longitude": "35.13636430",
+    "CountryID": 169,
+    "StateID": 5131
+  },
+  {
+    "id": 154064,
+    "name": "Marda",
+    "latitude": "32.11425120",
+    "longitude": "35.17525130",
+    "CountryID": 169,
+    "StateID": 5131
+  },
+  {
+    "id": 154065,
+    "name": "Mas-ha",
+    "latitude": "32.10729820",
+    "longitude": "35.03037430",
+    "CountryID": 169,
+    "StateID": 5131
+  },
+  {
+    "id": 154066,
+    "name": "Qarawat Bani Hassan",
+    "latitude": "32.12853920",
+    "longitude": "35.07877830",
+    "CountryID": 169,
+    "StateID": 5131
+  },
+  {
+    "id": 154067,
+    "name": "Qira",
+    "latitude": "32.12213420",
+    "longitude": "35.15063230",
+    "CountryID": 169,
+    "StateID": 5131
+  },
+  {
+    "id": 154068,
+    "name": "Rafat",
+    "latitude": "32.07872020",
+    "longitude": "35.02468730",
+    "CountryID": 169,
+    "StateID": 5131
+  },
+  {
+    "id": 154069,
+    "name": "Sarta",
+    "latitude": "32.10336920",
+    "longitude": "35.07123830",
+    "CountryID": 169,
+    "StateID": 5131
+  },
+  {
+    "id": 154070,
+    "name": "Yasuf",
+    "latitude": "32.10940520",
+    "longitude": "35.21911530",
+    "CountryID": 169,
+    "StateID": 5131
+  },
+  {
+    "id": 154073,
+    "name": "Al 'Aqaba",
+    "latitude": "32.35257060",
+    "longitude": "35.32674760",
+    "CountryID": 169,
+    "StateID": 5132
+  },
+  {
+    "id": 154074,
+    "name": "Tammun",
+    "latitude": "32.28315510",
+    "longitude": "35.36518930",
+    "CountryID": 169,
+    "StateID": 5132
+  },
+  {
+    "id": 154072,
+    "name": "Tubas",
+    "latitude": "32.32112010",
+    "longitude": "35.34935330",
+    "CountryID": 169,
+    "StateID": 5132
+  },
+  {
+    "id": 154075,
+    "name": "Anabta",
+    "latitude": "32.30728710",
+    "longitude": "35.09887830",
+    "CountryID": 169,
+    "StateID": 5133
+  },
+  {
+    "id": 154076,
+    "name": "Attil",
+    "latitude": "32.37010310",
+    "longitude": "35.05193830",
+    "CountryID": 169,
+    "StateID": 5133
+  },
+  {
+    "id": 154077,
+    "name": "Bal'a",
+    "latitude": "32.33255610",
+    "longitude": "35.08935330",
+    "CountryID": 169,
+    "StateID": 5133
+  },
+  {
+    "id": 154078,
+    "name": "Baqa ash-Sharqiyya",
+    "latitude": "32.41117510",
+    "longitude": "35.05059330",
+    "CountryID": 169,
+    "StateID": 5133
+  },
+  {
+    "id": 154079,
+    "name": "Beit Lid",
+    "latitude": "32.26158210",
+    "longitude": "35.10968030",
+    "CountryID": 169,
+    "StateID": 5133
+  },
+  {
+    "id": 154080,
+    "name": "Qaffin",
+    "latitude": "32.43341200",
+    "longitude": "35.06370030",
+    "CountryID": 169,
+    "StateID": 5133
+  },
+  {
+    "id": 154081,
+    "name": "Tulkarm",
+    "latitude": "32.30796480",
+    "longitude": "35.00802890",
+    "CountryID": 169,
+    "StateID": 5133
+  }
+]

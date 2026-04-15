@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9820,
+    "name": "Kuala Belait",
+    "latitude": "4.58361000",
+    "longitude": "114.23120000",
+    "CountryID": 33,
+    "StateID": 1217
+  },
+  {
+    "id": 9823,
+    "name": "Seria",
+    "latitude": "4.60637000",
+    "longitude": "114.32476000",
+    "CountryID": 33,
+    "StateID": 1217
+  },
+  {
+    "id": 9816,
+    "name": "Bandar Seri Begawan",
+    "latitude": "4.89035000",
+    "longitude": "114.94006000",
+    "CountryID": 33,
+    "StateID": 1216
+  },
+  {
+    "id": 9818,
+    "name": "Berakas A",
+    "latitude": "4.97032000",
+    "longitude": "114.92989000",
+    "CountryID": 33,
+    "StateID": 1216
+  },
+  {
+    "id": 9819,
+    "name": "Kapok",
+    "latitude": "5.02447000",
+    "longitude": "115.04664000",
+    "CountryID": 33,
+    "StateID": 1216
+  },
+  {
+    "id": 9821,
+    "name": "Mentiri",
+    "latitude": "4.97058000",
+    "longitude": "115.02078000",
+    "CountryID": 33,
+    "StateID": 1216
+  },
+  {
+    "id": 9822,
+    "name": "Serasa",
+    "latitude": "5.01718000",
+    "longitude": "115.05841000",
+    "CountryID": 33,
+    "StateID": 1216
+  },
+  {
+    "id": 9817,
+    "name": "Bangar",
+    "latitude": "4.70861000",
+    "longitude": "115.07167000",
+    "CountryID": 33,
+    "StateID": 1218
+  },
+  {
+    "id": 9824,
+    "name": "Tutong",
+    "latitude": "4.80278000",
+    "longitude": "114.64917000",
+    "CountryID": 33,
+    "StateID": 1219
+  }
+]

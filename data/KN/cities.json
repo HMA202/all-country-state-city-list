@@ -1,0 +1,106 @@
+[
+  {
+    "id": 65176,
+    "name": "Nicola Town",
+    "latitude": "17.37956000",
+    "longitude": "-62.75318000",
+    "CountryID": 185,
+    "StateID": 3833
+  },
+  {
+    "id": 65178,
+    "name": "Sandy Point Town",
+    "latitude": "17.35908000",
+    "longitude": "-62.84858000",
+    "CountryID": 185,
+    "StateID": 3836
+  },
+  {
+    "id": 65172,
+    "name": "Market Shop",
+    "latitude": "17.13218000",
+    "longitude": "-62.57267000",
+    "CountryID": 185,
+    "StateID": 3837
+  },
+  {
+    "id": 65175,
+    "name": "Newcastle",
+    "latitude": "17.20000000",
+    "longitude": "-62.58333000",
+    "CountryID": 185,
+    "StateID": 3835
+  },
+  {
+    "id": 65170,
+    "name": "Dieppe Bay Town",
+    "latitude": "17.41473000",
+    "longitude": "-62.81390000",
+    "CountryID": 185,
+    "StateID": 3845
+  },
+  {
+    "id": 65171,
+    "name": "Fig Tree",
+    "latitude": "17.12623000",
+    "longitude": "-62.60265000",
+    "CountryID": 185,
+    "StateID": 3840
+  },
+  {
+    "id": 65167,
+    "name": "Cayon",
+    "latitude": "17.35000000",
+    "longitude": "-62.73333000",
+    "CountryID": 185,
+    "StateID": 3844
+  },
+  {
+    "id": 65177,
+    "name": "Saint Paul’s",
+    "latitude": "17.40605000",
+    "longitude": "-62.83562000",
+    "CountryID": 185,
+    "StateID": 3834
+  },
+  {
+    "id": 65168,
+    "name": "Charlestown",
+    "latitude": "17.13333000",
+    "longitude": "-62.61667000",
+    "CountryID": 185,
+    "StateID": 3838
+  },
+  {
+    "id": 65174,
+    "name": "Monkey Hill",
+    "latitude": "17.32327000",
+    "longitude": "-62.72914000",
+    "CountryID": 185,
+    "StateID": 3831
+  },
+  {
+    "id": 65169,
+    "name": "Cotton Ground",
+    "latitude": "17.16667000",
+    "longitude": "-62.61667000",
+    "CountryID": 185,
+    "StateID": 3839
+  },
+  {
+    "id": 65173,
+    "name": "Middle Island",
+    "latitude": "17.32590000",
+    "longitude": "-62.81055000",
+    "CountryID": 185,
+    "StateID": 3842
+  },
+  {
+    "id": 65179,
+    "name": "Trinity",
+    "latitude": "17.30037000",
+    "longitude": "-62.77584000",
+    "CountryID": 185,
+    "StateID": 3843
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": 2846,
+    "name": "Brokopondo",
+    "iso2": "BR",
+    "native": "Brocopondo",
+    "latitude": "4.68516430",
+    "longitude": "-55.06109300",
+    "type": "district",
+    "timezone": "America/Paramaribo",
+    "CountryID": 210
+  },
+  {
+    "id": 2839,
+    "name": "Commewijne",
+    "iso2": "CM",
+    "native": "Commewijne",
+    "latitude": "5.84011980",
+    "longitude": "-54.92444310",
+    "type": "district",
+    "timezone": "America/Paramaribo",
+    "CountryID": 210
+  },
+  {
+    "id": 2842,
+    "name": "Coronie",
+    "iso2": "CR",
+    "native": "Coronie",
+    "latitude": "5.74685630",
+    "longitude": "-56.24551620",
+    "type": "district",
+    "timezone": "America/Paramaribo",
+    "CountryID": 210
+  },
+  {
+    "id": 2845,
+    "name": "Marowijne",
+    "iso2": "MA",
+    "native": "Marowijne",
+    "latitude": "5.70832720",
+    "longitude": "-54.35369000",
+    "type": "district",
+    "timezone": "America/Paramaribo",
+    "CountryID": 210
+  },
+  {
+    "id": 2840,
+    "name": "Nickerie",
+    "iso2": "NI",
+    "native": "Nickerie",
+    "latitude": "5.71839250",
+    "longitude": "-56.87751050",
+    "type": "district",
+    "timezone": "America/Paramaribo",
+    "CountryID": 210
+  },
+  {
+    "id": 2841,
+    "name": "Para",
+    "iso2": "PR",
+    "native": "Naar",
+    "latitude": "5.34304130",
+    "longitude": "-55.58134100",
+    "type": "district",
+    "timezone": "America/Paramaribo",
+    "CountryID": 210
+  },
+  {
+    "id": 2843,
+    "name": "Paramaribo",
+    "iso2": "PM",
+    "native": "Paramaribo",
+    "latitude": "5.82476280",
+    "longitude": "-55.17039410",
+    "type": "district",
+    "timezone": "America/Paramaribo",
+    "CountryID": 210
+  },
+  {
+    "id": 2848,
+    "name": "Saramacca",
+    "iso2": "SA",
+    "native": "Saramacca",
+    "latitude": "5.78708050",
+    "longitude": "-55.60645740",
+    "type": "district",
+    "timezone": "America/Paramaribo",
+    "CountryID": 210
+  },
+  {
+    "id": 2847,
+    "name": "Sipaliwini",
+    "iso2": "SI",
+    "native": "Sipaliwini",
+    "latitude": "3.68150860",
+    "longitude": "-55.96124600",
+    "type": "district",
+    "timezone": "America/Paramaribo",
+    "CountryID": 210
+  },
+  {
+    "id": 2844,
+    "name": "Wanica",
+    "iso2": "WA",
+    "native": "Wanica",
+    "latitude": "5.75000000",
+    "longitude": "-55.25000000",
+    "type": "district",
+    "timezone": "America/Paramaribo",
+    "CountryID": 210
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "id": 2828,
+    "name": "Aisén del General Carlos Ibañez del Campo",
+    "iso2": "AI",
+    "native": "Aisén del General Carlos Ibañez del Campo",
+    "latitude": "-46.45901470",
+    "longitude": "-72.67183860",
+    "type": "region",
+    "timezone": "America/Punta_Arenas",
+    "CountryID": 44
+  },
+  {
+    "id": 2832,
+    "name": "Antofagasta",
+    "iso2": "AN",
+    "native": "Antofagasta",
+    "latitude": "-23.60413140",
+    "longitude": "-69.08427830",
+    "type": "region",
+    "timezone": "America/Santiago",
+    "CountryID": 44
+  },
+  {
+    "id": 2829,
+    "name": "Arica y Parinacota",
+    "iso2": "AP",
+    "native": "Arica y Parinacota",
+    "latitude": "-18.57134960",
+    "longitude": "-69.78847740",
+    "type": "region",
+    "timezone": "America/Santiago",
+    "CountryID": 44
+  },
+  {
+    "id": 2823,
+    "name": "Atacama",
+    "iso2": "AT",
+    "native": "Atacama",
+    "latitude": "-27.55717830",
+    "longitude": "-70.01568820",
+    "type": "region",
+    "timezone": "America/Santiago",
+    "CountryID": 44
+  },
+  {
+    "id": 2827,
+    "name": "Biobío",
+    "iso2": "BI",
+    "native": "Biobío",
+    "latitude": "-37.33914070",
+    "longitude": "-72.41068250",
+    "type": "region",
+    "timezone": "America/Santiago",
+    "CountryID": 44
+  },
+  {
+    "id": 2825,
+    "name": "Coquimbo",
+    "iso2": "CO",
+    "native": "Coquimbo",
+    "latitude": "-30.75466520",
+    "longitude": "-70.90055360",
+    "type": "region",
+    "timezone": "America/Santiago",
+    "CountryID": 44
+  },
+  {
+    "id": 2826,
+    "name": "La Araucanía",
+    "iso2": "AR",
+    "native": "La Araucanía",
+    "latitude": "-40.90713140",
+    "longitude": "-73.15732600",
+    "type": "region",
+    "timezone": "America/Santiago",
+    "CountryID": 44
+  },
+  {
+    "id": 2838,
+    "name": "Libertador General Bernardo O'Higgins",
+    "iso2": "LI",
+    "native": "Liberador General Bernardo O'Higgins",
+    "latitude": "-34.53453800",
+    "longitude": "-71.03548220",
+    "type": "region",
+    "timezone": "America/Santiago",
+    "CountryID": 44
+  },
+  {
+    "id": 2835,
+    "name": "Los Lagos",
+    "iso2": "LL",
+    "native": "Los Lagos",
+    "latitude": "-42.30084400",
+    "longitude": "-73.10538700",
+    "type": "region",
+    "timezone": "America/Santiago",
+    "CountryID": 44
+  },
+  {
+    "id": 2834,
+    "name": "Los Ríos",
+    "iso2": "LR",
+    "native": "Los Ríos",
+    "latitude": "-39.97427470",
+    "longitude": "-72.66770060",
+    "type": "region",
+    "timezone": "America/Santiago",
+    "CountryID": 44
+  },
+  {
+    "id": 2836,
+    "name": "Magallanes y de la Antártica Chilena",
+    "iso2": "MA",
+    "native": "Magallanes y de la Antártica Chilena",
+    "latitude": "-53.35275180",
+    "longitude": "-71.55477820",
+    "type": "region",
+    "timezone": "America/Punta_Arenas",
+    "CountryID": 44
+  },
+  {
+    "id": 2833,
+    "name": "Maule",
+    "iso2": "ML",
+    "native": "Maule",
+    "latitude": "-35.52134700",
+    "longitude": "-71.69188910",
+    "type": "region",
+    "timezone": "America/Santiago",
+    "CountryID": 44
+  },
+  {
+    "id": 2831,
+    "name": "Ñuble",
+    "iso2": "NB",
+    "native": "Ñuble",
+    "latitude": "-36.63315770",
+    "longitude": "-71.93848210",
+    "type": "region",
+    "timezone": "America/Santiago",
+    "CountryID": 44
+  },
+  {
+    "id": 2824,
+    "name": "Región Metropolitana de Santiago",
+    "iso2": "RM",
+    "native": "Región Metropolitana de Santiago",
+    "latitude": "-33.57393410",
+    "longitude": "-70.62055180",
+    "type": "region",
+    "timezone": "America/Santiago",
+    "CountryID": 44
+  },
+  {
+    "id": 2837,
+    "name": "Tarapacá",
+    "iso2": "TA",
+    "native": "Tarapacá",
+    "latitude": "-20.16366720",
+    "longitude": "-69.54634480",
+    "type": "region",
+    "timezone": "America/Santiago",
+    "CountryID": 44
+  },
+  {
+    "id": 2830,
+    "name": "Valparaíso",
+    "iso2": "VS",
+    "native": "Valparaíso",
+    "latitude": "-33.04723800",
+    "longitude": "-71.61268850",
+    "type": "region",
+    "timezone": "America/Santiago",
+    "CountryID": 44
+  }
+]

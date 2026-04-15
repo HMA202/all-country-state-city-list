@@ -1,0 +1,290 @@
+[
+  {
+    "id": 9782,
+    "name": "Banikoara",
+    "latitude": "11.29845000",
+    "longitude": "2.43856000",
+    "CountryID": 24,
+    "StateID": 3077
+  },
+  {
+    "id": 9800,
+    "name": "Kandi",
+    "latitude": "11.13417000",
+    "longitude": "2.93861000",
+    "CountryID": 24,
+    "StateID": 3077
+  },
+  {
+    "id": 9803,
+    "name": "Malanville",
+    "latitude": "11.86819000",
+    "longitude": "3.38327000",
+    "CountryID": 24,
+    "StateID": 3077
+  },
+  {
+    "id": 9797,
+    "name": "Guilmaro",
+    "latitude": "10.56583000",
+    "longitude": "1.72444000",
+    "CountryID": 24,
+    "StateID": 3076
+  },
+  {
+    "id": 9804,
+    "name": "Natitingou",
+    "latitude": "10.30416000",
+    "longitude": "1.37962000",
+    "CountryID": 24,
+    "StateID": 3076
+  },
+  {
+    "id": 9813,
+    "name": "Tanguieta",
+    "latitude": "11.03621000",
+    "longitude": "1.41757000",
+    "CountryID": 24,
+    "StateID": 3076
+  },
+  {
+    "id": 9780,
+    "name": "Abomey-Calavi",
+    "latitude": "6.44852000",
+    "longitude": "2.35566000",
+    "CountryID": 24,
+    "StateID": 3079
+  },
+  {
+    "id": 9781,
+    "name": "Allada",
+    "latitude": "6.66547000",
+    "longitude": "2.15138000",
+    "CountryID": 24,
+    "StateID": 3079
+  },
+  {
+    "id": 9799,
+    "name": "Hévié",
+    "latitude": "6.41667000",
+    "longitude": "2.25000000",
+    "CountryID": 24,
+    "StateID": 3079
+  },
+  {
+    "id": 9798,
+    "name": "Hinvi",
+    "latitude": "6.76667000",
+    "longitude": "2.16667000",
+    "CountryID": 24,
+    "StateID": 3079
+  },
+  {
+    "id": 9806,
+    "name": "Ouidah",
+    "latitude": "6.36307000",
+    "longitude": "2.08506000",
+    "CountryID": 24,
+    "StateID": 3079
+  },
+  {
+    "id": 9784,
+    "name": "Bembèrèkè",
+    "latitude": "10.22827000",
+    "longitude": "2.66335000",
+    "CountryID": 24,
+    "StateID": 3078
+  },
+  {
+    "id": 9786,
+    "name": "Bétérou",
+    "latitude": "9.19916000",
+    "longitude": "2.25855000",
+    "CountryID": 24,
+    "StateID": 3078
+  },
+  {
+    "id": 9805,
+    "name": "Nikki",
+    "latitude": "9.94009000",
+    "longitude": "3.21075000",
+    "CountryID": 24,
+    "StateID": 3078
+  },
+  {
+    "id": 9807,
+    "name": "Parakou",
+    "latitude": "9.33716000",
+    "longitude": "2.63031000",
+    "CountryID": 24,
+    "StateID": 3078
+  },
+  {
+    "id": 9815,
+    "name": "Tchaourou",
+    "latitude": "8.88649000",
+    "longitude": "2.59753000",
+    "CountryID": 24,
+    "StateID": 3078
+  },
+  {
+    "id": 9790,
+    "name": "Comé",
+    "latitude": "6.40764000",
+    "longitude": "1.88198000",
+    "CountryID": 24,
+    "StateID": 3070
+  },
+  {
+    "id": 9793,
+    "name": "Dassa-Zoumé",
+    "latitude": "7.75000000",
+    "longitude": "2.18333000",
+    "CountryID": 24,
+    "StateID": 3070
+  },
+  {
+    "id": 9811,
+    "name": "Savalou",
+    "latitude": "7.92807000",
+    "longitude": "1.97558000",
+    "CountryID": 24,
+    "StateID": 3070
+  },
+  {
+    "id": 9812,
+    "name": "Savé",
+    "latitude": "8.03424000",
+    "longitude": "2.48660000",
+    "CountryID": 24,
+    "StateID": 3070
+  },
+  {
+    "id": 9783,
+    "name": "Bassila",
+    "latitude": "9.00814000",
+    "longitude": "1.66540000",
+    "CountryID": 24,
+    "StateID": 3072
+  },
+  {
+    "id": 9789,
+    "name": "Commune of Djougou",
+    "latitude": "9.64300000",
+    "longitude": "1.89600000",
+    "CountryID": 24,
+    "StateID": 3072
+  },
+  {
+    "id": 9795,
+    "name": "Djougou",
+    "latitude": "9.70853000",
+    "longitude": "1.66598000",
+    "CountryID": 24,
+    "StateID": 3072
+  },
+  {
+    "id": 9794,
+    "name": "Djakotomey",
+    "latitude": "6.90000000",
+    "longitude": "1.71667000",
+    "CountryID": 24,
+    "StateID": 3071
+  },
+  {
+    "id": 9796,
+    "name": "Dogbo",
+    "latitude": "6.79911000",
+    "longitude": "1.78073000",
+    "CountryID": 24,
+    "StateID": 3071
+  },
+  {
+    "id": 9791,
+    "name": "Cotonou",
+    "latitude": "6.36536000",
+    "longitude": "2.41833000",
+    "CountryID": 24,
+    "StateID": 3081
+  },
+  {
+    "id": 9788,
+    "name": "Commune of Athieme",
+    "latitude": "6.56924000",
+    "longitude": "1.70259000",
+    "CountryID": 24,
+    "StateID": 3075
+  },
+  {
+    "id": 9802,
+    "name": "Lokossa",
+    "latitude": "6.63869000",
+    "longitude": "1.71674000",
+    "CountryID": 24,
+    "StateID": 3075
+  },
+  {
+    "id": 9809,
+    "name": "Porto-Novo",
+    "latitude": "6.49646000",
+    "longitude": "2.60359000",
+    "CountryID": 24,
+    "StateID": 3080
+  },
+  {
+    "id": 9801,
+    "name": "Kétou",
+    "latitude": "7.36332000",
+    "longitude": "2.59978000",
+    "CountryID": 24,
+    "StateID": 3074
+  },
+  {
+    "id": 9808,
+    "name": "Pobé",
+    "latitude": "6.98008000",
+    "longitude": "2.66490000",
+    "CountryID": 24,
+    "StateID": 3074
+  },
+  {
+    "id": 9810,
+    "name": "Sakété",
+    "latitude": "6.73618000",
+    "longitude": "2.65866000",
+    "CountryID": 24,
+    "StateID": 3074
+  },
+  {
+    "id": 9779,
+    "name": "Abomey",
+    "latitude": "7.18286000",
+    "longitude": "1.99119000",
+    "CountryID": 24,
+    "StateID": 3073
+  },
+  {
+    "id": 9785,
+    "name": "Bohicon",
+    "latitude": "7.17826000",
+    "longitude": "2.06670000",
+    "CountryID": 24,
+    "StateID": 3073
+  },
+  {
+    "id": 9787,
+    "name": "Commune of Agbangnizoun",
+    "latitude": "7.07600000",
+    "longitude": "1.96100000",
+    "CountryID": 24,
+    "StateID": 3073
+  },
+  {
+    "id": 9792,
+    "name": "Cové",
+    "latitude": "7.22097000",
+    "longitude": "2.34017000",
+    "CountryID": 24,
+    "StateID": 3073
+  }
+]

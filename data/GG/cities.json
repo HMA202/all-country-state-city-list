@@ -1,0 +1,42 @@
+[
+  {
+    "id": 160552,
+    "name": "Forest Parish",
+    "latitude": "49.42983000",
+    "longitude": "-2.60168000",
+    "CountryID": 91,
+    "StateID": 5387
+  },
+  {
+    "id": 160553,
+    "name": "Saint Peter Port",
+    "latitude": "49.45981000",
+    "longitude": "-2.53527000",
+    "CountryID": 91,
+    "StateID": 5391
+  },
+  {
+    "id": 160555,
+    "name": "Saint Pierre du Bois Parish",
+    "latitude": "49.45399000",
+    "longitude": "-2.63808000",
+    "CountryID": 91,
+    "StateID": 5393
+  },
+  {
+    "id": 160554,
+    "name": "Vale Parish",
+    "latitude": "49.49440000",
+    "longitude": "-2.51790000",
+    "CountryID": 91,
+    "StateID": 5393
+  },
+  {
+    "id": 160556,
+    "name": "Saint Sampson",
+    "latitude": "49.48389000",
+    "longitude": "-2.52333000",
+    "CountryID": 91,
+    "StateID": 5394
+  }
+]

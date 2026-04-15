@@ -1,0 +1,134 @@
+[
+  {
+    "id": 603,
+    "name": "Berat",
+    "iso2": "01",
+    "native": "I rëndë",
+    "latitude": "40.70186360",
+    "longitude": "19.95807580",
+    "type": "county",
+    "timezone": "Europe/Tirane",
+    "CountryID": 3
+  },
+  {
+    "id": 610,
+    "name": "Dibër",
+    "iso2": "09",
+    "native": "Dibër",
+    "latitude": "41.62219200",
+    "longitude": "20.18081600",
+    "type": "county",
+    "timezone": "Europe/Tirane",
+    "CountryID": 3
+  },
+  {
+    "id": 632,
+    "name": "Durrës",
+    "iso2": "02",
+    "native": "Durrës",
+    "latitude": "41.42798630",
+    "longitude": "19.53733720",
+    "type": "county",
+    "timezone": "Europe/Tirane",
+    "CountryID": 3
+  },
+  {
+    "id": 598,
+    "name": "Elbasan",
+    "iso2": "03",
+    "native": "Elbasan",
+    "latitude": "41.05108290",
+    "longitude": "20.13985260",
+    "type": "county",
+    "timezone": "Europe/Tirane",
+    "CountryID": 3
+  },
+  {
+    "id": 631,
+    "name": "Fier",
+    "iso2": "04",
+    "native": "Hekuros",
+    "latitude": "40.91913920",
+    "longitude": "19.66393090",
+    "type": "county",
+    "timezone": "Europe/Tirane",
+    "CountryID": 3
+  },
+  {
+    "id": 604,
+    "name": "Gjirokastër",
+    "iso2": "05",
+    "native": "Gjirokastër",
+    "latitude": "40.07708710",
+    "longitude": "20.13933590",
+    "type": "county",
+    "timezone": "Europe/Tirane",
+    "CountryID": 3
+  },
+  {
+    "id": 630,
+    "name": "Korçë",
+    "iso2": "06",
+    "native": "Korçë",
+    "latitude": "40.58587530",
+    "longitude": "20.73613150",
+    "type": "county",
+    "timezone": "Europe/Tirane",
+    "CountryID": 3
+  },
+  {
+    "id": 601,
+    "name": "Kukës",
+    "iso2": "07",
+    "native": "Kukës",
+    "latitude": "42.18856640",
+    "longitude": "20.37696330",
+    "type": "county",
+    "timezone": "Europe/Tirane",
+    "CountryID": 3
+  },
+  {
+    "id": 609,
+    "name": "Lezhë",
+    "iso2": "08",
+    "native": "Lezhë",
+    "latitude": "41.78137590",
+    "longitude": "19.80679160",
+    "type": "county",
+    "timezone": "Europe/Tirane",
+    "CountryID": 3
+  },
+  {
+    "id": 611,
+    "name": "Shkodër",
+    "iso2": "10",
+    "native": "Shkodër",
+    "latitude": "42.25076770",
+    "longitude": "19.59597230",
+    "type": "county",
+    "timezone": "Europe/Tirane",
+    "CountryID": 3
+  },
+  {
+    "id": 615,
+    "name": "Tirana",
+    "iso2": "11",
+    "native": "Tiranë",
+    "latitude": "41.25844780",
+    "longitude": "19.83026560",
+    "type": "county",
+    "timezone": "Europe/Tirane",
+    "CountryID": 3
+  },
+  {
+    "id": 634,
+    "name": "Vlorë",
+    "iso2": "12",
+    "native": "Vlorë",
+    "latitude": "40.15009600",
+    "longitude": "19.80679160",
+    "type": "county",
+    "timezone": "Europe/Tirane",
+    "CountryID": 3
+  }
+]

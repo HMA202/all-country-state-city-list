@@ -1,0 +1,57 @@
+[
+  {
+    "id": 5375,
+    "name": "Eastern",
+    "iso2": "02",
+    "native": "Eastern",
+    "latitude": "-14.27824020",
+    "longitude": "-170.62432270",
+    "type": "district",
+    "timezone": "Pacific/Pago_Pago",
+    "CountryID": 5
+  },
+  {
+    "id": 5376,
+    "name": "Manuʻa",
+    "iso2": "03",
+    "native": "Injury",
+    "latitude": "-14.21460500",
+    "longitude": "-169.53346500",
+    "type": "district",
+    "timezone": "Pacific/Pago_Pago",
+    "CountryID": 5
+  },
+  {
+    "id": 5378,
+    "name": "Rose",
+    "iso2": "05",
+    "native": "Rose",
+    "latitude": "-14.54248650",
+    "longitude": "-168.16374450",
+    "type": "atoll",
+    "timezone": "Pacific/Pago_Pago",
+    "CountryID": 5
+  },
+  {
+    "id": 5377,
+    "name": "Swains",
+    "iso2": "04",
+    "native": "Swains",
+    "latitude": "-11.05290400",
+    "longitude": "-171.07673490",
+    "type": "atoll",
+    "timezone": "Pacific/Pago_Pago",
+    "CountryID": 5
+  },
+  {
+    "id": 5374,
+    "name": "Western",
+    "iso2": "01",
+    "native": "Western",
+    "latitude": "-14.33230750",
+    "longitude": "-170.79613340",
+    "type": "district",
+    "timezone": "Pacific/Pago_Pago",
+    "CountryID": 5
+  }
+]

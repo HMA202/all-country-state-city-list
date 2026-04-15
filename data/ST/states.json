@@ -1,0 +1,79 @@
+[
+  {
+    "id": 5728,
+    "name": "Água Grande",
+    "iso2": "01",
+    "native": "Água Grande",
+    "latitude": "0.33019240",
+    "longitude": "6.73334300",
+    "type": "district",
+    "timezone": "Africa/Sao_Tome",
+    "CountryID": 193
+  },
+  {
+    "id": 5729,
+    "name": "Cantagalo",
+    "iso2": "02",
+    "native": "Cantagalo",
+    "latitude": "0.21667000",
+    "longitude": "6.70000000",
+    "type": "district",
+    "timezone": "Africa/Sao_Tome",
+    "CountryID": 193
+  },
+  {
+    "id": 5730,
+    "name": "Caué",
+    "iso2": "03",
+    "native": "Caué",
+    "latitude": "0.13415000",
+    "longitude": "6.63825000",
+    "type": "district",
+    "timezone": "Africa/Sao_Tome",
+    "CountryID": 193
+  },
+  {
+    "id": 5731,
+    "name": "Lemba",
+    "iso2": "04",
+    "native": "Lemba",
+    "latitude": "0.22000000",
+    "longitude": "6.58000000",
+    "type": "district",
+    "timezone": "Africa/Sao_Tome",
+    "CountryID": 193
+  },
+  {
+    "id": 5732,
+    "name": "Lobata",
+    "iso2": "05",
+    "native": "Lobata",
+    "latitude": "0.41000000",
+    "longitude": "6.61000000",
+    "type": "district",
+    "timezone": "Africa/Sao_Tome",
+    "CountryID": 193
+  },
+  {
+    "id": 5733,
+    "name": "Mé-Zóchi",
+    "iso2": "06",
+    "native": "Mé-Zóchi",
+    "latitude": "0.30000000",
+    "longitude": "6.60000000",
+    "type": "district",
+    "timezone": "Africa/Sao_Tome",
+    "CountryID": 193
+  },
+  {
+    "id": 5734,
+    "name": "Príncipe",
+    "iso2": "P",
+    "native": "Príncipe",
+    "latitude": "1.61393810",
+    "longitude": "7.40569280",
+    "type": "autonomous region",
+    "timezone": "Africa/Sao_Tome",
+    "CountryID": 193
+  }
+]

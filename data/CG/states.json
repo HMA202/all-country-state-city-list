@@ -1,0 +1,134 @@
+[
+  {
+    "id": 2866,
+    "name": "Bouenza",
+    "iso2": "11",
+    "native": "Bouenza",
+    "latitude": "-4.28686530",
+    "longitude": "13.39721290",
+    "type": "department",
+    "timezone": "Africa/Brazzaville",
+    "CountryID": 50
+  },
+  {
+    "id": 2870,
+    "name": "Brazzaville",
+    "iso2": "BZV",
+    "native": "Brazzaville",
+    "latitude": "-4.26944070",
+    "longitude": "15.27122560",
+    "type": "department",
+    "timezone": "Africa/Brazzaville",
+    "CountryID": 50
+  },
+  {
+    "id": 2864,
+    "name": "Cuvette",
+    "iso2": "8",
+    "native": "Cuvette",
+    "latitude": "-0.49368550",
+    "longitude": "16.16020130",
+    "type": "department",
+    "timezone": "Africa/Brazzaville",
+    "CountryID": 50
+  },
+  {
+    "id": 2869,
+    "name": "Cuvette-Ouest",
+    "iso2": "15",
+    "native": "Cuvette-Ouest",
+    "latitude": "0.28025200",
+    "longitude": "14.52925990",
+    "type": "department",
+    "timezone": "Africa/Brazzaville",
+    "CountryID": 50
+  },
+  {
+    "id": 2867,
+    "name": "Kouilou",
+    "iso2": "5",
+    "native": "Kouilou",
+    "latitude": "-4.19609640",
+    "longitude": "11.91043880",
+    "type": "department",
+    "timezone": "Africa/Brazzaville",
+    "CountryID": 50
+  },
+  {
+    "id": 2868,
+    "name": "Lékoumou",
+    "iso2": "2",
+    "native": "Chambre à coucher",
+    "latitude": "-3.23156050",
+    "longitude": "13.52117210",
+    "type": "department",
+    "timezone": "Africa/Brazzaville",
+    "CountryID": 50
+  },
+  {
+    "id": 2865,
+    "name": "Likouala",
+    "iso2": "7",
+    "native": "Likouala",
+    "latitude": "1.67888280",
+    "longitude": "17.47477230",
+    "type": "department",
+    "timezone": "Africa/Brazzaville",
+    "CountryID": 50
+  },
+  {
+    "id": 2872,
+    "name": "Niari",
+    "iso2": "9",
+    "native": "Quasi-partage",
+    "latitude": "-2.90770550",
+    "longitude": "12.32983130",
+    "type": "department",
+    "timezone": "Africa/Brazzaville",
+    "CountryID": 50
+  },
+  {
+    "id": 2862,
+    "name": "Plateaux",
+    "iso2": "14",
+    "native": "Plateaux",
+    "latitude": "-2.17096440",
+    "longitude": "15.22861290",
+    "type": "department",
+    "timezone": "Africa/Brazzaville",
+    "CountryID": 50
+  },
+  {
+    "id": 2863,
+    "name": "Pointe-Noire",
+    "iso2": "16",
+    "native": "Pointe-Noire",
+    "latitude": "-4.79753730",
+    "longitude": "11.85032970",
+    "type": "department",
+    "timezone": "Africa/Brazzaville",
+    "CountryID": 50
+  },
+  {
+    "id": 2873,
+    "name": "Pool",
+    "iso2": "12",
+    "native": "Pool",
+    "latitude": "-3.72985450",
+    "longitude": "15.05387200",
+    "type": "department",
+    "timezone": "Africa/Brazzaville",
+    "CountryID": 50
+  },
+  {
+    "id": 2871,
+    "name": "Sangha",
+    "iso2": "13",
+    "native": "Sangha",
+    "latitude": "1.42843620",
+    "longitude": "15.42225220",
+    "type": "department",
+    "timezone": "Africa/Brazzaville",
+    "CountryID": 50
+  }
+]

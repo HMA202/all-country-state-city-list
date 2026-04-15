@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3182,
+    "name": "Al Daayen",
+    "iso2": "ZA",
+    "native": "دايين",
+    "latitude": "25.50974190",
+    "longitude": "51.44226990",
+    "type": "municipality",
+    "timezone": "Asia/Qatar",
+    "CountryID": 179
+  },
+  {
+    "id": 3183,
+    "name": "Al Khor",
+    "iso2": "KH",
+    "native": "Al Khor",
+    "latitude": "25.68040780",
+    "longitude": "51.49685020",
+    "type": "municipality",
+    "timezone": "Asia/Qatar",
+    "CountryID": 179
+  },
+  {
+    "id": 3177,
+    "name": "Al Rayyan",
+    "iso2": "RA",
+    "native": "Al Rayyan",
+    "latitude": "24.93047410",
+    "longitude": "50.97768880",
+    "type": "municipality",
+    "timezone": "Asia/Qatar",
+    "CountryID": 179
+  },
+  {
+    "id": 3179,
+    "name": "Al Wakrah",
+    "iso2": "WA",
+    "native": "واكرا",
+    "latitude": "25.15666230",
+    "longitude": "51.60132120",
+    "type": "municipality",
+    "timezone": "Asia/Qatar",
+    "CountryID": 179
+  },
+  {
+    "id": 3178,
+    "name": "Al-Shahaniya",
+    "iso2": "SH",
+    "native": "الشهانية",
+    "latitude": "25.37174210",
+    "longitude": "51.22710900",
+    "type": "municipality",
+    "timezone": "Asia/Qatar",
+    "CountryID": 179
+  },
+  {
+    "id": 3181,
+    "name": "Doha",
+    "iso2": "DA",
+    "native": "الدوحة",
+    "latitude": "25.28544730",
+    "longitude": "51.53103980",
+    "type": "municipality",
+    "timezone": "Asia/Qatar",
+    "CountryID": 179
+  },
+  {
+    "id": 3180,
+    "name": "Madinat ash Shamal",
+    "iso2": "MS",
+    "native": "مينات آش شوال",
+    "latitude": "26.11827430",
+    "longitude": "51.21572650",
+    "type": "municipality",
+    "timezone": "Asia/Qatar",
+    "CountryID": 179
+  },
+  {
+    "id": 3184,
+    "name": "Umm Salal",
+    "iso2": "US",
+    "native": "قاعدة أم",
+    "latitude": "25.46476540",
+    "longitude": "51.33839960",
+    "type": "municipality",
+    "timezone": "Asia/Qatar",
+    "CountryID": 179
+  }
+]

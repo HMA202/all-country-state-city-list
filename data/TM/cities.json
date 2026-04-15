@@ -1,0 +1,242 @@
+[
+  {
+    "id": 106880,
+    "name": "Abadan",
+    "latitude": "38.05415000",
+    "longitude": "58.19721000",
+    "CountryID": 226,
+    "StateID": 3374
+  },
+  {
+    "id": 106882,
+    "name": "Annau",
+    "latitude": "37.88754000",
+    "longitude": "58.51596000",
+    "CountryID": 226,
+    "StateID": 3374
+  },
+  {
+    "id": 106883,
+    "name": "Arçabil",
+    "latitude": "37.91500000",
+    "longitude": "58.08987000",
+    "CountryID": 226,
+    "StateID": 3374
+  },
+  {
+    "id": 106886,
+    "name": "Baharly",
+    "latitude": "38.43624000",
+    "longitude": "57.43158000",
+    "CountryID": 226,
+    "StateID": 3374
+  },
+  {
+    "id": 106896,
+    "name": "Kaka",
+    "latitude": "37.34821000",
+    "longitude": "59.61431000",
+    "CountryID": 226,
+    "StateID": 3374
+  },
+  {
+    "id": 106905,
+    "name": "Tejen",
+    "latitude": "37.38338000",
+    "longitude": "60.50545000",
+    "CountryID": 226,
+    "StateID": 3374
+  },
+  {
+    "id": 106884,
+    "name": "Ashgabat",
+    "latitude": "37.95000000",
+    "longitude": "58.38333000",
+    "CountryID": 226,
+    "StateID": 3371
+  },
+  {
+    "id": 106887,
+    "name": "Balkanabat",
+    "latitude": "39.51075000",
+    "longitude": "54.36713000",
+    "CountryID": 226,
+    "StateID": 3372
+  },
+  {
+    "id": 106889,
+    "name": "Bereket",
+    "latitude": "39.24463000",
+    "longitude": "55.51536000",
+    "CountryID": 226,
+    "StateID": 3372
+  },
+  {
+    "id": 106895,
+    "name": "Gumdag",
+    "latitude": "39.20611000",
+    "longitude": "54.59056000",
+    "CountryID": 226,
+    "StateID": 3372
+  },
+  {
+    "id": 106898,
+    "name": "Magtymguly",
+    "latitude": "38.43749000",
+    "longitude": "56.28081000",
+    "CountryID": 226,
+    "StateID": 3372
+  },
+  {
+    "id": 106901,
+    "name": "Serdar",
+    "latitude": "38.97644000",
+    "longitude": "56.27575000",
+    "CountryID": 226,
+    "StateID": 3372
+  },
+  {
+    "id": 106907,
+    "name": "Türkmenbaşy",
+    "latitude": "40.02216000",
+    "longitude": "52.95517000",
+    "CountryID": 226,
+    "StateID": 3372
+  },
+  {
+    "id": 106881,
+    "name": "Akdepe",
+    "latitude": "42.05513000",
+    "longitude": "59.37877000",
+    "CountryID": 226,
+    "StateID": 3373
+  },
+  {
+    "id": 106890,
+    "name": "Boldumsaz",
+    "latitude": "42.12824000",
+    "longitude": "59.67101000",
+    "CountryID": 226,
+    "StateID": 3373
+  },
+  {
+    "id": 106891,
+    "name": "Daşoguz",
+    "latitude": "41.83625000",
+    "longitude": "59.96661000",
+    "CountryID": 226,
+    "StateID": 3373
+  },
+  {
+    "id": 106897,
+    "name": "Köneürgench",
+    "latitude": "42.32773000",
+    "longitude": "59.15442000",
+    "CountryID": 226,
+    "StateID": 3373
+  },
+  {
+    "id": 106904,
+    "name": "Tagta",
+    "latitude": "41.65041000",
+    "longitude": "59.91640000",
+    "CountryID": 226,
+    "StateID": 3373
+  },
+  {
+    "id": 106909,
+    "name": "Yylanly",
+    "latitude": "41.83333000",
+    "longitude": "59.65000000",
+    "CountryID": 226,
+    "StateID": 3373
+  },
+  {
+    "id": 106885,
+    "name": "Atamyrat",
+    "latitude": "37.83573000",
+    "longitude": "65.21058000",
+    "CountryID": 226,
+    "StateID": 3370
+  },
+  {
+    "id": 106892,
+    "name": "Farap",
+    "latitude": "39.17037000",
+    "longitude": "63.61165000",
+    "CountryID": 226,
+    "StateID": 3370
+  },
+  {
+    "id": 106893,
+    "name": "Gazojak",
+    "latitude": "41.18746000",
+    "longitude": "61.40360000",
+    "CountryID": 226,
+    "StateID": 3370
+  },
+  {
+    "id": 106894,
+    "name": "Gowurdak",
+    "latitude": "37.81244000",
+    "longitude": "66.04656000",
+    "CountryID": 226,
+    "StateID": 3370
+  },
+  {
+    "id": 106900,
+    "name": "Saýat",
+    "latitude": "38.78393000",
+    "longitude": "63.88035000",
+    "CountryID": 226,
+    "StateID": 3370
+  },
+  {
+    "id": 106906,
+    "name": "Türkmenabat",
+    "latitude": "39.07328000",
+    "longitude": "63.57861000",
+    "CountryID": 226,
+    "StateID": 3370
+  },
+  {
+    "id": 106888,
+    "name": "Bayramaly",
+    "latitude": "37.61852000",
+    "longitude": "62.16715000",
+    "CountryID": 226,
+    "StateID": 3369
+  },
+  {
+    "id": 106899,
+    "name": "Mary",
+    "latitude": "37.59378000",
+    "longitude": "61.83031000",
+    "CountryID": 226,
+    "StateID": 3369
+  },
+  {
+    "id": 106902,
+    "name": "Serhetabat",
+    "latitude": "35.27992000",
+    "longitude": "62.34383000",
+    "CountryID": 226,
+    "StateID": 3369
+  },
+  {
+    "id": 106903,
+    "name": "Seydi",
+    "latitude": "39.48160000",
+    "longitude": "62.91374000",
+    "CountryID": 226,
+    "StateID": 3369
+  },
+  {
+    "id": 106908,
+    "name": "Yolöten",
+    "latitude": "37.29886000",
+    "longitude": "62.35975000",
+    "CountryID": 226,
+    "StateID": 3369
+  }
+]

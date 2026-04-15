@@ -1,0 +1,112 @@
+[
+  {
+    "id": 4123,
+    "name": "Artibonite",
+    "iso2": "AR",
+    "native": "Artibonite",
+    "latitude": "19.33662250",
+    "longitude": "-72.49243460",
+    "type": "department",
+    "timezone": "America/Port-au-Prince",
+    "CountryID": 95
+  },
+  {
+    "id": 4125,
+    "name": "Centre",
+    "iso2": "CE",
+    "native": "Centre",
+    "latitude": "18.99082350",
+    "longitude": "-71.99439850",
+    "type": "department",
+    "timezone": "America/Port-au-Prince",
+    "CountryID": 95
+  },
+  {
+    "id": 4119,
+    "name": "Grand'Anse",
+    "iso2": "GA",
+    "native": "Grand'Anse",
+    "latitude": "18.53041440",
+    "longitude": "-74.15114630",
+    "type": "department",
+    "timezone": "America/Port-au-Prince",
+    "CountryID": 95
+  },
+  {
+    "id": 4118,
+    "name": "Nippes",
+    "iso2": "NI",
+    "native": "Nippes",
+    "latitude": "18.44204260",
+    "longitude": "-73.39137820",
+    "type": "department",
+    "timezone": "America/Port-au-Prince",
+    "CountryID": 95
+  },
+  {
+    "id": 4117,
+    "name": "Nord",
+    "iso2": "ND",
+    "native": "Nord",
+    "latitude": "19.62582450",
+    "longitude": "-72.26992860",
+    "type": "department",
+    "timezone": "America/Port-au-Prince",
+    "CountryID": 95
+  },
+  {
+    "id": 4121,
+    "name": "Nord-Est",
+    "iso2": "NE",
+    "native": "Nord-Est",
+    "latitude": "19.51784680",
+    "longitude": "-71.87282250",
+    "type": "department",
+    "timezone": "America/Port-au-Prince",
+    "CountryID": 95
+  },
+  {
+    "id": 4126,
+    "name": "Nord-Ouest",
+    "iso2": "NO",
+    "native": "Nord-Ouest",
+    "latitude": "19.84694340",
+    "longitude": "-73.05899660",
+    "type": "department",
+    "timezone": "America/Port-au-Prince",
+    "CountryID": 95
+  },
+  {
+    "id": 4120,
+    "name": "Ouest",
+    "iso2": "OU",
+    "native": "Ouest",
+    "latitude": "18.76686870",
+    "longitude": "-72.43873150",
+    "type": "department",
+    "timezone": "America/Port-au-Prince",
+    "CountryID": 95
+  },
+  {
+    "id": 4122,
+    "name": "Sud",
+    "iso2": "SD",
+    "native": "Soudoir",
+    "latitude": "18.26128390",
+    "longitude": "-73.84449850",
+    "type": "department",
+    "timezone": "America/Port-au-Prince",
+    "CountryID": 95
+  },
+  {
+    "id": 4124,
+    "name": "Sud-Est",
+    "iso2": "SE",
+    "native": "Sud-Est",
+    "latitude": "18.29735660",
+    "longitude": "-72.37456980",
+    "type": "department",
+    "timezone": "America/Port-au-Prince",
+    "CountryID": 95
+  }
+]

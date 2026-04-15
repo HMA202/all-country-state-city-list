@@ -1,0 +1,57 @@
+[
+  {
+    "id": 3913,
+    "name": "Haʻapai",
+    "iso2": "02",
+    "native": "Haʻapai",
+    "latitude": "-20.05874040",
+    "longitude": "-174.62299190",
+    "type": "division",
+    "timezone": "Pacific/Tongatapu",
+    "CountryID": 222
+  },
+  {
+    "id": 3915,
+    "name": "ʻEua",
+    "iso2": "01",
+    "native": "ʻEua",
+    "latitude": "-21.37058280",
+    "longitude": "-174.93888430",
+    "type": "division",
+    "timezone": "Pacific/Tongatapu",
+    "CountryID": 222
+  },
+  {
+    "id": 3914,
+    "name": "Niuas",
+    "iso2": "03",
+    "native": "Niuas",
+    "latitude": "-15.95940000",
+    "longitude": "-173.78300000",
+    "type": "division",
+    "timezone": "Pacific/Tongatapu",
+    "CountryID": 222
+  },
+  {
+    "id": 3912,
+    "name": "Tongatapu",
+    "iso2": "04",
+    "native": "Tongatapu",
+    "latitude": "-21.16782530",
+    "longitude": "-175.27386910",
+    "type": "division",
+    "timezone": "Pacific/Tongatapu",
+    "CountryID": 222
+  },
+  {
+    "id": 3911,
+    "name": "Vavaʻu",
+    "iso2": "05",
+    "native": "Vavaʻu",
+    "latitude": "-18.62314680",
+    "longitude": "-174.00213800",
+    "type": "division",
+    "timezone": "Pacific/Tongatapu",
+    "CountryID": 222
+  }
+]

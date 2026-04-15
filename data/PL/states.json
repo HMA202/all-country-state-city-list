@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1634,
+    "name": "Greater Poland",
+    "iso2": "30",
+    "native": "Większa Polska",
+    "latitude": "52.14585060",
+    "longitude": "17.39767200",
+    "type": "voivodship",
+    "timezone": "Europe/Warsaw",
+    "CountryID": 176
+  },
+  {
+    "id": 1630,
+    "name": "Holy Cross",
+    "iso2": "26",
+    "native": "Święty krzyż",
+    "latitude": "50.75048940",
+    "longitude": "20.78291220",
+    "type": "voivodship",
+    "timezone": "Europe/Warsaw",
+    "CountryID": 176
+  },
+  {
+    "id": 1625,
+    "name": "Kuyavia-Pomerania",
+    "iso2": "04",
+    "native": "Kuyavia-Pomerania",
+    "latitude": "53.16483630",
+    "longitude": "18.48342240",
+    "type": "voivodship",
+    "timezone": "Europe/Warsaw",
+    "CountryID": 176
+  },
+  {
+    "id": 1635,
+    "name": "Lesser Poland",
+    "iso2": "12",
+    "native": "Mniejsza Polska",
+    "latitude": "49.79095200",
+    "longitude": "20.37935210",
+    "type": "voivodship",
+    "timezone": "Europe/Warsaw",
+    "CountryID": 176
+  },
+  {
+    "id": 1629,
+    "name": "Lower Silesia",
+    "iso2": "02",
+    "native": "Dolna Śląska",
+    "latitude": "50.92060280",
+    "longitude": "16.49463510",
+    "type": "voivodship",
+    "timezone": "Europe/Warsaw",
+    "CountryID": 176
+  },
+  {
+    "id": 1638,
+    "name": "Lublin",
+    "iso2": "06",
+    "native": "Lublin",
+    "latitude": "51.25055900",
+    "longitude": "22.57010220",
+    "type": "voivodship",
+    "timezone": "Europe/Warsaw",
+    "CountryID": 176
+  },
+  {
+    "id": 1631,
+    "name": "Lubusz",
+    "iso2": "08",
+    "native": "Lubus",
+    "latitude": "52.10017540",
+    "longitude": "15.36050750",
+    "type": "voivodship",
+    "timezone": "Europe/Warsaw",
+    "CountryID": 176
+  },
+  {
+    "id": 1636,
+    "name": "Łódź",
+    "iso2": "10",
+    "native": "Łódź",
+    "latitude": "51.76873230",
+    "longitude": "19.45699110",
+    "type": "voivodship",
+    "timezone": "Europe/Warsaw",
+    "CountryID": 176
+  },
+  {
+    "id": 1637,
+    "name": "Mazovia",
+    "iso2": "14",
+    "native": "Mazovia",
+    "latitude": "52.54619340",
+    "longitude": "21.20734040",
+    "type": "voivodship",
+    "timezone": "Europe/Warsaw",
+    "CountryID": 176
+  },
+  {
+    "id": 1632,
+    "name": "Podlaskie",
+    "iso2": "20",
+    "native": "Podlaskie",
+    "latitude": "53.26684550",
+    "longitude": "22.85257870",
+    "type": "voivodship",
+    "timezone": "Europe/Warsaw",
+    "CountryID": 176
+  },
+  {
+    "id": 1624,
+    "name": "Pomerania",
+    "iso2": "22",
+    "native": "Pomerania",
+    "latitude": "54.24556000",
+    "longitude": "18.10990000",
+    "type": "voivodship",
+    "timezone": "Europe/Warsaw",
+    "CountryID": 176
+  },
+  {
+    "id": 1623,
+    "name": "Silesia",
+    "iso2": "24",
+    "native": "Śląska",
+    "latitude": "50.56874220",
+    "longitude": "19.23439950",
+    "type": "voivodship",
+    "timezone": "Europe/Warsaw",
+    "CountryID": 176
+  },
+  {
+    "id": 1626,
+    "name": "Subcarpathia",
+    "iso2": "18",
+    "native": "Sub -Carpathia",
+    "latitude": "49.31134020",
+    "longitude": "22.43259070",
+    "type": "voivodship",
+    "timezone": "Europe/Warsaw",
+    "CountryID": 176
+  },
+  {
+    "id": 1622,
+    "name": "Upper Silesia",
+    "iso2": "16",
+    "native": "Upper Silesia",
+    "latitude": "50.24665260",
+    "longitude": "18.64536960",
+    "type": "voivodship",
+    "timezone": "Europe/Warsaw",
+    "CountryID": 176
+  },
+  {
+    "id": 1628,
+    "name": "Warmia-Masuria",
+    "iso2": "28",
+    "native": "Warmia-Masuria",
+    "latitude": "53.93118920",
+    "longitude": "21.12608080",
+    "type": "voivodship",
+    "timezone": "Europe/Warsaw",
+    "CountryID": 176
+  },
+  {
+    "id": 1633,
+    "name": "West Pomerania",
+    "iso2": "32",
+    "native": "West Pomerania",
+    "latitude": "53.54507930",
+    "longitude": "15.56615860",
+    "type": "voivodship",
+    "timezone": "Europe/Warsaw",
+    "CountryID": 176
+  }
+]

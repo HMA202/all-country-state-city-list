@@ -1,0 +1,156 @@
+[
+  {
+    "id": 43,
+    "name": "Erongo",
+    "iso2": "ER",
+    "native": "Erongo",
+    "latitude": "-22.02781470",
+    "longitude": "15.38935800",
+    "type": "region",
+    "timezone": "Africa/Windhoek",
+    "CountryID": 152
+  },
+  {
+    "id": 38,
+    "name": "Hardap",
+    "iso2": "HA",
+    "native": "Hardap",
+    "latitude": "-24.41409440",
+    "longitude": "17.41340510",
+    "type": "region",
+    "timezone": "Africa/Windhoek",
+    "CountryID": 152
+  },
+  {
+    "id": 45,
+    "name": "Karas",
+    "iso2": "KA",
+    "native": "Karas",
+    "latitude": "-26.87520940",
+    "longitude": "17.76348180",
+    "type": "region",
+    "timezone": "Africa/Windhoek",
+    "CountryID": 152
+  },
+  {
+    "id": 36,
+    "name": "Kavango East",
+    "iso2": "KE",
+    "native": "Kavango East",
+    "latitude": "-18.39823550",
+    "longitude": "20.72468000",
+    "type": "region",
+    "timezone": "Africa/Windhoek",
+    "CountryID": 152
+  },
+  {
+    "id": 35,
+    "name": "Kavango West",
+    "iso2": "KW",
+    "native": "Kavango West",
+    "latitude": "-18.25611100",
+    "longitude": "18.97020100",
+    "type": "region",
+    "timezone": "Africa/Windhoek",
+    "CountryID": 152
+  },
+  {
+    "id": 44,
+    "name": "Khomas",
+    "iso2": "KH",
+    "native": "Khomas",
+    "latitude": "-22.90825530",
+    "longitude": "17.09198000",
+    "type": "region",
+    "timezone": "Africa/Windhoek",
+    "CountryID": 152
+  },
+  {
+    "id": 34,
+    "name": "Kunene",
+    "iso2": "KU",
+    "native": "Kunene",
+    "latitude": "-19.67928090",
+    "longitude": "13.97565640",
+    "type": "region",
+    "timezone": "Africa/Windhoek",
+    "CountryID": 152
+  },
+  {
+    "id": 40,
+    "name": "Ohangwena",
+    "iso2": "OW",
+    "native": "Ohangwena",
+    "latitude": "-17.58773690",
+    "longitude": "16.77379550",
+    "type": "region",
+    "timezone": "Africa/Windhoek",
+    "CountryID": 152
+  },
+  {
+    "id": 41,
+    "name": "Omaheke",
+    "iso2": "OH",
+    "native": "Omaheke",
+    "latitude": "-21.90746760",
+    "longitude": "19.39296610",
+    "type": "region",
+    "timezone": "Africa/Windhoek",
+    "CountryID": 152
+  },
+  {
+    "id": 39,
+    "name": "Omusati",
+    "iso2": "OS",
+    "native": "Omusati",
+    "latitude": "-18.28623140",
+    "longitude": "14.88566790",
+    "type": "region",
+    "timezone": "Africa/Windhoek",
+    "CountryID": 152
+  },
+  {
+    "id": 37,
+    "name": "Oshana",
+    "iso2": "ON",
+    "native": "Oshana",
+    "latitude": "-18.47023080",
+    "longitude": "15.74344190",
+    "type": "region",
+    "timezone": "Africa/Windhoek",
+    "CountryID": 152
+  },
+  {
+    "id": 42,
+    "name": "Oshikoto",
+    "iso2": "OT",
+    "native": "Oshikoto",
+    "latitude": "-18.54640460",
+    "longitude": "17.10196060",
+    "type": "region",
+    "timezone": "Africa/Windhoek",
+    "CountryID": 152
+  },
+  {
+    "id": 46,
+    "name": "Otjozondjupa",
+    "iso2": "OD",
+    "native": "Otjozondjupa",
+    "latitude": "-19.94249620",
+    "longitude": "18.39588600",
+    "type": "region",
+    "timezone": "Africa/Windhoek",
+    "CountryID": 152
+  },
+  {
+    "id": 47,
+    "name": "Zambezi",
+    "iso2": "CA",
+    "native": "Zambezi",
+    "latitude": "-17.69129220",
+    "longitude": "24.13773710",
+    "type": "region",
+    "timezone": "Africa/Windhoek",
+    "CountryID": 152
+  }
+]

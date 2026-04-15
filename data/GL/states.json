@@ -1,0 +1,57 @@
+[
+  {
+    "id": 5379,
+    "name": "Avannaata",
+    "iso2": "AV",
+    "native": "Avannaata",
+    "latitude": "76.50492650",
+    "longitude": "-56.29119760",
+    "type": "municipality",
+    "timezone": "America/Nuuk",
+    "CountryID": 86
+  },
+  {
+    "id": 5380,
+    "name": "Kujalleq",
+    "iso2": "KU",
+    "native": "Kujalleq",
+    "latitude": "61.00000000",
+    "longitude": "-45.00000000",
+    "type": "municipality",
+    "timezone": "America/Nuuk",
+    "CountryID": 86
+  },
+  {
+    "id": 5381,
+    "name": "Qeqertalik",
+    "iso2": "QT",
+    "native": "Qeqertalik",
+    "latitude": "68.82495530",
+    "longitude": "-54.76224720",
+    "type": "municipality",
+    "timezone": "America/Danmarkshavn",
+    "CountryID": 86
+  },
+  {
+    "id": 5382,
+    "name": "Qeqqata",
+    "iso2": "QE",
+    "native": "Qeqqata",
+    "latitude": "66.50000000",
+    "longitude": "-48.00000000",
+    "type": "municipality",
+    "timezone": "America/Nuuk",
+    "CountryID": 86
+  },
+  {
+    "id": 5383,
+    "name": "Sermersooq",
+    "iso2": "SM",
+    "native": "Sermersooq",
+    "latitude": "66.00000000",
+    "longitude": "-40.00000000",
+    "type": "municipality",
+    "timezone": "America/Nuuk",
+    "CountryID": 86
+  }
+]

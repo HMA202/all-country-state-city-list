@@ -1,0 +1,123 @@
+[
+  {
+    "id": 253,
+    "name": "Bamako",
+    "iso2": "BKO",
+    "native": "Bamako",
+    "latitude": "12.64931900",
+    "longitude": "-8.00033700",
+    "type": "district",
+    "timezone": "Africa/Bamako",
+    "CountryID": 134
+  },
+  {
+    "id": 258,
+    "name": "Gao",
+    "iso2": "7",
+    "native": "Gao",
+    "latitude": "17.00244000",
+    "longitude": "-0.09911540",
+    "type": "region",
+    "timezone": "Africa/Bamako",
+    "CountryID": 134
+  },
+  {
+    "id": 252,
+    "name": "Kayes",
+    "iso2": "1",
+    "native": "Kayes",
+    "latitude": "13.80018440",
+    "longitude": "-10.22455480",
+    "type": "region",
+    "timezone": "Africa/Bamako",
+    "CountryID": 134
+  },
+  {
+    "id": 257,
+    "name": "Kidal",
+    "iso2": "8",
+    "native": "Gauche -",
+    "latitude": "18.44083580",
+    "longitude": "1.40753950",
+    "type": "region",
+    "timezone": "Africa/Bamako",
+    "CountryID": 134
+  },
+  {
+    "id": 250,
+    "name": "Koulikoro",
+    "iso2": "2",
+    "native": "Koulikoro",
+    "latitude": "13.48207060",
+    "longitude": "-7.60960790",
+    "type": "region",
+    "timezone": "Africa/Bamako",
+    "CountryID": 134
+  },
+  {
+    "id": 251,
+    "name": "Ménaka",
+    "iso2": "9",
+    "native": "Ménaka",
+    "latitude": "15.91564210",
+    "longitude": "2.39617400",
+    "type": "region",
+    "timezone": "Africa/Bamako",
+    "CountryID": 134
+  },
+  {
+    "id": 255,
+    "name": "Mopti",
+    "iso2": "5",
+    "native": "Mopti",
+    "latitude": "14.51448900",
+    "longitude": "-3.64645810",
+    "type": "region",
+    "timezone": "Africa/Bamako",
+    "CountryID": 134
+  },
+  {
+    "id": 249,
+    "name": "Ségou",
+    "iso2": "4",
+    "native": "Ségou",
+    "latitude": "14.04876070",
+    "longitude": "-6.00470910",
+    "type": "region",
+    "timezone": "Africa/Bamako",
+    "CountryID": 134
+  },
+  {
+    "id": 254,
+    "name": "Sikasso",
+    "iso2": "3",
+    "native": "Sikasso",
+    "latitude": "11.52968400",
+    "longitude": "-6.86632590",
+    "type": "region",
+    "timezone": "Africa/Bamako",
+    "CountryID": 134
+  },
+  {
+    "id": 256,
+    "name": "Taoudénit",
+    "iso2": "10",
+    "native": "Taoudénit",
+    "latitude": "20.85827180",
+    "longitude": "-3.39819000",
+    "type": "region",
+    "timezone": "Africa/Bamako",
+    "CountryID": 134
+  },
+  {
+    "id": 248,
+    "name": "Tombouctou",
+    "iso2": "6",
+    "native": "Tombouctou",
+    "latitude": "16.77190910",
+    "longitude": "-3.00872720",
+    "type": "region",
+    "timezone": "Africa/Bamako",
+    "CountryID": 134
+  }
+]

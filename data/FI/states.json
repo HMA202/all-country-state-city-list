@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1511,
+    "name": "Central Finland",
+    "iso2": "08",
+    "native": "Suomen keskus",
+    "latitude": "62.60936580",
+    "longitude": "25.57946100",
+    "type": "region",
+    "timezone": "Europe/Helsinki",
+    "CountryID": 74
+  },
+  {
+    "id": 1494,
+    "name": "Central Ostrobothnia",
+    "iso2": "07",
+    "native": "Keskeinen ostrobothnia",
+    "latitude": "63.64765570",
+    "longitude": "24.11141130",
+    "type": "region",
+    "timezone": "Europe/Helsinki",
+    "CountryID": 74
+  },
+  {
+    "id": 1507,
+    "name": "Finland Proper",
+    "iso2": "19",
+    "native": "Suomi",
+    "latitude": "60.30361130",
+    "longitude": "22.41130840",
+    "type": "region",
+    "timezone": "Europe/Helsinki",
+    "CountryID": 74
+  },
+  {
+    "id": 1496,
+    "name": "Kainuu",
+    "iso2": "05",
+    "native": "Kainuu",
+    "latitude": "64.59463540",
+    "longitude": "28.68105240",
+    "type": "region",
+    "timezone": "Europe/Helsinki",
+    "CountryID": 74
+  },
+  {
+    "id": 1512,
+    "name": "Kymenlaakso",
+    "iso2": "09",
+    "native": "Kymenlaakso",
+    "latitude": "60.73185290",
+    "longitude": "27.08287440",
+    "type": "region",
+    "timezone": "Europe/Helsinki",
+    "CountryID": 74
+  },
+  {
+    "id": 1500,
+    "name": "Lapland",
+    "iso2": "10",
+    "native": "Lapa",
+    "latitude": "67.69291040",
+    "longitude": "26.72821420",
+    "type": "region",
+    "timezone": "Europe/Helsinki",
+    "CountryID": 74
+  },
+  {
+    "id": 1504,
+    "name": "North Karelia",
+    "iso2": "13",
+    "native": "Pohjois -Karelia",
+    "latitude": "62.80105200",
+    "longitude": "30.21271160",
+    "type": "region",
+    "timezone": "Europe/Helsinki",
+    "CountryID": 74
+  },
+  {
+    "id": 1505,
+    "name": "Northern Ostrobothnia",
+    "iso2": "14",
+    "native": "Pohjois -Ostrobothnia",
+    "latitude": "64.95215120",
+    "longitude": "25.69688120",
+    "type": "region",
+    "timezone": "Europe/Helsinki",
+    "CountryID": 74
+  },
+  {
+    "id": 1503,
+    "name": "Northern Savonia",
+    "iso2": "15",
+    "native": "Pohjois -Savonia",
+    "latitude": "62.93704610",
+    "longitude": "27.49429950",
+    "type": "region",
+    "timezone": "Europe/Helsinki",
+    "CountryID": 74
+  },
+  {
+    "id": 1508,
+    "name": "Ostrobothnia",
+    "iso2": "12",
+    "native": "Ostrobothnia",
+    "latitude": "62.96518570",
+    "longitude": "21.20993670",
+    "type": "region",
+    "timezone": "Europe/Helsinki",
+    "CountryID": 74
+  },
+  {
+    "id": 1502,
+    "name": "Päijänne Tavastia",
+    "iso2": "16",
+    "native": "Päijänne Tavastia",
+    "latitude": "61.14441960",
+    "longitude": "25.68725020",
+    "type": "region",
+    "timezone": "Europe/Helsinki",
+    "CountryID": 74
+  },
+  {
+    "id": 1506,
+    "name": "Pirkanmaa",
+    "iso2": "11",
+    "native": "Pirkanmaa",
+    "latitude": "61.71743300",
+    "longitude": "23.71571150",
+    "type": "region",
+    "timezone": "Europe/Helsinki",
+    "CountryID": 74
+  },
+  {
+    "id": 1501,
+    "name": "Satakunta",
+    "iso2": "17",
+    "native": "Satakunta",
+    "latitude": "61.59342790",
+    "longitude": "21.78245120",
+    "type": "region",
+    "timezone": "Europe/Helsinki",
+    "CountryID": 74
+  },
+  {
+    "id": 1497,
+    "name": "South Karelia",
+    "iso2": "02",
+    "native": "South Karelia",
+    "latitude": "61.26674430",
+    "longitude": "28.40548490",
+    "type": "region",
+    "timezone": "Europe/Helsinki",
+    "CountryID": 74
+  },
+  {
+    "id": 1498,
+    "name": "Southern Ostrobothnia",
+    "iso2": "03",
+    "native": "Etelä -Ostrobothnia",
+    "latitude": "62.94330990",
+    "longitude": "23.52852670",
+    "type": "region",
+    "timezone": "Europe/Helsinki",
+    "CountryID": 74
+  },
+  {
+    "id": 1495,
+    "name": "Southern Savonia",
+    "iso2": "04",
+    "native": "Etelä -Savonia",
+    "latitude": "61.69451480",
+    "longitude": "27.80050150",
+    "type": "region",
+    "timezone": "Europe/Helsinki",
+    "CountryID": 74
+  },
+  {
+    "id": 1493,
+    "name": "Tavastia Proper",
+    "iso2": "06",
+    "native": "Tavastia Proper",
+    "latitude": "60.93769600",
+    "longitude": "24.15319190",
+    "type": "region",
+    "timezone": "Europe/Helsinki",
+    "CountryID": 74
+  },
+  {
+    "id": 1510,
+    "name": "Uusimaa",
+    "iso2": "18",
+    "native": "Uusimaa",
+    "latitude": "60.22466840",
+    "longitude": "25.12726310",
+    "type": "region",
+    "timezone": "Europe/Helsinki",
+    "CountryID": 74
+  }
+]

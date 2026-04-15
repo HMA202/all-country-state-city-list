@@ -1,0 +1,134 @@
+[
+  {
+    "id": 3077,
+    "name": "Alibori",
+    "iso2": "AL",
+    "native": "Alibori",
+    "latitude": "11.46494820",
+    "longitude": "2.79387980",
+    "type": "department",
+    "timezone": "Africa/Porto-Novo",
+    "CountryID": 24
+  },
+  {
+    "id": 3076,
+    "name": "Atakora",
+    "iso2": "AK",
+    "native": "Atakora",
+    "latitude": "10.71605150",
+    "longitude": "1.53315270",
+    "type": "department",
+    "timezone": "Africa/Porto-Novo",
+    "CountryID": 24
+  },
+  {
+    "id": 3079,
+    "name": "Atlantique",
+    "iso2": "AQ",
+    "native": "Atlantique",
+    "latitude": "6.54082900",
+    "longitude": "2.22309500",
+    "type": "department",
+    "timezone": "Africa/Porto-Novo",
+    "CountryID": 24
+  },
+  {
+    "id": 3078,
+    "name": "Borgou",
+    "iso2": "BO",
+    "native": "Borgou",
+    "latitude": "9.70974530",
+    "longitude": "2.74226480",
+    "type": "department",
+    "timezone": "Africa/Porto-Novo",
+    "CountryID": 24
+  },
+  {
+    "id": 3070,
+    "name": "Collines",
+    "iso2": "CO",
+    "native": "Collines",
+    "latitude": "8.10854790",
+    "longitude": "2.18531010",
+    "type": "department",
+    "timezone": "Africa/Porto-Novo",
+    "CountryID": 24
+  },
+  {
+    "id": 3072,
+    "name": "Donga",
+    "iso2": "DO",
+    "native": "Donga",
+    "latitude": "9.26798060",
+    "longitude": "1.71706840",
+    "type": "department",
+    "timezone": "Africa/Porto-Novo",
+    "CountryID": 24
+  },
+  {
+    "id": 3071,
+    "name": "Kouffo",
+    "iso2": "KO",
+    "native": "Kouffo",
+    "latitude": "7.13126620",
+    "longitude": "1.75673940",
+    "type": "department",
+    "timezone": "Africa/Porto-Novo",
+    "CountryID": 24
+  },
+  {
+    "id": 3081,
+    "name": "Littoral",
+    "iso2": "LI",
+    "native": "Littoral",
+    "latitude": "6.36631950",
+    "longitude": "2.41706080",
+    "type": "department",
+    "timezone": "Africa/Porto-Novo",
+    "CountryID": 24
+  },
+  {
+    "id": 3075,
+    "name": "Mono",
+    "iso2": "MO",
+    "native": "Mono",
+    "latitude": "6.45762400",
+    "longitude": "1.86740800",
+    "type": "department",
+    "timezone": "Africa/Porto-Novo",
+    "CountryID": 24
+  },
+  {
+    "id": 3080,
+    "name": "Ouémé",
+    "iso2": "OU",
+    "native": "Ouémé",
+    "latitude": "6.60135310",
+    "longitude": "2.55056600",
+    "type": "department",
+    "timezone": "Africa/Porto-Novo",
+    "CountryID": 24
+  },
+  {
+    "id": 3074,
+    "name": "Plateau",
+    "iso2": "PL",
+    "native": "Plateau",
+    "latitude": "7.10026020",
+    "longitude": "2.64091440",
+    "type": "department",
+    "timezone": "Africa/Porto-Novo",
+    "CountryID": 24
+  },
+  {
+    "id": 3073,
+    "name": "Zou",
+    "iso2": "ZO",
+    "native": "Serait",
+    "latitude": "7.28343350",
+    "longitude": "2.12276040",
+    "type": "department",
+    "timezone": "Africa/Porto-Novo",
+    "CountryID": 24
+  }
+]

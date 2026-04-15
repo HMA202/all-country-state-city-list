@@ -1,0 +1,146 @@
+[
+  {
+    "id": 66561,
+    "name": "Tubmanburg",
+    "latitude": "6.87064000",
+    "longitude": "-10.82110000",
+    "CountryID": 123,
+    "StateID": 3041
+  },
+  {
+    "id": 66553,
+    "name": "Gbarnga",
+    "latitude": "6.99543000",
+    "longitude": "-9.47122000",
+    "CountryID": 123,
+    "StateID": 3034
+  },
+  {
+    "id": 66548,
+    "name": "Bopolu",
+    "latitude": "7.06667000",
+    "longitude": "-10.48750000",
+    "CountryID": 123,
+    "StateID": 3044
+  },
+  {
+    "id": 66549,
+    "name": "Buchanan",
+    "latitude": "5.87693000",
+    "longitude": "-10.04964000",
+    "CountryID": 123,
+    "StateID": 3040
+  },
+  {
+    "id": 66559,
+    "name": "Robertsport",
+    "latitude": "6.75329000",
+    "longitude": "-11.36710000",
+    "CountryID": 123,
+    "StateID": 3036
+  },
+  {
+    "id": 66563,
+    "name": "Zwedru",
+    "latitude": "6.06846000",
+    "longitude": "-8.13559000",
+    "CountryID": 123,
+    "StateID": 3039
+  },
+  {
+    "id": 66546,
+    "name": "Barclayville",
+    "latitude": "4.67443000",
+    "longitude": "-8.23306000",
+    "CountryID": 123,
+    "StateID": 3045
+  },
+  {
+    "id": 66562,
+    "name": "Voinjama",
+    "latitude": "8.42194000",
+    "longitude": "-9.74778000",
+    "CountryID": 123,
+    "StateID": 3037
+  },
+  {
+    "id": 66556,
+    "name": "Kakata",
+    "latitude": "6.53104000",
+    "longitude": "-10.35368000",
+    "CountryID": 123,
+    "StateID": 3043
+  },
+  {
+    "id": 66555,
+    "name": "Harper",
+    "latitude": "4.37820000",
+    "longitude": "-7.71081000",
+    "CountryID": 123,
+    "StateID": 3042
+  },
+  {
+    "id": 66547,
+    "name": "Bensonville",
+    "latitude": "6.44716000",
+    "longitude": "-10.61283000",
+    "CountryID": 123,
+    "StateID": 3032
+  },
+  {
+    "id": 66557,
+    "name": "Monrovia",
+    "latitude": "6.30054000",
+    "longitude": "-10.79690000",
+    "CountryID": 123,
+    "StateID": 3032
+  },
+  {
+    "id": 66552,
+    "name": "Ganta",
+    "latitude": "7.30222000",
+    "longitude": "-8.53083000",
+    "CountryID": 123,
+    "StateID": 3046
+  },
+  {
+    "id": 66558,
+    "name": "New Yekepa",
+    "latitude": "7.57944000",
+    "longitude": "-8.53778000",
+    "CountryID": 123,
+    "StateID": 3046
+  },
+  {
+    "id": 66560,
+    "name": "Sanniquellie",
+    "latitude": "7.36215000",
+    "longitude": "-8.71326000",
+    "CountryID": 123,
+    "StateID": 3046
+  },
+  {
+    "id": 66550,
+    "name": "Cestos City",
+    "latitude": "5.45683000",
+    "longitude": "-9.58167000",
+    "CountryID": 123,
+    "StateID": 3033
+  },
+  {
+    "id": 66551,
+    "name": "Fish Town",
+    "latitude": "5.19739000",
+    "longitude": "-7.87579000",
+    "CountryID": 123,
+    "StateID": 3038
+  },
+  {
+    "id": 66554,
+    "name": "Greenville",
+    "latitude": "5.01133000",
+    "longitude": "-9.03880000",
+    "CountryID": 123,
+    "StateID": 3035
+  }
+]

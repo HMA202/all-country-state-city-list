@@ -1,0 +1,156 @@
+[
+  {
+    "id": 4656,
+    "name": "Aiwo",
+    "iso2": "01",
+    "native": "Theirs",
+    "latitude": "-0.53400120",
+    "longitude": "166.91388730",
+    "type": "district",
+    "timezone": "Pacific/Nauru",
+    "CountryID": 153
+  },
+  {
+    "id": 4658,
+    "name": "Anabar",
+    "iso2": "02",
+    "native": "An input",
+    "latitude": "-0.51335170",
+    "longitude": "166.94846240",
+    "type": "district",
+    "timezone": "Pacific/Nauru",
+    "CountryID": 153
+  },
+  {
+    "id": 4667,
+    "name": "Anetan",
+    "iso2": "03",
+    "native": "Aneta",
+    "latitude": "-0.50643430",
+    "longitude": "166.94270060",
+    "type": "district",
+    "timezone": "Pacific/Nauru",
+    "CountryID": 153
+  },
+  {
+    "id": 4663,
+    "name": "Anibare",
+    "iso2": "04",
+    "native": "Anibare",
+    "latitude": "-0.52947580",
+    "longitude": "166.95134320",
+    "type": "district",
+    "timezone": "Pacific/Nauru",
+    "CountryID": 153
+  },
+  {
+    "id": 4660,
+    "name": "Baiti",
+    "iso2": "05",
+    "native": "Verse",
+    "latitude": "-0.51043100",
+    "longitude": "166.92757440",
+    "type": "district",
+    "timezone": "Pacific/Nauru",
+    "CountryID": 153
+  },
+  {
+    "id": 4665,
+    "name": "Boe",
+    "iso2": "06",
+    "native": "Boe",
+    "latitude": "-0.54230030",
+    "longitude": "166.91606090",
+    "type": "district",
+    "timezone": "Pacific/Nauru",
+    "CountryID": 153
+  },
+  {
+    "id": 4662,
+    "name": "Buada",
+    "iso2": "07",
+    "native": "Puffy",
+    "latitude": "-0.53287770",
+    "longitude": "166.92685410",
+    "type": "district",
+    "timezone": "Pacific/Nauru",
+    "CountryID": 153
+  },
+  {
+    "id": 4666,
+    "name": "Denigomodu",
+    "iso2": "08",
+    "native": "Denigomond",
+    "latitude": "-0.52479640",
+    "longitude": "166.91676890",
+    "type": "district",
+    "timezone": "Pacific/Nauru",
+    "CountryID": 153
+  },
+  {
+    "id": 4654,
+    "name": "Ewa",
+    "iso2": "09",
+    "native": "Ewa",
+    "latitude": "-0.50872410",
+    "longitude": "166.93693840",
+    "type": "district",
+    "timezone": "Pacific/Nauru",
+    "CountryID": 153
+  },
+  {
+    "id": 4661,
+    "name": "Ijuw",
+    "iso2": "10",
+    "native": "Anemy",
+    "latitude": "-0.52027670",
+    "longitude": "166.95710460",
+    "type": "district",
+    "timezone": "Pacific/Nauru",
+    "CountryID": 153
+  },
+  {
+    "id": 4657,
+    "name": "Meneng",
+    "iso2": "11",
+    "native": "Silently",
+    "latitude": "-0.54672400",
+    "longitude": "166.93837900",
+    "type": "district",
+    "timezone": "Pacific/Nauru",
+    "CountryID": 153
+  },
+  {
+    "id": 4659,
+    "name": "Nibok",
+    "iso2": "12",
+    "native": "Nibok",
+    "latitude": "-0.51962080",
+    "longitude": "166.91893010",
+    "type": "district",
+    "timezone": "Pacific/Nauru",
+    "CountryID": 153
+  },
+  {
+    "id": 4655,
+    "name": "Uaboe",
+    "iso2": "13",
+    "native": "Uabee",
+    "latitude": "-0.52022220",
+    "longitude": "166.93117610",
+    "type": "district",
+    "timezone": "Pacific/Nauru",
+    "CountryID": 153
+  },
+  {
+    "id": 4664,
+    "name": "Yaren",
+    "iso2": "14",
+    "native": "Yaren",
+    "latitude": "-0.54668570",
+    "longitude": "166.92109130",
+    "type": "district",
+    "timezone": "Pacific/Nauru",
+    "CountryID": 153
+  }
+]

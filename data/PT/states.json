@@ -1,0 +1,222 @@
+[
+  {
+    "id": 2233,
+    "name": "Açores",
+    "iso2": "20",
+    "native": "Açores",
+    "latitude": "37.80855640",
+    "longitude": "-25.47313740",
+    "type": "autonomous region",
+    "timezone": "Atlantic/Azores",
+    "CountryID": 177
+  },
+  {
+    "id": 2235,
+    "name": "Aveiro",
+    "iso2": "01",
+    "native": "Aveiro",
+    "latitude": "40.67915040",
+    "longitude": "-8.52171660",
+    "type": "district",
+    "timezone": "Europe/Lisbon",
+    "CountryID": 177
+  },
+  {
+    "id": 2230,
+    "name": "Beja",
+    "iso2": "02",
+    "native": "Beja",
+    "latitude": "38.01544790",
+    "longitude": "-7.86503680",
+    "type": "district",
+    "timezone": "Europe/Lisbon",
+    "CountryID": 177
+  },
+  {
+    "id": 2244,
+    "name": "Braga",
+    "iso2": "03",
+    "native": "Braga",
+    "latitude": "41.55038800",
+    "longitude": "-8.42613010",
+    "type": "district",
+    "timezone": "Europe/Lisbon",
+    "CountryID": 177
+  },
+  {
+    "id": 2229,
+    "name": "Bragança",
+    "iso2": "04",
+    "native": "Bragança",
+    "latitude": "41.80616520",
+    "longitude": "-6.75674270",
+    "type": "district",
+    "timezone": "Europe/Lisbon",
+    "CountryID": 177
+  },
+  {
+    "id": 2241,
+    "name": "Castelo Branco",
+    "iso2": "05",
+    "native": "Castelo Branco",
+    "latitude": "39.82663220",
+    "longitude": "-7.49193180",
+    "type": "district",
+    "timezone": "Europe/Lisbon",
+    "CountryID": 177
+  },
+  {
+    "id": 2246,
+    "name": "Coimbra",
+    "iso2": "06",
+    "native": "Coimbra",
+    "latitude": "40.21119310",
+    "longitude": "-8.42946320",
+    "type": "district",
+    "timezone": "Europe/Lisbon",
+    "CountryID": 177
+  },
+  {
+    "id": 2236,
+    "name": "Évora",
+    "iso2": "07",
+    "native": "Évora",
+    "latitude": "38.57444680",
+    "longitude": "-7.90765530",
+    "type": "district",
+    "timezone": "Europe/Lisbon",
+    "CountryID": 177
+  },
+  {
+    "id": 2239,
+    "name": "Faro",
+    "iso2": "08",
+    "native": "Faro",
+    "latitude": "37.01935480",
+    "longitude": "-7.93043970",
+    "type": "district",
+    "timezone": "Europe/Lisbon",
+    "CountryID": 177
+  },
+  {
+    "id": 4859,
+    "name": "Guarda",
+    "iso2": "09",
+    "native": "Guarda",
+    "latitude": "40.53859720",
+    "longitude": "-7.26757720",
+    "type": "district",
+    "timezone": "Europe/Lisbon",
+    "CountryID": 177
+  },
+  {
+    "id": 2240,
+    "name": "Leiria",
+    "iso2": "10",
+    "native": "Leiria",
+    "latitude": "39.74379020",
+    "longitude": "-8.80711190",
+    "type": "district",
+    "timezone": "Europe/Lisbon",
+    "CountryID": 177
+  },
+  {
+    "id": 2228,
+    "name": "Lisbon",
+    "iso2": "11",
+    "native": "Lisbon",
+    "latitude": "38.70775070",
+    "longitude": "-9.13659190",
+    "type": "district",
+    "timezone": "Europe/Lisbon",
+    "CountryID": 177
+  },
+  {
+    "id": 2231,
+    "name": "Madeira",
+    "iso2": "30",
+    "native": "Madeira",
+    "latitude": "32.75175010",
+    "longitude": "-16.98174870",
+    "type": "autonomous region",
+    "timezone": "Europe/Lisbon",
+    "CountryID": 177
+  },
+  {
+    "id": 2232,
+    "name": "Portalegre",
+    "iso2": "12",
+    "native": "Portalegre",
+    "latitude": "39.29670860",
+    "longitude": "-7.42847550",
+    "type": "district",
+    "timezone": "Europe/Lisbon",
+    "CountryID": 177
+  },
+  {
+    "id": 2243,
+    "name": "Porto",
+    "iso2": "13",
+    "native": "Porto",
+    "latitude": "41.14766290",
+    "longitude": "-8.60789730",
+    "type": "district",
+    "timezone": "Europe/Lisbon",
+    "CountryID": 177
+  },
+  {
+    "id": 2238,
+    "name": "Santarém",
+    "iso2": "14",
+    "native": "Santarém",
+    "latitude": "39.23666870",
+    "longitude": "-8.68599440",
+    "type": "district",
+    "timezone": "Europe/Lisbon",
+    "CountryID": 177
+  },
+  {
+    "id": 2242,
+    "name": "Setúbal",
+    "iso2": "15",
+    "native": "Setúbal",
+    "latitude": "38.52409330",
+    "longitude": "-8.89258760",
+    "type": "district",
+    "timezone": "Europe/Lisbon",
+    "CountryID": 177
+  },
+  {
+    "id": 2245,
+    "name": "Viana do Castelo",
+    "iso2": "16",
+    "native": "Viana do Castelo",
+    "latitude": "41.69180460",
+    "longitude": "-8.83445100",
+    "type": "district",
+    "timezone": "Europe/Lisbon",
+    "CountryID": 177
+  },
+  {
+    "id": 2234,
+    "name": "Vila Real",
+    "iso2": "17",
+    "native": "Vila Real",
+    "latitude": "41.30035270",
+    "longitude": "-7.74572740",
+    "type": "district",
+    "timezone": "Europe/Lisbon",
+    "CountryID": 177
+  },
+  {
+    "id": 2237,
+    "name": "Viseu",
+    "iso2": "18",
+    "native": "Viseu",
+    "latitude": "40.65884240",
+    "longitude": "-7.91475600",
+    "type": "district",
+    "timezone": "Europe/Lisbon",
+    "CountryID": 177
+  }
+]

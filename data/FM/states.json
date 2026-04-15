@@ -1,0 +1,46 @@
+[
+  {
+    "id": 2580,
+    "name": "Chuuk",
+    "iso2": "TRK",
+    "native": "Chuuk",
+    "latitude": "7.43937930",
+    "longitude": "151.85155380",
+    "type": "state",
+    "timezone": "Pacific/Chuuk",
+    "CountryID": 143
+  },
+  {
+    "id": 2583,
+    "name": "Kosrae",
+    "iso2": "KSA",
+    "native": "Kosrae",
+    "latitude": "5.30956180",
+    "longitude": "162.98148770",
+    "type": "state",
+    "timezone": "Pacific/Chuuk",
+    "CountryID": 143
+  },
+  {
+    "id": 2581,
+    "name": "Pohnpei",
+    "iso2": "PNI",
+    "native": "Pohnpei",
+    "latitude": "6.88704670",
+    "longitude": "158.24061380",
+    "type": "state",
+    "timezone": "Pacific/Chuuk",
+    "CountryID": 143
+  },
+  {
+    "id": 2582,
+    "name": "Yap",
+    "iso2": "YAP",
+    "native": "Yap",
+    "latitude": "9.54626830",
+    "longitude": "138.16515990",
+    "type": "state",
+    "timezone": "Pacific/Chuuk",
+    "CountryID": 143
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 8452,
+    "name": "Oistins",
+    "latitude": "13.07067000",
+    "longitude": "-59.54637000",
+    "CountryID": 20,
+    "StateID": 1228
+  },
+  {
+    "id": 8450,
+    "name": "Greenland",
+    "latitude": "13.25808000",
+    "longitude": "-59.57763000",
+    "CountryID": 20,
+    "StateID": 1229
+  },
+  {
+    "id": 8451,
+    "name": "Holetown",
+    "latitude": "13.18672000",
+    "longitude": "-59.63808000",
+    "CountryID": 20,
+    "StateID": 1224
+  },
+  {
+    "id": 8447,
+    "name": "Bathsheba",
+    "latitude": "13.21133000",
+    "longitude": "-59.52596000",
+    "CountryID": 20,
+    "StateID": 1223
+  },
+  {
+    "id": 8448,
+    "name": "Bridgetown",
+    "latitude": "13.10732000",
+    "longitude": "-59.62021000",
+    "CountryID": 20,
+    "StateID": 1230
+  },
+  {
+    "id": 8453,
+    "name": "Speightstown",
+    "latitude": "13.25072000",
+    "longitude": "-59.64396000",
+    "CountryID": 20,
+    "StateID": 1222
+  },
+  {
+    "id": 8449,
+    "name": "Crane",
+    "latitude": "13.10487000",
+    "longitude": "-59.44861000",
+    "CountryID": 20,
+    "StateID": 1220
+  }
+]

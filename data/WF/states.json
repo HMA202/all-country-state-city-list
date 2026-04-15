@@ -1,0 +1,35 @@
+[
+  {
+    "id": 5709,
+    "name": "Alo",
+    "iso2": "AL",
+    "native": "Alo",
+    "latitude": "-14.30938056",
+    "longitude": "-178.12355000",
+    "type": "administrative precinct",
+    "timezone": "Pacific/Wallis",
+    "CountryID": 243
+  },
+  {
+    "id": 5708,
+    "name": "Sigave",
+    "iso2": "SG",
+    "native": "Sigavé",
+    "latitude": "-14.29610000",
+    "longitude": "-178.15850000",
+    "type": "administrative precinct",
+    "timezone": "Pacific/Wallis",
+    "CountryID": 243
+  },
+  {
+    "id": 5707,
+    "name": "Uvea",
+    "iso2": "UV",
+    "native": "ʻUvea",
+    "latitude": "-13.28333333",
+    "longitude": "-176.20000000",
+    "type": "administrative precinct",
+    "timezone": "Pacific/Wallis",
+    "CountryID": 243
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "id": 458,
+    "name": "Balzers",
+    "iso2": "01",
+    "native": "Balzern",
+    "latitude": "47.06888220",
+    "longitude": "9.50615900",
+    "type": "commune",
+    "timezone": "Europe/Vaduz",
+    "CountryID": 125
+  },
+  {
+    "id": 451,
+    "name": "Eschen",
+    "iso2": "02",
+    "native": "Eschen",
+    "latitude": "47.21262740",
+    "longitude": "9.52332020",
+    "type": "commune",
+    "timezone": "Europe/Vaduz",
+    "CountryID": 125
+  },
+  {
+    "id": 457,
+    "name": "Gamprin",
+    "iso2": "03",
+    "native": "Gamprin",
+    "latitude": "47.21324900",
+    "longitude": "9.50251950",
+    "type": "commune",
+    "timezone": "Europe/Vaduz",
+    "CountryID": 125
+  },
+  {
+    "id": 455,
+    "name": "Mauren",
+    "iso2": "04",
+    "native": "Mauren",
+    "latitude": "47.21892850",
+    "longitude": "9.54173500",
+    "type": "commune",
+    "timezone": "Europe/Vaduz",
+    "CountryID": 125
+  },
+  {
+    "id": 454,
+    "name": "Planken",
+    "iso2": "05",
+    "native": "Planken",
+    "latitude": "47.18588480",
+    "longitude": "9.54522110",
+    "type": "commune",
+    "timezone": "Europe/Vaduz",
+    "CountryID": 125
+  },
+  {
+    "id": 453,
+    "name": "Ruggell",
+    "iso2": "06",
+    "native": "Ruggell",
+    "latitude": "47.23975750",
+    "longitude": "9.52628710",
+    "type": "commune",
+    "timezone": "Europe/Vaduz",
+    "CountryID": 125
+  },
+  {
+    "id": 450,
+    "name": "Schaan",
+    "iso2": "07",
+    "native": "Schaan",
+    "latitude": "47.16633970",
+    "longitude": "9.51031200",
+    "type": "commune",
+    "timezone": "Europe/Vaduz",
+    "CountryID": 125
+  },
+  {
+    "id": 449,
+    "name": "Schellenberg",
+    "iso2": "08",
+    "native": "Schellenberg",
+    "latitude": "47.23096600",
+    "longitude": "9.54678430",
+    "type": "commune",
+    "timezone": "Europe/Vaduz",
+    "CountryID": 125
+  },
+  {
+    "id": 459,
+    "name": "Triesen",
+    "iso2": "09",
+    "native": "Versuche",
+    "latitude": "47.10979880",
+    "longitude": "9.52482960",
+    "type": "commune",
+    "timezone": "Europe/Vaduz",
+    "CountryID": 125
+  },
+  {
+    "id": 456,
+    "name": "Triesenberg",
+    "iso2": "10",
+    "native": "Triesenberg",
+    "latitude": "47.11861810",
+    "longitude": "9.54336630",
+    "type": "commune",
+    "timezone": "Europe/Vaduz",
+    "CountryID": 125
+  },
+  {
+    "id": 452,
+    "name": "Vaduz",
+    "iso2": "11",
+    "native": "Vaduz",
+    "latitude": "47.14103030",
+    "longitude": "9.52092770",
+    "type": "commune",
+    "timezone": "Europe/Vaduz",
+    "CountryID": 125
+  }
+]

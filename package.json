@@ -1,0 +1,24 @@
+{
+  "name": "all-country-state-city-list",
+  "version": "1.0.2",
+  "description": "A lightweight library for countries, states and cities data",
+  "main": "lib/index.js",
+  "type": "commonjs",
+  "keywords": [
+    "countries",
+    "states",
+    "cities",
+    "geo",
+    "location",
+    "npm",
+    "bahrain",
+    "uae",
+    "ksa"
+  ],
+  "author": "Habib_Mohammed",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_GITHUB/all-country-state-city-list"
+  }
+}

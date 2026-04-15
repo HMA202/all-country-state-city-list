@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3907,
+    "name": "Australian Capital Territory",
+    "iso2": "ACT",
+    "native": "Australian Capital Territory",
+    "latitude": "-35.48835020",
+    "longitude": "149.00269420",
+    "type": "territory",
+    "timezone": "Australia/Sydney",
+    "CountryID": 14
+  },
+  {
+    "id": 3909,
+    "name": "New South Wales",
+    "iso2": "NSW",
+    "native": "New South Wales",
+    "latitude": "-31.87598350",
+    "longitude": "147.28694930",
+    "type": "state",
+    "timezone": "Australia/Sydney",
+    "CountryID": 14
+  },
+  {
+    "id": 3910,
+    "name": "Northern Territory",
+    "iso2": "NT",
+    "native": "Northern Territory",
+    "latitude": "-19.85161010",
+    "longitude": "133.23033750",
+    "type": "territory",
+    "timezone": "Australia/Darwin",
+    "CountryID": 14
+  },
+  {
+    "id": 3905,
+    "name": "Queensland",
+    "iso2": "QLD",
+    "native": "Queensland",
+    "latitude": "-22.16467820",
+    "longitude": "144.58449030",
+    "type": "state",
+    "timezone": "Australia/Brisbane",
+    "CountryID": 14
+  },
+  {
+    "id": 3904,
+    "name": "South Australia",
+    "iso2": "SA",
+    "native": "South Australia",
+    "latitude": "-30.53436650",
+    "longitude": "135.63012120",
+    "type": "state",
+    "timezone": "Australia/Adelaide",
+    "CountryID": 14
+  },
+  {
+    "id": 3908,
+    "name": "Tasmania",
+    "iso2": "TAS",
+    "native": "Tasmania",
+    "latitude": "-42.03506700",
+    "longitude": "146.63668870",
+    "type": "state",
+    "timezone": "Australia/Hobart",
+    "CountryID": 14
+  },
+  {
+    "id": 3903,
+    "name": "Victoria",
+    "iso2": "VIC",
+    "native": "Victoria",
+    "latitude": "-36.59860960",
+    "longitude": "144.67800520",
+    "type": "state",
+    "timezone": "Australia/Melbourne",
+    "CountryID": 14
+  },
+  {
+    "id": 3906,
+    "name": "Western Australia",
+    "iso2": "WA",
+    "native": "Western Australia",
+    "latitude": "-25.23030050",
+    "longitude": "121.01872460",
+    "type": "state",
+    "timezone": "Australia/Perth",
+    "CountryID": 14
+  }
+]

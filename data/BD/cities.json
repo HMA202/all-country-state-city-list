@@ -1,0 +1,514 @@
+[
+  {
+    "id": 153876,
+    "name": "Bagerhat",
+    "latitude": "22.34880590",
+    "longitude": "89.07470250",
+    "CountryID": 19,
+    "StateID": 5473
+  },
+  {
+    "id": 8457,
+    "name": "Bandarban",
+    "latitude": "22.00000000",
+    "longitude": "92.33333000",
+    "CountryID": 19,
+    "StateID": 5474
+  },
+  {
+    "id": 153858,
+    "name": "Barguna",
+    "latitude": "22.17167870",
+    "longitude": "89.79740240",
+    "CountryID": 19,
+    "StateID": 5475
+  },
+  {
+    "id": 153857,
+    "name": "Barisal",
+    "latitude": "22.42035790",
+    "longitude": "89.78250340",
+    "CountryID": 19,
+    "StateID": 5476
+  },
+  {
+    "id": 153859,
+    "name": "Bhola",
+    "latitude": "22.32452480",
+    "longitude": "90.10568470",
+    "CountryID": 19,
+    "StateID": 5477
+  },
+  {
+    "id": 153894,
+    "name": "Bogra",
+    "latitude": "24.82966450",
+    "longitude": "89.02598570",
+    "CountryID": 19,
+    "StateID": 5478
+  },
+  {
+    "id": 8470,
+    "name": "Brahmanbaria",
+    "latitude": "23.98333000",
+    "longitude": "91.16667000",
+    "CountryID": 19,
+    "StateID": 5479
+  },
+  {
+    "id": 8474,
+    "name": "Chandpur",
+    "latitude": "23.25000000",
+    "longitude": "90.83333000",
+    "CountryID": 19,
+    "StateID": 5480
+  },
+  {
+    "id": 153895,
+    "name": "Chapai Nawabganj",
+    "latitude": "24.59988690",
+    "longitude": "88.28504660",
+    "CountryID": 19,
+    "StateID": 5481
+  },
+  {
+    "id": 8481,
+    "name": "Chittagong",
+    "latitude": "22.48750000",
+    "longitude": "91.96333000",
+    "CountryID": 19,
+    "StateID": 5482
+  },
+  {
+    "id": 153877,
+    "name": "Chuadanga",
+    "latitude": "23.60352730",
+    "longitude": "88.48732400",
+    "CountryID": 19,
+    "StateID": 5483
+  },
+  {
+    "id": 8484,
+    "name": "Cox's Bazar",
+    "latitude": "21.58389000",
+    "longitude": "92.01528000",
+    "CountryID": 19,
+    "StateID": 5484
+  },
+  {
+    "id": 8483,
+    "name": "Comilla",
+    "latitude": "23.44170000",
+    "longitude": "91.00987000",
+    "CountryID": 19,
+    "StateID": 5485
+  },
+  {
+    "id": 153863,
+    "name": "Dhaka",
+    "latitude": "23.78417980",
+    "longitude": "89.92859830",
+    "CountryID": 19,
+    "StateID": 5486
+  },
+  {
+    "id": 153898,
+    "name": "Dinajpur",
+    "latitude": "25.64261030",
+    "longitude": "88.18344620",
+    "CountryID": 19,
+    "StateID": 5487
+  },
+  {
+    "id": 153871,
+    "name": "Faridpur",
+    "latitude": "23.45115240",
+    "longitude": "89.52820380",
+    "CountryID": 19,
+    "StateID": 5488
+  },
+  {
+    "id": 8492,
+    "name": "Feni",
+    "latitude": "22.96667000",
+    "longitude": "91.31667000",
+    "CountryID": 19,
+    "StateID": 5489
+  },
+  {
+    "id": 153900,
+    "name": "Gaibandha",
+    "latitude": "25.34315570",
+    "longitude": "89.13978570",
+    "CountryID": 19,
+    "StateID": 5490
+  },
+  {
+    "id": 153864,
+    "name": "Gazipur",
+    "latitude": "24.10914520",
+    "longitude": "90.09596140",
+    "CountryID": 19,
+    "StateID": 5491
+  },
+  {
+    "id": 153872,
+    "name": "Gopalganj",
+    "latitude": "23.10660120",
+    "longitude": "89.57802710",
+    "CountryID": 19,
+    "StateID": 5492
+  },
+  {
+    "id": 153906,
+    "name": "Habiganj",
+    "latitude": "24.33481970",
+    "longitude": "90.74899010",
+    "CountryID": 19,
+    "StateID": 5493
+  },
+  {
+    "id": 153887,
+    "name": "Jamalpur",
+    "latitude": "25.00108250",
+    "longitude": "89.26050130",
+    "CountryID": 19,
+    "StateID": 5494
+  },
+  {
+    "id": 153878,
+    "name": "Jessore",
+    "latitude": "23.08473560",
+    "longitude": "88.87480080",
+    "CountryID": 19,
+    "StateID": 5495
+  },
+  {
+    "id": 153860,
+    "name": "Jhalokati",
+    "latitude": "22.56303520",
+    "longitude": "89.87191590",
+    "CountryID": 19,
+    "StateID": 5496
+  },
+  {
+    "id": 153879,
+    "name": "Jhenaidah",
+    "latitude": "23.49521270",
+    "longitude": "88.70694930",
+    "CountryID": 19,
+    "StateID": 5497
+  },
+  {
+    "id": 153897,
+    "name": "Joypurhat",
+    "latitude": "25.06567070",
+    "longitude": "88.76832650",
+    "CountryID": 19,
+    "StateID": 5498
+  },
+  {
+    "id": 8512,
+    "name": "Khagrachhari",
+    "latitude": "23.16667000",
+    "longitude": "91.90000000",
+    "CountryID": 19,
+    "StateID": 5499
+  },
+  {
+    "id": 153880,
+    "name": "Khulna",
+    "latitude": "22.35351390",
+    "longitude": "88.83407090",
+    "CountryID": 19,
+    "StateID": 5500
+  },
+  {
+    "id": 153865,
+    "name": "Kishoreganj",
+    "latitude": "24.33888030",
+    "longitude": "90.58499800",
+    "CountryID": 19,
+    "StateID": 5501
+  },
+  {
+    "id": 153899,
+    "name": "Kurigram",
+    "latitude": "25.80827220",
+    "longitude": "89.00915030",
+    "CountryID": 19,
+    "StateID": 5502
+  },
+  {
+    "id": 153881,
+    "name": "Kushtia",
+    "latitude": "23.94595240",
+    "longitude": "88.70179290",
+    "CountryID": 19,
+    "StateID": 5503
+  },
+  {
+    "id": 8521,
+    "name": "Lakshmipur",
+    "latitude": "22.91667000",
+    "longitude": "90.83333000",
+    "CountryID": 19,
+    "StateID": 5504
+  },
+  {
+    "id": 153901,
+    "name": "Lalmonirhat",
+    "latitude": "26.12442390",
+    "longitude": "88.91060900",
+    "CountryID": 19,
+    "StateID": 5505
+  },
+  {
+    "id": 153873,
+    "name": "Madaripur",
+    "latitude": "23.23455490",
+    "longitude": "89.81089030",
+    "CountryID": 19,
+    "StateID": 5506
+  },
+  {
+    "id": 153882,
+    "name": "Magura",
+    "latitude": "23.46557740",
+    "longitude": "89.11547300",
+    "CountryID": 19,
+    "StateID": 5507
+  },
+  {
+    "id": 153866,
+    "name": "Manikganj",
+    "latitude": "23.83174080",
+    "longitude": "89.64097890",
+    "CountryID": 19,
+    "StateID": 5508
+  },
+  {
+    "id": 153883,
+    "name": "Meherpur",
+    "latitude": "23.78972180",
+    "longitude": "88.39319490",
+    "CountryID": 19,
+    "StateID": 5509
+  },
+  {
+    "id": 153907,
+    "name": "Moulvibazar",
+    "latitude": "24.48617710",
+    "longitude": "91.28742410",
+    "CountryID": 19,
+    "StateID": 5510
+  },
+  {
+    "id": 153867,
+    "name": "Munshiganj",
+    "latitude": "23.52615230",
+    "longitude": "90.11590910",
+    "CountryID": 19,
+    "StateID": 5511
+  },
+  {
+    "id": 153886,
+    "name": "Mymensingh",
+    "latitude": "24.72309850",
+    "longitude": "89.78411730",
+    "CountryID": 19,
+    "StateID": 5512
+  },
+  {
+    "id": 153896,
+    "name": "Naogaon",
+    "latitude": "24.87425080",
+    "longitude": "88.43751910",
+    "CountryID": 19,
+    "StateID": 5513
+  },
+  {
+    "id": 153884,
+    "name": "Narail",
+    "latitude": "23.13175700",
+    "longitude": "89.26258440",
+    "CountryID": 19,
+    "StateID": 5514
+  },
+  {
+    "id": 153868,
+    "name": "Narayanganj",
+    "latitude": "23.74880130",
+    "longitude": "90.25638500",
+    "CountryID": 19,
+    "StateID": 5515
+  },
+  {
+    "id": 153869,
+    "name": "Narsingdi",
+    "latitude": "24.00966000",
+    "longitude": "90.44480420",
+    "CountryID": 19,
+    "StateID": 5516
+  },
+  {
+    "id": 153890,
+    "name": "Natore",
+    "latitude": "24.38021070",
+    "longitude": "88.76302520",
+    "CountryID": 19,
+    "StateID": 5517
+  },
+  {
+    "id": 153888,
+    "name": "Netrokona",
+    "latitude": "24.87204810",
+    "longitude": "90.52293810",
+    "CountryID": 19,
+    "StateID": 5518
+  },
+  {
+    "id": 153902,
+    "name": "Nilphamari",
+    "latitude": "26.02264250",
+    "longitude": "88.63412710",
+    "CountryID": 19,
+    "StateID": 5519
+  },
+  {
+    "id": 8553,
+    "name": "Noakhali",
+    "latitude": "22.75000000",
+    "longitude": "91.16667000",
+    "CountryID": 19,
+    "StateID": 5520
+  },
+  {
+    "id": 153893,
+    "name": "Pabna",
+    "latitude": "24.08126720",
+    "longitude": "89.03724420",
+    "CountryID": 19,
+    "StateID": 5521
+  },
+  {
+    "id": 153903,
+    "name": "Panchagarh",
+    "latitude": "26.32094460",
+    "longitude": "88.54711390",
+    "CountryID": 19,
+    "StateID": 5522
+  },
+  {
+    "id": 153861,
+    "name": "Patuakhali",
+    "latitude": "22.18709170",
+    "longitude": "89.71647060",
+    "CountryID": 19,
+    "StateID": 5523
+  },
+  {
+    "id": 153862,
+    "name": "Pirojpur",
+    "latitude": "22.50937910",
+    "longitude": "89.36434220",
+    "CountryID": 19,
+    "StateID": 5524
+  },
+  {
+    "id": 153874,
+    "name": "Rajbari",
+    "latitude": "23.73843000",
+    "longitude": "89.25547000",
+    "CountryID": 19,
+    "StateID": 5525
+  },
+  {
+    "id": 153891,
+    "name": "Rajshahi",
+    "latitude": "24.42073360",
+    "longitude": "88.29602140",
+    "CountryID": 19,
+    "StateID": 5526
+  },
+  {
+    "id": 8576,
+    "name": "Rangamati",
+    "latitude": "22.63333000",
+    "longitude": "92.20000000",
+    "CountryID": 19,
+    "StateID": 5527
+  },
+  {
+    "id": 153904,
+    "name": "Rangpur",
+    "latitude": "25.62390240",
+    "longitude": "88.90094980",
+    "CountryID": 19,
+    "StateID": 5528
+  },
+  {
+    "id": 153885,
+    "name": "Satkhira",
+    "latitude": "22.29898590",
+    "longitude": "88.47540870",
+    "CountryID": 19,
+    "StateID": 5529
+  },
+  {
+    "id": 153875,
+    "name": "Shariatpur",
+    "latitude": "23.23124340",
+    "longitude": "90.08293470",
+    "CountryID": 19,
+    "StateID": 5530
+  },
+  {
+    "id": 153889,
+    "name": "Sherpur",
+    "latitude": "25.09260380",
+    "longitude": "89.76352070",
+    "CountryID": 19,
+    "StateID": 5531
+  },
+  {
+    "id": 153892,
+    "name": "Sirajganj",
+    "latitude": "24.39876240",
+    "longitude": "88.87641810",
+    "CountryID": 19,
+    "StateID": 5532
+  },
+  {
+    "id": 153908,
+    "name": "Sunamganj",
+    "latitude": "24.88905540",
+    "longitude": "91.00248270",
+    "CountryID": 19,
+    "StateID": 5533
+  },
+  {
+    "id": 153909,
+    "name": "Sylhet",
+    "latitude": "24.89189110",
+    "longitude": "91.73554950",
+    "CountryID": 19,
+    "StateID": 5534
+  },
+  {
+    "id": 153870,
+    "name": "Tangail",
+    "latitude": "24.37630700",
+    "longitude": "89.35804610",
+    "CountryID": 19,
+    "StateID": 5535
+  },
+  {
+    "id": 153905,
+    "name": "Thakurgaon",
+    "latitude": "25.93648420",
+    "longitude": "88.03366640",
+    "CountryID": 19,
+    "StateID": 5536
+  }
+]

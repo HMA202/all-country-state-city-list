@@ -1,0 +1,189 @@
+[
+  {
+    "id": 5415,
+    "name": "Acoua",
+    "iso2": "14",
+    "native": "Acoua",
+    "latitude": "-12.72432450",
+    "longitude": "45.05893720",
+    "type": "commune",
+    "timezone": "Indian/Mayotte",
+    "CountryID": 141
+  },
+  {
+    "id": 5417,
+    "name": "Bandraboua",
+    "iso2": "16",
+    "native": "Bandraboua",
+    "latitude": "-12.70454820",
+    "longitude": "45.12219260",
+    "type": "commune",
+    "timezone": "Indian/Mayotte",
+    "CountryID": 141
+  },
+  {
+    "id": 5406,
+    "name": "Bandrélé",
+    "iso2": "05",
+    "native": "Bandrelé",
+    "latitude": "-12.91335860",
+    "longitude": "45.19286770",
+    "type": "commune",
+    "timezone": "Indian/Mayotte",
+    "CountryID": 141
+  },
+  {
+    "id": 5408,
+    "name": "Boueni",
+    "iso2": "07",
+    "native": "Bouen",
+    "latitude": "-12.91070860",
+    "longitude": "45.08012560",
+    "type": "commune",
+    "timezone": "Indian/Mayotte",
+    "CountryID": 141
+  },
+  {
+    "id": 5412,
+    "name": "Chiconi",
+    "iso2": "11",
+    "native": "Chiconi",
+    "latitude": "-12.83234970",
+    "longitude": "45.11497660",
+    "type": "commune",
+    "timezone": "Indian/Mayotte",
+    "CountryID": 141
+  },
+  {
+    "id": 5409,
+    "name": "Chirongui",
+    "iso2": "08",
+    "native": "Chirongui",
+    "latitude": "-12.93544000",
+    "longitude": "45.14921570",
+    "type": "commune",
+    "timezone": "Indian/Mayotte",
+    "CountryID": 141
+  },
+  {
+    "id": 5405,
+    "name": "Dembeni",
+    "iso2": "04",
+    "native": "Débat",
+    "latitude": "-12.84330810",
+    "longitude": "45.18399540",
+    "type": "commune",
+    "timezone": "Indian/Mayotte",
+    "CountryID": 141
+  },
+  {
+    "id": 5402,
+    "name": "Dzaoudzi",
+    "iso2": "01",
+    "native": "Leur",
+    "latitude": "-12.77606510",
+    "longitude": "45.25632460",
+    "type": "commune",
+    "timezone": "Indian/Mayotte",
+    "CountryID": 141
+  },
+  {
+    "id": 5407,
+    "name": "Kani Keli",
+    "iso2": "06",
+    "native": "Ce seul",
+    "latitude": "-12.95652220",
+    "longitude": "45.10526060",
+    "type": "commune",
+    "timezone": "Indian/Mayotte",
+    "CountryID": 141
+  },
+  {
+    "id": 5418,
+    "name": "Koungou",
+    "iso2": "17",
+    "native": "Maintenant",
+    "latitude": "-12.73575300",
+    "longitude": "45.20674590",
+    "type": "commune",
+    "timezone": "Indian/Mayotte",
+    "CountryID": 141
+  },
+  {
+    "id": 5414,
+    "name": "M'Tsangamouji",
+    "iso2": "13",
+    "native": "Entrée",
+    "latitude": "-12.76019410",
+    "longitude": "45.08768920",
+    "type": "commune",
+    "timezone": "Indian/Mayotte",
+    "CountryID": 141
+  },
+  {
+    "id": 5404,
+    "name": "Mamoudzou",
+    "iso2": "03",
+    "native": "Mamoudzou",
+    "latitude": "-12.78041360",
+    "longitude": "45.22797610",
+    "type": "commune",
+    "timezone": "Indian/Mayotte",
+    "CountryID": 141
+  },
+  {
+    "id": 5416,
+    "name": "Mtsamboro",
+    "iso2": "15",
+    "native": "Mtsamboro",
+    "latitude": "-12.69969690",
+    "longitude": "45.06799040",
+    "type": "commune",
+    "timezone": "Indian/Mayotte",
+    "CountryID": 141
+  },
+  {
+    "id": 5411,
+    "name": "Ouangani",
+    "iso2": "10",
+    "native": "Ambitieux",
+    "latitude": "-12.84982350",
+    "longitude": "45.13986640",
+    "type": "commune",
+    "timezone": "Indian/Mayotte",
+    "CountryID": 141
+  },
+  {
+    "id": 5403,
+    "name": "Pamandzi",
+    "iso2": "02",
+    "native": "En ville",
+    "latitude": "-12.79834460",
+    "longitude": "45.27465150",
+    "type": "commune",
+    "timezone": "Indian/Mayotte",
+    "CountryID": 141
+  },
+  {
+    "id": 5410,
+    "name": "Sada",
+    "iso2": "09",
+    "native": "Maintenant",
+    "latitude": "-12.85182890",
+    "longitude": "45.09931690",
+    "type": "commune",
+    "timezone": "Indian/Mayotte",
+    "CountryID": 141
+  },
+  {
+    "id": 5413,
+    "name": "Tsingoni",
+    "iso2": "12",
+    "native": "Tsingoni",
+    "latitude": "-12.78972520",
+    "longitude": "45.10380550",
+    "type": "commune",
+    "timezone": "Indian/Mayotte",
+    "CountryID": 141
+  }
+]

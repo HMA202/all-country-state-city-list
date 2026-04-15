@@ -1,0 +1,79 @@
+[
+  {
+    "id": 3172,
+    "name": "Azad Kashmir",
+    "iso2": "JK",
+    "native": "آزاد کشمیر",
+    "latitude": "33.84412000",
+    "longitude": "73.79664200",
+    "type": "administered area",
+    "timezone": "Asia/Karachi",
+    "CountryID": 167
+  },
+  {
+    "id": 3174,
+    "name": "Balochistan",
+    "iso2": "BA",
+    "native": "بلوچستان",
+    "latitude": "28.00000000",
+    "longitude": "66.00000000",
+    "type": "province",
+    "timezone": "Asia/Karachi",
+    "CountryID": 167
+  },
+  {
+    "id": 3170,
+    "name": "Gilgit-Baltistan",
+    "iso2": "GB",
+    "native": "گلگٹ بلتستان",
+    "latitude": "35.99999720",
+    "longitude": "75.00000230",
+    "type": "administered area",
+    "timezone": "Asia/Karachi",
+    "CountryID": 167
+  },
+  {
+    "id": 3169,
+    "name": "Islamabad",
+    "iso2": "IS",
+    "native": "اسلام آباد",
+    "latitude": "33.69381180",
+    "longitude": "73.06515110",
+    "type": "federal capital territory",
+    "timezone": "Asia/Karachi",
+    "CountryID": 167
+  },
+  {
+    "id": 3171,
+    "name": "Khyber Pakhtunkhwa",
+    "iso2": "KP",
+    "native": "خیبر پختوننہوا",
+    "latitude": "33.71280200",
+    "longitude": "71.26788050",
+    "type": "province",
+    "timezone": "Asia/Karachi",
+    "CountryID": 167
+  },
+  {
+    "id": 3176,
+    "name": "Punjab",
+    "iso2": "PB",
+    "native": "پنجاب",
+    "latitude": "31.00000000",
+    "longitude": "72.00000000",
+    "type": "province",
+    "timezone": "Asia/Karachi",
+    "CountryID": 167
+  },
+  {
+    "id": 3175,
+    "name": "Sindh",
+    "iso2": "SD",
+    "native": "سندھ",
+    "latitude": "25.50000000",
+    "longitude": "69.00000000",
+    "type": "province",
+    "timezone": "Asia/Karachi",
+    "CountryID": 167
+  }
+]

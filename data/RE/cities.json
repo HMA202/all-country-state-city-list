@@ -1,0 +1,194 @@
+[
+  {
+    "id": 155014,
+    "name": "Bras-Panon",
+    "latitude": "-21.03158160",
+    "longitude": "55.54416340",
+    "CountryID": 180,
+    "StateID": 5436
+  },
+  {
+    "id": 155015,
+    "name": "La Plaine-des-Palmistes",
+    "latitude": "-21.15295070",
+    "longitude": "55.56180140",
+    "CountryID": 180,
+    "StateID": 5436
+  },
+  {
+    "id": 155016,
+    "name": "Saint-André",
+    "latitude": "-20.95677270",
+    "longitude": "55.55486740",
+    "CountryID": 180,
+    "StateID": 5436
+  },
+  {
+    "id": 155017,
+    "name": "Saint-Benoît",
+    "latitude": "-21.08859460",
+    "longitude": "55.46640760",
+    "CountryID": 180,
+    "StateID": 5436
+  },
+  {
+    "id": 155018,
+    "name": "Sainte-Rose",
+    "latitude": "-21.17782890",
+    "longitude": "55.65939810",
+    "CountryID": 180,
+    "StateID": 5436
+  },
+  {
+    "id": 155019,
+    "name": "Salazie",
+    "latitude": "-21.05240970",
+    "longitude": "55.43213370",
+    "CountryID": 180,
+    "StateID": 5436
+  },
+  {
+    "id": 155020,
+    "name": "Saint-Denis",
+    "latitude": "-20.96456720",
+    "longitude": "55.41835300",
+    "CountryID": 180,
+    "StateID": 5437
+  },
+  {
+    "id": 155021,
+    "name": "Sainte-Marie",
+    "latitude": "-20.94628420",
+    "longitude": "55.44095870",
+    "CountryID": 180,
+    "StateID": 5437
+  },
+  {
+    "id": 155022,
+    "name": "Sainte-Suzanne",
+    "latitude": "-20.95063790",
+    "longitude": "55.51114750",
+    "CountryID": 180,
+    "StateID": 5437
+  },
+  {
+    "id": 155024,
+    "name": "La Possession",
+    "latitude": "-20.99667150",
+    "longitude": "55.30941960",
+    "CountryID": 180,
+    "StateID": 5438
+  },
+  {
+    "id": 155023,
+    "name": "Le Port",
+    "latitude": "-20.94599810",
+    "longitude": "55.26258390",
+    "CountryID": 180,
+    "StateID": 5438
+  },
+  {
+    "id": 155027,
+    "name": "Les Trois-Bassins",
+    "latitude": "-21.11380650",
+    "longitude": "55.25534670",
+    "CountryID": 180,
+    "StateID": 5438
+  },
+  {
+    "id": 155025,
+    "name": "Saint-Leu",
+    "latitude": "-21.18153740",
+    "longitude": "55.26075530",
+    "CountryID": 180,
+    "StateID": 5438
+  },
+  {
+    "id": 155026,
+    "name": "Saint-Paul",
+    "latitude": "-21.03656340",
+    "longitude": "55.17542230",
+    "CountryID": 180,
+    "StateID": 5438
+  },
+  {
+    "id": 155029,
+    "name": "Cilaos",
+    "latitude": "-21.14026750",
+    "longitude": "55.37314150",
+    "CountryID": 180,
+    "StateID": 5439
+  },
+  {
+    "id": 155030,
+    "name": "Entre-Deux",
+    "latitude": "-21.21073870",
+    "longitude": "55.41125940",
+    "CountryID": 180,
+    "StateID": 5439
+  },
+  {
+    "id": 155031,
+    "name": "L'Étang-Salé",
+    "latitude": "-21.23474080",
+    "longitude": "55.31636860",
+    "CountryID": 180,
+    "StateID": 5439
+  },
+  {
+    "id": 155037,
+    "name": "Le Tampon",
+    "latitude": "-21.22500920",
+    "longitude": "55.48765410",
+    "CountryID": 180,
+    "StateID": 5439
+  },
+  {
+    "id": 155028,
+    "name": "Les Avirons",
+    "latitude": "-21.20186830",
+    "longitude": "55.32166090",
+    "CountryID": 180,
+    "StateID": 5439
+  },
+  {
+    "id": 155032,
+    "name": "Petite-Île",
+    "latitude": "-21.33296780",
+    "longitude": "55.52942050",
+    "CountryID": 180,
+    "StateID": 5439
+  },
+  {
+    "id": 155033,
+    "name": "Saint-Joseph",
+    "latitude": "-21.29211860",
+    "longitude": "55.56161730",
+    "CountryID": 180,
+    "StateID": 5439
+  },
+  {
+    "id": 155034,
+    "name": "Saint-Louis",
+    "latitude": "-21.22548290",
+    "longitude": "55.34004400",
+    "CountryID": 180,
+    "StateID": 5439
+  },
+  {
+    "id": 155035,
+    "name": "Saint-Philippe",
+    "latitude": "-21.30837500",
+    "longitude": "55.66118340",
+    "CountryID": 180,
+    "StateID": 5439
+  },
+  {
+    "id": 155036,
+    "name": "Saint-Pierre",
+    "latitude": "-21.30893030",
+    "longitude": "55.33953130",
+    "CountryID": 180,
+    "StateID": 5439
+  }
+]

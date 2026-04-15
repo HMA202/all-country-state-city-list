@@ -1,0 +1,130 @@
+[
+  {
+    "id": 154082,
+    "name": "Andreas",
+    "latitude": "54.36841400",
+    "longitude": "-4.52114630",
+    "CountryID": 136,
+    "StateID": 5303
+  },
+  {
+    "id": 154083,
+    "name": "Bride",
+    "latitude": "54.38316570",
+    "longitude": "-4.40803560",
+    "CountryID": 136,
+    "StateID": 5303
+  },
+  {
+    "id": 154084,
+    "name": "Lezayre",
+    "latitude": "54.29621930",
+    "longitude": "-4.53110150",
+    "CountryID": 136,
+    "StateID": 5303
+  },
+  {
+    "id": 154085,
+    "name": "Lonan",
+    "latitude": "54.22104520",
+    "longitude": "-4.50103060",
+    "CountryID": 136,
+    "StateID": 5304
+  },
+  {
+    "id": 154086,
+    "name": "Maughold",
+    "latitude": "54.25494540",
+    "longitude": "-4.51223490",
+    "CountryID": 136,
+    "StateID": 5304
+  },
+  {
+    "id": 154087,
+    "name": "Onchan",
+    "latitude": "54.19815080",
+    "longitude": "-4.54908980",
+    "CountryID": 136,
+    "StateID": 5304
+  },
+  {
+    "id": 154088,
+    "name": "German",
+    "latitude": "54.21871450",
+    "longitude": "-4.70652730",
+    "CountryID": 136,
+    "StateID": 5305
+  },
+  {
+    "id": 154089,
+    "name": "Ballaugh",
+    "latitude": "54.30481210",
+    "longitude": "-4.62075260",
+    "CountryID": 136,
+    "StateID": 5306
+  },
+  {
+    "id": 154090,
+    "name": "Jurby",
+    "latitude": "54.35905280",
+    "longitude": "-4.54065860",
+    "CountryID": 136,
+    "StateID": 5306
+  },
+  {
+    "id": 154091,
+    "name": "Michael",
+    "latitude": "54.27427780",
+    "longitude": "-4.64273250",
+    "CountryID": 136,
+    "StateID": 5306
+  },
+  {
+    "id": 154092,
+    "name": "Braddan",
+    "latitude": "54.16328280",
+    "longitude": "-4.52585060",
+    "CountryID": 136,
+    "StateID": 5307
+  },
+  {
+    "id": 154093,
+    "name": "Marown",
+    "latitude": "54.18462420",
+    "longitude": "-4.64952180",
+    "CountryID": 136,
+    "StateID": 5307
+  },
+  {
+    "id": 154094,
+    "name": "Santon",
+    "latitude": "54.12054890",
+    "longitude": "-4.64937750",
+    "CountryID": 136,
+    "StateID": 5307
+  },
+  {
+    "id": 154095,
+    "name": "Arbory",
+    "latitude": "54.10878070",
+    "longitude": "-4.83564540",
+    "CountryID": 136,
+    "StateID": 5308
+  },
+  {
+    "id": 154097,
+    "name": "Malew",
+    "latitude": "54.11180490",
+    "longitude": "-4.80138270",
+    "CountryID": 136,
+    "StateID": 5308
+  },
+  {
+    "id": 154096,
+    "name": "Rushen",
+    "latitude": "54.09084920",
+    "longitude": "-4.84149820",
+    "CountryID": 136,
+    "StateID": 5308
+  }
+]

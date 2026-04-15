@@ -1,0 +1,156 @@
+[
+  {
+    "id": 4139,
+    "name": "Ahuachapán",
+    "iso2": "AH",
+    "native": "Ahuachapán",
+    "latitude": "13.86349930",
+    "longitude": "-89.92738610",
+    "type": "department",
+    "timezone": "America/El_Salvador",
+    "CountryID": 66
+  },
+  {
+    "id": 4132,
+    "name": "Cabañas",
+    "iso2": "CA",
+    "native": "Cabañas",
+    "latitude": "13.88329140",
+    "longitude": "-88.73830960",
+    "type": "department",
+    "timezone": "America/El_Salvador",
+    "CountryID": 66
+  },
+  {
+    "id": 4131,
+    "name": "Chalatenango",
+    "iso2": "CH",
+    "native": "Chalatenango",
+    "latitude": "14.17653110",
+    "longitude": "-89.09329630",
+    "type": "department",
+    "timezone": "America/El_Salvador",
+    "CountryID": 66
+  },
+  {
+    "id": 4137,
+    "name": "Cuscatlán",
+    "iso2": "CU",
+    "native": "Cuscatlán",
+    "latitude": "13.85869030",
+    "longitude": "-89.06325920",
+    "type": "department",
+    "timezone": "America/El_Salvador",
+    "CountryID": 66
+  },
+  {
+    "id": 4134,
+    "name": "La Libertad",
+    "iso2": "LI",
+    "native": "La Libertad",
+    "latitude": "13.74496220",
+    "longitude": "-89.36108190",
+    "type": "department",
+    "timezone": "America/El_Salvador",
+    "CountryID": 66
+  },
+  {
+    "id": 4136,
+    "name": "La Paz",
+    "iso2": "PA",
+    "native": "La Paz",
+    "latitude": "13.46697660",
+    "longitude": "-88.98506220",
+    "type": "department",
+    "timezone": "America/El_Salvador",
+    "CountryID": 66
+  },
+  {
+    "id": 4138,
+    "name": "La Unión ",
+    "iso2": "UN",
+    "native": "La Unión ",
+    "latitude": "13.53263180",
+    "longitude": "-87.90258200",
+    "type": "department",
+    "timezone": "America/El_Salvador",
+    "CountryID": 66
+  },
+  {
+    "id": 4130,
+    "name": "Morazán",
+    "iso2": "MO",
+    "native": "Morazán",
+    "latitude": "13.77261760",
+    "longitude": "-88.09519730",
+    "type": "department",
+    "timezone": "America/El_Salvador",
+    "CountryID": 66
+  },
+  {
+    "id": 4135,
+    "name": "San Miguel",
+    "iso2": "SM",
+    "native": "San Miguel",
+    "latitude": "13.43202240",
+    "longitude": "-88.27173700",
+    "type": "department",
+    "timezone": "America/El_Salvador",
+    "CountryID": 66
+  },
+  {
+    "id": 4133,
+    "name": "San Salvador",
+    "iso2": "SS",
+    "native": "San Salvador",
+    "latitude": "13.73558800",
+    "longitude": "-89.20055460",
+    "type": "department",
+    "timezone": "America/El_Salvador",
+    "CountryID": 66
+  },
+  {
+    "id": 4127,
+    "name": "San Vicente",
+    "iso2": "SV",
+    "native": "San Vicente",
+    "latitude": "13.52749350",
+    "longitude": "-88.73969860",
+    "type": "department",
+    "timezone": "America/El_Salvador",
+    "CountryID": 66
+  },
+  {
+    "id": 4128,
+    "name": "Santa Ana",
+    "iso2": "SA",
+    "native": "Santa Ana",
+    "latitude": "14.11455850",
+    "longitude": "-89.56781410",
+    "type": "department",
+    "timezone": "America/El_Salvador",
+    "CountryID": 66
+  },
+  {
+    "id": 4140,
+    "name": "Sonsonate",
+    "iso2": "SO",
+    "native": "Sonsonate",
+    "latitude": "13.71151050",
+    "longitude": "-89.66058420",
+    "type": "department",
+    "timezone": "America/El_Salvador",
+    "CountryID": 66
+  },
+  {
+    "id": 4129,
+    "name": "Usulután",
+    "iso2": "US",
+    "native": "Usulután",
+    "latitude": "13.43247020",
+    "longitude": "-88.53983580",
+    "type": "department",
+    "timezone": "America/El_Salvador",
+    "CountryID": 66
+  }
+]

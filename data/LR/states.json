@@ -1,0 +1,167 @@
+[
+  {
+    "id": 3041,
+    "name": "Bomi",
+    "iso2": "BM",
+    "native": "Bomi",
+    "latitude": "6.71778560",
+    "longitude": "-10.78817660",
+    "type": "county",
+    "timezone": "Africa/Monrovia",
+    "CountryID": 123
+  },
+  {
+    "id": 3034,
+    "name": "Bong",
+    "iso2": "BG",
+    "native": "Bong",
+    "latitude": "6.96221950",
+    "longitude": "-9.71344590",
+    "type": "county",
+    "timezone": "Africa/Monrovia",
+    "CountryID": 123
+  },
+  {
+    "id": 3044,
+    "name": "Gbarpolu",
+    "iso2": "GP",
+    "native": "Gbarpolu",
+    "latitude": "7.26815640",
+    "longitude": "-10.38147710",
+    "type": "county",
+    "timezone": "Africa/Monrovia",
+    "CountryID": 123
+  },
+  {
+    "id": 3040,
+    "name": "Grand Bassa",
+    "iso2": "GB",
+    "native": "Grand Bassa",
+    "latitude": "6.16406210",
+    "longitude": "-9.89566900",
+    "type": "county",
+    "timezone": "Africa/Monrovia",
+    "CountryID": 123
+  },
+  {
+    "id": 3036,
+    "name": "Grand Cape Mount",
+    "iso2": "CM",
+    "native": "Grand Cape Mount",
+    "latitude": "7.04962060",
+    "longitude": "-11.12984300",
+    "type": "county",
+    "timezone": "Africa/Monrovia",
+    "CountryID": 123
+  },
+  {
+    "id": 3039,
+    "name": "Grand Gedeh",
+    "iso2": "GG",
+    "native": "Grand Gedeh",
+    "latitude": "5.81615330",
+    "longitude": "-8.09955370",
+    "type": "county",
+    "timezone": "Africa/Monrovia",
+    "CountryID": 123
+  },
+  {
+    "id": 3045,
+    "name": "Grand Kru",
+    "iso2": "GK",
+    "native": "Grand crew",
+    "latitude": "4.84932000",
+    "longitude": "-8.33088450",
+    "type": "county",
+    "timezone": "Africa/Monrovia",
+    "CountryID": 123
+  },
+  {
+    "id": 3037,
+    "name": "Lofa",
+    "iso2": "LO",
+    "native": "Applaud",
+    "latitude": "7.88240460",
+    "longitude": "-9.97602970",
+    "type": "county",
+    "timezone": "Africa/Monrovia",
+    "CountryID": 123
+  },
+  {
+    "id": 3043,
+    "name": "Margibi",
+    "iso2": "MG",
+    "native": "Margibi",
+    "latitude": "6.60536760",
+    "longitude": "-10.17584290",
+    "type": "county",
+    "timezone": "Africa/Monrovia",
+    "CountryID": 123
+  },
+  {
+    "id": 3042,
+    "name": "Maryland",
+    "iso2": "MY",
+    "native": "Maryland",
+    "latitude": "4.63553760",
+    "longitude": "-7.72816690",
+    "type": "county",
+    "timezone": "Africa/Monrovia",
+    "CountryID": 123
+  },
+  {
+    "id": 3032,
+    "name": "Montserrado",
+    "iso2": "MO",
+    "native": "Montserrado",
+    "latitude": "6.40955370",
+    "longitude": "-10.60594030",
+    "type": "county",
+    "timezone": "Africa/Monrovia",
+    "CountryID": 123
+  },
+  {
+    "id": 3046,
+    "name": "Nimba",
+    "iso2": "NI",
+    "native": "If",
+    "latitude": "6.80888130",
+    "longitude": "-8.74614480",
+    "type": "county",
+    "timezone": "Africa/Monrovia",
+    "CountryID": 123
+  },
+  {
+    "id": 3033,
+    "name": "River Cess",
+    "iso2": "RI",
+    "native": "River Cess",
+    "latitude": "5.90873310",
+    "longitude": "-9.39382670",
+    "type": "county",
+    "timezone": "Africa/Monrovia",
+    "CountryID": 123
+  },
+  {
+    "id": 3038,
+    "name": "River Gee",
+    "iso2": "RG",
+    "native": "River Gee",
+    "latitude": "5.26539030",
+    "longitude": "-7.88562030",
+    "type": "county",
+    "timezone": "Africa/Monrovia",
+    "CountryID": 123
+  },
+  {
+    "id": 3035,
+    "name": "Sinoe",
+    "iso2": "SI",
+    "native": "SINOIE",
+    "latitude": "5.32326930",
+    "longitude": "-8.84359550",
+    "type": "county",
+    "timezone": "Africa/Monrovia",
+    "CountryID": 123
+  }
+]

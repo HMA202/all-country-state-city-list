@@ -1,0 +1,123 @@
+[
+  {
+    "id": 4763,
+    "name": "A'ana",
+    "iso2": "AA",
+    "native": "Apu",
+    "latitude": "-13.83717570",
+    "longitude": "-171.99508690",
+    "type": "district",
+    "timezone": "Pacific/Apia",
+    "CountryID": 191
+  },
+  {
+    "id": 4761,
+    "name": "Aiga-i-le-Tai",
+    "iso2": "AL",
+    "native": "Aiga-i-le-Tai",
+    "latitude": "-13.86203100",
+    "longitude": "-172.03283710",
+    "type": "district",
+    "timezone": "Pacific/Apia",
+    "CountryID": 191
+  },
+  {
+    "id": 4765,
+    "name": "Atua",
+    "iso2": "AT",
+    "native": "Atua",
+    "latitude": "-13.95487800",
+    "longitude": "-171.65124550",
+    "type": "district",
+    "timezone": "Pacific/Apia",
+    "CountryID": 191
+  },
+  {
+    "id": 4764,
+    "name": "Fa'asaleleaga",
+    "iso2": "FA",
+    "native": "Fa'asaleleaga",
+    "latitude": "-13.63076380",
+    "longitude": "-172.23659810",
+    "type": "district",
+    "timezone": "Pacific/Apia",
+    "CountryID": 191
+  },
+  {
+    "id": 4769,
+    "name": "Gaga'emauga",
+    "iso2": "GE",
+    "native": "Gaga'emauga",
+    "latitude": "-13.54286660",
+    "longitude": "-172.36688700",
+    "type": "district",
+    "timezone": "Pacific/Apia",
+    "CountryID": 191
+  },
+  {
+    "id": 4771,
+    "name": "Gaga'ifomauga",
+    "iso2": "GI",
+    "native": "Gaga'ifomauga",
+    "latitude": "-13.54680070",
+    "longitude": "-172.49693310",
+    "type": "district",
+    "timezone": "Pacific/Apia",
+    "CountryID": 191
+  },
+  {
+    "id": 4767,
+    "name": "Palauli",
+    "iso2": "PA",
+    "native": "Palauli",
+    "latitude": "-13.70635770",
+    "longitude": "-172.48397010",
+    "type": "district",
+    "timezone": "Pacific/Apia",
+    "CountryID": 191
+  },
+  {
+    "id": 4762,
+    "name": "Satupa'itea",
+    "iso2": "SA",
+    "native": "Satupa'itea",
+    "latitude": "-13.74143280",
+    "longitude": "-172.34066830",
+    "type": "district",
+    "timezone": "Pacific/Apia",
+    "CountryID": 191
+  },
+  {
+    "id": 4770,
+    "name": "Tuamasaga",
+    "iso2": "TU",
+    "native": "Tuamasaga",
+    "latitude": "-13.92188040",
+    "longitude": "-171.80071960",
+    "type": "district",
+    "timezone": "Pacific/Apia",
+    "CountryID": 191
+  },
+  {
+    "id": 4768,
+    "name": "Va'a-o-Fonoti",
+    "iso2": "VF",
+    "native": "Vaʻi-O-phonoti",
+    "latitude": "-13.94709030",
+    "longitude": "-171.54318720",
+    "type": "district",
+    "timezone": "Pacific/Apia",
+    "CountryID": 191
+  },
+  {
+    "id": 4766,
+    "name": "Vaisigano",
+    "iso2": "VS",
+    "native": "Vaisigano",
+    "latitude": "-13.55956560",
+    "longitude": "-172.65937980",
+    "type": "district",
+    "timezone": "Pacific/Apia",
+    "CountryID": 191
+  }
+]

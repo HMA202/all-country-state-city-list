@@ -1,0 +1,211 @@
+[
+  {
+    "id": 5254,
+    "name": "Agana Heights",
+    "iso2": "01",
+    "native": "Agana Heights",
+    "latitude": "13.46554410",
+    "longitude": "144.74657140",
+    "type": "village",
+    "timezone": "Pacific/Guam",
+    "CountryID": 89
+  },
+  {
+    "id": 5255,
+    "name": "Asan-Maina",
+    "iso2": "02",
+    "native": "Asan-Maina",
+    "latitude": "13.47764720",
+    "longitude": "144.73085880",
+    "type": "village",
+    "timezone": "Pacific/Guam",
+    "CountryID": 89
+  },
+  {
+    "id": 5256,
+    "name": "Barrigada",
+    "iso2": "03",
+    "native": "Barrigada",
+    "latitude": "13.46940920",
+    "longitude": "144.80106000",
+    "type": "village",
+    "timezone": "Pacific/Guam",
+    "CountryID": 89
+  },
+  {
+    "id": 5257,
+    "name": "Chalan Pago-Ordot",
+    "iso2": "04",
+    "native": "Boy Pago-Cordot",
+    "latitude": "13.44137200",
+    "longitude": "144.76702410",
+    "type": "village",
+    "timezone": "Pacific/Guam",
+    "CountryID": 89
+  },
+  {
+    "id": 5258,
+    "name": "Dededo",
+    "iso2": "05",
+    "native": "Dededo",
+    "latitude": "13.51905400",
+    "longitude": "144.83783880",
+    "type": "village",
+    "timezone": "Pacific/Guam",
+    "CountryID": 89
+  },
+  {
+    "id": 5259,
+    "name": "Hågat",
+    "iso2": "06",
+    "native": "Hågat",
+    "latitude": "13.38476100",
+    "longitude": "144.65807140",
+    "type": "village",
+    "timezone": "Pacific/Guam",
+    "CountryID": 89
+  },
+  {
+    "id": 5265,
+    "name": "Hagåtña",
+    "iso2": "12",
+    "native": "snail",
+    "latitude": "13.47481480",
+    "longitude": "144.75161910",
+    "type": "village",
+    "timezone": "Pacific/Guam",
+    "CountryID": 89
+  },
+  {
+    "id": 5261,
+    "name": "Inarajan (Inalåhan)",
+    "iso2": "08",
+    "native": "Inrajan (Inalåhan)",
+    "latitude": "13.27976640",
+    "longitude": "144.74322660",
+    "type": "village",
+    "timezone": "Pacific/Guam",
+    "CountryID": 89
+  },
+  {
+    "id": 5263,
+    "name": "Mangilao",
+    "iso2": "10",
+    "native": "Mangilao",
+    "latitude": "13.44399150",
+    "longitude": "144.80505280",
+    "type": "village",
+    "timezone": "Pacific/Guam",
+    "CountryID": 89
+  },
+  {
+    "id": 5262,
+    "name": "Merizo (Malesso)",
+    "iso2": "09",
+    "native": "Merizo (Malesso)",
+    "latitude": "13.26829750",
+    "longitude": "144.67261060",
+    "type": "village",
+    "timezone": "Pacific/Guam",
+    "CountryID": 89
+  },
+  {
+    "id": 5264,
+    "name": "Mongmong-Toto-Maite",
+    "iso2": "11",
+    "native": "Mongmong-Toto-Maite",
+    "latitude": "13.46743180",
+    "longitude": "144.76802820",
+    "type": "village",
+    "timezone": "Pacific/Guam",
+    "CountryID": 89
+  },
+  {
+    "id": 5266,
+    "name": "Piti",
+    "iso2": "13",
+    "native": "Kept",
+    "latitude": "13.46474460",
+    "longitude": "144.68769820",
+    "type": "village",
+    "timezone": "Pacific/Guam",
+    "CountryID": 89
+  },
+  {
+    "id": 5267,
+    "name": "Santa Rita (Sånta Rita-Sumai)",
+    "iso2": "14",
+    "native": "Santa Rita (Sånta Rita-Sumai)",
+    "latitude": "13.38678740",
+    "longitude": "144.66642270",
+    "type": "village",
+    "timezone": "Pacific/Guam",
+    "CountryID": 89
+  },
+  {
+    "id": 5268,
+    "name": "Sinajana",
+    "iso2": "15",
+    "native": "Sinajana",
+    "latitude": "13.46094860",
+    "longitude": "144.74612080",
+    "type": "village",
+    "timezone": "Pacific/Guam",
+    "CountryID": 89
+  },
+  {
+    "id": 5269,
+    "name": "Talofofo (Talo'fo'fo)",
+    "iso2": "16",
+    "native": "Tapeable (Shots'fos)",
+    "latitude": "13.35390400",
+    "longitude": "144.75329320",
+    "type": "village",
+    "timezone": "Pacific/Guam",
+    "CountryID": 89
+  },
+  {
+    "id": 5270,
+    "name": "Tamuning",
+    "iso2": "17",
+    "native": "Tamuning",
+    "latitude": "13.49447620",
+    "longitude": "144.78045820",
+    "type": "village",
+    "timezone": "Pacific/Guam",
+    "CountryID": 89
+  },
+  {
+    "id": 5260,
+    "name": "Umatac (Humåtak)",
+    "iso2": "07",
+    "native": "Umatac (Humåtak)",
+    "latitude": "13.29457770",
+    "longitude": "144.65382830",
+    "type": "village",
+    "timezone": "Pacific/Guam",
+    "CountryID": 89
+  },
+  {
+    "id": 5271,
+    "name": "Yigo",
+    "iso2": "18",
+    "native": "Yigo",
+    "latitude": "13.53794240",
+    "longitude": "144.89849550",
+    "type": "village",
+    "timezone": "Pacific/Guam",
+    "CountryID": 89
+  },
+  {
+    "id": 5272,
+    "name": "Yona",
+    "iso2": "19",
+    "native": "Yona",
+    "latitude": "13.41376000",
+    "longitude": "144.77441300",
+    "type": "village",
+    "timezone": "Pacific/Guam",
+    "CountryID": 89
+  }
+]

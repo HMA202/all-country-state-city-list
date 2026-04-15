@@ -1,0 +1,57 @@
+[
+  {
+    "id": 261,
+    "name": "Eastern",
+    "iso2": "02",
+    "native": "Iburasirazuba",
+    "latitude": "-1.74151360",
+    "longitude": "30.54042820",
+    "type": "province",
+    "timezone": "Africa/Kigali",
+    "CountryID": 183
+  },
+  {
+    "id": 262,
+    "name": "Kigali",
+    "iso2": "01",
+    "native": "Kigali",
+    "latitude": "-1.95085100",
+    "longitude": "30.06150700",
+    "type": "city",
+    "timezone": "Africa/Kigali",
+    "CountryID": 183
+  },
+  {
+    "id": 263,
+    "name": "Northern",
+    "iso2": "03",
+    "native": "Amajyaruguru",
+    "latitude": "-1.58096990",
+    "longitude": "29.92697760",
+    "type": "province",
+    "timezone": "Africa/Kigali",
+    "CountryID": 183
+  },
+  {
+    "id": 259,
+    "name": "Southern",
+    "iso2": "05",
+    "native": "Amajyepfo",
+    "latitude": "-2.62721370",
+    "longitude": "29.60630490",
+    "type": "province",
+    "timezone": "Africa/Kigali",
+    "CountryID": 183
+  },
+  {
+    "id": 260,
+    "name": "Western",
+    "iso2": "04",
+    "native": "Western",
+    "latitude": "-0.77278910",
+    "longitude": "30.08843240",
+    "type": "province",
+    "timezone": "Africa/Kigali",
+    "CountryID": 183
+  }
+]

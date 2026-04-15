@@ -1,0 +1,74 @@
+[
+  {
+    "id": 102906,
+    "name": "Anse Boileau",
+    "latitude": "-4.71667000",
+    "longitude": "55.48333000",
+    "CountryID": 197,
+    "StateID": 513
+  },
+  {
+    "id": 160109,
+    "name": "Anse Etoile",
+    "latitude": "-4.59166667",
+    "longitude": "55.45000000",
+    "CountryID": 197,
+    "StateID": 5694
+  },
+  {
+    "id": 102907,
+    "name": "Anse Royale",
+    "latitude": "-4.73333000",
+    "longitude": "55.51667000",
+    "CountryID": 197,
+    "StateID": 502
+  },
+  {
+    "id": 102908,
+    "name": "Beau Vallon",
+    "latitude": "-4.62091000",
+    "longitude": "55.43015000",
+    "CountryID": 197,
+    "StateID": 512
+  },
+  {
+    "id": 102909,
+    "name": "Bel Ombre",
+    "latitude": "-4.61667000",
+    "longitude": "55.41667000",
+    "CountryID": 197,
+    "StateID": 505
+  },
+  {
+    "id": 102910,
+    "name": "Cascade",
+    "latitude": "-4.66667000",
+    "longitude": "55.50000000",
+    "CountryID": 197,
+    "StateID": 517
+  },
+  {
+    "id": 102913,
+    "name": "Victoria",
+    "latitude": "-4.62001000",
+    "longitude": "55.45501000",
+    "CountryID": 197,
+    "StateID": 516
+  },
+  {
+    "id": 102911,
+    "name": "Port Glaud",
+    "latitude": "-4.66667000",
+    "longitude": "55.41667000",
+    "CountryID": 197,
+    "StateID": 507
+  },
+  {
+    "id": 102912,
+    "name": "Takamaka",
+    "latitude": "-4.76667000",
+    "longitude": "55.50000000",
+    "CountryID": 197,
+    "StateID": 509
+  }
+]

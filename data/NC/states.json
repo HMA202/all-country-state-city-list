@@ -1,0 +1,35 @@
+[
+  {
+    "id": 5227,
+    "name": "Loyalty Islands Province",
+    "iso2": "03",
+    "native": "Loyalty Islands Province",
+    "latitude": "-20.97296600",
+    "longitude": "167.28842950",
+    "type": "province",
+    "timezone": "Pacific/Noumea",
+    "CountryID": 157
+  },
+  {
+    "id": 5226,
+    "name": "North Province",
+    "iso2": "02",
+    "native": "Province du Nord",
+    "latitude": "-20.14725120",
+    "longitude": "164.12375680",
+    "type": "province",
+    "timezone": "Pacific/Noumea",
+    "CountryID": 157
+  },
+  {
+    "id": 5225,
+    "name": "South Province",
+    "iso2": "01",
+    "native": "Province du sud",
+    "latitude": "-22.27584210",
+    "longitude": "166.64179460",
+    "type": "province",
+    "timezone": "Pacific/Noumea",
+    "CountryID": 157
+  }
+]

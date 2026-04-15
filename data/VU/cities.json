@@ -1,0 +1,58 @@
+[
+  {
+    "id": 130637,
+    "name": "Lakatoro",
+    "latitude": "-16.09992000",
+    "longitude": "167.41636000",
+    "CountryID": 237,
+    "StateID": 4775
+  },
+  {
+    "id": 130639,
+    "name": "Norsup",
+    "latitude": "-16.06536000",
+    "longitude": "167.39714000",
+    "CountryID": 237,
+    "StateID": 4775
+  },
+  {
+    "id": 130638,
+    "name": "Luganville",
+    "latitude": "-15.51989000",
+    "longitude": "167.16235000",
+    "CountryID": 237,
+    "StateID": 4776
+  },
+  {
+    "id": 130640,
+    "name": "Port-Olry",
+    "latitude": "-15.04175000",
+    "longitude": "167.07265000",
+    "CountryID": 237,
+    "StateID": 4776
+  },
+  {
+    "id": 130641,
+    "name": "Port-Vila",
+    "latitude": "-17.73648000",
+    "longitude": "168.31366000",
+    "CountryID": 237,
+    "StateID": 4774
+  },
+  {
+    "id": 130636,
+    "name": "Isangel",
+    "latitude": "-19.54167000",
+    "longitude": "169.28167000",
+    "CountryID": 237,
+    "StateID": 4777
+  },
+  {
+    "id": 130642,
+    "name": "Sola",
+    "latitude": "-13.87611000",
+    "longitude": "167.55167000",
+    "CountryID": 237,
+    "StateID": 4772
+  }
+]

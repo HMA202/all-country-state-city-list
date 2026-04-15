@@ -1,0 +1,2498 @@
+[
+  {
+    "id": 104059,
+    "name": "Ajdovščina",
+    "latitude": "45.88601000",
+    "longitude": "13.90946000",
+    "CountryID": 201,
+    "StateID": 4183
+  },
+  {
+    "id": 104084,
+    "name": "Cirkulane",
+    "latitude": "46.34408000",
+    "longitude": "15.99472000",
+    "CountryID": 201,
+    "StateID": 4183
+  },
+  {
+    "id": 104174,
+    "name": "Lokavec",
+    "latitude": "45.90167000",
+    "longitude": "13.87972000",
+    "CountryID": 201,
+    "StateID": 4183
+  },
+  {
+    "id": 104060,
+    "name": "Ankaran",
+    "latitude": "45.57861000",
+    "longitude": "13.73611000",
+    "CountryID": 201,
+    "StateID": 4326
+  },
+  {
+    "id": 104061,
+    "name": "Apače",
+    "latitude": "46.69722000",
+    "longitude": "15.91056000",
+    "CountryID": 201,
+    "StateID": 4318
+  },
+  {
+    "id": 104063,
+    "name": "Beltinci",
+    "latitude": "46.60528000",
+    "longitude": "16.24056000",
+    "CountryID": 201,
+    "StateID": 4301
+  },
+  {
+    "id": 104104,
+    "name": "Gančani",
+    "latitude": "46.63250000",
+    "longitude": "16.25111000",
+    "CountryID": 201,
+    "StateID": 4301
+  },
+  {
+    "id": 104166,
+    "name": "Lipovci",
+    "latitude": "46.62833000",
+    "longitude": "16.22806000",
+    "CountryID": 201,
+    "StateID": 4301
+  },
+  {
+    "id": 104331,
+    "name": "Zgornje Gorje",
+    "latitude": "46.37962000",
+    "longitude": "14.06937000",
+    "CountryID": 201,
+    "StateID": 4301
+  },
+  {
+    "id": 104064,
+    "name": "Benedikt",
+    "latitude": "46.60861000",
+    "longitude": "15.88833000",
+    "CountryID": 201,
+    "StateID": 4166
+  },
+  {
+    "id": 104067,
+    "name": "Bistrica ob Sotli",
+    "latitude": "46.05889000",
+    "longitude": "15.66417000",
+    "CountryID": 201,
+    "StateID": 4179
+  },
+  {
+    "id": 104069,
+    "name": "Bled",
+    "latitude": "46.36917000",
+    "longitude": "14.11361000",
+    "CountryID": 201,
+    "StateID": 4202
+  },
+  {
+    "id": 104144,
+    "name": "Kostanjevica na Krki",
+    "latitude": "45.84611000",
+    "longitude": "15.42222000",
+    "CountryID": 201,
+    "StateID": 4202
+  },
+  {
+    "id": 104326,
+    "name": "Zasip",
+    "latitude": "46.39284000",
+    "longitude": "14.10869000",
+    "CountryID": 201,
+    "StateID": 4202
+  },
+  {
+    "id": 104207,
+    "name": "Nova Vas",
+    "latitude": "45.77167000",
+    "longitude": "14.50583000",
+    "CountryID": 201,
+    "StateID": 4278
+  },
+  {
+    "id": 104070,
+    "name": "Bohinjska Bistrica",
+    "latitude": "46.27216000",
+    "longitude": "13.95350000",
+    "CountryID": 201,
+    "StateID": 4282
+  },
+  {
+    "id": 104100,
+    "name": "Dragomer",
+    "latitude": "46.01667000",
+    "longitude": "14.38333000",
+    "CountryID": 201,
+    "StateID": 4282
+  },
+  {
+    "id": 104172,
+    "name": "Log pri Brezovici",
+    "latitude": "46.01667000",
+    "longitude": "14.36667000",
+    "CountryID": 201,
+    "StateID": 4282
+  },
+  {
+    "id": 104071,
+    "name": "Borovnica",
+    "latitude": "45.91583000",
+    "longitude": "14.36306000",
+    "CountryID": 201,
+    "StateID": 4200
+  },
+  {
+    "id": 104180,
+    "name": "Makole",
+    "latitude": "46.31722000",
+    "longitude": "15.66722000",
+    "CountryID": 201,
+    "StateID": 4200
+  },
+  {
+    "id": 104072,
+    "name": "Bovec",
+    "latitude": "46.33808000",
+    "longitude": "13.55245000",
+    "CountryID": 201,
+    "StateID": 4181
+  },
+  {
+    "id": 104190,
+    "name": "Mirna",
+    "latitude": "45.95528000",
+    "longitude": "15.06194000",
+    "CountryID": 201,
+    "StateID": 4181
+  },
+  {
+    "id": 104073,
+    "name": "Braslovče",
+    "latitude": "46.28972000",
+    "longitude": "15.03889000",
+    "CountryID": 201,
+    "StateID": 4141
+  },
+  {
+    "id": 104094,
+    "name": "Dobrovo",
+    "latitude": "45.99639000",
+    "longitude": "13.52639000",
+    "CountryID": 201,
+    "StateID": 4240
+  },
+  {
+    "id": 104195,
+    "name": "Mokronog",
+    "latitude": "45.93417000",
+    "longitude": "15.14083000",
+    "CountryID": 201,
+    "StateID": 4240
+  },
+  {
+    "id": 104076,
+    "name": "Brežice",
+    "latitude": "45.90333000",
+    "longitude": "15.59111000",
+    "CountryID": 201,
+    "StateID": 4215
+  },
+  {
+    "id": 104227,
+    "name": "Poljčane",
+    "latitude": "46.31194000",
+    "longitude": "15.57917000",
+    "CountryID": 201,
+    "StateID": 4215
+  },
+  {
+    "id": 104075,
+    "name": "Brezovica pri Ljubljani",
+    "latitude": "46.03333000",
+    "longitude": "14.40000000",
+    "CountryID": 201,
+    "StateID": 4165
+  },
+  {
+    "id": 104205,
+    "name": "Notranje Gorice",
+    "latitude": "45.98750000",
+    "longitude": "14.39889000",
+    "CountryID": 201,
+    "StateID": 4165
+  },
+  {
+    "id": 104214,
+    "name": "Opština Ljubljana-Vič-Rudnik",
+    "latitude": "46.03333000",
+    "longitude": "14.41667000",
+    "CountryID": 201,
+    "StateID": 4165
+  },
+  {
+    "id": 104254,
+    "name": "Rečica ob Savinji",
+    "latitude": "46.31667000",
+    "longitude": "14.91667000",
+    "CountryID": 201,
+    "StateID": 4165
+  },
+  {
+    "id": 104316,
+    "name": "Vnanje Gorice",
+    "latitude": "46.00722000",
+    "longitude": "14.42194000",
+    "CountryID": 201,
+    "StateID": 4165
+  },
+  {
+    "id": 104078,
+    "name": "Cankova",
+    "latitude": "46.72083000",
+    "longitude": "16.02250000",
+    "CountryID": 201,
+    "StateID": 4147
+  },
+  {
+    "id": 104079,
+    "name": "Celje",
+    "latitude": "46.23092000",
+    "longitude": "15.26044000",
+    "CountryID": 201,
+    "StateID": 4191
+  },
+  {
+    "id": 104168,
+    "name": "Ljubečna",
+    "latitude": "46.25567000",
+    "longitude": "15.32430000",
+    "CountryID": 201,
+    "StateID": 4191
+  },
+  {
+    "id": 104299,
+    "name": "Trnovlje pri Celju",
+    "latitude": "46.25667000",
+    "longitude": "15.29528000",
+    "CountryID": 201,
+    "StateID": 4191
+  },
+  {
+    "id": 104080,
+    "name": "Cerklje na Gorenjskem",
+    "latitude": "46.25417000",
+    "longitude": "14.48861000",
+    "CountryID": 201,
+    "StateID": 4310
+  },
+  {
+    "id": 104081,
+    "name": "Cerknica",
+    "latitude": "45.79306000",
+    "longitude": "14.36250000",
+    "CountryID": 201,
+    "StateID": 4162
+  },
+  {
+    "id": 104246,
+    "name": "Rakek",
+    "latitude": "45.81333000",
+    "longitude": "14.31111000",
+    "CountryID": 201,
+    "StateID": 4162
+  },
+  {
+    "id": 104082,
+    "name": "Cerkno",
+    "latitude": "46.12556000",
+    "longitude": "13.98167000",
+    "CountryID": 201,
+    "StateID": 4178
+  },
+  {
+    "id": 104083,
+    "name": "Cerkvenjak",
+    "latitude": "46.57056000",
+    "longitude": "15.94361000",
+    "CountryID": 201,
+    "StateID": 4176
+  },
+  {
+    "id": 104337,
+    "name": "Črenšovci",
+    "latitude": "46.55794000",
+    "longitude": "16.30410000",
+    "CountryID": 201,
+    "StateID": 4151
+  },
+  {
+    "id": 104338,
+    "name": "Črna na Koroškem",
+    "latitude": "46.47045000",
+    "longitude": "14.85009000",
+    "CountryID": 201,
+    "StateID": 4232
+  },
+  {
+    "id": 104339,
+    "name": "Črnomelj",
+    "latitude": "45.57111000",
+    "longitude": "15.18889000",
+    "CountryID": 201,
+    "StateID": 4291
+  },
+  {
+    "id": 104087,
+    "name": "Destrnik",
+    "latitude": "46.49254000",
+    "longitude": "15.87893000",
+    "CountryID": 201,
+    "StateID": 4304
+  },
+  {
+    "id": 104088,
+    "name": "Divača",
+    "latitude": "45.68472000",
+    "longitude": "13.97028000",
+    "CountryID": 201,
+    "StateID": 4167
+  },
+  {
+    "id": 104090,
+    "name": "Dobje pri Planini",
+    "latitude": "46.13747000",
+    "longitude": "15.39412000",
+    "CountryID": 201,
+    "StateID": 4295
+  },
+  {
+    "id": 104309,
+    "name": "Videm",
+    "latitude": "45.85000000",
+    "longitude": "14.69417000",
+    "CountryID": 201,
+    "StateID": 4216
+  },
+  {
+    "id": 104091,
+    "name": "Dobrna",
+    "latitude": "46.33750000",
+    "longitude": "15.22639000",
+    "CountryID": 201,
+    "StateID": 4252
+  },
+  {
+    "id": 104092,
+    "name": "Dobrova",
+    "latitude": "46.04580000",
+    "longitude": "14.39186000",
+    "CountryID": 201,
+    "StateID": 4308
+  },
+  {
+    "id": 104093,
+    "name": "Dobrovnik",
+    "latitude": "46.65139000",
+    "longitude": "16.35250000",
+    "CountryID": 201,
+    "StateID": 4189
+  },
+  {
+    "id": 104096,
+    "name": "Dol pri Ljubljani",
+    "latitude": "46.08861000",
+    "longitude": "14.60083000",
+    "CountryID": 201,
+    "StateID": 4173
+  },
+  {
+    "id": 104097,
+    "name": "Dolenjske Toplice",
+    "latitude": "45.75657000",
+    "longitude": "15.05917000",
+    "CountryID": 201,
+    "StateID": 4281
+  },
+  {
+    "id": 104089,
+    "name": "Dob",
+    "latitude": "46.15194000",
+    "longitude": "14.62861000",
+    "CountryID": 201,
+    "StateID": 4159
+  },
+  {
+    "id": 104098,
+    "name": "Domžale",
+    "latitude": "46.13774000",
+    "longitude": "14.59371000",
+    "CountryID": 201,
+    "StateID": 4159
+  },
+  {
+    "id": 104244,
+    "name": "Radomlje",
+    "latitude": "46.17361000",
+    "longitude": "14.61222000",
+    "CountryID": 201,
+    "StateID": 4159
+  },
+  {
+    "id": 104312,
+    "name": "Vir",
+    "latitude": "46.15325000",
+    "longitude": "14.60741000",
+    "CountryID": 201,
+    "StateID": 4159
+  },
+  {
+    "id": 104099,
+    "name": "Dornava",
+    "latitude": "46.43667000",
+    "longitude": "15.95361000",
+    "CountryID": 201,
+    "StateID": 4290
+  },
+  {
+    "id": 104102,
+    "name": "Dravograd",
+    "latitude": "46.58806000",
+    "longitude": "15.01917000",
+    "CountryID": 201,
+    "StateID": 4345
+  },
+  {
+    "id": 104283,
+    "name": "Spodnji Duplek",
+    "latitude": "46.50306000",
+    "longitude": "15.74528000",
+    "CountryID": 201,
+    "StateID": 4213
+  },
+  {
+    "id": 104334,
+    "name": "Zgornji Duplek",
+    "latitude": "46.51361000",
+    "longitude": "15.72083000",
+    "CountryID": 201,
+    "StateID": 4213
+  },
+  {
+    "id": 104106,
+    "name": "Gorenja Vas",
+    "latitude": "46.10722000",
+    "longitude": "14.14806000",
+    "CountryID": 201,
+    "StateID": 4293
+  },
+  {
+    "id": 104107,
+    "name": "Gorišnica",
+    "latitude": "46.41472000",
+    "longitude": "16.01389000",
+    "CountryID": 201,
+    "StateID": 4210
+  },
+  {
+    "id": 104108,
+    "name": "Gornja Radgona",
+    "latitude": "46.67333000",
+    "longitude": "15.99222000",
+    "CountryID": 201,
+    "StateID": 4343
+  },
+  {
+    "id": 104109,
+    "name": "Gornji Grad",
+    "latitude": "46.29528000",
+    "longitude": "14.80833000",
+    "CountryID": 201,
+    "StateID": 4339
+  },
+  {
+    "id": 104110,
+    "name": "Gornji Petrovci",
+    "latitude": "46.80528000",
+    "longitude": "16.22250000",
+    "CountryID": 201,
+    "StateID": 4271
+  },
+  {
+    "id": 104112,
+    "name": "Grad",
+    "latitude": "46.80000000",
+    "longitude": "16.10000000",
+    "CountryID": 201,
+    "StateID": 4217
+  },
+  {
+    "id": 104113,
+    "name": "Grosuplje",
+    "latitude": "45.95556000",
+    "longitude": "14.65889000",
+    "CountryID": 201,
+    "StateID": 4336
+  },
+  {
+    "id": 104357,
+    "name": "Šmarje-Sap",
+    "latitude": "45.97618000",
+    "longitude": "14.61177000",
+    "CountryID": 201,
+    "StateID": 4336
+  },
+  {
+    "id": 104279,
+    "name": "Spodnja Hajdina",
+    "latitude": "46.40889000",
+    "longitude": "15.84694000",
+    "CountryID": 201,
+    "StateID": 4145
+  },
+  {
+    "id": 104116,
+    "name": "Hotinja Vas",
+    "latitude": "46.46667000",
+    "longitude": "15.66667000",
+    "CountryID": 201,
+    "StateID": 4175
+  },
+  {
+    "id": 104242,
+    "name": "Radizel",
+    "latitude": "46.47444000",
+    "longitude": "15.65583000",
+    "CountryID": 201,
+    "StateID": 4175
+  },
+  {
+    "id": 104260,
+    "name": "Rogoza",
+    "latitude": "46.50000000",
+    "longitude": "15.68333000",
+    "CountryID": 201,
+    "StateID": 4175
+  },
+  {
+    "id": 104281,
+    "name": "Spodnje Hoče",
+    "latitude": "46.50000000",
+    "longitude": "15.65000000",
+    "CountryID": 201,
+    "StateID": 4175
+  },
+  {
+    "id": 104114,
+    "name": "Hodoš",
+    "latitude": "46.82333000",
+    "longitude": "16.33417000",
+    "CountryID": 201,
+    "StateID": 4327
+  },
+  {
+    "id": 104115,
+    "name": "Horjul",
+    "latitude": "46.02361000",
+    "longitude": "14.29917000",
+    "CountryID": 201,
+    "StateID": 4193
+  },
+  {
+    "id": 104095,
+    "name": "Dol pri Hrastniku",
+    "latitude": "46.14194000",
+    "longitude": "15.11278000",
+    "CountryID": 201,
+    "StateID": 4341
+  },
+  {
+    "id": 104118,
+    "name": "Hrastnik",
+    "latitude": "46.14611000",
+    "longitude": "15.08139000",
+    "CountryID": 201,
+    "StateID": 4341
+  },
+  {
+    "id": 104147,
+    "name": "Kozina",
+    "latitude": "45.61000000",
+    "longitude": "13.93556000",
+    "CountryID": 201,
+    "StateID": 4321
+  },
+  {
+    "id": 104122,
+    "name": "Idrija",
+    "latitude": "46.00278000",
+    "longitude": "14.03056000",
+    "CountryID": 201,
+    "StateID": 4152
+  },
+  {
+    "id": 104280,
+    "name": "Spodnja Idrija",
+    "latitude": "46.03194000",
+    "longitude": "14.02722000",
+    "CountryID": 201,
+    "StateID": 4152
+  },
+  {
+    "id": 104123,
+    "name": "Ig",
+    "latitude": "45.96028000",
+    "longitude": "14.52889000",
+    "CountryID": 201,
+    "StateID": 4286
+  },
+  {
+    "id": 104124,
+    "name": "Ilirska Bistrica",
+    "latitude": "45.56757000",
+    "longitude": "14.24571000",
+    "CountryID": 201,
+    "StateID": 4344
+  },
+  {
+    "id": 104125,
+    "name": "Ivančna Gorica",
+    "latitude": "45.93833000",
+    "longitude": "14.80444000",
+    "CountryID": 201,
+    "StateID": 4305
+  },
+  {
+    "id": 104350,
+    "name": "Šentvid pri Stični",
+    "latitude": "45.95004000",
+    "longitude": "14.84344000",
+    "CountryID": 201,
+    "StateID": 4305
+  },
+  {
+    "id": 104127,
+    "name": "Izola",
+    "latitude": "45.53694000",
+    "longitude": "13.66194000",
+    "CountryID": 201,
+    "StateID": 4322
+  },
+  {
+    "id": 104128,
+    "name": "Jagodje",
+    "latitude": "45.52845000",
+    "longitude": "13.64721000",
+    "CountryID": 201,
+    "StateID": 4322
+  },
+  {
+    "id": 104120,
+    "name": "Hrušica",
+    "latitude": "46.44500000",
+    "longitude": "14.01778000",
+    "CountryID": 201,
+    "StateID": 4337
+  },
+  {
+    "id": 104130,
+    "name": "Jesenice",
+    "latitude": "46.43056000",
+    "longitude": "14.06694000",
+    "CountryID": 201,
+    "StateID": 4337
+  },
+  {
+    "id": 104143,
+    "name": "Koroška Bela",
+    "latitude": "46.44913000",
+    "longitude": "14.11135000",
+    "CountryID": 201,
+    "StateID": 4337
+  },
+  {
+    "id": 104274,
+    "name": "Slovenski Javornik",
+    "latitude": "46.42611000",
+    "longitude": "14.08722000",
+    "CountryID": 201,
+    "StateID": 4337
+  },
+  {
+    "id": 104332,
+    "name": "Zgornje Jezersko",
+    "latitude": "46.39410000",
+    "longitude": "14.50659000",
+    "CountryID": 201,
+    "StateID": 4203
+  },
+  {
+    "id": 104131,
+    "name": "Juršinci",
+    "latitude": "46.48472000",
+    "longitude": "15.97139000",
+    "CountryID": 201,
+    "StateID": 4266
+  },
+  {
+    "id": 104133,
+    "name": "Kamnik",
+    "latitude": "46.22587000",
+    "longitude": "14.61207000",
+    "CountryID": 201,
+    "StateID": 4180
+  },
+  {
+    "id": 104184,
+    "name": "Mekinje",
+    "latitude": "46.23333000",
+    "longitude": "14.61667000",
+    "CountryID": 201,
+    "StateID": 4180
+  },
+  {
+    "id": 104355,
+    "name": "Šmarca",
+    "latitude": "46.19333000",
+    "longitude": "14.59667000",
+    "CountryID": 201,
+    "StateID": 4180
+  },
+  {
+    "id": 104086,
+    "name": "Deskle",
+    "latitude": "46.05307000",
+    "longitude": "13.61382000",
+    "CountryID": 201,
+    "StateID": 4227
+  },
+  {
+    "id": 104134,
+    "name": "Kanal",
+    "latitude": "46.08861000",
+    "longitude": "13.63972000",
+    "CountryID": 201,
+    "StateID": 4227
+  },
+  {
+    "id": 104135,
+    "name": "Kidričevo",
+    "latitude": "46.40361000",
+    "longitude": "15.79111000",
+    "CountryID": 201,
+    "StateID": 4150
+  },
+  {
+    "id": 104137,
+    "name": "Kobarid",
+    "latitude": "46.24761000",
+    "longitude": "13.57907000",
+    "CountryID": 201,
+    "StateID": 4243
+  },
+  {
+    "id": 104138,
+    "name": "Kobilje",
+    "latitude": "46.68472000",
+    "longitude": "16.39778000",
+    "CountryID": 201,
+    "StateID": 4325
+  },
+  {
+    "id": 104149,
+    "name": "Kočevje",
+    "latitude": "45.64333000",
+    "longitude": "14.86333000",
+    "CountryID": 201,
+    "StateID": 4335
+  },
+  {
+    "id": 104140,
+    "name": "Komen",
+    "latitude": "45.81528000",
+    "longitude": "13.74833000",
+    "CountryID": 201,
+    "StateID": 4315
+  },
+  {
+    "id": 104141,
+    "name": "Komenda",
+    "latitude": "46.20484000",
+    "longitude": "14.53839000",
+    "CountryID": 201,
+    "StateID": 4283
+  },
+  {
+    "id": 104199,
+    "name": "Moste",
+    "latitude": "46.19500000",
+    "longitude": "14.55139000",
+    "CountryID": 201,
+    "StateID": 4283
+  },
+  {
+    "id": 104085,
+    "name": "Dekani",
+    "latitude": "45.54972000",
+    "longitude": "13.81361000",
+    "CountryID": 201,
+    "StateID": 4319
+  },
+  {
+    "id": 104121,
+    "name": "Hrvatini",
+    "latitude": "45.58278000",
+    "longitude": "13.75667000",
+    "CountryID": 201,
+    "StateID": 4319
+  },
+  {
+    "id": 104142,
+    "name": "Koper",
+    "latitude": "45.54694000",
+    "longitude": "13.72944000",
+    "CountryID": 201,
+    "StateID": 4319
+  },
+  {
+    "id": 104223,
+    "name": "Pobegi",
+    "latitude": "45.53944000",
+    "longitude": "13.79611000",
+    "CountryID": 201,
+    "StateID": 4319
+  },
+  {
+    "id": 104231,
+    "name": "Prade",
+    "latitude": "45.54003000",
+    "longitude": "13.77607000",
+    "CountryID": 201,
+    "StateID": 4319
+  },
+  {
+    "id": 104282,
+    "name": "Spodnje Škofije",
+    "latitude": "45.57167000",
+    "longitude": "13.79250000",
+    "CountryID": 201,
+    "StateID": 4319
+  },
+  {
+    "id": 104288,
+    "name": "Sv. Anton",
+    "latitude": "45.52583000",
+    "longitude": "13.83194000",
+    "CountryID": 201,
+    "StateID": 4319
+  },
+  {
+    "id": 104145,
+    "name": "Kostel",
+    "latitude": "45.50842000",
+    "longitude": "14.91005000",
+    "CountryID": 201,
+    "StateID": 4331
+  },
+  {
+    "id": 104148,
+    "name": "Kozje",
+    "latitude": "46.07500000",
+    "longitude": "15.56028000",
+    "CountryID": 201,
+    "StateID": 4186
+  },
+  {
+    "id": 104077,
+    "name": "Britof",
+    "latitude": "46.26024000",
+    "longitude": "14.39037000",
+    "CountryID": 201,
+    "StateID": 4287
+  },
+  {
+    "id": 104105,
+    "name": "Golnik",
+    "latitude": "46.33333000",
+    "longitude": "14.33333000",
+    "CountryID": 201,
+    "StateID": 4287
+  },
+  {
+    "id": 104139,
+    "name": "Kokrica",
+    "latitude": "46.27028000",
+    "longitude": "14.36111000",
+    "CountryID": 201,
+    "StateID": 4287
+  },
+  {
+    "id": 104150,
+    "name": "Kranj",
+    "latitude": "46.23887000",
+    "longitude": "14.35561000",
+    "CountryID": 201,
+    "StateID": 4287
+  },
+  {
+    "id": 104193,
+    "name": "Mlaka pri Kranju",
+    "latitude": "46.28333000",
+    "longitude": "14.35000000",
+    "CountryID": 201,
+    "StateID": 4287
+  },
+  {
+    "id": 104330,
+    "name": "Zgornje Bitnje",
+    "latitude": "46.22000000",
+    "longitude": "14.33667000",
+    "CountryID": 201,
+    "StateID": 4287
+  },
+  {
+    "id": 104151,
+    "name": "Kranjska Gora",
+    "latitude": "46.45689000",
+    "longitude": "13.77824000",
+    "CountryID": 201,
+    "StateID": 4340
+  },
+  {
+    "id": 104194,
+    "name": "Mojstrana",
+    "latitude": "46.42383000",
+    "longitude": "13.87520000",
+    "CountryID": 201,
+    "StateID": 4340
+  },
+  {
+    "id": 104152,
+    "name": "Križevci pri Ljutomeru",
+    "latitude": "46.56833000",
+    "longitude": "16.13861000",
+    "CountryID": 201,
+    "StateID": 4238
+  },
+  {
+    "id": 104155,
+    "name": "Krško",
+    "latitude": "45.95915000",
+    "longitude": "15.49167000",
+    "CountryID": 201,
+    "StateID": 4314
+  },
+  {
+    "id": 104164,
+    "name": "Leskovec pri Krškem",
+    "latitude": "45.93566000",
+    "longitude": "15.47184000",
+    "CountryID": 201,
+    "StateID": 4314
+  },
+  {
+    "id": 104267,
+    "name": "Senovo",
+    "latitude": "46.02361000",
+    "longitude": "15.47694000",
+    "CountryID": 201,
+    "StateID": 4314
+  },
+  {
+    "id": 104328,
+    "name": "Zgornja Kungota",
+    "latitude": "46.63917000",
+    "longitude": "15.61556000",
+    "CountryID": 201,
+    "StateID": 4197
+  },
+  {
+    "id": 104156,
+    "name": "Kuzma",
+    "latitude": "46.83694000",
+    "longitude": "16.08333000",
+    "CountryID": 201,
+    "StateID": 4211
+  },
+  {
+    "id": 104158,
+    "name": "Laško",
+    "latitude": "46.15463000",
+    "longitude": "15.23555000",
+    "CountryID": 201,
+    "StateID": 4338
+  },
+  {
+    "id": 104160,
+    "name": "Lenart v Slov. Goricah",
+    "latitude": "46.57611000",
+    "longitude": "15.83139000",
+    "CountryID": 201,
+    "StateID": 4142
+  },
+  {
+    "id": 104161,
+    "name": "Lendava",
+    "latitude": "46.56494000",
+    "longitude": "16.45091000",
+    "CountryID": 201,
+    "StateID": 4225
+  },
+  {
+    "id": 104167,
+    "name": "Litija",
+    "latitude": "46.05861000",
+    "longitude": "14.82250000",
+    "CountryID": 201,
+    "StateID": 4347
+  },
+  {
+    "id": 104101,
+    "name": "Dravlje",
+    "latitude": "46.07290000",
+    "longitude": "14.44741000",
+    "CountryID": 201,
+    "StateID": 4270
+  },
+  {
+    "id": 104129,
+    "name": "Jarše",
+    "latitude": "46.07345000",
+    "longitude": "14.55431000",
+    "CountryID": 201,
+    "StateID": 4270
+  },
+  {
+    "id": 104169,
+    "name": "Ljubljana",
+    "latitude": "46.05108000",
+    "longitude": "14.50513000",
+    "CountryID": 201,
+    "StateID": 4270
+  },
+  {
+    "id": 104211,
+    "name": "Opčina Ljubljana-Bežigrad",
+    "latitude": "46.08333000",
+    "longitude": "14.53333000",
+    "CountryID": 201,
+    "StateID": 4270
+  },
+  {
+    "id": 104212,
+    "name": "Opština Ljubljana-Center",
+    "latitude": "46.05000000",
+    "longitude": "14.53333000",
+    "CountryID": 201,
+    "StateID": 4270
+  },
+  {
+    "id": 104213,
+    "name": "Opština Ljubljana-Moste-Polje",
+    "latitude": "46.06667000",
+    "longitude": "14.61667000",
+    "CountryID": 201,
+    "StateID": 4270
+  },
+  {
+    "id": 104262,
+    "name": "Rožnik",
+    "latitude": "46.05999000",
+    "longitude": "14.46779000",
+    "CountryID": 201,
+    "StateID": 4270
+  },
+  {
+    "id": 104349,
+    "name": "Šentvid",
+    "latitude": "46.10559000",
+    "longitude": "14.43329000",
+    "CountryID": 201,
+    "StateID": 4270
+  },
+  {
+    "id": 104278,
+    "name": "Sostro",
+    "latitude": "46.04341000",
+    "longitude": "14.67293000",
+    "CountryID": 201,
+    "StateID": 4270
+  },
+  {
+    "id": 104300,
+    "name": "Trnovo",
+    "latitude": "46.02412000",
+    "longitude": "14.48891000",
+    "CountryID": 201,
+    "StateID": 4270
+  },
+  {
+    "id": 104315,
+    "name": "Vič",
+    "latitude": "46.00779000",
+    "longitude": "14.46968000",
+    "CountryID": 201,
+    "StateID": 4270
+  },
+  {
+    "id": 104170,
+    "name": "Ljubno ob Savinji",
+    "latitude": "46.34358000",
+    "longitude": "14.83377000",
+    "CountryID": 201,
+    "StateID": 4294
+  },
+  {
+    "id": 104171,
+    "name": "Ljutomer",
+    "latitude": "46.52083000",
+    "longitude": "16.19750000",
+    "CountryID": 201,
+    "StateID": 4351
+  },
+  {
+    "id": 104173,
+    "name": "Logatec",
+    "latitude": "45.91444000",
+    "longitude": "14.22583000",
+    "CountryID": 201,
+    "StateID": 4350
+  },
+  {
+    "id": 104163,
+    "name": "Leskova Dolina",
+    "latitude": "45.62139000",
+    "longitude": "14.46056000",
+    "CountryID": 201,
+    "StateID": 4174
+  },
+  {
+    "id": 104119,
+    "name": "Hrib-Loški Potok",
+    "latitude": "45.70688000",
+    "longitude": "14.61674000",
+    "CountryID": 201,
+    "StateID": 4158
+  },
+  {
+    "id": 104175,
+    "name": "Lovrenc na Pohorju",
+    "latitude": "46.54056000",
+    "longitude": "15.39306000",
+    "CountryID": 201,
+    "StateID": 4156
+  },
+  {
+    "id": 104178,
+    "name": "Luče",
+    "latitude": "46.35611000",
+    "longitude": "14.74667000",
+    "CountryID": 201,
+    "StateID": 4219
+  },
+  {
+    "id": 104177,
+    "name": "Lukovica pri Domžalah",
+    "latitude": "46.16988000",
+    "longitude": "14.69179000",
+    "CountryID": 201,
+    "StateID": 4302
+  },
+  {
+    "id": 104179,
+    "name": "Majšperk",
+    "latitude": "46.35167000",
+    "longitude": "15.73361000",
+    "CountryID": 201,
+    "StateID": 4157
+  },
+  {
+    "id": 104074,
+    "name": "Bresternica",
+    "latitude": "46.56972000",
+    "longitude": "15.57500000",
+    "CountryID": 201,
+    "StateID": 4242
+  },
+  {
+    "id": 104132,
+    "name": "Kamnica",
+    "latitude": "46.57444000",
+    "longitude": "15.61417000",
+    "CountryID": 201,
+    "StateID": 4242
+  },
+  {
+    "id": 104165,
+    "name": "Limbuš",
+    "latitude": "46.55361000",
+    "longitude": "15.58361000",
+    "CountryID": 201,
+    "StateID": 4242
+  },
+  {
+    "id": 104181,
+    "name": "Maribor",
+    "latitude": "46.55472000",
+    "longitude": "15.64667000",
+    "CountryID": 201,
+    "StateID": 4242
+  },
+  {
+    "id": 104219,
+    "name": "Pekre",
+    "latitude": "46.54722000",
+    "longitude": "15.59556000",
+    "CountryID": 201,
+    "StateID": 4242
+  },
+  {
+    "id": 104251,
+    "name": "Razvanje",
+    "latitude": "46.51444000",
+    "longitude": "15.63611000",
+    "CountryID": 201,
+    "StateID": 4242
+  },
+  {
+    "id": 104182,
+    "name": "Markovci",
+    "latitude": "46.39557000",
+    "longitude": "15.92831000",
+    "CountryID": 201,
+    "StateID": 4244
+  },
+  {
+    "id": 104183,
+    "name": "Medvode",
+    "latitude": "46.14220000",
+    "longitude": "14.41114000",
+    "CountryID": 201,
+    "StateID": 4349
+  },
+  {
+    "id": 104215,
+    "name": "Opština [historical] Ljubljana-Šiška",
+    "latitude": "46.16667000",
+    "longitude": "14.43333000",
+    "CountryID": 201,
+    "StateID": 4349
+  },
+  {
+    "id": 104333,
+    "name": "Zgornje Pirniče",
+    "latitude": "46.14251000",
+    "longitude": "14.43158000",
+    "CountryID": 201,
+    "StateID": 4349
+  },
+  {
+    "id": 104185,
+    "name": "Mengeš",
+    "latitude": "46.16694000",
+    "longitude": "14.57500000",
+    "CountryID": 201,
+    "StateID": 4348
+  },
+  {
+    "id": 104235,
+    "name": "Preserje pri Radomljah",
+    "latitude": "46.16911000",
+    "longitude": "14.59698000",
+    "CountryID": 201,
+    "StateID": 4348
+  },
+  {
+    "id": 104186,
+    "name": "Metlika",
+    "latitude": "45.64722000",
+    "longitude": "15.31417000",
+    "CountryID": 201,
+    "StateID": 4323
+  },
+  {
+    "id": 104187,
+    "name": "Mežica",
+    "latitude": "46.52139000",
+    "longitude": "14.85444000",
+    "CountryID": 201,
+    "StateID": 4265
+  },
+  {
+    "id": 104188,
+    "name": "Miklavž na Dravskem Polju",
+    "latitude": "46.50583000",
+    "longitude": "15.69722000",
+    "CountryID": 201,
+    "StateID": 4223
+  },
+  {
+    "id": 104065,
+    "name": "Bilje",
+    "latitude": "45.89444000",
+    "longitude": "13.63222000",
+    "CountryID": 201,
+    "StateID": 4220
+  },
+  {
+    "id": 104189,
+    "name": "Miren",
+    "latitude": "45.89556000",
+    "longitude": "13.60750000",
+    "CountryID": 201,
+    "StateID": 4220
+  },
+  {
+    "id": 104191,
+    "name": "Mirna Peč",
+    "latitude": "45.86028000",
+    "longitude": "15.08333000",
+    "CountryID": 201,
+    "StateID": 4237
+  },
+  {
+    "id": 104192,
+    "name": "Mislinja",
+    "latitude": "46.44141000",
+    "longitude": "15.20027000",
+    "CountryID": 201,
+    "StateID": 4212
+  },
+  {
+    "id": 104197,
+    "name": "Moravče",
+    "latitude": "46.13694000",
+    "longitude": "14.74500000",
+    "CountryID": 201,
+    "StateID": 4168
+  },
+  {
+    "id": 104196,
+    "name": "Moravske Toplice",
+    "latitude": "46.68313000",
+    "longitude": "16.22080000",
+    "CountryID": 201,
+    "StateID": 4218
+  },
+  {
+    "id": 104200,
+    "name": "Mozirje",
+    "latitude": "46.33944000",
+    "longitude": "14.96333000",
+    "CountryID": 201,
+    "StateID": 4190
+  },
+  {
+    "id": 104062,
+    "name": "Bakovci",
+    "latitude": "46.61889000",
+    "longitude": "16.15028000",
+    "CountryID": 201,
+    "StateID": 4313
+  },
+  {
+    "id": 104336,
+    "name": "Černelavci",
+    "latitude": "46.66667000",
+    "longitude": "16.13333000",
+    "CountryID": 201,
+    "StateID": 4313
+  },
+  {
+    "id": 104153,
+    "name": "Krog",
+    "latitude": "46.63806000",
+    "longitude": "16.14139000",
+    "CountryID": 201,
+    "StateID": 4313
+  },
+  {
+    "id": 104201,
+    "name": "Murska Sobota",
+    "latitude": "46.66250000",
+    "longitude": "16.16639000",
+    "CountryID": 201,
+    "StateID": 4313
+  },
+  {
+    "id": 104247,
+    "name": "Rakičan",
+    "latitude": "46.65167000",
+    "longitude": "16.20417000",
+    "CountryID": 201,
+    "StateID": 4313
+  },
+  {
+    "id": 104202,
+    "name": "Muta",
+    "latitude": "46.61139000",
+    "longitude": "15.16611000",
+    "CountryID": 201,
+    "StateID": 4208
+  },
+  {
+    "id": 104203,
+    "name": "Naklo",
+    "latitude": "46.27278000",
+    "longitude": "14.31722000",
+    "CountryID": 201,
+    "StateID": 4177
+  },
+  {
+    "id": 104204,
+    "name": "Nazarje",
+    "latitude": "46.31757000",
+    "longitude": "14.94674000",
+    "CountryID": 201,
+    "StateID": 4329
+  },
+  {
+    "id": 104154,
+    "name": "Kromberk",
+    "latitude": "45.96083000",
+    "longitude": "13.66556000",
+    "CountryID": 201,
+    "StateID": 4205
+  },
+  {
+    "id": 104206,
+    "name": "Nova Gorica",
+    "latitude": "45.95604000",
+    "longitude": "13.64837000",
+    "CountryID": 201,
+    "StateID": 4205
+  },
+  {
+    "id": 104237,
+    "name": "Prvačina",
+    "latitude": "45.89000000",
+    "longitude": "13.71806000",
+    "CountryID": 201,
+    "StateID": 4205
+  },
+  {
+    "id": 104342,
+    "name": "Šempas",
+    "latitude": "45.93028000",
+    "longitude": "13.74361000",
+    "CountryID": 201,
+    "StateID": 4205
+  },
+  {
+    "id": 104276,
+    "name": "Solkan",
+    "latitude": "45.97139000",
+    "longitude": "13.64944000",
+    "CountryID": 201,
+    "StateID": 4205
+  },
+  {
+    "id": 104208,
+    "name": "Novo Mesto",
+    "latitude": "45.80397000",
+    "longitude": "15.16886000",
+    "CountryID": 201,
+    "StateID": 4236
+  },
+  {
+    "id": 104209,
+    "name": "Odranci",
+    "latitude": "46.58667000",
+    "longitude": "16.28028000",
+    "CountryID": 201,
+    "StateID": 4320
+  },
+  {
+    "id": 104210,
+    "name": "Oplotnica",
+    "latitude": "46.38778000",
+    "longitude": "15.44667000",
+    "CountryID": 201,
+    "StateID": 4143
+  },
+  {
+    "id": 104216,
+    "name": "Ormož",
+    "latitude": "46.41139000",
+    "longitude": "16.15444000",
+    "CountryID": 201,
+    "StateID": 4221
+  },
+  {
+    "id": 104217,
+    "name": "Osilnica",
+    "latitude": "45.52914000",
+    "longitude": "14.69838000",
+    "CountryID": 201,
+    "StateID": 4199
+  },
+  {
+    "id": 104220,
+    "name": "Pesnica pri Mariboru",
+    "latitude": "46.60694000",
+    "longitude": "15.67667000",
+    "CountryID": 201,
+    "StateID": 4172
+  },
+  {
+    "id": 104176,
+    "name": "Lucija",
+    "latitude": "45.50526000",
+    "longitude": "13.60240000",
+    "CountryID": 201,
+    "StateID": 4201
+  },
+  {
+    "id": 104221,
+    "name": "Piran",
+    "latitude": "45.52778000",
+    "longitude": "13.57056000",
+    "CountryID": 201,
+    "StateID": 4201
+  },
+  {
+    "id": 104229,
+    "name": "Portorož",
+    "latitude": "45.51429000",
+    "longitude": "13.59206000",
+    "CountryID": 201,
+    "StateID": 4201
+  },
+  {
+    "id": 104269,
+    "name": "Seča",
+    "latitude": "45.49584000",
+    "longitude": "13.61466000",
+    "CountryID": 201,
+    "StateID": 4201
+  },
+  {
+    "id": 104222,
+    "name": "Pivka",
+    "latitude": "45.68292000",
+    "longitude": "14.19588000",
+    "CountryID": 201,
+    "StateID": 4184
+  },
+  {
+    "id": 104226,
+    "name": "Podčetrtek",
+    "latitude": "46.15694000",
+    "longitude": "15.59861000",
+    "CountryID": 201,
+    "StateID": 4146
+  },
+  {
+    "id": 104224,
+    "name": "Podlehnik",
+    "latitude": "46.33528000",
+    "longitude": "15.88000000",
+    "CountryID": 201,
+    "StateID": 4161
+  },
+  {
+    "id": 104225,
+    "name": "Podvelka",
+    "latitude": "46.58694000",
+    "longitude": "15.33056000",
+    "CountryID": 201,
+    "StateID": 4234
+  },
+  {
+    "id": 104228,
+    "name": "Polzela",
+    "latitude": "46.28333000",
+    "longitude": "15.06667000",
+    "CountryID": 201,
+    "StateID": 4272
+  },
+  {
+    "id": 104230,
+    "name": "Postojna",
+    "latitude": "45.77435000",
+    "longitude": "14.21528000",
+    "CountryID": 201,
+    "StateID": 4330
+  },
+  {
+    "id": 104233,
+    "name": "Prebold",
+    "latitude": "46.23694000",
+    "longitude": "15.09250000",
+    "CountryID": 201,
+    "StateID": 4188
+  },
+  {
+    "id": 104234,
+    "name": "Preddvor",
+    "latitude": "46.30250000",
+    "longitude": "14.42306000",
+    "CountryID": 201,
+    "StateID": 4303
+  },
+  {
+    "id": 104236,
+    "name": "Prevalje",
+    "latitude": "46.54694000",
+    "longitude": "14.92083000",
+    "CountryID": 201,
+    "StateID": 4274
+  },
+  {
+    "id": 104238,
+    "name": "Ptuj",
+    "latitude": "46.42005000",
+    "longitude": "15.87018000",
+    "CountryID": 201,
+    "StateID": 4228
+  },
+  {
+    "id": 104239,
+    "name": "Puconci",
+    "latitude": "46.70667000",
+    "longitude": "16.15639000",
+    "CountryID": 201,
+    "StateID": 4288
+  },
+  {
+    "id": 104103,
+    "name": "Fram",
+    "latitude": "46.45600000",
+    "longitude": "15.63007000",
+    "CountryID": 201,
+    "StateID": 4204
+  },
+  {
+    "id": 104198,
+    "name": "Morje",
+    "latitude": "46.44444000",
+    "longitude": "15.62139000",
+    "CountryID": 201,
+    "StateID": 4204
+  },
+  {
+    "id": 104252,
+    "name": "Rače",
+    "latitude": "46.45194000",
+    "longitude": "15.68139000",
+    "CountryID": 201,
+    "StateID": 4204
+  },
+  {
+    "id": 104241,
+    "name": "Radeče",
+    "latitude": "46.06806000",
+    "longitude": "15.18389000",
+    "CountryID": 201,
+    "StateID": 4195
+  },
+  {
+    "id": 104240,
+    "name": "Radenci",
+    "latitude": "46.64201000",
+    "longitude": "16.03781000",
+    "CountryID": 201,
+    "StateID": 4292
+  },
+  {
+    "id": 104243,
+    "name": "Radlje ob Dravi",
+    "latitude": "46.61417000",
+    "longitude": "15.22639000",
+    "CountryID": 201,
+    "StateID": 4275
+  },
+  {
+    "id": 104162,
+    "name": "Lesce",
+    "latitude": "46.36111000",
+    "longitude": "14.15778000",
+    "CountryID": 201,
+    "StateID": 4231
+  },
+  {
+    "id": 104245,
+    "name": "Radovljica",
+    "latitude": "46.34444000",
+    "longitude": "14.17444000",
+    "CountryID": 201,
+    "StateID": 4231
+  },
+  {
+    "id": 104146,
+    "name": "Kotlje",
+    "latitude": "46.52139000",
+    "longitude": "14.98694000",
+    "CountryID": 201,
+    "StateID": 4155
+  },
+  {
+    "id": 104249,
+    "name": "Ravne na Koroškem",
+    "latitude": "46.54306000",
+    "longitude": "14.96917000",
+    "CountryID": 201,
+    "StateID": 4155
+  },
+  {
+    "id": 104250,
+    "name": "Razkrižje",
+    "latitude": "46.52167000",
+    "longitude": "16.28111000",
+    "CountryID": 201,
+    "StateID": 4206
+  },
+  {
+    "id": 104253,
+    "name": "Renče",
+    "latitude": "45.89000000",
+    "longitude": "13.66861000",
+    "CountryID": 201,
+    "StateID": 4253
+  },
+  {
+    "id": 104319,
+    "name": "Volčja Draga",
+    "latitude": "45.90694000",
+    "longitude": "13.67750000",
+    "CountryID": 201,
+    "StateID": 4253
+  },
+  {
+    "id": 104255,
+    "name": "Ribnica",
+    "latitude": "45.73861000",
+    "longitude": "14.72750000",
+    "CountryID": 201,
+    "StateID": 4235
+  },
+  {
+    "id": 104256,
+    "name": "Ribnica na Pohorju",
+    "latitude": "46.53500000",
+    "longitude": "15.27278000",
+    "CountryID": 201,
+    "StateID": 4207
+  },
+  {
+    "id": 104258,
+    "name": "Rogaška Slatina",
+    "latitude": "46.23750000",
+    "longitude": "15.63972000",
+    "CountryID": 201,
+    "StateID": 4233
+  },
+  {
+    "id": 104259,
+    "name": "Rogašovci",
+    "latitude": "46.80000000",
+    "longitude": "16.03333000",
+    "CountryID": 201,
+    "StateID": 4264
+  },
+  {
+    "id": 104257,
+    "name": "Rogatec",
+    "latitude": "46.22944000",
+    "longitude": "15.70028000",
+    "CountryID": 201,
+    "StateID": 4209
+  },
+  {
+    "id": 104066,
+    "name": "Bistrica ob Dravi",
+    "latitude": "46.55419000",
+    "longitude": "15.54855000",
+    "CountryID": 201,
+    "StateID": 4280
+  },
+  {
+    "id": 104263,
+    "name": "Ruše",
+    "latitude": "46.53944000",
+    "longitude": "15.51583000",
+    "CountryID": 201,
+    "StateID": 4280
+  },
+  {
+    "id": 104341,
+    "name": "Šalovci",
+    "latitude": "46.82500000",
+    "longitude": "16.29806000",
+    "CountryID": 201,
+    "StateID": 4222
+  },
+  {
+    "id": 104264,
+    "name": "Selnica ob Dravi",
+    "latitude": "46.55000000",
+    "longitude": "15.49500000",
+    "CountryID": 201,
+    "StateID": 4230
+  },
+  {
+    "id": 104266,
+    "name": "Semič",
+    "latitude": "45.64611000",
+    "longitude": "15.18222000",
+    "CountryID": 201,
+    "StateID": 4346
+  },
+  {
+    "id": 104261,
+    "name": "Rožna Dolina",
+    "latitude": "45.94194000",
+    "longitude": "13.66779000",
+    "CountryID": 201,
+    "StateID": 4317
+  },
+  {
+    "id": 104343,
+    "name": "Šempeter pri Gorici",
+    "latitude": "45.92750000",
+    "longitude": "13.64111000",
+    "CountryID": 201,
+    "StateID": 4317
+  },
+  {
+    "id": 104322,
+    "name": "Vrtojba",
+    "latitude": "45.91250000",
+    "longitude": "13.63417000",
+    "CountryID": 201,
+    "StateID": 4317
+  },
+  {
+    "id": 104117,
+    "name": "Hrastje",
+    "latitude": "46.21667000",
+    "longitude": "14.40000000",
+    "CountryID": 201,
+    "StateID": 4299
+  },
+  {
+    "id": 104351,
+    "name": "Šenčur",
+    "latitude": "46.24556000",
+    "longitude": "14.41972000",
+    "CountryID": 201,
+    "StateID": 4299
+  },
+  {
+    "id": 104265,
+    "name": "Selnica ob Muri",
+    "latitude": "46.68333000",
+    "longitude": "15.70000000",
+    "CountryID": 201,
+    "StateID": 4324
+  },
+  {
+    "id": 104345,
+    "name": "Šentilj v Slov. Goricah",
+    "latitude": "46.68167000",
+    "longitude": "15.64806000",
+    "CountryID": 201,
+    "StateID": 4324
+  },
+  {
+    "id": 104346,
+    "name": "Šentjernej",
+    "latitude": "45.84000000",
+    "longitude": "15.33611000",
+    "CountryID": 201,
+    "StateID": 4241
+  },
+  {
+    "id": 104347,
+    "name": "Šentjur",
+    "latitude": "46.21722000",
+    "longitude": "15.39750000",
+    "CountryID": 201,
+    "StateID": 4171
+  },
+  {
+    "id": 104348,
+    "name": "Šentrupert",
+    "latitude": "45.97778000",
+    "longitude": "15.09556000",
+    "CountryID": 201,
+    "StateID": 4311
+  },
+  {
+    "id": 104268,
+    "name": "Sevnica",
+    "latitude": "46.00778000",
+    "longitude": "15.31556000",
+    "CountryID": 201,
+    "StateID": 4268
+  },
+  {
+    "id": 104270,
+    "name": "Sežana",
+    "latitude": "45.70924000",
+    "longitude": "13.87333000",
+    "CountryID": 201,
+    "StateID": 4149
+  },
+  {
+    "id": 104352,
+    "name": "Škocjan",
+    "latitude": "45.90667000",
+    "longitude": "15.29139000",
+    "CountryID": 201,
+    "StateID": 4170
+  },
+  {
+    "id": 104353,
+    "name": "Škofja Loka",
+    "latitude": "46.16551000",
+    "longitude": "14.30626000",
+    "CountryID": 201,
+    "StateID": 4316
+  },
+  {
+    "id": 104289,
+    "name": "Sv. Duh",
+    "latitude": "46.18333000",
+    "longitude": "14.33333000",
+    "CountryID": 201,
+    "StateID": 4316
+  },
+  {
+    "id": 104157,
+    "name": "Lavrica",
+    "latitude": "46.00002000",
+    "longitude": "14.55730000",
+    "CountryID": 201,
+    "StateID": 4187
+  },
+  {
+    "id": 104354,
+    "name": "Škofljica",
+    "latitude": "45.98333000",
+    "longitude": "14.57667000",
+    "CountryID": 201,
+    "StateID": 4187
+  },
+  {
+    "id": 104159,
+    "name": "Legen",
+    "latitude": "46.50651000",
+    "longitude": "15.14424000",
+    "CountryID": 201,
+    "StateID": 4169
+  },
+  {
+    "id": 104218,
+    "name": "Pameče",
+    "latitude": "46.53417000",
+    "longitude": "15.07917000",
+    "CountryID": 201,
+    "StateID": 4169
+  },
+  {
+    "id": 104271,
+    "name": "Slovenj Gradec",
+    "latitude": "46.51028000",
+    "longitude": "15.08056000",
+    "CountryID": 201,
+    "StateID": 4169
+  },
+  {
+    "id": 104361,
+    "name": "Šmartno pri Slovenj Gradcu",
+    "latitude": "46.48944000",
+    "longitude": "15.10667000",
+    "CountryID": 201,
+    "StateID": 4169
+  },
+  {
+    "id": 104232,
+    "name": "Pragersko",
+    "latitude": "46.39667000",
+    "longitude": "15.66000000",
+    "CountryID": 201,
+    "StateID": 4332
+  },
+  {
+    "id": 104272,
+    "name": "Slovenska Bistrica",
+    "latitude": "46.39278000",
+    "longitude": "15.57444000",
+    "CountryID": 201,
+    "StateID": 4332
+  },
+  {
+    "id": 104329,
+    "name": "Zgornja Polskava",
+    "latitude": "46.42556000",
+    "longitude": "15.61222000",
+    "CountryID": 201,
+    "StateID": 4332
+  },
+  {
+    "id": 104273,
+    "name": "Slovenske Konjice",
+    "latitude": "46.33667000",
+    "longitude": "15.42583000",
+    "CountryID": 201,
+    "StateID": 4198
+  },
+  {
+    "id": 104356,
+    "name": "Šmarje pri Jelšah",
+    "latitude": "46.22722000",
+    "longitude": "15.51917000",
+    "CountryID": 201,
+    "StateID": 4285
+  },
+  {
+    "id": 104358,
+    "name": "Šmarjeta",
+    "latitude": "45.88333000",
+    "longitude": "15.25000000",
+    "CountryID": 201,
+    "StateID": 4289
+  },
+  {
+    "id": 104359,
+    "name": "Šmartno ob Paki",
+    "latitude": "46.33333000",
+    "longitude": "15.03333000",
+    "CountryID": 201,
+    "StateID": 4296
+  },
+  {
+    "id": 104360,
+    "name": "Šmartno pri Litiji",
+    "latitude": "46.04444000",
+    "longitude": "14.84417000",
+    "CountryID": 201,
+    "StateID": 4279
+  },
+  {
+    "id": 104275,
+    "name": "Sodražica",
+    "latitude": "45.76111000",
+    "longitude": "14.63556000",
+    "CountryID": 201,
+    "StateID": 4277
+  },
+  {
+    "id": 104277,
+    "name": "Solčava",
+    "latitude": "46.41944000",
+    "longitude": "14.69361000",
+    "CountryID": 201,
+    "StateID": 4261
+  },
+  {
+    "id": 104248,
+    "name": "Ravne",
+    "latitude": "46.41413000",
+    "longitude": "15.06087000",
+    "CountryID": 201,
+    "StateID": 4248
+  },
+  {
+    "id": 104362,
+    "name": "Šoštanj",
+    "latitude": "46.38000000",
+    "longitude": "15.04861000",
+    "CountryID": 201,
+    "StateID": 4248
+  },
+  {
+    "id": 104296,
+    "name": "Topolšica",
+    "latitude": "46.40028000",
+    "longitude": "15.02157000",
+    "CountryID": 201,
+    "StateID": 4248
+  },
+  {
+    "id": 104284,
+    "name": "Središče ob Dravi",
+    "latitude": "46.39417000",
+    "longitude": "16.26806000",
+    "CountryID": 201,
+    "StateID": 4263
+  },
+  {
+    "id": 104285,
+    "name": "Starše",
+    "latitude": "46.46583000",
+    "longitude": "15.76722000",
+    "CountryID": 201,
+    "StateID": 4259
+  },
+  {
+    "id": 104363,
+    "name": "Štore",
+    "latitude": "46.22083000",
+    "longitude": "15.31389000",
+    "CountryID": 201,
+    "StateID": 4185
+  },
+  {
+    "id": 104286,
+    "name": "Straža",
+    "latitude": "45.78000000",
+    "longitude": "15.07278000",
+    "CountryID": 201,
+    "StateID": 4333
+  },
+  {
+    "id": 104287,
+    "name": "Sv. Ana v Slov. Goricah",
+    "latitude": "46.64917000",
+    "longitude": "15.84417000",
+    "CountryID": 201,
+    "StateID": 4164
+  },
+  {
+    "id": 104290,
+    "name": "Sv. Trojica v Slov. Goricah",
+    "latitude": "46.57667000",
+    "longitude": "15.87694000",
+    "CountryID": 201,
+    "StateID": 4260
+  },
+  {
+    "id": 104314,
+    "name": "Vitomarci",
+    "latitude": "46.52750000",
+    "longitude": "15.93944000",
+    "CountryID": 201,
+    "StateID": 4229
+  },
+  {
+    "id": 104291,
+    "name": "Sveti Jurij ob Ščavnici",
+    "latitude": "46.56950000",
+    "longitude": "16.02347000",
+    "CountryID": 201,
+    "StateID": 4328
+  },
+  {
+    "id": 104292,
+    "name": "Sveti Tomaž",
+    "latitude": "46.48417000",
+    "longitude": "16.08361000",
+    "CountryID": 201,
+    "StateID": 4273
+  },
+  {
+    "id": 104293,
+    "name": "Tabor",
+    "latitude": "46.23611000",
+    "longitude": "15.01833000",
+    "CountryID": 201,
+    "StateID": 4194
+  },
+  {
+    "id": 104294,
+    "name": "Tišina",
+    "latitude": "46.65806000",
+    "longitude": "16.09167000",
+    "CountryID": 201,
+    "StateID": 4312
+  },
+  {
+    "id": 104295,
+    "name": "Tolmin",
+    "latitude": "46.18304000",
+    "longitude": "13.73321000",
+    "CountryID": 201,
+    "StateID": 4247
+  },
+  {
+    "id": 104297,
+    "name": "Trbovlje",
+    "latitude": "46.15500000",
+    "longitude": "15.05333000",
+    "CountryID": 201,
+    "StateID": 4246
+  },
+  {
+    "id": 104298,
+    "name": "Trebnje",
+    "latitude": "45.90417000",
+    "longitude": "15.02167000",
+    "CountryID": 201,
+    "StateID": 4214
+  },
+  {
+    "id": 104301,
+    "name": "Trnovska Vas",
+    "latitude": "46.52019000",
+    "longitude": "15.88657000",
+    "CountryID": 201,
+    "StateID": 4153
+  },
+  {
+    "id": 104068,
+    "name": "Bistrica pri Tržiču",
+    "latitude": "46.35472000",
+    "longitude": "14.29167000",
+    "CountryID": 201,
+    "StateID": 4250
+  },
+  {
+    "id": 104303,
+    "name": "Tržič",
+    "latitude": "46.36357000",
+    "longitude": "14.31046000",
+    "CountryID": 201,
+    "StateID": 4250
+  },
+  {
+    "id": 104340,
+    "name": "Črnuče",
+    "latitude": "46.11506000",
+    "longitude": "14.55371000",
+    "CountryID": 201,
+    "StateID": 4334
+  },
+  {
+    "id": 104302,
+    "name": "Trzin",
+    "latitude": "46.13333000",
+    "longitude": "14.56667000",
+    "CountryID": 201,
+    "StateID": 4334
+  },
+  {
+    "id": 104304,
+    "name": "Turnišče",
+    "latitude": "46.62778000",
+    "longitude": "16.32028000",
+    "CountryID": 201,
+    "StateID": 4251
+  },
+  {
+    "id": 160110,
+    "name": "Velenje",
+    "latitude": "46.36250000",
+    "longitude": "15.11444444",
+    "CountryID": 201,
+    "StateID": 5698
+  },
+  {
+    "id": 104305,
+    "name": "Velika Polana",
+    "latitude": "46.57194000",
+    "longitude": "16.34694000",
+    "CountryID": 201,
+    "StateID": 4267
+  },
+  {
+    "id": 104306,
+    "name": "Velike Lašče",
+    "latitude": "45.83222000",
+    "longitude": "14.63639000",
+    "CountryID": 201,
+    "StateID": 4144
+  },
+  {
+    "id": 104308,
+    "name": "Veržej",
+    "latitude": "46.58361000",
+    "longitude": "16.16528000",
+    "CountryID": 201,
+    "StateID": 4257
+  },
+  {
+    "id": 104310,
+    "name": "Videm pri Ptuju",
+    "latitude": "46.36861000",
+    "longitude": "15.90639000",
+    "CountryID": 201,
+    "StateID": 4300
+  },
+  {
+    "id": 104311,
+    "name": "Vipava",
+    "latitude": "45.84667000",
+    "longitude": "13.96306000",
+    "CountryID": 201,
+    "StateID": 4196
+  },
+  {
+    "id": 104313,
+    "name": "Vitanje",
+    "latitude": "46.38167000",
+    "longitude": "15.29583000",
+    "CountryID": 201,
+    "StateID": 4148
+  },
+  {
+    "id": 104317,
+    "name": "Vodice",
+    "latitude": "46.18987000",
+    "longitude": "14.49492000",
+    "CountryID": 201,
+    "StateID": 4154
+  },
+  {
+    "id": 104318,
+    "name": "Vojnik",
+    "latitude": "46.29333000",
+    "longitude": "15.30333000",
+    "CountryID": 201,
+    "StateID": 4245
+  },
+  {
+    "id": 104320,
+    "name": "Vransko",
+    "latitude": "46.24389000",
+    "longitude": "14.95139000",
+    "CountryID": 201,
+    "StateID": 4163
+  },
+  {
+    "id": 104307,
+    "name": "Verd",
+    "latitude": "45.95667000",
+    "longitude": "14.30583000",
+    "CountryID": 201,
+    "StateID": 4262
+  },
+  {
+    "id": 104321,
+    "name": "Vrhnika",
+    "latitude": "45.96350000",
+    "longitude": "14.29484000",
+    "CountryID": 201,
+    "StateID": 4262
+  },
+  {
+    "id": 104323,
+    "name": "Vuzenica",
+    "latitude": "46.59639000",
+    "longitude": "15.16722000",
+    "CountryID": 201,
+    "StateID": 4226
+  },
+  {
+    "id": 104126,
+    "name": "Izlake",
+    "latitude": "46.15000000",
+    "longitude": "14.95000000",
+    "CountryID": 201,
+    "StateID": 4269
+  },
+  {
+    "id": 104136,
+    "name": "Kisovec",
+    "latitude": "46.13911000",
+    "longitude": "14.96295000",
+    "CountryID": 201,
+    "StateID": 4269
+  },
+  {
+    "id": 104325,
+    "name": "Zagorje ob Savi",
+    "latitude": "46.13179000",
+    "longitude": "14.99694000",
+    "CountryID": 201,
+    "StateID": 4269
+  },
+  {
+    "id": 104111,
+    "name": "Gotovlje",
+    "latitude": "46.27418000",
+    "longitude": "15.15186000",
+    "CountryID": 201,
+    "StateID": 4258
+  },
+  {
+    "id": 104344,
+    "name": "Šempeter v Savinj. Dolini",
+    "latitude": "46.25639000",
+    "longitude": "15.12194000",
+    "CountryID": 201,
+    "StateID": 4258
+  },
+  {
+    "id": 104324,
+    "name": "Zabukovica",
+    "latitude": "46.21408000",
+    "longitude": "15.15954000",
+    "CountryID": 201,
+    "StateID": 4258
+  },
+  {
+    "id": 104364,
+    "name": "Žalec",
+    "latitude": "46.25151000",
+    "longitude": "15.16482000",
+    "CountryID": 201,
+    "StateID": 4258
+  },
+  {
+    "id": 104327,
+    "name": "Zavrč",
+    "latitude": "46.39167000",
+    "longitude": "16.04972000",
+    "CountryID": 201,
+    "StateID": 4182
+  },
+  {
+    "id": 104365,
+    "name": "Železniki",
+    "latitude": "46.22482000",
+    "longitude": "14.17205000",
+    "CountryID": 201,
+    "StateID": 4256
+  },
+  {
+    "id": 104366,
+    "name": "Žetale",
+    "latitude": "46.27356000",
+    "longitude": "15.82658000",
+    "CountryID": 201,
+    "StateID": 4249
+  },
+  {
+    "id": 104367,
+    "name": "Žiri",
+    "latitude": "46.04222000",
+    "longitude": "14.10722000",
+    "CountryID": 201,
+    "StateID": 4192
+  },
+  {
+    "id": 104368,
+    "name": "Žirovnica",
+    "latitude": "46.40472000",
+    "longitude": "14.14000000",
+    "CountryID": 201,
+    "StateID": 4276
+  },
+  {
+    "id": 104335,
+    "name": "Zreče",
+    "latitude": "46.38222000",
+    "longitude": "15.37917000",
+    "CountryID": 201,
+    "StateID": 4342
+  },
+  {
+    "id": 104369,
+    "name": "Žužemberk",
+    "latitude": "45.83389000",
+    "longitude": "14.92917000",
+    "CountryID": 201,
+    "StateID": 4307
+  }
+]

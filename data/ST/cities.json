@@ -1,0 +1,58 @@
+[
+  {
+    "id": 104838,
+    "name": "São Tomé",
+    "latitude": "0.33654000",
+    "longitude": "6.72732000",
+    "CountryID": 193,
+    "StateID": 5728
+  },
+  {
+    "id": 160117,
+    "name": "Santana",
+    "latitude": "0.25389000",
+    "longitude": "6.73444000",
+    "CountryID": 193,
+    "StateID": 5729
+  },
+  {
+    "id": 160118,
+    "name": "São João dos Angolares",
+    "latitude": "0.13720000",
+    "longitude": "6.64972000",
+    "CountryID": 193,
+    "StateID": 5730
+  },
+  {
+    "id": 160119,
+    "name": "Neves",
+    "latitude": "0.36667000",
+    "longitude": "6.55000000",
+    "CountryID": 193,
+    "StateID": 5731
+  },
+  {
+    "id": 160120,
+    "name": "Guadalupe",
+    "latitude": "0.38333000",
+    "longitude": "6.61667000",
+    "CountryID": 193,
+    "StateID": 5732
+  },
+  {
+    "id": 160136,
+    "name": "Trindade",
+    "latitude": "0.29667000",
+    "longitude": "6.68139000",
+    "CountryID": 193,
+    "StateID": 5733
+  },
+  {
+    "id": 160137,
+    "name": "Santo António",
+    "latitude": "1.63943000",
+    "longitude": "7.41951000",
+    "CountryID": 193,
+    "StateID": 5734
+  }
+]

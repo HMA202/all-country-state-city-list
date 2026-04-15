@@ -1,0 +1,200 @@
+[
+  {
+    "id": 925,
+    "name": "Awdal",
+    "iso2": "AW",
+    "native": "Awdal",
+    "latitude": "10.69511520",
+    "longitude": "43.49049630",
+    "type": "region",
+    "timezone": "Africa/Mogadishu",
+    "CountryID": 203
+  },
+  {
+    "id": 917,
+    "name": "Bakool",
+    "iso2": "BK",
+    "native": "Bakool",
+    "latitude": "4.35143870",
+    "longitude": "43.71861020",
+    "type": "region",
+    "timezone": "Africa/Mogadishu",
+    "CountryID": 203
+  },
+  {
+    "id": 927,
+    "name": "Banaadir",
+    "iso2": "BN",
+    "native": "Banaadir",
+    "latitude": "2.07833510",
+    "longitude": "45.28054210",
+    "type": "region",
+    "timezone": "Africa/Mogadishu",
+    "CountryID": 203
+  },
+  {
+    "id": 930,
+    "name": "Bari",
+    "iso2": "BR",
+    "native": "Bari",
+    "latitude": "10.19035090",
+    "longitude": "50.12980440",
+    "type": "region",
+    "timezone": "Africa/Mogadishu",
+    "CountryID": 203
+  },
+  {
+    "id": 926,
+    "name": "Bay",
+    "iso2": "BY",
+    "native": "Gacan biyo badda",
+    "latitude": "2.99999460",
+    "longitude": "43.50017700",
+    "type": "region",
+    "timezone": "Africa/Mogadishu",
+    "CountryID": 203
+  },
+  {
+    "id": 918,
+    "name": "Galguduud",
+    "iso2": "GA",
+    "native": "Galguduud",
+    "latitude": "5.07550140",
+    "longitude": "46.88033630",
+    "type": "region",
+    "timezone": "Africa/Mogadishu",
+    "CountryID": 203
+  },
+  {
+    "id": 928,
+    "name": "Gedo",
+    "iso2": "GE",
+    "native": "Gedo",
+    "latitude": "3.00000000",
+    "longitude": "42.00000000",
+    "type": "region",
+    "timezone": "Africa/Mogadishu",
+    "CountryID": 203
+  },
+  {
+    "id": 915,
+    "name": "Hiran",
+    "iso2": "HI",
+    "native": "Hiraan",
+    "latitude": "4.36169580",
+    "longitude": "45.53331020",
+    "type": "region",
+    "timezone": "Africa/Mogadishu",
+    "CountryID": 203
+  },
+  {
+    "id": 924,
+    "name": "Lower Juba",
+    "iso2": "JH",
+    "native": "Jubbada Hoose",
+    "latitude": "-0.00010190",
+    "longitude": "41.99996240",
+    "type": "region",
+    "timezone": "Africa/Mogadishu",
+    "CountryID": 203
+  },
+  {
+    "id": 921,
+    "name": "Lower Shebelle",
+    "iso2": "SH",
+    "native": "Hoose Shebelle",
+    "latitude": "1.84275390",
+    "longitude": "44.59372390",
+    "type": "region",
+    "timezone": "Africa/Mogadishu",
+    "CountryID": 203
+  },
+  {
+    "id": 922,
+    "name": "Middle Juba",
+    "iso2": "JD",
+    "native": "Jubbada Dhexe",
+    "latitude": "1.43259370",
+    "longitude": "42.65599390",
+    "type": "region",
+    "timezone": "Africa/Mogadishu",
+    "CountryID": 203
+  },
+  {
+    "id": 923,
+    "name": "Middle Shebelle",
+    "iso2": "SD",
+    "native": "Dhexe ee Shebelle",
+    "latitude": "3.00000000",
+    "longitude": "46.00000000",
+    "type": "region",
+    "timezone": "Africa/Mogadishu",
+    "CountryID": 203
+  },
+  {
+    "id": 916,
+    "name": "Mudug",
+    "iso2": "MU",
+    "native": "Mudug",
+    "latitude": "6.65072790",
+    "longitude": "48.30099450",
+    "type": "region",
+    "timezone": "Africa/Mogadishu",
+    "CountryID": 203
+  },
+  {
+    "id": 920,
+    "name": "Nugal",
+    "iso2": "NU",
+    "native": "Nugal",
+    "latitude": "8.16698000",
+    "longitude": "48.99789710",
+    "type": "region",
+    "timezone": "Africa/Mogadishu",
+    "CountryID": 203
+  },
+  {
+    "id": 919,
+    "name": "Sanaag",
+    "iso2": "SA",
+    "native": "Sanaag",
+    "latitude": "10.43868990",
+    "longitude": "47.59240850",
+    "type": "region",
+    "timezone": "Africa/Mogadishu",
+    "CountryID": 203
+  },
+  {
+    "id": 5699,
+    "name": "Sool",
+    "iso2": "SO",
+    "native": "Sool",
+    "latitude": "8.39611111",
+    "longitude": "47.69138889",
+    "type": "region",
+    "timezone": "Africa/Mogadishu",
+    "CountryID": 203
+  },
+  {
+    "id": 929,
+    "name": "Togdheer",
+    "iso2": "TO",
+    "native": "Togdheer",
+    "latitude": "9.30294530",
+    "longitude": "45.48612130",
+    "type": "region",
+    "timezone": "Africa/Mogadishu",
+    "CountryID": 203
+  },
+  {
+    "id": 5700,
+    "name": "Woqooyi Galbeed",
+    "iso2": "WO",
+    "native": "Maroodi Jeex",
+    "latitude": "9.56305556",
+    "longitude": "44.06750000",
+    "type": "region",
+    "timezone": "Africa/Mogadishu",
+    "CountryID": 203
+  }
+]

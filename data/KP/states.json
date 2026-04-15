@@ -1,0 +1,145 @@
+[
+  {
+    "id": 3998,
+    "name": "Chagang",
+    "iso2": "04",
+    "native": "차강",
+    "latitude": "40.71985360",
+    "longitude": "126.53905600",
+    "type": "province",
+    "timezone": "Asia/Pyongyang",
+    "CountryID": 115
+  },
+  {
+    "id": 5719,
+    "name": "Kaesong",
+    "iso2": "15",
+    "native": "개성시",
+    "latitude": "37.97166667",
+    "longitude": "126.55277778",
+    "type": "metropolitan city",
+    "timezone": "Asia/Pyongyang",
+    "CountryID": 115
+  },
+  {
+    "id": 3999,
+    "name": "Kangwon",
+    "iso2": "07",
+    "native": "강원도",
+    "latitude": "38.83543490",
+    "longitude": "127.51465470",
+    "type": "province",
+    "timezone": "Asia/Pyongyang",
+    "CountryID": 115
+  },
+  {
+    "id": 5718,
+    "name": "Nampho",
+    "iso2": "14",
+    "native": "남포시",
+    "latitude": "38.73555556",
+    "longitude": "125.40888889",
+    "type": "metropolitan city",
+    "timezone": "Asia/Pyongyang",
+    "CountryID": 115
+  },
+  {
+    "id": 3995,
+    "name": "North Hamgyong",
+    "iso2": "09",
+    "native": "함경북도",
+    "latitude": "41.90987230",
+    "longitude": "129.36905600",
+    "type": "province",
+    "timezone": "Asia/Pyongyang",
+    "CountryID": 115
+  },
+  {
+    "id": 4004,
+    "name": "North Hwanghae",
+    "iso2": "06",
+    "native": "황해북도",
+    "latitude": "38.57096320",
+    "longitude": "126.24657230",
+    "type": "province",
+    "timezone": "Asia/Pyongyang",
+    "CountryID": 115
+  },
+  {
+    "id": 4002,
+    "name": "North Pyongan",
+    "iso2": "03",
+    "native": "평안북도",
+    "latitude": "40.06428470",
+    "longitude": "125.23562220",
+    "type": "province",
+    "timezone": "Asia/Pyongyang",
+    "CountryID": 115
+  },
+  {
+    "id": 4005,
+    "name": "Pyongyang",
+    "iso2": "01",
+    "native": "평양",
+    "latitude": "39.01679790",
+    "longitude": "125.74736090",
+    "type": "capital city",
+    "timezone": "Asia/Pyongyang",
+    "CountryID": 115
+  },
+  {
+    "id": 4001,
+    "name": "Rason",
+    "iso2": "13",
+    "native": "라손",
+    "latitude": "42.24973160",
+    "longitude": "130.31132960",
+    "type": "special city",
+    "timezone": "Asia/Pyongyang",
+    "CountryID": 115
+  },
+  {
+    "id": 3996,
+    "name": "Ryanggang",
+    "iso2": "10",
+    "native": "량강",
+    "latitude": "41.09978980",
+    "longitude": "128.16903460",
+    "type": "province",
+    "timezone": "Asia/Pyongyang",
+    "CountryID": 115
+  },
+  {
+    "id": 4000,
+    "name": "South Hamgyong",
+    "iso2": "08",
+    "native": "함경남도",
+    "latitude": "40.11991800",
+    "longitude": "127.59909890",
+    "type": "province",
+    "timezone": "Asia/Pyongyang",
+    "CountryID": 115
+  },
+  {
+    "id": 4003,
+    "name": "South Hwanghae",
+    "iso2": "05",
+    "native": "황해남도",
+    "latitude": "38.26282620",
+    "longitude": "125.47690100",
+    "type": "province",
+    "timezone": "Asia/Pyongyang",
+    "CountryID": 115
+  },
+  {
+    "id": 3997,
+    "name": "South Pyongan",
+    "iso2": "02",
+    "native": "남평안",
+    "latitude": "39.54165050",
+    "longitude": "126.06476450",
+    "type": "province",
+    "timezone": "Asia/Pyongyang",
+    "CountryID": 115
+  }
+]

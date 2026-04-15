@@ -1,0 +1,189 @@
+[
+  {
+    "id": 946,
+    "name": "Boaco",
+    "iso2": "BO",
+    "native": "Reno",
+    "latitude": "12.46928400",
+    "longitude": "-85.66146820",
+    "type": "department",
+    "timezone": "America/Managua",
+    "CountryID": 159
+  },
+  {
+    "id": 950,
+    "name": "Carazo",
+    "iso2": "CA",
+    "native": "Carazo",
+    "latitude": "11.66199850",
+    "longitude": "-86.31256970",
+    "type": "department",
+    "timezone": "America/Managua",
+    "CountryID": 159
+  },
+  {
+    "id": 954,
+    "name": "Chinandega",
+    "iso2": "CI",
+    "native": "Chinandega",
+    "latitude": "12.77779620",
+    "longitude": "-87.26958400",
+    "type": "department",
+    "timezone": "America/Managua",
+    "CountryID": 159
+  },
+  {
+    "id": 940,
+    "name": "Chontales",
+    "iso2": "CO",
+    "native": "Chontales",
+    "latitude": "11.98767530",
+    "longitude": "-85.18607980",
+    "type": "department",
+    "timezone": "America/Managua",
+    "CountryID": 159
+  },
+  {
+    "id": 945,
+    "name": "Estelí",
+    "iso2": "ES",
+    "native": "Estelí",
+    "latitude": "13.09312410",
+    "longitude": "-86.35544360",
+    "type": "department",
+    "timezone": "America/Managua",
+    "CountryID": 159
+  },
+  {
+    "id": 943,
+    "name": "Granada",
+    "iso2": "GR",
+    "native": "Granada",
+    "latitude": "11.93440730",
+    "longitude": "-85.95600050",
+    "type": "department",
+    "timezone": "America/Managua",
+    "CountryID": 159
+  },
+  {
+    "id": 955,
+    "name": "Jinotega",
+    "iso2": "JI",
+    "native": "Jinotega",
+    "latitude": "13.08839070",
+    "longitude": "-85.99939970",
+    "type": "department",
+    "timezone": "America/Managua",
+    "CountryID": 159
+  },
+  {
+    "id": 944,
+    "name": "León",
+    "iso2": "LE",
+    "native": "León",
+    "latitude": "12.50920370",
+    "longitude": "-86.66110830",
+    "type": "department",
+    "timezone": "America/Managua",
+    "CountryID": 159
+  },
+  {
+    "id": 948,
+    "name": "Madriz",
+    "iso2": "MD",
+    "native": "Madriz",
+    "latitude": "13.42728710",
+    "longitude": "-86.40162200",
+    "type": "department",
+    "timezone": "America/Managua",
+    "CountryID": 159
+  },
+  {
+    "id": 941,
+    "name": "Managua",
+    "iso2": "MN",
+    "native": "Gerencia",
+    "latitude": "12.10805850",
+    "longitude": "-86.35058080",
+    "type": "department",
+    "timezone": "America/Managua",
+    "CountryID": 159
+  },
+  {
+    "id": 953,
+    "name": "Masaya",
+    "iso2": "MS",
+    "native": "Es divertido",
+    "latitude": "11.97364740",
+    "longitude": "-86.09605470",
+    "type": "department",
+    "timezone": "America/Managua",
+    "CountryID": 159
+  },
+  {
+    "id": 947,
+    "name": "Matagalpa",
+    "iso2": "MT",
+    "native": "Matagalpa",
+    "latitude": "12.94032300",
+    "longitude": "-85.69609420",
+    "type": "department",
+    "timezone": "America/Managua",
+    "CountryID": 159
+  },
+  {
+    "id": 951,
+    "name": "North Caribbean Coast",
+    "iso2": "AN",
+    "native": "Costa del Caribe del Norte",
+    "latitude": "14.05574990",
+    "longitude": "-83.74757650",
+    "type": "autonomous region",
+    "timezone": "America/Managua",
+    "CountryID": 159
+  },
+  {
+    "id": 4964,
+    "name": "Nueva Segovia",
+    "iso2": "NS",
+    "native": "Nueva Segovia",
+    "latitude": "13.77190230",
+    "longitude": "-86.05845420",
+    "type": "department",
+    "timezone": "America/Managua",
+    "CountryID": 159
+  },
+  {
+    "id": 949,
+    "name": "Río San Juan",
+    "iso2": "SJ",
+    "native": "Río San Juan",
+    "latitude": "11.30800260",
+    "longitude": "-84.75506930",
+    "type": "department",
+    "timezone": "America/Managua",
+    "CountryID": 159
+  },
+  {
+    "id": 942,
+    "name": "Rivas",
+    "iso2": "RI",
+    "native": "Rivas",
+    "latitude": "11.34346870",
+    "longitude": "-85.71596240",
+    "type": "department",
+    "timezone": "America/Managua",
+    "CountryID": 159
+  },
+  {
+    "id": 952,
+    "name": "South Caribbean Coast",
+    "iso2": "AS",
+    "native": "Costa del Caribe del Sur",
+    "latitude": "12.17932750",
+    "longitude": "-83.77740510",
+    "type": "autonomous region",
+    "timezone": "America/Managua",
+    "CountryID": 159
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 144,
+    "name": "Codrington",
+    "latitude": "17.63333000",
+    "longitude": "-61.83333000",
+    "CountryID": 10,
+    "StateID": 3708
+  },
+  {
+    "id": 148,
+    "name": "Piggotts",
+    "latitude": "17.11667000",
+    "longitude": "-61.80000000",
+    "CountryID": 10,
+    "StateID": 3709
+  },
+  {
+    "id": 149,
+    "name": "Potters Village",
+    "latitude": "17.11337000",
+    "longitude": "-61.81962000",
+    "CountryID": 10,
+    "StateID": 3706
+  },
+  {
+    "id": 150,
+    "name": "Saint John’s",
+    "latitude": "17.12096000",
+    "longitude": "-61.84329000",
+    "CountryID": 10,
+    "StateID": 3706
+  },
+  {
+    "id": 143,
+    "name": "Bolands",
+    "latitude": "17.06565000",
+    "longitude": "-61.87466000",
+    "CountryID": 10,
+    "StateID": 3707
+  },
+  {
+    "id": 145,
+    "name": "Falmouth",
+    "latitude": "17.02741000",
+    "longitude": "-61.78136000",
+    "CountryID": 10,
+    "StateID": 3705
+  },
+  {
+    "id": 146,
+    "name": "Liberta",
+    "latitude": "17.04141000",
+    "longitude": "-61.79052000",
+    "CountryID": 10,
+    "StateID": 3705
+  },
+  {
+    "id": 142,
+    "name": "All Saints",
+    "latitude": "17.06671000",
+    "longitude": "-61.79303000",
+    "CountryID": 10,
+    "StateID": 3704
+  },
+  {
+    "id": 147,
+    "name": "Parham",
+    "latitude": "17.09682000",
+    "longitude": "-61.77046000",
+    "CountryID": 10,
+    "StateID": 3704
+  }
+]

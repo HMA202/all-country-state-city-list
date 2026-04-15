@@ -1,0 +1,35 @@
+[
+  {
+    "id": 5074,
+    "name": "Saint Croix",
+    "iso2": "SC",
+    "native": "Holy cross",
+    "latitude": "17.72912400",
+    "longitude": "-64.75891560",
+    "type": "district",
+    "timezone": "America/St_Thomas",
+    "CountryID": 242
+  },
+  {
+    "id": 5073,
+    "name": "Saint John",
+    "iso2": "SJ",
+    "native": "Saint John",
+    "latitude": "18.33560130",
+    "longitude": "-64.75504060",
+    "type": "district",
+    "timezone": "America/St_Thomas",
+    "CountryID": 242
+  },
+  {
+    "id": 5072,
+    "name": "Saint Thomas",
+    "iso2": "ST",
+    "native": "Saint Thomas",
+    "latitude": "18.34290810",
+    "longitude": "-64.91889970",
+    "type": "district",
+    "timezone": "America/St_Thomas",
+    "CountryID": 242
+  }
+]

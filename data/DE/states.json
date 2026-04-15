@@ -1,0 +1,178 @@
+[
+  {
+    "id": 3006,
+    "name": "Baden-Württemberg",
+    "iso2": "BW",
+    "native": "Baden-Württemberg",
+    "latitude": "48.53775000",
+    "longitude": "9.04116900",
+    "type": "land",
+    "timezone": "Europe/Berlin",
+    "CountryID": 82
+  },
+  {
+    "id": 3009,
+    "name": "Bavaria",
+    "iso2": "BY",
+    "native": "Bayern",
+    "latitude": "48.94675620",
+    "longitude": "11.40387170",
+    "type": "land",
+    "timezone": "Europe/Berlin",
+    "CountryID": 82
+  },
+  {
+    "id": 3010,
+    "name": "Berlin",
+    "iso2": "BE",
+    "native": "Berlin",
+    "latitude": "52.51088500",
+    "longitude": "13.39893670",
+    "type": "land",
+    "timezone": "Europe/Berlin",
+    "CountryID": 82
+  },
+  {
+    "id": 3013,
+    "name": "Brandenburg",
+    "iso2": "BB",
+    "native": "Brandenburg",
+    "latitude": "52.84554920",
+    "longitude": "13.24612960",
+    "type": "land",
+    "timezone": "Europe/Berlin",
+    "CountryID": 82
+  },
+  {
+    "id": 3014,
+    "name": "Bremen",
+    "iso2": "HB",
+    "native": "Bremen",
+    "latitude": "53.07929620",
+    "longitude": "8.80169360",
+    "type": "land",
+    "timezone": "Europe/Berlin",
+    "CountryID": 82
+  },
+  {
+    "id": 3016,
+    "name": "Hamburg",
+    "iso2": "HH",
+    "native": "Hamburg",
+    "latitude": "53.55108460",
+    "longitude": "9.99368190",
+    "type": "land",
+    "timezone": "Europe/Berlin",
+    "CountryID": 82
+  },
+  {
+    "id": 3018,
+    "name": "Hessen",
+    "iso2": "HE",
+    "native": "Hessen",
+    "latitude": "50.60806510",
+    "longitude": "9.02846470",
+    "type": "land",
+    "timezone": "Europe/Berlin",
+    "CountryID": 82
+  },
+  {
+    "id": 3008,
+    "name": "Lower Saxony",
+    "iso2": "NI",
+    "native": "Niedersachsen",
+    "latitude": "52.83985310",
+    "longitude": "9.07596200",
+    "type": "land",
+    "timezone": "Europe/Berlin",
+    "CountryID": 82
+  },
+  {
+    "id": 3007,
+    "name": "Mecklenburg-Vorpommern",
+    "iso2": "MV",
+    "native": "Mecklenburg-Vorpommern",
+    "latitude": "53.77350640",
+    "longitude": "12.57554710",
+    "type": "land",
+    "timezone": "Europe/Berlin",
+    "CountryID": 82
+  },
+  {
+    "id": 3017,
+    "name": "North Rhine-Westphalia",
+    "iso2": "NW",
+    "native": "Nordrhein-Westfalen",
+    "latitude": "51.47892050",
+    "longitude": "7.55437510",
+    "type": "land",
+    "timezone": "Europe/Berlin",
+    "CountryID": 82
+  },
+  {
+    "id": 3019,
+    "name": "Rhineland-Palatinate",
+    "iso2": "RP",
+    "native": "Rheinland-Pfalz",
+    "latitude": "49.95315990",
+    "longitude": "7.31064600",
+    "type": "land",
+    "timezone": "Europe/Berlin",
+    "CountryID": 82
+  },
+  {
+    "id": 3020,
+    "name": "Saarland",
+    "iso2": "SL",
+    "native": "Saarland",
+    "latitude": "49.38418720",
+    "longitude": "6.95373690",
+    "type": "land",
+    "timezone": "Europe/Berlin",
+    "CountryID": 82
+  },
+  {
+    "id": 3021,
+    "name": "Saxony",
+    "iso2": "SN",
+    "native": "Sachsen",
+    "latitude": "50.92957980",
+    "longitude": "13.45850520",
+    "type": "land",
+    "timezone": "Europe/Berlin",
+    "CountryID": 82
+  },
+  {
+    "id": 3011,
+    "name": "Saxony-Anhalt",
+    "iso2": "ST",
+    "native": "Sachsen-Anhalt",
+    "latitude": "51.92809760",
+    "longitude": "11.68122430",
+    "type": "land",
+    "timezone": "Europe/Berlin",
+    "CountryID": 82
+  },
+  {
+    "id": 3005,
+    "name": "Schleswig-Holstein",
+    "iso2": "SH",
+    "native": "Schleswig-Holstein",
+    "latitude": "54.18539980",
+    "longitude": "9.82200890",
+    "type": "land",
+    "timezone": "Europe/Berlin",
+    "CountryID": 82
+  },
+  {
+    "id": 3015,
+    "name": "Thuringia",
+    "iso2": "TH",
+    "native": "Thüringen",
+    "latitude": "50.90147210",
+    "longitude": "11.03778390",
+    "type": "land",
+    "timezone": "Europe/Berlin",
+    "CountryID": 82
+  }
+]

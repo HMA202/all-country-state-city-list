@@ -1,0 +1,24 @@
+[
+  {
+    "id": 5384,
+    "name": "Basse-Terre",
+    "iso2": "01",
+    "native": "Basse-Terre",
+    "latitude": "16.00007780",
+    "longitude": "-61.73333730",
+    "type": "district",
+    "timezone": "America/Guadeloupe",
+    "CountryID": 88
+  },
+  {
+    "id": 5385,
+    "name": "Pointe-à-Pitre",
+    "iso2": "02",
+    "native": "Pointe-à-Pitre",
+    "latitude": "16.24086360",
+    "longitude": "-61.53340770",
+    "type": "district",
+    "timezone": "America/Guadeloupe",
+    "CountryID": 88
+  }
+]

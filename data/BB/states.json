@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1228,
+    "name": "Christ Church",
+    "iso2": "01",
+    "native": "Christ Church",
+    "latitude": "13.08261800",
+    "longitude": "-59.53744510",
+    "type": "parish",
+    "timezone": "America/Barbados",
+    "CountryID": 20
+  },
+  {
+    "id": 1229,
+    "name": "Saint Andrew",
+    "iso2": "02",
+    "native": "Saint Andrew",
+    "latitude": "13.24329040",
+    "longitude": "-59.57317000",
+    "type": "parish",
+    "timezone": "America/Barbados",
+    "CountryID": 20
+  },
+  {
+    "id": 1226,
+    "name": "Saint George",
+    "iso2": "03",
+    "native": "Saint George",
+    "latitude": "13.13840220",
+    "longitude": "-59.54437210",
+    "type": "parish",
+    "timezone": "America/Barbados",
+    "CountryID": 20
+  },
+  {
+    "id": 1224,
+    "name": "Saint James",
+    "iso2": "04",
+    "native": "Saint James",
+    "latitude": "13.18637930",
+    "longitude": "-59.62519200",
+    "type": "parish",
+    "timezone": "America/Barbados",
+    "CountryID": 20
+  },
+  {
+    "id": 1227,
+    "name": "Saint John",
+    "iso2": "05",
+    "native": "Saint John",
+    "latitude": "13.18994630",
+    "longitude": "-59.55921510",
+    "type": "parish",
+    "timezone": "America/Barbados",
+    "CountryID": 20
+  },
+  {
+    "id": 1223,
+    "name": "Saint Joseph",
+    "iso2": "06",
+    "native": "Saint Joseph",
+    "latitude": "13.18994630",
+    "longitude": "-59.55921510",
+    "type": "parish",
+    "timezone": "America/Barbados",
+    "CountryID": 20
+  },
+  {
+    "id": 1221,
+    "name": "Saint Lucy",
+    "iso2": "07",
+    "native": "Saint Lucy",
+    "latitude": "13.30240680",
+    "longitude": "-59.61294450",
+    "type": "parish",
+    "timezone": "America/Barbados",
+    "CountryID": 20
+  },
+  {
+    "id": 1230,
+    "name": "Saint Michael",
+    "iso2": "08",
+    "native": "Saint Michael",
+    "latitude": "13.11829850",
+    "longitude": "-59.60157830",
+    "type": "parish",
+    "timezone": "America/Barbados",
+    "CountryID": 20
+  },
+  {
+    "id": 1222,
+    "name": "Saint Peter",
+    "iso2": "09",
+    "native": "Saint Peter",
+    "latitude": "13.26197790",
+    "longitude": "-59.62074440",
+    "type": "parish",
+    "timezone": "America/Barbados",
+    "CountryID": 20
+  },
+  {
+    "id": 1220,
+    "name": "Saint Philip",
+    "iso2": "10",
+    "native": "Saint Philip",
+    "latitude": "13.12953900",
+    "longitude": "-59.46741020",
+    "type": "parish",
+    "timezone": "America/Barbados",
+    "CountryID": 20
+  },
+  {
+    "id": 1225,
+    "name": "Saint Thomas",
+    "iso2": "11",
+    "native": "Saint Thomas",
+    "latitude": "13.17720200",
+    "longitude": "-59.58538330",
+    "type": "parish",
+    "timezone": "America/Barbados",
+    "CountryID": 20
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1956,
+    "name": "Bulawayo",
+    "iso2": "BU",
+    "native": "Bulawayo",
+    "latitude": "-20.11111480",
+    "longitude": "28.53567810",
+    "type": "province",
+    "timezone": "Africa/Harare",
+    "CountryID": 247
+  },
+  {
+    "id": 1958,
+    "name": "Harare",
+    "iso2": "HA",
+    "native": "Harare",
+    "latitude": "-17.83177300",
+    "longitude": "31.04568600",
+    "type": "province",
+    "timezone": "Africa/Harare",
+    "CountryID": 247
+  },
+  {
+    "id": 1959,
+    "name": "Manicaland",
+    "iso2": "MA",
+    "native": "Manicaland",
+    "latitude": "-19.01884220",
+    "longitude": "32.36888900",
+    "type": "province",
+    "timezone": "Africa/Harare",
+    "CountryID": 247
+  },
+  {
+    "id": 1955,
+    "name": "Mashonaland Central",
+    "iso2": "MC",
+    "native": "Mashonaland Central",
+    "latitude": "-16.74287200",
+    "longitude": "31.29520860",
+    "type": "province",
+    "timezone": "Africa/Harare",
+    "CountryID": 247
+  },
+  {
+    "id": 1951,
+    "name": "Mashonaland East",
+    "iso2": "ME",
+    "native": "Mashonaland East",
+    "latitude": "-17.79273230",
+    "longitude": "31.76780440",
+    "type": "province",
+    "timezone": "Africa/Harare",
+    "CountryID": 247
+  },
+  {
+    "id": 1953,
+    "name": "Mashonaland West",
+    "iso2": "MW",
+    "native": "Mashonaland West",
+    "latitude": "-17.48510290",
+    "longitude": "29.78892480",
+    "type": "province",
+    "timezone": "Africa/Harare",
+    "CountryID": 247
+  },
+  {
+    "id": 1960,
+    "name": "Masvingo",
+    "iso2": "MV",
+    "native": "Masvingo",
+    "latitude": "-20.74539570",
+    "longitude": "31.33413800",
+    "type": "province",
+    "timezone": "Africa/Harare",
+    "CountryID": 247
+  },
+  {
+    "id": 1954,
+    "name": "Matabeleland North",
+    "iso2": "MN",
+    "native": "Matabeleland North",
+    "latitude": "-18.92837150",
+    "longitude": "27.49922310",
+    "type": "province",
+    "timezone": "Africa/Harare",
+    "CountryID": 247
+  },
+  {
+    "id": 1952,
+    "name": "Matabeleland South",
+    "iso2": "MS",
+    "native": "Matabeleland South",
+    "latitude": "-20.73648010",
+    "longitude": "28.93964950",
+    "type": "province",
+    "timezone": "Africa/Harare",
+    "CountryID": 247
+  },
+  {
+    "id": 1957,
+    "name": "Midlands",
+    "iso2": "MI",
+    "native": "Midlands",
+    "latitude": "-19.27850430",
+    "longitude": "29.87908520",
+    "type": "province",
+    "timezone": "Africa/Harare",
+    "CountryID": 247
+  }
+]

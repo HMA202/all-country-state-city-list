@@ -1,0 +1,222 @@
+[
+  {
+    "id": 5455,
+    "name": "Abai",
+    "iso2": "10",
+    "native": "Абай",
+    "latitude": "48.61633350",
+    "longitude": "78.78347910",
+    "type": "region",
+    "timezone": "Asia/Almaty",
+    "CountryID": 112
+  },
+  {
+    "id": 145,
+    "name": "Akmola",
+    "iso2": "11",
+    "native": "Ақмола",
+    "latitude": "51.87423470",
+    "longitude": "69.85821320",
+    "type": "region",
+    "timezone": "Asia/Almaty",
+    "CountryID": 112
+  },
+  {
+    "id": 151,
+    "name": "Aktobe",
+    "iso2": "15",
+    "native": "Ақтөбе",
+    "latitude": "48.25527720",
+    "longitude": "59.44991720",
+    "type": "region",
+    "timezone": "Asia/Almaty",
+    "CountryID": 112
+  },
+  {
+    "id": 143,
+    "name": "Almaty",
+    "iso2": "19",
+    "native": "Алматы",
+    "latitude": "43.61369550",
+    "longitude": "77.13581360",
+    "type": "region",
+    "timezone": "Asia/Almaty",
+    "CountryID": 112
+  },
+  {
+    "id": 152,
+    "name": "Almaty",
+    "iso2": "75",
+    "native": "Алматы",
+    "latitude": "43.61369550",
+    "longitude": "77.13581360",
+    "type": "city",
+    "timezone": "Asia/Almaty",
+    "CountryID": 112
+  },
+  {
+    "id": 156,
+    "name": "Astana",
+    "iso2": "71",
+    "native": "Астана",
+    "latitude": "51.12822050",
+    "longitude": "71.43066820",
+    "type": "city",
+    "timezone": "Asia/Almaty",
+    "CountryID": 112
+  },
+  {
+    "id": 153,
+    "name": "Atyrau",
+    "iso2": "23",
+    "native": "Атырау",
+    "latitude": "47.10761880",
+    "longitude": "51.91413300",
+    "type": "region",
+    "timezone": "Asia/Atyrau",
+    "CountryID": 112
+  },
+  {
+    "id": 154,
+    "name": "East Kazakhstan",
+    "iso2": "63",
+    "native": "Шығыс Қазақстан",
+    "latitude": "49.09737600",
+    "longitude": "84.76578170",
+    "type": "region",
+    "timezone": "Asia/Almaty",
+    "CountryID": 112
+  },
+  {
+    "id": 147,
+    "name": "Jambyl",
+    "iso2": "31",
+    "native": "Жамбыл",
+    "latitude": "44.41684630",
+    "longitude": "72.13416600",
+    "type": "region",
+    "timezone": "Asia/Almaty",
+    "CountryID": 112
+  },
+  {
+    "id": 5456,
+    "name": "Jetisu",
+    "iso2": "33",
+    "native": "Жетісу",
+    "latitude": "45.53856920",
+    "longitude": "78.05831440",
+    "type": "region",
+    "timezone": "Asia/Almaty",
+    "CountryID": 112
+  },
+  {
+    "id": 150,
+    "name": "Karaganda",
+    "iso2": "35",
+    "native": "Қарағанды",
+    "latitude": "49.17673220",
+    "longitude": "74.18112720",
+    "type": "region",
+    "timezone": "Asia/Almaty",
+    "CountryID": 112
+  },
+  {
+    "id": 157,
+    "name": "Kostanay",
+    "iso2": "39",
+    "native": "Қостанай",
+    "latitude": "52.06156260",
+    "longitude": "62.93726890",
+    "type": "region",
+    "timezone": "Asia/Almaty",
+    "CountryID": 112
+  },
+  {
+    "id": 142,
+    "name": "Kyzylorda",
+    "iso2": "43",
+    "native": "Қызылорда",
+    "latitude": "45.20588530",
+    "longitude": "63.91552020",
+    "type": "region",
+    "timezone": "Asia/Almaty",
+    "CountryID": 112
+  },
+  {
+    "id": 141,
+    "name": "Mangystau",
+    "iso2": "47",
+    "native": "Маңғыстау",
+    "latitude": "44.43649180",
+    "longitude": "53.79999310",
+    "type": "region",
+    "timezone": "Asia/Almaty",
+    "CountryID": 112
+  },
+  {
+    "id": 144,
+    "name": "North Kazakhstan",
+    "iso2": "59",
+    "native": "Солтүстік Қазақстан",
+    "latitude": "53.97971710",
+    "longitude": "69.04509020",
+    "type": "region",
+    "timezone": "Asia/Almaty",
+    "CountryID": 112
+  },
+  {
+    "id": 146,
+    "name": "Pavlodar",
+    "iso2": "55",
+    "native": "Павлодар",
+    "latitude": "52.28575730",
+    "longitude": "76.94550350",
+    "type": "region",
+    "timezone": "Asia/Almaty",
+    "CountryID": 112
+  },
+  {
+    "id": 5454,
+    "name": "Shymkent",
+    "iso2": "79",
+    "native": "Шымкент",
+    "latitude": "42.34191770",
+    "longitude": "69.50723510",
+    "type": "city",
+    "timezone": "Asia/Almaty",
+    "CountryID": 112
+  },
+  {
+    "id": 149,
+    "name": "Turkistan",
+    "iso2": "61",
+    "native": "Түркістан",
+    "latitude": "43.30194570",
+    "longitude": "68.27036980",
+    "type": "region",
+    "timezone": "Asia/Almaty",
+    "CountryID": 112
+  },
+  {
+    "id": 5457,
+    "name": "Ulytau",
+    "iso2": "62",
+    "native": "Ұлытау",
+    "latitude": "47.94224700",
+    "longitude": "64.89337140",
+    "type": "region",
+    "timezone": "Asia/Almaty",
+    "CountryID": 112
+  },
+  {
+    "id": 148,
+    "name": "West Kazakhstan",
+    "iso2": "27",
+    "native": "Батыс Қазақстан",
+    "latitude": "49.55684790",
+    "longitude": "50.22274090",
+    "type": "region",
+    "timezone": "Asia/Oral",
+    "CountryID": 112
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "id": 221,
+    "name": "Bengo",
+    "iso2": "BGO",
+    "native": "Porta-malas",
+    "latitude": "-8.31966720",
+    "longitude": "13.86561950",
+    "type": "province",
+    "timezone": "Africa/Luanda",
+    "CountryID": 7
+  },
+  {
+    "id": 218,
+    "name": "Benguela",
+    "iso2": "BGU",
+    "native": "Benguela",
+    "latitude": "-12.91046570",
+    "longitude": "14.03566080",
+    "type": "province",
+    "timezone": "Africa/Luanda",
+    "CountryID": 7
+  },
+  {
+    "id": 212,
+    "name": "Bié",
+    "iso2": "BIE",
+    "native": "Bié",
+    "latitude": "-12.26304850",
+    "longitude": "17.49678120",
+    "type": "province",
+    "timezone": "Africa/Luanda",
+    "CountryID": 7
+  },
+  {
+    "id": 228,
+    "name": "Cabinda",
+    "iso2": "CAB",
+    "native": "Cabinda",
+    "latitude": "-5.05639500",
+    "longitude": "12.32117490",
+    "type": "province",
+    "timezone": "Africa/Luanda",
+    "CountryID": 7
+  },
+  {
+    "id": 226,
+    "name": "Cuando Cubango",
+    "iso2": "CCU",
+    "native": "Quando Cubango",
+    "latitude": "-16.04576940",
+    "longitude": "19.56215320",
+    "type": "province",
+    "timezone": "Africa/Luanda",
+    "CountryID": 7
+  },
+  {
+    "id": 216,
+    "name": "Cuanza",
+    "iso2": "CUS",
+    "native": "Quanza",
+    "latitude": "-10.77075270",
+    "longitude": "15.09757120",
+    "type": "province",
+    "timezone": "Africa/Luanda",
+    "CountryID": 7
+  },
+  {
+    "id": 217,
+    "name": "Cuanza Norte",
+    "iso2": "CNO",
+    "native": "Cuanza Norte",
+    "latitude": "-9.02967520",
+    "longitude": "15.09263240",
+    "type": "province",
+    "timezone": "Africa/Luanda",
+    "CountryID": 7
+  },
+  {
+    "id": 215,
+    "name": "Cunene",
+    "iso2": "CNN",
+    "native": "Cunene",
+    "latitude": "-16.55685360",
+    "longitude": "15.78673190",
+    "type": "province",
+    "timezone": "Africa/Luanda",
+    "CountryID": 7
+  },
+  {
+    "id": 213,
+    "name": "Huambo",
+    "iso2": "HUA",
+    "native": "Huambo",
+    "latitude": "-12.60763180",
+    "longitude": "15.74110390",
+    "type": "province",
+    "timezone": "Africa/Luanda",
+    "CountryID": 7
+  },
+  {
+    "id": 225,
+    "name": "Huíla",
+    "iso2": "HUI",
+    "native": "Huíla",
+    "latitude": "-14.69578080",
+    "longitude": "15.09762930",
+    "type": "province",
+    "timezone": "Africa/Luanda",
+    "CountryID": 7
+  },
+  {
+    "id": 222,
+    "name": "Luanda",
+    "iso2": "LUA",
+    "native": "Luanda",
+    "latitude": "-8.83157470",
+    "longitude": "13.24797000",
+    "type": "province",
+    "timezone": "Africa/Luanda",
+    "CountryID": 7
+  },
+  {
+    "id": 223,
+    "name": "Lunda Norte",
+    "iso2": "LNO",
+    "native": "Lunda Norte",
+    "latitude": "-8.50882530",
+    "longitude": "19.75386180",
+    "type": "province",
+    "timezone": "Africa/Luanda",
+    "CountryID": 7
+  },
+  {
+    "id": 220,
+    "name": "Lunda Sul",
+    "iso2": "LSU",
+    "native": "Lunda Sul",
+    "latitude": "-10.14737790",
+    "longitude": "20.99077560",
+    "type": "province",
+    "timezone": "Africa/Luanda",
+    "CountryID": 7
+  },
+  {
+    "id": 227,
+    "name": "Malanje",
+    "iso2": "MAL",
+    "native": "Malanje",
+    "latitude": "-9.53533200",
+    "longitude": "16.93642930",
+    "type": "province",
+    "timezone": "Africa/Luanda",
+    "CountryID": 7
+  },
+  {
+    "id": 219,
+    "name": "Moxico",
+    "iso2": "MOX",
+    "native": "Moxico",
+    "latitude": "-12.72871950",
+    "longitude": "21.27376370",
+    "type": "province",
+    "timezone": "Africa/Luanda",
+    "CountryID": 7
+  },
+  {
+    "id": 5469,
+    "name": "Namibe",
+    "iso2": "NAM",
+    "native": "Namibe",
+    "latitude": "-15.20000000",
+    "longitude": "12.15000000",
+    "type": "province",
+    "timezone": "Africa/Luanda",
+    "CountryID": 7
+  },
+  {
+    "id": 224,
+    "name": "Uíge",
+    "iso2": "UIG",
+    "native": "Uíge",
+    "latitude": "-6.95168020",
+    "longitude": "15.47991640",
+    "type": "province",
+    "timezone": "Africa/Luanda",
+    "CountryID": 7
+  },
+  {
+    "id": 214,
+    "name": "Zaire",
+    "iso2": "ZAI",
+    "native": "Zaire",
+    "latitude": "-6.69251310",
+    "longitude": "13.52930290",
+    "type": "province",
+    "timezone": "Africa/Luanda",
+    "CountryID": 7
+  }
+]

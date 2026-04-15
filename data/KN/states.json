@@ -1,0 +1,178 @@
+[
+  {
+    "id": 3833,
+    "name": "Christ Church Nichola Town",
+    "iso2": "01",
+    "native": "Christ Church Nichola Town",
+    "latitude": "17.36048120",
+    "longitude": "-62.76178370",
+    "type": "parish",
+    "timezone": "America/St_Kitts",
+    "CountryID": 185
+  },
+  {
+    "id": 3832,
+    "name": "Nevis",
+    "iso2": "N",
+    "native": "Nevis",
+    "latitude": "17.15535580",
+    "longitude": "-62.57960260",
+    "type": "state",
+    "timezone": "America/St_Kitts",
+    "CountryID": 185
+  },
+  {
+    "id": 3836,
+    "name": "Saint Anne Sandy Point",
+    "iso2": "02",
+    "native": "Saint Anne Sandy Point",
+    "latitude": "17.37253330",
+    "longitude": "-62.84411330",
+    "type": "parish",
+    "timezone": "America/St_Kitts",
+    "CountryID": 185
+  },
+  {
+    "id": 5348,
+    "name": "Saint George Basseterre",
+    "iso2": "03",
+    "native": "Saint George Basseterre",
+    "latitude": "17.23915440",
+    "longitude": "-62.64240820",
+    "type": "parish",
+    "timezone": "America/St_Kitts",
+    "CountryID": 185
+  },
+  {
+    "id": 3837,
+    "name": "Saint George Gingerland",
+    "iso2": "04",
+    "native": "Saint George Gingerland",
+    "latitude": "17.12577590",
+    "longitude": "-62.56198110",
+    "type": "parish",
+    "timezone": "America/St_Kitts",
+    "CountryID": 185
+  },
+  {
+    "id": 3835,
+    "name": "Saint James Windward",
+    "iso2": "05",
+    "native": "Saint James Windward",
+    "latitude": "17.17696330",
+    "longitude": "-62.57960260",
+    "type": "parish",
+    "timezone": "America/St_Kitts",
+    "CountryID": 185
+  },
+  {
+    "id": 3845,
+    "name": "Saint John Capisterre",
+    "iso2": "06",
+    "native": "Saint John Capisterre",
+    "latitude": "17.38725670",
+    "longitude": "-62.79921320",
+    "type": "parish",
+    "timezone": "America/St_Kitts",
+    "CountryID": 185
+  },
+  {
+    "id": 3840,
+    "name": "Saint John Figtree",
+    "iso2": "07",
+    "native": "Saint John Figtree",
+    "latitude": "17.11557480",
+    "longitude": "-62.60310040",
+    "type": "parish",
+    "timezone": "America/St_Kitts",
+    "CountryID": 185
+  },
+  {
+    "id": 3841,
+    "name": "Saint Kitts",
+    "iso2": "K",
+    "native": "Saint Kitts",
+    "latitude": "17.31569290",
+    "longitude": "-62.74468060",
+    "type": "state",
+    "timezone": "America/St_Kitts",
+    "CountryID": 185
+  },
+  {
+    "id": 3844,
+    "name": "Saint Mary Cayon",
+    "iso2": "08",
+    "native": "Saint Mary Cayon",
+    "latitude": "17.34620710",
+    "longitude": "-62.73826710",
+    "type": "parish",
+    "timezone": "America/St_Kitts",
+    "CountryID": 185
+  },
+  {
+    "id": 3834,
+    "name": "Saint Paul Capisterre",
+    "iso2": "09",
+    "native": "Saint Paul Capisterre",
+    "latitude": "17.39490590",
+    "longitude": "-62.83582900",
+    "type": "parish",
+    "timezone": "America/St_Kitts",
+    "CountryID": 185
+  },
+  {
+    "id": 3838,
+    "name": "Saint Paul Charlestown",
+    "iso2": "10",
+    "native": "Saint Paul Charlestown",
+    "latitude": "17.13462970",
+    "longitude": "-62.61338160",
+    "type": "parish",
+    "timezone": "America/St_Kitts",
+    "CountryID": 185
+  },
+  {
+    "id": 3831,
+    "name": "Saint Peter Basseterre",
+    "iso2": "11",
+    "native": "Saint Peter Basseterre",
+    "latitude": "17.32556530",
+    "longitude": "-62.72177790",
+    "type": "parish",
+    "timezone": "America/St_Kitts",
+    "CountryID": 185
+  },
+  {
+    "id": 3839,
+    "name": "Saint Thomas Lowland",
+    "iso2": "12",
+    "native": "Saint Thomas Lowland",
+    "latitude": "17.16505130",
+    "longitude": "-62.60897530",
+    "type": "parish",
+    "timezone": "America/St_Kitts",
+    "CountryID": 185
+  },
+  {
+    "id": 3842,
+    "name": "Saint Thomas Middle Island",
+    "iso2": "13",
+    "native": "Saint Thomas Middle Island",
+    "latitude": "17.33488130",
+    "longitude": "-62.80882510",
+    "type": "parish",
+    "timezone": "America/St_Kitts",
+    "CountryID": 185
+  },
+  {
+    "id": 3843,
+    "name": "Trinity Palmetto Point",
+    "iso2": "15",
+    "native": "Trinity Palmetto Point",
+    "latitude": "17.31451430",
+    "longitude": "-62.76851450",
+    "type": "parish",
+    "timezone": "America/St_Kitts",
+    "CountryID": 185
+  }
+]

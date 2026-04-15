@@ -1,0 +1,123 @@
+[
+  {
+    "id": 3058,
+    "name": "Ad Dakhiliyah",
+    "iso2": "DA",
+    "native": "الداخلية",
+    "latitude": "22.22597520",
+    "longitude": "57.36927220",
+    "type": "governorate",
+    "timezone": "Asia/Muscat",
+    "CountryID": 166
+  },
+  {
+    "id": 3047,
+    "name": "Ad Dhahirah",
+    "iso2": "ZA",
+    "native": "الظاهرة",
+    "latitude": "22.65052320",
+    "longitude": "56.06162950",
+    "type": "governorate",
+    "timezone": "Asia/Muscat",
+    "CountryID": 166
+  },
+  {
+    "id": 3048,
+    "name": "Al Batinah North",
+    "iso2": "BS",
+    "native": "شمال الباطنة",
+    "latitude": "24.23718790",
+    "longitude": "56.57011980",
+    "type": "governorate",
+    "timezone": "Asia/Muscat",
+    "CountryID": 166
+  },
+  {
+    "id": 3049,
+    "name": "Al Batinah South",
+    "iso2": "BJ",
+    "native": "جنوب الباطنة",
+    "latitude": "23.36739110",
+    "longitude": "57.47378630",
+    "type": "governorate",
+    "timezone": "Asia/Muscat",
+    "CountryID": 166
+  },
+  {
+    "id": 3059,
+    "name": "Al Buraimi",
+    "iso2": "BU",
+    "native": "البريمي",
+    "latitude": "24.16149480",
+    "longitude": "56.14641020",
+    "type": "governorate",
+    "timezone": "Asia/Muscat",
+    "CountryID": 166
+  },
+  {
+    "id": 3056,
+    "name": "Al Wusta",
+    "iso2": "WU",
+    "native": "الوسطى",
+    "latitude": "19.72503470",
+    "longitude": "56.43136710",
+    "type": "governorate",
+    "timezone": "Asia/Muscat",
+    "CountryID": 166
+  },
+  {
+    "id": 3053,
+    "name": "Ash Sharqiyah North",
+    "iso2": "SS",
+    "native": "شمال الشرقية",
+    "latitude": "22.20247380",
+    "longitude": "58.51590720",
+    "type": "governorate",
+    "timezone": "Asia/Muscat",
+    "CountryID": 166
+  },
+  {
+    "id": 3054,
+    "name": "Ash Sharqiyah South",
+    "iso2": "SJ",
+    "native": "جنوب الشرقية",
+    "latitude": "21.90987800",
+    "longitude": "59.30781170",
+    "type": "governorate",
+    "timezone": "Asia/Muscat",
+    "CountryID": 166
+  },
+  {
+    "id": 3057,
+    "name": "Dhofar",
+    "iso2": "ZU",
+    "native": "ظفار",
+    "latitude": "18.33688290",
+    "longitude": "54.20929940",
+    "type": "governorate",
+    "timezone": "Asia/Muscat",
+    "CountryID": 166
+  },
+  {
+    "id": 3052,
+    "name": "Musandam",
+    "iso2": "MU",
+    "native": "مسندم",
+    "latitude": "26.15232150",
+    "longitude": "56.32948950",
+    "type": "governorate",
+    "timezone": "Asia/Muscat",
+    "CountryID": 166
+  },
+  {
+    "id": 3055,
+    "name": "Muscat",
+    "iso2": "MA",
+    "native": "المسكات عنب طيب الشذا",
+    "latitude": "23.61236280",
+    "longitude": "58.59381340",
+    "type": "governorate",
+    "timezone": "Asia/Muscat",
+    "CountryID": 166
+  }
+]

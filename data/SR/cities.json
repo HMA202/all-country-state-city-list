@@ -1,0 +1,106 @@
+[
+  {
+    "id": 104822,
+    "name": "Brokopondo",
+    "latitude": "5.05594000",
+    "longitude": "-54.98043000",
+    "CountryID": 210,
+    "StateID": 2846
+  },
+  {
+    "id": 104823,
+    "name": "Brownsweg",
+    "latitude": "5.00435000",
+    "longitude": "-55.15333000",
+    "CountryID": 210,
+    "StateID": 2846
+  },
+  {
+    "id": 104826,
+    "name": "Mariënburg",
+    "latitude": "5.87722000",
+    "longitude": "-55.04322000",
+    "CountryID": 210,
+    "StateID": 2839
+  },
+  {
+    "id": 104828,
+    "name": "Nieuw Amsterdam",
+    "latitude": "5.88573000",
+    "longitude": "-55.08871000",
+    "CountryID": 210,
+    "StateID": 2839
+  },
+  {
+    "id": 104832,
+    "name": "Totness",
+    "latitude": "5.87618000",
+    "longitude": "-56.32572000",
+    "CountryID": 210,
+    "StateID": 2842
+  },
+  {
+    "id": 104821,
+    "name": "Albina",
+    "latitude": "5.49788000",
+    "longitude": "-54.05522000",
+    "CountryID": 210,
+    "StateID": 2845
+  },
+  {
+    "id": 104827,
+    "name": "Moengo",
+    "latitude": "5.61411000",
+    "longitude": "-54.40121000",
+    "CountryID": 210,
+    "StateID": 2845
+  },
+  {
+    "id": 104829,
+    "name": "Nieuw Nickerie",
+    "latitude": "5.92606000",
+    "longitude": "-56.97297000",
+    "CountryID": 210,
+    "StateID": 2840
+  },
+  {
+    "id": 104833,
+    "name": "Wageningen",
+    "latitude": "5.76010000",
+    "longitude": "-56.66523000",
+    "CountryID": 210,
+    "StateID": 2840
+  },
+  {
+    "id": 104830,
+    "name": "Onverwacht",
+    "latitude": "5.58983000",
+    "longitude": "-55.19462000",
+    "CountryID": 210,
+    "StateID": 2841
+  },
+  {
+    "id": 104831,
+    "name": "Paramaribo",
+    "latitude": "5.86638000",
+    "longitude": "-55.16682000",
+    "CountryID": 210,
+    "StateID": 2843
+  },
+  {
+    "id": 104824,
+    "name": "Groningen",
+    "latitude": "5.80000000",
+    "longitude": "-55.46667000",
+    "CountryID": 210,
+    "StateID": 2848
+  },
+  {
+    "id": 104825,
+    "name": "Lelydorp",
+    "latitude": "5.70000000",
+    "longitude": "-55.23333000",
+    "CountryID": 210,
+    "StateID": 2844
+  }
+]

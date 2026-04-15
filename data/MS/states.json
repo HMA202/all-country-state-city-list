@@ -1,0 +1,35 @@
+[
+  {
+    "id": 5421,
+    "name": "Saint Anthony",
+    "iso2": "03",
+    "native": "Saint Anthony",
+    "latitude": "16.70562450",
+    "longitude": "-62.18553040",
+    "type": "parish",
+    "timezone": "America/Montserrat",
+    "CountryID": 148
+  },
+  {
+    "id": 5420,
+    "name": "Saint Georges",
+    "iso2": "02",
+    "native": "Saint Georges",
+    "latitude": "16.74847550",
+    "longitude": "-62.19074720",
+    "type": "parish",
+    "timezone": "America/Montserrat",
+    "CountryID": 148
+  },
+  {
+    "id": 5419,
+    "name": "Saint Peter",
+    "iso2": "01",
+    "native": "Saint Peter",
+    "latitude": "16.77659810",
+    "longitude": "-62.20007860",
+    "type": "parish",
+    "timezone": "America/Montserrat",
+    "CountryID": 148
+  }
+]

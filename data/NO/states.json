@@ -1,0 +1,189 @@
+[
+  {
+    "id": 1014,
+    "name": "Agder",
+    "iso2": "42",
+    "native": "Agder",
+    "latitude": "58.71944230",
+    "longitude": "8.03496350",
+    "type": "county",
+    "timezone": "Europe/Oslo",
+    "CountryID": 165
+  },
+  {
+    "id": 5448,
+    "name": "Akershus",
+    "iso2": "32",
+    "native": "Akershus",
+    "latitude": "60.03122150",
+    "longitude": "11.31746190",
+    "type": "county",
+    "timezone": "Europe/Oslo",
+    "CountryID": 165
+  },
+  {
+    "id": 5449,
+    "name": "Buskerud",
+    "iso2": "33",
+    "native": "Buskerud",
+    "latitude": "60.24978760",
+    "longitude": "8.96278680",
+    "type": "county",
+    "timezone": "Europe/Oslo",
+    "CountryID": 165
+  },
+  {
+    "id": 1015,
+    "name": "Finnmark",
+    "iso2": "56",
+    "native": "Finnmark",
+    "latitude": "69.96977350",
+    "longitude": "24.76857880",
+    "type": "county",
+    "timezone": "Europe/Oslo",
+    "CountryID": 165
+  },
+  {
+    "id": 1009,
+    "name": "Innlandet",
+    "iso2": "34",
+    "native": "Innlandet",
+    "latitude": "63.10478260",
+    "longitude": "7.73517930",
+    "type": "county",
+    "timezone": "Europe/Oslo",
+    "CountryID": 165
+  },
+  {
+    "id": 1026,
+    "name": "Jan Mayen",
+    "iso2": "22",
+    "native": "Jan Mayen",
+    "latitude": "70.99314710",
+    "longitude": "-8.35206590",
+    "type": "arctic region",
+    "timezone": "Europe/Oslo",
+    "CountryID": 165
+  },
+  {
+    "id": 1020,
+    "name": "Møre og Romsdal",
+    "iso2": "15",
+    "native": "Møre og Romsdal",
+    "latitude": "62.84527770",
+    "longitude": "7.51819410",
+    "type": "county",
+    "timezone": "Europe/Oslo",
+    "CountryID": 165
+  },
+  {
+    "id": 1025,
+    "name": "Nordland",
+    "iso2": "18",
+    "native": "Nordland",
+    "latitude": "67.27564050",
+    "longitude": "13.86236060",
+    "type": "county",
+    "timezone": "Europe/Oslo",
+    "CountryID": 165
+  },
+  {
+    "id": 1007,
+    "name": "Oslo",
+    "iso2": "03",
+    "native": "Oslo",
+    "latitude": "59.91386880",
+    "longitude": "10.75224540",
+    "type": "county",
+    "timezone": "Europe/Oslo",
+    "CountryID": 165
+  },
+  {
+    "id": 5450,
+    "name": "Østfold",
+    "iso2": "31",
+    "native": "Østfold",
+    "latitude": "59.26693020",
+    "longitude": "11.20857190",
+    "type": "county",
+    "timezone": "Europe/Oslo",
+    "CountryID": 165
+  },
+  {
+    "id": 1021,
+    "name": "Rogaland",
+    "iso2": "11",
+    "native": "Rogaland",
+    "latitude": "58.93631370",
+    "longitude": "5.80587860",
+    "type": "county",
+    "timezone": "Europe/Oslo",
+    "CountryID": 165
+  },
+  {
+    "id": 1013,
+    "name": "Svalbard",
+    "iso2": "21",
+    "native": "Svalbard",
+    "latitude": "78.71985190",
+    "longitude": "20.34933280",
+    "type": "arctic region",
+    "timezone": "Europe/Oslo",
+    "CountryID": 165
+  },
+  {
+    "id": 1024,
+    "name": "Telemark",
+    "iso2": "40",
+    "native": "Telemark",
+    "latitude": "59.39626760",
+    "longitude": "8.66266000",
+    "type": "county",
+    "timezone": "Europe/Oslo",
+    "CountryID": 165
+  },
+  {
+    "id": 5451,
+    "name": "Troms",
+    "iso2": "55",
+    "native": "Troms",
+    "latitude": "69.53110710",
+    "longitude": "19.52968390",
+    "type": "county",
+    "timezone": "Europe/Oslo",
+    "CountryID": 165
+  },
+  {
+    "id": 1006,
+    "name": "Trøndelag",
+    "iso2": "50",
+    "native": "Trøndelag",
+    "latitude": "63.87759240",
+    "longitude": "10.19505050",
+    "type": "county",
+    "timezone": "Europe/Oslo",
+    "CountryID": 165
+  },
+  {
+    "id": 5452,
+    "name": "Vestfold",
+    "iso2": "39",
+    "native": "Vestfold",
+    "latitude": "59.19548570",
+    "longitude": "10.26626160",
+    "type": "county",
+    "timezone": "Europe/Oslo",
+    "CountryID": 165
+  },
+  {
+    "id": 1018,
+    "name": "Vestland",
+    "iso2": "46",
+    "native": "Vestland",
+    "latitude": "60.92910110",
+    "longitude": "6.10788690",
+    "type": "county",
+    "timezone": "Europe/Oslo",
+    "CountryID": 165
+  }
+]

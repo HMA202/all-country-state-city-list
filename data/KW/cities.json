@@ -1,0 +1,202 @@
+[
+  {
+    "id": 65572,
+    "name": "Al Aḩmadī",
+    "latitude": "29.07694000",
+    "longitude": "48.08389000",
+    "CountryID": 117,
+    "StateID": 977
+  },
+  {
+    "id": 65574,
+    "name": "Al Faḩāḩīl",
+    "latitude": "29.08250000",
+    "longitude": "48.13028000",
+    "CountryID": 117,
+    "StateID": 977
+  },
+  {
+    "id": 65575,
+    "name": "Al Finţās",
+    "latitude": "29.17389000",
+    "longitude": "48.12111000",
+    "CountryID": 117,
+    "StateID": 977
+  },
+  {
+    "id": 65578,
+    "name": "Al Mahbūlah",
+    "latitude": "29.14500000",
+    "longitude": "48.13028000",
+    "CountryID": 117,
+    "StateID": 977
+  },
+  {
+    "id": 65579,
+    "name": "Al Manqaf",
+    "latitude": "29.09611000",
+    "longitude": "48.13278000",
+    "CountryID": 117,
+    "StateID": 977
+  },
+  {
+    "id": 65580,
+    "name": "Al Wafrah",
+    "latitude": "28.63917000",
+    "longitude": "47.93056000",
+    "CountryID": 117,
+    "StateID": 977
+  },
+  {
+    "id": 65582,
+    "name": "Ar Riqqah",
+    "latitude": "29.14583000",
+    "longitude": "48.09472000",
+    "CountryID": 117,
+    "StateID": 977
+  },
+  {
+    "id": 65571,
+    "name": "Ad Dasmah",
+    "latitude": "29.36500000",
+    "longitude": "48.00139000",
+    "CountryID": 117,
+    "StateID": 976
+  },
+  {
+    "id": 65584,
+    "name": "Ar Rābiyah",
+    "latitude": "29.29500000",
+    "longitude": "47.93306000",
+    "CountryID": 117,
+    "StateID": 976
+  },
+  {
+    "id": 65586,
+    "name": "Ash Shāmīyah",
+    "latitude": "29.34722000",
+    "longitude": "47.96167000",
+    "CountryID": 117,
+    "StateID": 976
+  },
+  {
+    "id": 65587,
+    "name": "Az Zawr",
+    "latitude": "29.44250000",
+    "longitude": "48.27472000",
+    "CountryID": 117,
+    "StateID": 976
+  },
+  {
+    "id": 65590,
+    "name": "Kuwait City",
+    "latitude": "29.36972000",
+    "longitude": "47.97833000",
+    "CountryID": 117,
+    "StateID": 976
+  },
+  {
+    "id": 65573,
+    "name": "Al Farwānīyah",
+    "latitude": "29.27750000",
+    "longitude": "47.95861000",
+    "CountryID": 117,
+    "StateID": 975
+  },
+  {
+    "id": 65589,
+    "name": "Janūb as Surrah",
+    "latitude": "29.26917000",
+    "longitude": "47.97806000",
+    "CountryID": 117,
+    "StateID": 975
+  },
+  {
+    "id": 65577,
+    "name": "Al Jahrā’",
+    "latitude": "29.33750000",
+    "longitude": "47.65806000",
+    "CountryID": 117,
+    "StateID": 972
+  },
+  {
+    "id": 65583,
+    "name": "Ar Rumaythīyah",
+    "latitude": "29.31167000",
+    "longitude": "48.07417000",
+    "CountryID": 117,
+    "StateID": 973
+  },
+  {
+    "id": 65585,
+    "name": "As Sālimīyah",
+    "latitude": "29.33389000",
+    "longitude": "48.07611000",
+    "CountryID": 117,
+    "StateID": 973
+  },
+  {
+    "id": 65588,
+    "name": "Bayān",
+    "latitude": "29.30320000",
+    "longitude": "48.04881000",
+    "CountryID": 117,
+    "StateID": 973
+  },
+  {
+    "id": 65593,
+    "name": "Ḩawallī",
+    "latitude": "29.33278000",
+    "longitude": "48.02861000",
+    "CountryID": 117,
+    "StateID": 973
+  },
+  {
+    "id": 65591,
+    "name": "Salwá",
+    "latitude": "29.29583000",
+    "longitude": "48.07861000",
+    "CountryID": 117,
+    "StateID": 973
+  },
+  {
+    "id": 65569,
+    "name": "Abu Al Hasaniya",
+    "latitude": "29.19076000",
+    "longitude": "48.11355000",
+    "CountryID": 117,
+    "StateID": 974
+  },
+  {
+    "id": 65570,
+    "name": "Abu Fatira",
+    "latitude": "29.19746000",
+    "longitude": "48.10278000",
+    "CountryID": 117,
+    "StateID": 974
+  },
+  {
+    "id": 65576,
+    "name": "Al Funayţīs",
+    "latitude": "29.22528000",
+    "longitude": "48.10167000",
+    "CountryID": 117,
+    "StateID": 974
+  },
+  {
+    "id": 65581,
+    "name": "Al-Masayel",
+    "latitude": "29.23930000",
+    "longitude": "48.08862000",
+    "CountryID": 117,
+    "StateID": 974
+  },
+  {
+    "id": 65592,
+    "name": "Şabāḩ as Sālim",
+    "latitude": "29.25722000",
+    "longitude": "48.05722000",
+    "CountryID": 117,
+    "StateID": 974
+  }
+]

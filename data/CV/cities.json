@@ -1,0 +1,226 @@
+[
+  {
+    "id": 22003,
+    "name": "Sal Rei",
+    "latitude": "16.17611000",
+    "longitude": "-22.91722000",
+    "CountryID": 40,
+    "StateID": 2999
+  },
+  {
+    "id": 21995,
+    "name": "Nova Sintra",
+    "latitude": "14.87139000",
+    "longitude": "-24.69556000",
+    "CountryID": 40,
+    "StateID": 2996
+  },
+  {
+    "id": 22010,
+    "name": "Vila do Maio",
+    "latitude": "15.13823000",
+    "longitude": "-23.21158000",
+    "CountryID": 40,
+    "StateID": 2991
+  },
+  {
+    "id": 21992,
+    "name": "Igreja",
+    "latitude": "15.03389000",
+    "longitude": "-24.32500000",
+    "CountryID": 40,
+    "StateID": 2987
+  },
+  {
+    "id": 21997,
+    "name": "Pombas",
+    "latitude": "17.15026000",
+    "longitude": "-25.02007000",
+    "CountryID": 40,
+    "StateID": 2997
+  },
+  {
+    "id": 21999,
+    "name": "Porto Novo",
+    "latitude": "17.01969000",
+    "longitude": "-25.06471000",
+    "CountryID": 40,
+    "StateID": 2989
+  },
+  {
+    "id": 22000,
+    "name": "Praia",
+    "latitude": "14.93152000",
+    "longitude": "-23.51254000",
+    "CountryID": 40,
+    "StateID": 2988
+  },
+  {
+    "id": 22001,
+    "name": "Ribeira Brava",
+    "latitude": "16.61583000",
+    "longitude": "-24.29833000",
+    "CountryID": 40,
+    "StateID": 2982
+  },
+  {
+    "id": 21998,
+    "name": "Ponta do Sol",
+    "latitude": "17.20171000",
+    "longitude": "-25.09217000",
+    "CountryID": 40,
+    "StateID": 3002
+  },
+  {
+    "id": 22002,
+    "name": "Ribeira Grande",
+    "latitude": "17.18250000",
+    "longitude": "-25.06500000",
+    "CountryID": 40,
+    "StateID": 3002
+  },
+  {
+    "id": 21989,
+    "name": "Cidade Velha",
+    "latitude": "14.91531000",
+    "longitude": "-23.60527000",
+    "CountryID": 40,
+    "StateID": 2984
+  },
+  {
+    "id": 21991,
+    "name": "Espargos",
+    "latitude": "16.75524000",
+    "longitude": "-22.94460000",
+    "CountryID": 40,
+    "StateID": 2998
+  },
+  {
+    "id": 22005,
+    "name": "Santa Maria",
+    "latitude": "16.59796000",
+    "longitude": "-22.90509000",
+    "CountryID": 40,
+    "StateID": 2998
+  },
+  {
+    "id": 21987,
+    "name": "Assomada",
+    "latitude": "15.10000000",
+    "longitude": "-23.68333000",
+    "CountryID": 40,
+    "StateID": 2985
+  },
+  {
+    "id": 21990,
+    "name": "Cova Figueira",
+    "latitude": "14.89054000",
+    "longitude": "-24.29343000",
+    "CountryID": 40,
+    "StateID": 2995
+  },
+  {
+    "id": 21996,
+    "name": "Pedra Badejo",
+    "latitude": "15.13750000",
+    "longitude": "-23.53083000",
+    "CountryID": 40,
+    "StateID": 3004
+  },
+  {
+    "id": 22004,
+    "name": "Santa Cruz",
+    "latitude": "15.13333000",
+    "longitude": "-23.56667000",
+    "CountryID": 40,
+    "StateID": 3004
+  },
+  {
+    "id": 22006,
+    "name": "São Domingos",
+    "latitude": "15.02438000",
+    "longitude": "-23.56250000",
+    "CountryID": 40,
+    "StateID": 2986
+  },
+  {
+    "id": 22007,
+    "name": "São Filipe",
+    "latitude": "14.89610000",
+    "longitude": "-24.49556000",
+    "CountryID": 40,
+    "StateID": 3000
+  },
+  {
+    "id": 21993,
+    "name": "João Teves",
+    "latitude": "15.06694000",
+    "longitude": "-23.58917000",
+    "CountryID": 40,
+    "StateID": 2993
+  },
+  {
+    "id": 21988,
+    "name": "Calheta",
+    "latitude": "15.18613000",
+    "longitude": "-23.59228000",
+    "CountryID": 40,
+    "StateID": 2990
+  },
+  {
+    "id": 160036,
+    "name": "Achada Leitão",
+    "latitude": "15.08000000",
+    "longitude": "-23.64000000",
+    "CountryID": 40,
+    "StateID": 5552
+  },
+  {
+    "id": 160038,
+    "name": "Leitão Grande",
+    "latitude": "15.07500000",
+    "longitude": "-23.64500000",
+    "CountryID": 40,
+    "StateID": 5552
+  },
+  {
+    "id": 160035,
+    "name": "Picos",
+    "latitude": "15.08300000",
+    "longitude": "-23.63200000",
+    "CountryID": 40,
+    "StateID": 5552
+  },
+  {
+    "id": 160037,
+    "name": "Picos Acima",
+    "latitude": "15.09000000",
+    "longitude": "-23.63000000",
+    "CountryID": 40,
+    "StateID": 5552
+  },
+  {
+    "id": 21994,
+    "name": "Mindelo",
+    "latitude": "16.89014000",
+    "longitude": "-24.98042000",
+    "CountryID": 40,
+    "StateID": 3001
+  },
+  {
+    "id": 22008,
+    "name": "Tarrafal",
+    "latitude": "15.27881000",
+    "longitude": "-23.75192000",
+    "CountryID": 40,
+    "StateID": 2983
+  },
+  {
+    "id": 22009,
+    "name": "Tarrafal de São Nicolau",
+    "latitude": "16.56622000",
+    "longitude": "-24.35793000",
+    "CountryID": 40,
+    "StateID": 3003
+  }
+]

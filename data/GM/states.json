@@ -1,0 +1,68 @@
+[
+  {
+    "id": 2666,
+    "name": "Banjul",
+    "iso2": "B",
+    "native": "Banjul",
+    "latitude": "13.45487610",
+    "longitude": "-16.57903230",
+    "type": "city",
+    "timezone": "Africa/Banjul",
+    "CountryID": 80
+  },
+  {
+    "id": 2669,
+    "name": "Central River",
+    "iso2": "M",
+    "native": "Central River",
+    "latitude": "13.57507380",
+    "longitude": "-14.77971470",
+    "type": "division",
+    "timezone": "Africa/Banjul",
+    "CountryID": 80
+  },
+  {
+    "id": 2670,
+    "name": "Lower River",
+    "iso2": "L",
+    "native": "Lower River",
+    "latitude": "13.39783040",
+    "longitude": "-15.72633120",
+    "type": "division",
+    "timezone": "Africa/Banjul",
+    "CountryID": 80
+  },
+  {
+    "id": 2671,
+    "name": "North Bank",
+    "iso2": "N",
+    "native": "North Bank",
+    "latitude": "13.47312830",
+    "longitude": "-16.13343590",
+    "type": "division",
+    "timezone": "Africa/Banjul",
+    "CountryID": 80
+  },
+  {
+    "id": 2668,
+    "name": "Upper River",
+    "iso2": "U",
+    "native": "Upper River",
+    "latitude": "13.40499770",
+    "longitude": "-14.14955760",
+    "type": "division",
+    "timezone": "Africa/Banjul",
+    "CountryID": 80
+  },
+  {
+    "id": 2667,
+    "name": "West Coast",
+    "iso2": "W",
+    "native": "West Coast",
+    "latitude": "13.25851300",
+    "longitude": "-16.49990510",
+    "type": "division",
+    "timezone": "Africa/Banjul",
+    "CountryID": 80
+  }
+]

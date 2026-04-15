@@ -1,0 +1,101 @@
+[
+  {
+    "id": 3375,
+    "name": "Beni",
+    "iso2": "B",
+    "native": "Beni",
+    "latitude": "-14.00000000",
+    "longitude": "-65.00000000",
+    "type": "department",
+    "timezone": "America/La_Paz",
+    "CountryID": 27
+  },
+  {
+    "id": 3382,
+    "name": "Chuquisaca",
+    "iso2": "H",
+    "native": "Chuquisaca",
+    "latitude": "-20.00000000",
+    "longitude": "-64.41666700",
+    "type": "department",
+    "timezone": "America/La_Paz",
+    "CountryID": 27
+  },
+  {
+    "id": 3381,
+    "name": "Cochabamba",
+    "iso2": "C",
+    "native": "Cochabamba",
+    "latitude": "-17.33301420",
+    "longitude": "-65.50109310",
+    "type": "department",
+    "timezone": "America/La_Paz",
+    "CountryID": 27
+  },
+  {
+    "id": 3380,
+    "name": "La Paz",
+    "iso2": "L",
+    "native": "La Paz",
+    "latitude": "-15.00000000",
+    "longitude": "-68.33333300",
+    "type": "department",
+    "timezone": "America/La_Paz",
+    "CountryID": 27
+  },
+  {
+    "id": 3376,
+    "name": "Oruro",
+    "iso2": "O",
+    "native": "Oruro",
+    "latitude": "-18.66666700",
+    "longitude": "-67.66666700",
+    "type": "department",
+    "timezone": "America/La_Paz",
+    "CountryID": 27
+  },
+  {
+    "id": 3379,
+    "name": "Pando",
+    "iso2": "N",
+    "native": "Pando",
+    "latitude": "-11.18333300",
+    "longitude": "-67.18333300",
+    "type": "department",
+    "timezone": "America/La_Paz",
+    "CountryID": 27
+  },
+  {
+    "id": 3383,
+    "name": "Potosí",
+    "iso2": "P",
+    "native": "Potosí",
+    "latitude": "-20.66666700",
+    "longitude": "-66.66666700",
+    "type": "department",
+    "timezone": "America/La_Paz",
+    "CountryID": 27
+  },
+  {
+    "id": 3377,
+    "name": "Santa Cruz",
+    "iso2": "S",
+    "native": "Santa Cruz",
+    "latitude": "-17.33333300",
+    "longitude": "-61.50000000",
+    "type": "department",
+    "timezone": "America/La_Paz",
+    "CountryID": 27
+  },
+  {
+    "id": 3378,
+    "name": "Tarija",
+    "iso2": "T",
+    "native": "Taria",
+    "latitude": "-21.58333300",
+    "longitude": "-63.83333300",
+    "type": "department",
+    "timezone": "America/La_Paz",
+    "CountryID": 27
+  }
+]

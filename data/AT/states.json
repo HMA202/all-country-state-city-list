@@ -1,0 +1,101 @@
+[
+  {
+    "id": 2062,
+    "name": "Burgenland",
+    "iso2": "1",
+    "native": "Burgenland",
+    "latitude": "47.50000010",
+    "longitude": "16.41666660",
+    "type": "state",
+    "timezone": "Europe/Vienna",
+    "CountryID": 15
+  },
+  {
+    "id": 2057,
+    "name": "Carinthia",
+    "iso2": "2",
+    "native": "Carchithia",
+    "latitude": "46.75000010",
+    "longitude": "13.83333330",
+    "type": "state",
+    "timezone": "Europe/Vienna",
+    "CountryID": 15
+  },
+  {
+    "id": 2065,
+    "name": "Lower Austria",
+    "iso2": "3",
+    "native": "Niederösterreich",
+    "latitude": "48.28178130",
+    "longitude": "15.76324570",
+    "type": "state",
+    "timezone": "Europe/Vienna",
+    "CountryID": 15
+  },
+  {
+    "id": 2061,
+    "name": "Salzburg",
+    "iso2": "5",
+    "native": "Salzburg",
+    "latitude": "47.79813460",
+    "longitude": "13.04648060",
+    "type": "state",
+    "timezone": "Europe/Vienna",
+    "CountryID": 15
+  },
+  {
+    "id": 2059,
+    "name": "Styria",
+    "iso2": "6",
+    "native": "Styria",
+    "latitude": "47.25000010",
+    "longitude": "15.16666650",
+    "type": "state",
+    "timezone": "Europe/Vienna",
+    "CountryID": 15
+  },
+  {
+    "id": 2064,
+    "name": "Tyrol",
+    "iso2": "7",
+    "native": "Tirol",
+    "latitude": "47.22319300",
+    "longitude": "11.52610280",
+    "type": "state",
+    "timezone": "Europe/Vienna",
+    "CountryID": 15
+  },
+  {
+    "id": 2058,
+    "name": "Upper Austria",
+    "iso2": "4",
+    "native": "Upper Austria",
+    "latitude": "48.25000000",
+    "longitude": "14.00000000",
+    "type": "state",
+    "timezone": "Europe/Vienna",
+    "CountryID": 15
+  },
+  {
+    "id": 2060,
+    "name": "Vienna",
+    "iso2": "9",
+    "native": "Wien",
+    "latitude": "48.20817430",
+    "longitude": "16.37381890",
+    "type": "state",
+    "timezone": "Europe/Vienna",
+    "CountryID": 15
+  },
+  {
+    "id": 2063,
+    "name": "Vorarlberg",
+    "iso2": "8",
+    "native": "Vorarlberg",
+    "latitude": "47.25000000",
+    "longitude": "9.91666670",
+    "type": "state",
+    "timezone": "Europe/Vienna",
+    "CountryID": 15
+  }
+]

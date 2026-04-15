@@ -1,0 +1,146 @@
+[
+  {
+    "id": 154930,
+    "name": "Ilulissat",
+    "latitude": "69.22794880",
+    "longitude": "-51.12805390",
+    "CountryID": 86,
+    "StateID": 5379
+  },
+  {
+    "id": 154931,
+    "name": "Qaanaaq",
+    "latitude": "77.46740090",
+    "longitude": "-69.24837110",
+    "CountryID": 86,
+    "StateID": 5379
+  },
+  {
+    "id": 154933,
+    "name": "Upernavik",
+    "latitude": "72.78686030",
+    "longitude": "-56.16236710",
+    "CountryID": 86,
+    "StateID": 5379
+  },
+  {
+    "id": 154932,
+    "name": "Uummannaq",
+    "latitude": "70.67868970",
+    "longitude": "-52.14978240",
+    "CountryID": 86,
+    "StateID": 5379
+  },
+  {
+    "id": 154934,
+    "name": "Nanortalik",
+    "latitude": "60.14308250",
+    "longitude": "-45.25629050",
+    "CountryID": 86,
+    "StateID": 5380
+  },
+  {
+    "id": 154935,
+    "name": "Narsaq",
+    "latitude": "60.91140780",
+    "longitude": "-46.06857080",
+    "CountryID": 86,
+    "StateID": 5380
+  },
+  {
+    "id": 154936,
+    "name": "Qaqortoq",
+    "latitude": "60.71959600",
+    "longitude": "-46.05481630",
+    "CountryID": 86,
+    "StateID": 5380
+  },
+  {
+    "id": 154937,
+    "name": "Aasiaat",
+    "latitude": "68.70762800",
+    "longitude": "-52.89951360",
+    "CountryID": 86,
+    "StateID": 5381
+  },
+  {
+    "id": 154938,
+    "name": "Kangaatsiaq",
+    "latitude": "68.30818450",
+    "longitude": "-53.47685330",
+    "CountryID": 86,
+    "StateID": 5381
+  },
+  {
+    "id": 154939,
+    "name": "Qasigiannguit",
+    "latitude": "68.81986320",
+    "longitude": "-51.20916370",
+    "CountryID": 86,
+    "StateID": 5381
+  },
+  {
+    "id": 154940,
+    "name": "Qeqertarsuaq",
+    "latitude": "69.24430370",
+    "longitude": "-53.56440060",
+    "CountryID": 86,
+    "StateID": 5381
+  },
+  {
+    "id": 154941,
+    "name": "Maniitsoq",
+    "latitude": "65.40657990",
+    "longitude": "-52.94225730",
+    "CountryID": 86,
+    "StateID": 5382
+  },
+  {
+    "id": 154942,
+    "name": "Sisimiut",
+    "latitude": "66.93945740",
+    "longitude": "-53.74567660",
+    "CountryID": 86,
+    "StateID": 5382
+  },
+  {
+    "id": 154943,
+    "name": "Ammassalik",
+    "latitude": "65.61452670",
+    "longitude": "-37.65014660",
+    "CountryID": 86,
+    "StateID": 5383
+  },
+  {
+    "id": 154944,
+    "name": "Ittoqqortoormiit",
+    "latitude": "70.48634210",
+    "longitude": "-21.97986600",
+    "CountryID": 86,
+    "StateID": 5383
+  },
+  {
+    "id": 154945,
+    "name": "Ivittuut",
+    "latitude": "61.20651840",
+    "longitude": "-48.18198510",
+    "CountryID": 86,
+    "StateID": 5383
+  },
+  {
+    "id": 154946,
+    "name": "Nuuk",
+    "latitude": "64.17910090",
+    "longitude": "-51.74800910",
+    "CountryID": 86,
+    "StateID": 5383
+  },
+  {
+    "id": 154947,
+    "name": "Paamiut",
+    "latitude": "62.00259620",
+    "longitude": "-49.70519590",
+    "CountryID": 86,
+    "StateID": 5383
+  }
+]

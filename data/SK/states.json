@@ -1,0 +1,90 @@
+[
+  {
+    "id": 4352,
+    "name": "Banská Bystrica",
+    "iso2": "BC",
+    "native": "Banská Bystrica",
+    "latitude": "48.73838950",
+    "longitude": "19.15858050",
+    "type": "region",
+    "timezone": "Europe/Bratislava",
+    "CountryID": 200
+  },
+  {
+    "id": 4356,
+    "name": "Bratislava",
+    "iso2": "BL",
+    "native": "Bratislava",
+    "latitude": "48.15576690",
+    "longitude": "17.13142030",
+    "type": "region",
+    "timezone": "Europe/Bratislava",
+    "CountryID": 200
+  },
+  {
+    "id": 4353,
+    "name": "Košice",
+    "iso2": "KI",
+    "native": "Košice",
+    "latitude": "48.71722720",
+    "longitude": "21.24967740",
+    "type": "region",
+    "timezone": "Europe/Bratislava",
+    "CountryID": 200
+  },
+  {
+    "id": 4357,
+    "name": "Nitra",
+    "iso2": "NI",
+    "native": "Nitra",
+    "latitude": "48.31295000",
+    "longitude": "18.08945930",
+    "type": "region",
+    "timezone": "Europe/Bratislava",
+    "CountryID": 200
+  },
+  {
+    "id": 4354,
+    "name": "Prešov",
+    "iso2": "PV",
+    "native": "Prešov",
+    "latitude": "49.11176850",
+    "longitude": "21.18759780",
+    "type": "region",
+    "timezone": "Europe/Bratislava",
+    "CountryID": 200
+  },
+  {
+    "id": 4358,
+    "name": "Trenčín",
+    "iso2": "TC",
+    "native": "Trenčín",
+    "latitude": "48.91380300",
+    "longitude": "18.09311970",
+    "type": "region",
+    "timezone": "Europe/Bratislava",
+    "CountryID": 200
+  },
+  {
+    "id": 4355,
+    "name": "Trnava",
+    "iso2": "TA",
+    "native": "Trnava",
+    "latitude": "48.37676520",
+    "longitude": "17.58581750",
+    "type": "region",
+    "timezone": "Europe/Bratislava",
+    "CountryID": 200
+  },
+  {
+    "id": 4359,
+    "name": "Žilina",
+    "iso2": "ZI",
+    "native": "Žilina",
+    "latitude": "49.17754550",
+    "longitude": "19.20581800",
+    "type": "region",
+    "timezone": "Europe/Bratislava",
+    "CountryID": 200
+  }
+]

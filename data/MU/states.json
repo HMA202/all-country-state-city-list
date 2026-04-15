@@ -1,0 +1,134 @@
+[
+  {
+    "id": 3248,
+    "name": "Agalega Islands",
+    "iso2": "AG",
+    "native": "Agly Islands",
+    "latitude": "-10.38485780",
+    "longitude": "56.61235250",
+    "type": "dependency",
+    "timezone": "Indian/Mauritius",
+    "CountryID": 140
+  },
+  {
+    "id": 3259,
+    "name": "Black River",
+    "iso2": "BL",
+    "native": "Black River",
+    "latitude": "-20.32647920",
+    "longitude": "57.41557850",
+    "type": "district",
+    "timezone": "Indian/Mauritius",
+    "CountryID": 140
+  },
+  {
+    "id": 3254,
+    "name": "Flacq",
+    "iso2": "FL",
+    "native": "Flacq",
+    "latitude": "-20.22173120",
+    "longitude": "57.72232510",
+    "type": "district",
+    "timezone": "Indian/Mauritius",
+    "CountryID": 140
+  },
+  {
+    "id": 3264,
+    "name": "Grand Port",
+    "iso2": "GP",
+    "native": "Grand Port",
+    "latitude": "-20.38972840",
+    "longitude": "57.61607620",
+    "type": "district",
+    "timezone": "Indian/Mauritius",
+    "CountryID": 140
+  },
+  {
+    "id": 3253,
+    "name": "Moka",
+    "iso2": "MO",
+    "native": "Moka",
+    "latitude": "-20.25213920",
+    "longitude": "57.58722450",
+    "type": "district",
+    "timezone": "Indian/Mauritius",
+    "CountryID": 140
+  },
+  {
+    "id": 3250,
+    "name": "Pamplemousses",
+    "iso2": "PA",
+    "native": "Pamplemousses",
+    "latitude": "-20.11360080",
+    "longitude": "57.57592600",
+    "type": "district",
+    "timezone": "Indian/Mauritius",
+    "CountryID": 140
+  },
+  {
+    "id": 3263,
+    "name": "Plaines Wilhems",
+    "iso2": "PW",
+    "native": "Plaines Wilhems",
+    "latitude": "-20.30538960",
+    "longitude": "57.49596190",
+    "type": "district",
+    "timezone": "Indian/Mauritius",
+    "CountryID": 140
+  },
+  {
+    "id": 3260,
+    "name": "Port Louis",
+    "iso2": "PL",
+    "native": "Port Louis",
+    "latitude": "-20.16089120",
+    "longitude": "57.50122220",
+    "type": "district",
+    "timezone": "Indian/Mauritius",
+    "CountryID": 140
+  },
+  {
+    "id": 3261,
+    "name": "Rivière du Rempart",
+    "iso2": "RR",
+    "native": "Rampart river",
+    "latitude": "-20.06699430",
+    "longitude": "57.65063000",
+    "type": "district",
+    "timezone": "Indian/Mauritius",
+    "CountryID": 140
+  },
+  {
+    "id": 3249,
+    "name": "Rodrigues Island",
+    "iso2": "RO",
+    "native": "Rodrigues Island",
+    "latitude": "-19.71951490",
+    "longitude": "63.41759380",
+    "type": "dependency",
+    "timezone": "Indian/Mauritius",
+    "CountryID": 140
+  },
+  {
+    "id": 3251,
+    "name": "Saint Brandon Islands",
+    "iso2": "CC",
+    "native": "Saint Brandon Islands",
+    "latitude": "-16.58333300",
+    "longitude": "59.61666700",
+    "type": "dependency",
+    "timezone": "Indian/Mauritius",
+    "CountryID": 140
+  },
+  {
+    "id": 3257,
+    "name": "Savanne",
+    "iso2": "SA",
+    "native": "Savanne",
+    "latitude": "-20.45838600",
+    "longitude": "57.48932970",
+    "type": "district",
+    "timezone": "Indian/Mauritius",
+    "CountryID": 140
+  }
+]

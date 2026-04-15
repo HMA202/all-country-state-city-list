@@ -1,0 +1,35 @@
+[
+  {
+    "id": 5086,
+    "name": "Bonaire",
+    "iso2": "BQ1",
+    "native": "Bonaire",
+    "latitude": "12.20189020",
+    "longitude": "-68.26238220",
+    "type": "special municipality",
+    "timezone": "America/Curacao",
+    "CountryID": 155
+  },
+  {
+    "id": 5087,
+    "name": "Saba",
+    "iso2": "BQ2",
+    "native": "Saba",
+    "latitude": "17.63546420",
+    "longitude": "-63.23267630",
+    "type": "special municipality",
+    "timezone": "America/Curacao",
+    "CountryID": 155
+  },
+  {
+    "id": 5088,
+    "name": "Sint Eustatius",
+    "iso2": "BQ3",
+    "native": "Sint Eustatius",
+    "latitude": "17.48903060",
+    "longitude": "-62.97355500",
+    "type": "special municipality",
+    "timezone": "America/Curacao",
+    "CountryID": 155
+  }
+]

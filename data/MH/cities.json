@@ -1,0 +1,210 @@
+[
+  {
+    "id": 160070,
+    "name": "Ailinglaplap",
+    "latitude": "7.50000000",
+    "longitude": "168.73333333",
+    "CountryID": 137,
+    "StateID": 5643
+  },
+  {
+    "id": 160071,
+    "name": "Ailuk",
+    "latitude": "10.31666667",
+    "longitude": "169.93333333",
+    "CountryID": 137,
+    "StateID": 5644
+  },
+  {
+    "id": 160072,
+    "name": "Arno",
+    "latitude": "7.08333333",
+    "longitude": "171.70000000",
+    "CountryID": 137,
+    "StateID": 5645
+  },
+  {
+    "id": 160073,
+    "name": "Aur",
+    "latitude": "8.20000000",
+    "longitude": "171.10000000",
+    "CountryID": 137,
+    "StateID": 5646
+  },
+  {
+    "id": 160074,
+    "name": "Bikini",
+    "latitude": "11.60000000",
+    "longitude": "165.40000000",
+    "CountryID": 137,
+    "StateID": 5647
+  },
+  {
+    "id": 160081,
+    "name": "Kili",
+    "latitude": "5.61666667",
+    "longitude": "169.11666667",
+    "CountryID": 137,
+    "StateID": 5647
+  },
+  {
+    "id": 160077,
+    "name": "Ebon",
+    "latitude": "4.63333333",
+    "longitude": "168.71666667",
+    "CountryID": 137,
+    "StateID": 5648
+  },
+  {
+    "id": 160078,
+    "name": "Enewetak",
+    "latitude": "11.50000000",
+    "longitude": "162.33333333",
+    "CountryID": 137,
+    "StateID": 5649
+  },
+  {
+    "id": 160092,
+    "name": "Ujelang",
+    "latitude": "9.82222222",
+    "longitude": "160.90000000",
+    "CountryID": 137,
+    "StateID": 5649
+  },
+  {
+    "id": 160079,
+    "name": "Jabat",
+    "latitude": "7.75000000",
+    "longitude": "168.96666667",
+    "CountryID": 137,
+    "StateID": 5650
+  },
+  {
+    "id": 160080,
+    "name": "Jabor",
+    "latitude": "6.00000000",
+    "longitude": "169.56666667",
+    "CountryID": 137,
+    "StateID": 5651
+  },
+  {
+    "id": 160076,
+    "name": "Ebeye",
+    "latitude": "41.08110000",
+    "longitude": "-111.92000000",
+    "CountryID": 137,
+    "StateID": 5652
+  },
+  {
+    "id": 160082,
+    "name": "Lae",
+    "latitude": "8.93611111",
+    "longitude": "166.23750000",
+    "CountryID": 137,
+    "StateID": 5653
+  },
+  {
+    "id": 160083,
+    "name": "Lib",
+    "latitude": "8.31305556",
+    "longitude": "167.37777778",
+    "CountryID": 137,
+    "StateID": 5654
+  },
+  {
+    "id": 160084,
+    "name": "Likiep",
+    "latitude": "9.88498000",
+    "longitude": "169.14345000",
+    "CountryID": 137,
+    "StateID": 5655
+  },
+  {
+    "id": 160075,
+    "name": "Delap-Uliga-Djarrit",
+    "latitude": "7.08333333",
+    "longitude": "171.38333333",
+    "CountryID": 137,
+    "StateID": 5656
+  },
+  {
+    "id": 160090,
+    "name": "Taroa",
+    "latitude": "48.00000000",
+    "longitude": "33.41666667",
+    "CountryID": 137,
+    "StateID": 5657
+  },
+  {
+    "id": 160085,
+    "name": "Mejit",
+    "latitude": "10.28333333",
+    "longitude": "170.88333333",
+    "CountryID": 137,
+    "StateID": 5658
+  },
+  {
+    "id": 160086,
+    "name": "Mili",
+    "latitude": "6.12621667",
+    "longitude": "171.97998056",
+    "CountryID": 137,
+    "StateID": 5659
+  },
+  {
+    "id": 160087,
+    "name": "Namdrik",
+    "latitude": "5.61666667",
+    "longitude": "168.11666667",
+    "CountryID": 137,
+    "StateID": 5660
+  },
+  {
+    "id": 160088,
+    "name": "Namu",
+    "latitude": "7.98333333",
+    "longitude": "168.17361111",
+    "CountryID": 137,
+    "StateID": 5661
+  },
+  {
+    "id": 160089,
+    "name": "Rongelap",
+    "latitude": "11.31666667",
+    "longitude": "166.78333333",
+    "CountryID": 137,
+    "StateID": 5662
+  },
+  {
+    "id": 160091,
+    "name": "Ujae",
+    "latitude": "9.05000000",
+    "longitude": "165.65000000",
+    "CountryID": 137,
+    "StateID": 5663
+  },
+  {
+    "id": 160093,
+    "name": "Utrik",
+    "latitude": "11.26730556",
+    "longitude": "169.78426111",
+    "CountryID": 137,
+    "StateID": 5664
+  },
+  {
+    "id": 160094,
+    "name": "Wotho",
+    "latitude": "10.10000000",
+    "longitude": "165.96666667",
+    "CountryID": 137,
+    "StateID": 5665
+  },
+  {
+    "id": 160095,
+    "name": "Wotje",
+    "latitude": "9.43333333",
+    "longitude": "170.01666667",
+    "CountryID": 137,
+    "StateID": 5666
+  }
+]

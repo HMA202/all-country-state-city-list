@@ -1,0 +1,98 @@
+[
+  {
+    "id": 160400,
+    "name": "Alto Vista",
+    "latitude": "12.57050000",
+    "longitude": "-70.01912000",
+    "CountryID": 13,
+    "StateID": 5341
+  },
+  {
+    "id": 160398,
+    "name": "Moco",
+    "latitude": "12.55134000",
+    "longitude": "-70.00843000",
+    "CountryID": 13,
+    "StateID": 5341
+  },
+  {
+    "id": 160395,
+    "name": "Noord",
+    "latitude": "12.56596000",
+    "longitude": "-70.03198000",
+    "CountryID": 13,
+    "StateID": 5341
+  },
+  {
+    "id": 160396,
+    "name": "Oranjestad",
+    "latitude": "12.52398000",
+    "longitude": "-70.02703000",
+    "CountryID": 13,
+    "StateID": 5341
+  },
+  {
+    "id": 160399,
+    "name": "Palm Beach",
+    "latitude": "12.56847000",
+    "longitude": "-70.03887000",
+    "CountryID": 13,
+    "StateID": 5341
+  },
+  {
+    "id": 160397,
+    "name": "Paradera",
+    "latitude": "12.53510000",
+    "longitude": "-70.00688000",
+    "CountryID": 13,
+    "StateID": 5341
+  },
+  {
+    "id": 160394,
+    "name": "Pos Chiquito",
+    "latitude": "12.46497000",
+    "longitude": "-69.96233000",
+    "CountryID": 13,
+    "StateID": 5341
+  },
+  {
+    "id": 160401,
+    "name": "San Nicolas",
+    "latitude": "12.43624000",
+    "longitude": "-69.90713000",
+    "CountryID": 13,
+    "StateID": 5341
+  },
+  {
+    "id": 160404,
+    "name": "Santa Cruz",
+    "latitude": "12.50953000",
+    "longitude": "-69.98094000",
+    "CountryID": 13,
+    "StateID": 5341
+  },
+  {
+    "id": 160405,
+    "name": "Savaneta",
+    "latitude": "12.45026000",
+    "longitude": "-69.93811000",
+    "CountryID": 13,
+    "StateID": 5341
+  },
+  {
+    "id": 160402,
+    "name": "Tanki Leendert",
+    "latitude": "12.53914000",
+    "longitude": "-70.02004000",
+    "CountryID": 13,
+    "StateID": 5341
+  },
+  {
+    "id": 160403,
+    "name": "Washington",
+    "latitude": "12.55837000",
+    "longitude": "-70.03816000",
+    "CountryID": 13,
+    "StateID": 5341
+  }
+]

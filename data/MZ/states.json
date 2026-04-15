@@ -1,0 +1,123 @@
+[
+  {
+    "id": 3327,
+    "name": "Cabo Delgado",
+    "iso2": "P",
+    "native": "Cabo Delgado",
+    "latitude": "-12.42549420",
+    "longitude": "39.41687430",
+    "type": "province",
+    "timezone": "Africa/Maputo",
+    "CountryID": 150
+  },
+  {
+    "id": 3329,
+    "name": "Gaza",
+    "iso2": "G",
+    "native": "Gaza",
+    "latitude": "-23.32839800",
+    "longitude": "32.80660570",
+    "type": "province",
+    "timezone": "Africa/Maputo",
+    "CountryID": 150
+  },
+  {
+    "id": 3330,
+    "name": "Inhambane",
+    "iso2": "I",
+    "native": "Inhambane",
+    "latitude": "-22.77911600",
+    "longitude": "34.56617410",
+    "type": "province",
+    "timezone": "Africa/Maputo",
+    "CountryID": 150
+  },
+  {
+    "id": 3337,
+    "name": "Manica",
+    "iso2": "B",
+    "native": "Manga",
+    "latitude": "-19.04009950",
+    "longitude": "33.43181370",
+    "type": "province",
+    "timezone": "Africa/Maputo",
+    "CountryID": 150
+  },
+  {
+    "id": 3332,
+    "name": "Maputo",
+    "iso2": "L",
+    "native": "Maputo",
+    "latitude": "-25.54451670",
+    "longitude": "32.45787530",
+    "type": "province",
+    "timezone": "Africa/Maputo",
+    "CountryID": 150
+  },
+  {
+    "id": 3335,
+    "name": "Maputo",
+    "iso2": "MPM",
+    "native": "Maputo",
+    "latitude": "-25.54451670",
+    "longitude": "32.45787530",
+    "type": "city",
+    "timezone": "Africa/Maputo",
+    "CountryID": 150
+  },
+  {
+    "id": 3336,
+    "name": "Nampula",
+    "iso2": "N",
+    "native": "Nampula",
+    "latitude": "-14.96696900",
+    "longitude": "39.27077520",
+    "type": "province",
+    "timezone": "Africa/Maputo",
+    "CountryID": 150
+  },
+  {
+    "id": 3333,
+    "name": "Niassa",
+    "iso2": "A",
+    "native": "Niassa",
+    "latitude": "-13.06385770",
+    "longitude": "36.46699640",
+    "type": "province",
+    "timezone": "Africa/Maputo",
+    "CountryID": 150
+  },
+  {
+    "id": 3331,
+    "name": "Sofala",
+    "iso2": "S",
+    "native": "Sofala",
+    "latitude": "-19.07716660",
+    "longitude": "34.71648040",
+    "type": "province",
+    "timezone": "Africa/Maputo",
+    "CountryID": 150
+  },
+  {
+    "id": 3334,
+    "name": "Tete",
+    "iso2": "T",
+    "native": "Tete",
+    "latitude": "-15.52051930",
+    "longitude": "32.76827420",
+    "type": "province",
+    "timezone": "Africa/Maputo",
+    "CountryID": 150
+  },
+  {
+    "id": 3328,
+    "name": "Zambezia",
+    "iso2": "Q",
+    "native": "Zambeze",
+    "latitude": "-16.64601780",
+    "longitude": "36.99193200",
+    "type": "province",
+    "timezone": "Africa/Maputo",
+    "CountryID": 150
+  }
+]

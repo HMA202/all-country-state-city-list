@@ -1,0 +1,98 @@
+[
+  {
+    "id": 66574,
+    "name": "Teyateyaneng",
+    "latitude": "-29.14719000",
+    "longitude": "27.74895000",
+    "CountryID": 122,
+    "StateID": 3030
+  },
+  {
+    "id": 66564,
+    "name": "Butha-Buthe",
+    "latitude": "-28.76659000",
+    "longitude": "28.24937000",
+    "CountryID": 122,
+    "StateID": 3029
+  },
+  {
+    "id": 66565,
+    "name": "Leribe",
+    "latitude": "-28.87185000",
+    "longitude": "28.04501000",
+    "CountryID": 122,
+    "StateID": 3026
+  },
+  {
+    "id": 66567,
+    "name": "Maputsoe",
+    "latitude": "-28.88660000",
+    "longitude": "27.89915000",
+    "CountryID": 122,
+    "StateID": 3026
+  },
+  {
+    "id": 66566,
+    "name": "Mafeteng",
+    "latitude": "-29.82299000",
+    "longitude": "27.23744000",
+    "CountryID": 122,
+    "StateID": 3022
+  },
+  {
+    "id": 66568,
+    "name": "Maseru",
+    "latitude": "-29.31667000",
+    "longitude": "27.48333000",
+    "CountryID": 122,
+    "StateID": 3028
+  },
+  {
+    "id": 66571,
+    "name": "Nako",
+    "latitude": "-29.61667000",
+    "longitude": "27.76667000",
+    "CountryID": 122,
+    "StateID": 3028
+  },
+  {
+    "id": 66569,
+    "name": "Mohale’s Hoek",
+    "latitude": "-30.15137000",
+    "longitude": "27.47691000",
+    "CountryID": 122,
+    "StateID": 3023
+  },
+  {
+    "id": 66570,
+    "name": "Mokhotlong",
+    "latitude": "-29.28939000",
+    "longitude": "29.06751000",
+    "CountryID": 122,
+    "StateID": 3024
+  },
+  {
+    "id": 66572,
+    "name": "Qacha’s Nek",
+    "latitude": "-30.11537000",
+    "longitude": "28.68936000",
+    "CountryID": 122,
+    "StateID": 3025
+  },
+  {
+    "id": 66573,
+    "name": "Quthing",
+    "latitude": "-30.40001000",
+    "longitude": "27.70027000",
+    "CountryID": 122,
+    "StateID": 3027
+  },
+  {
+    "id": 66575,
+    "name": "Thaba-Tseka",
+    "latitude": "-29.52204000",
+    "longitude": "28.60840000",
+    "CountryID": 122,
+    "StateID": 3031
+  }
+]

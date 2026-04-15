@@ -1,0 +1,35 @@
+[
+  {
+    "id": 460,
+    "name": "Brčko",
+    "iso2": "BRC",
+    "native": "Brčko",
+    "latitude": "44.87712220",
+    "longitude": "18.80950220",
+    "type": "district",
+    "timezone": "Europe/Sarajevo",
+    "CountryID": 28
+  },
+  {
+    "id": 467,
+    "name": "Federation of Bosnia and Herzegovina",
+    "iso2": "BIH",
+    "native": "Federacija Bosne i Hercegovine",
+    "latitude": "43.91674100",
+    "longitude": "17.54820720",
+    "type": "entity",
+    "timezone": "Europe/Sarajevo",
+    "CountryID": 28
+  },
+  {
+    "id": 470,
+    "name": "Republika Srpska",
+    "iso2": "SRP",
+    "native": "Republika Srpska",
+    "latitude": "44.66961960",
+    "longitude": "17.36590250",
+    "type": "entity",
+    "timezone": "Europe/Sarajevo",
+    "CountryID": 28
+  }
+]

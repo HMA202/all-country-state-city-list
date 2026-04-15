@@ -1,0 +1,90 @@
+[
+  {
+    "id": 71,
+    "name": "Agadez",
+    "iso2": "1",
+    "native": "Agadez",
+    "latitude": "19.42111150",
+    "longitude": "10.68469870",
+    "type": "region",
+    "timezone": "Africa/Niamey",
+    "CountryID": 160
+  },
+  {
+    "id": 72,
+    "name": "Diffa",
+    "iso2": "2",
+    "native": "Distraction",
+    "latitude": "13.48808750",
+    "longitude": "12.51362660",
+    "type": "region",
+    "timezone": "Africa/Niamey",
+    "CountryID": 160
+  },
+  {
+    "id": 68,
+    "name": "Dosso",
+    "iso2": "3",
+    "native": "Dossier",
+    "latitude": "13.16580090",
+    "longitude": "3.30680750",
+    "type": "region",
+    "timezone": "Africa/Niamey",
+    "CountryID": 160
+  },
+  {
+    "id": 70,
+    "name": "Maradi",
+    "iso2": "4",
+    "native": "Marigi",
+    "latitude": "14.22400000",
+    "longitude": "7.47178770",
+    "type": "region",
+    "timezone": "Africa/Niamey",
+    "CountryID": 160
+  },
+  {
+    "id": 5685,
+    "name": "Niamey",
+    "iso2": "8",
+    "native": "Niamey",
+    "latitude": "13.51361111",
+    "longitude": "2.10888889",
+    "type": "urban community",
+    "timezone": "Africa/Niamey",
+    "CountryID": 160
+  },
+  {
+    "id": 73,
+    "name": "Tahoua",
+    "iso2": "5",
+    "native": "Unité",
+    "latitude": "16.15767450",
+    "longitude": "5.32826520",
+    "type": "region",
+    "timezone": "Africa/Niamey",
+    "CountryID": 160
+  },
+  {
+    "id": 67,
+    "name": "Tillabéri",
+    "iso2": "6",
+    "native": "Tilla",
+    "latitude": "13.72510680",
+    "longitude": "1.69614560",
+    "type": "region",
+    "timezone": "Africa/Niamey",
+    "CountryID": 160
+  },
+  {
+    "id": 69,
+    "name": "Zinder",
+    "iso2": "7",
+    "native": "Zinder",
+    "latitude": "15.17870000",
+    "longitude": "9.70741080",
+    "type": "region",
+    "timezone": "Africa/Niamey",
+    "CountryID": 160
+  }
+]

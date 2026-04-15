@@ -1,0 +1,134 @@
+[
+  {
+    "id": 5389,
+    "name": "Alderney",
+    "iso2": "04",
+    "native": "Alderney",
+    "latitude": "49.71689110",
+    "longitude": "-2.19716940",
+    "type": "parish",
+    "timezone": "Europe/Guernsey",
+    "CountryID": 91
+  },
+  {
+    "id": 5386,
+    "name": "Castel",
+    "iso2": "01",
+    "native": "Castel",
+    "latitude": "49.46774020",
+    "longitude": "-2.59134590",
+    "type": "parish",
+    "timezone": "Europe/Guernsey",
+    "CountryID": 91
+  },
+  {
+    "id": 5387,
+    "name": "Forest",
+    "iso2": "02",
+    "native": "Forest",
+    "latitude": "49.43129170",
+    "longitude": "-2.59279680",
+    "type": "parish",
+    "timezone": "Europe/Guernsey",
+    "CountryID": 91
+  },
+  {
+    "id": 5392,
+    "name": "Sark",
+    "iso2": "07",
+    "native": "Sark",
+    "latitude": "49.42833730",
+    "longitude": "-2.35993940",
+    "type": "parish",
+    "timezone": "Europe/Guernsey",
+    "CountryID": 91
+  },
+  {
+    "id": 5388,
+    "name": "St Andrew",
+    "iso2": "03",
+    "native": "St Andrew",
+    "latitude": "49.44990060",
+    "longitude": "-2.56882250",
+    "type": "parish",
+    "timezone": "Europe/Guernsey",
+    "CountryID": 91
+  },
+  {
+    "id": 5390,
+    "name": "St Martin",
+    "iso2": "05",
+    "native": "St Martin",
+    "latitude": "49.43734880",
+    "longitude": "-2.55552400",
+    "type": "parish",
+    "timezone": "Europe/Guernsey",
+    "CountryID": 91
+  },
+  {
+    "id": 5391,
+    "name": "St Peter Port",
+    "iso2": "06",
+    "native": "St Peter Port",
+    "latitude": "49.45681420",
+    "longitude": "-2.53899790",
+    "type": "parish",
+    "timezone": "Europe/Guernsey",
+    "CountryID": 91
+  },
+  {
+    "id": 5393,
+    "name": "St Pierre du Bois",
+    "iso2": "08",
+    "native": "St Pierre du Bois",
+    "latitude": "49.43959950",
+    "longitude": "-2.64089630",
+    "type": "parish",
+    "timezone": "Europe/Guernsey",
+    "CountryID": 91
+  },
+  {
+    "id": 5394,
+    "name": "St Sampson",
+    "iso2": "09",
+    "native": "St Sampson",
+    "latitude": "49.48172730",
+    "longitude": "-2.53883950",
+    "type": "parish",
+    "timezone": "Europe/Guernsey",
+    "CountryID": 91
+  },
+  {
+    "id": 5395,
+    "name": "St Saviour",
+    "iso2": "10",
+    "native": "St Saviour",
+    "latitude": "49.44916480",
+    "longitude": "-2.62135570",
+    "type": "parish",
+    "timezone": "Europe/Guernsey",
+    "CountryID": 91
+  },
+  {
+    "id": 5396,
+    "name": "Torteval",
+    "iso2": "11",
+    "native": "Torteval",
+    "latitude": "49.43023210",
+    "longitude": "-2.66386210",
+    "type": "parish",
+    "timezone": "Europe/Guernsey",
+    "CountryID": 91
+  },
+  {
+    "id": 5397,
+    "name": "Vale",
+    "iso2": "12",
+    "native": "Vale",
+    "latitude": "49.49545600",
+    "longitude": "-2.52250870",
+    "type": "parish",
+    "timezone": "Europe/Guernsey",
+    "CountryID": 91
+  }
+]

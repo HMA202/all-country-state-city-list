@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1531,
+    "name": "Central Denmark",
+    "iso2": "82",
+    "native": "Central Danmark",
+    "latitude": "56.23564830",
+    "longitude": "9.23462500",
+    "type": "region",
+    "timezone": "Europe/Copenhagen",
+    "CountryID": 59
+  },
+  {
+    "id": 1530,
+    "name": "Denmark",
+    "iso2": "84",
+    "native": "Danmark",
+    "latitude": "55.67024900",
+    "longitude": "10.33332830",
+    "type": "region",
+    "timezone": "Europe/Copenhagen",
+    "CountryID": 59
+  },
+  {
+    "id": 1532,
+    "name": "North Denmark",
+    "iso2": "81",
+    "native": "North Danmark",
+    "latitude": "56.81527930",
+    "longitude": "9.72733080",
+    "type": "region",
+    "timezone": "Europe/Copenhagen",
+    "CountryID": 59
+  },
+  {
+    "id": 1529,
+    "name": "Southern Denmark",
+    "iso2": "83",
+    "native": "Sydlige Danmark",
+    "latitude": "55.37842630",
+    "longitude": "9.13180640",
+    "type": "region",
+    "timezone": "Europe/Copenhagen",
+    "CountryID": 59
+  },
+  {
+    "id": 1528,
+    "name": "Zealand",
+    "iso2": "85",
+    "native": "Zealand",
+    "latitude": "55.54559790",
+    "longitude": "11.69737410",
+    "type": "region",
+    "timezone": "Europe/Copenhagen",
+    "CountryID": 59
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": 901,
+    "name": "Abkhazia",
+    "iso2": "AB",
+    "native": "აფხაზეთი",
+    "latitude": "42.99671870",
+    "longitude": "41.05447410",
+    "type": "autonomous republic",
+    "timezone": "Asia/Tbilisi",
+    "CountryID": 81
+  },
+  {
+    "id": 900,
+    "name": "Adjara",
+    "iso2": "AJ",
+    "native": "აჭარა",
+    "latitude": "41.67315080",
+    "longitude": "41.91966520",
+    "type": "autonomous republic",
+    "timezone": "Asia/Tbilisi",
+    "CountryID": 81
+  },
+  {
+    "id": 907,
+    "name": "Guria",
+    "iso2": "GU",
+    "native": "გურია",
+    "latitude": "41.97726810",
+    "longitude": "41.98282620",
+    "type": "region",
+    "timezone": "Asia/Tbilisi",
+    "CountryID": 81
+  },
+  {
+    "id": 905,
+    "name": "Imereti",
+    "iso2": "IM",
+    "native": "იმერეთი",
+    "latitude": "42.18756000",
+    "longitude": "42.95215540",
+    "type": "region",
+    "timezone": "Asia/Tbilisi",
+    "CountryID": 81
+  },
+  {
+    "id": 910,
+    "name": "Kakheti",
+    "iso2": "KA",
+    "native": "კახეთი",
+    "latitude": "41.81443170",
+    "longitude": "45.71749770",
+    "type": "region",
+    "timezone": "Asia/Tbilisi",
+    "CountryID": 81
+  },
+  {
+    "id": 904,
+    "name": "Kvemo Kartli",
+    "iso2": "KK",
+    "native": "ქვემო ქართლი",
+    "latitude": "41.51245780",
+    "longitude": "44.54953690",
+    "type": "region",
+    "timezone": "Asia/Tbilisi",
+    "CountryID": 81
+  },
+  {
+    "id": 902,
+    "name": "Mtskheta-Mtianeti",
+    "iso2": "MM",
+    "native": "მცხეთა-მთიანეთი",
+    "latitude": "42.22903120",
+    "longitude": "44.85699630",
+    "type": "region",
+    "timezone": "Asia/Tbilisi",
+    "CountryID": 81
+  },
+  {
+    "id": 909,
+    "name": "Racha-Lechkhumi and Kvemo Svaneti",
+    "iso2": "RL",
+    "native": "რაჭა-ლეჩხუმი და ქვემო სვანეთი",
+    "latitude": "42.66884900",
+    "longitude": "43.12525100",
+    "type": "region",
+    "timezone": "Asia/Tbilisi",
+    "CountryID": 81
+  },
+  {
+    "id": 908,
+    "name": "Samegrelo-Zemo Svaneti",
+    "iso2": "SZ",
+    "native": "სამეგრელო-ზემო სვანეთი",
+    "latitude": "42.63545200",
+    "longitude": "42.24871380",
+    "type": "region",
+    "timezone": "Asia/Tbilisi",
+    "CountryID": 81
+  },
+  {
+    "id": 906,
+    "name": "Samtskhe-Javakheti",
+    "iso2": "SJ",
+    "native": "სამცხე-ჯავახეთი",
+    "latitude": "41.52963050",
+    "longitude": "43.24342080",
+    "type": "region",
+    "timezone": "Asia/Tbilisi",
+    "CountryID": 81
+  },
+  {
+    "id": 903,
+    "name": "Shida Kartli",
+    "iso2": "SK",
+    "native": "შიდა ქართლი",
+    "latitude": "41.98868360",
+    "longitude": "43.98612500",
+    "type": "region",
+    "timezone": "Asia/Tbilisi",
+    "CountryID": 81
+  },
+  {
+    "id": 899,
+    "name": "Tbilisi",
+    "iso2": "TB",
+    "native": "თბილის",
+    "latitude": "41.69345910",
+    "longitude": "44.80144950",
+    "type": "city",
+    "timezone": "Asia/Tbilisi",
+    "CountryID": 81
+  }
+]

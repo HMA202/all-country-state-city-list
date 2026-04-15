@@ -1,0 +1,57 @@
+[
+  {
+    "id": 4651,
+    "name": "Central Singapore",
+    "iso2": "01",
+    "native": "Central Singapore",
+    "latitude": "1.28840000",
+    "longitude": "103.85350000",
+    "type": "district",
+    "timezone": "Asia/Singapore",
+    "CountryID": 199
+  },
+  {
+    "id": 4649,
+    "name": "North East",
+    "iso2": "02",
+    "native": "North East",
+    "latitude": "5.33411860",
+    "longitude": "100.27610770",
+    "type": "district",
+    "timezone": "Asia/Singapore",
+    "CountryID": 199
+  },
+  {
+    "id": 4653,
+    "name": "North West",
+    "iso2": "03",
+    "native": "North West",
+    "latitude": "1.45093820",
+    "longitude": "103.78495190",
+    "type": "district",
+    "timezone": "Asia/Singapore",
+    "CountryID": 199
+  },
+  {
+    "id": 4650,
+    "name": "South East",
+    "iso2": "04",
+    "native": "South East",
+    "latitude": "1.33523290",
+    "longitude": "103.95989310",
+    "type": "district",
+    "timezone": "Asia/Singapore",
+    "CountryID": 199
+  },
+  {
+    "id": 4652,
+    "name": "South West",
+    "iso2": "05",
+    "native": "South West",
+    "latitude": "5.28833890",
+    "longitude": "100.28150990",
+    "type": "district",
+    "timezone": "Asia/Singapore",
+    "CountryID": 199
+  }
+]

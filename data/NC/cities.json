@@ -1,0 +1,82 @@
+[
+  {
+    "id": 153638,
+    "name": "Lifou",
+    "latitude": "-20.96670000",
+    "longitude": "167.23330000",
+    "CountryID": 157,
+    "StateID": 5227
+  },
+  {
+    "id": 153639,
+    "name": "Maré",
+    "latitude": "-21.51670000",
+    "longitude": "167.98330000",
+    "CountryID": 157,
+    "StateID": 5227
+  },
+  {
+    "id": 153637,
+    "name": "Houaïlou",
+    "latitude": "-21.29090000",
+    "longitude": "165.62170000",
+    "CountryID": 157,
+    "StateID": 5226
+  },
+  {
+    "id": 153635,
+    "name": "Koné",
+    "latitude": "-21.05900000",
+    "longitude": "164.85180000",
+    "CountryID": 157,
+    "StateID": 5226
+  },
+  {
+    "id": 153636,
+    "name": "Poindimié",
+    "latitude": "-20.94960000",
+    "longitude": "165.32930000",
+    "CountryID": 157,
+    "StateID": 5226
+  },
+  {
+    "id": 153634,
+    "name": "Bourail",
+    "latitude": "-21.57010000",
+    "longitude": "165.48040000",
+    "CountryID": 157,
+    "StateID": 5225
+  },
+  {
+    "id": 153632,
+    "name": "Dumbéa",
+    "latitude": "-22.15000000",
+    "longitude": "166.45000000",
+    "CountryID": 157,
+    "StateID": 5225
+  },
+  {
+    "id": 153631,
+    "name": "Le Mont-Dore",
+    "latitude": "-22.21570000",
+    "longitude": "166.46650000",
+    "CountryID": 157,
+    "StateID": 5225
+  },
+  {
+    "id": 153630,
+    "name": "Nouméa",
+    "latitude": "-22.27580000",
+    "longitude": "166.45800000",
+    "CountryID": 157,
+    "StateID": 5225
+  },
+  {
+    "id": 153633,
+    "name": "Païta",
+    "latitude": "-22.13370000",
+    "longitude": "166.35050000",
+    "CountryID": 157,
+    "StateID": 5225
+  }
+]

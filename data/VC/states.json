@@ -1,0 +1,68 @@
+[
+  {
+    "id": 3389,
+    "name": "Charlotte",
+    "iso2": "01",
+    "native": "Charlotte",
+    "latitude": "13.27508720",
+    "longitude": "-61.14623270",
+    "type": "parish",
+    "timezone": "America/St_Vincent",
+    "CountryID": 188
+  },
+  {
+    "id": 3388,
+    "name": "Grenadines",
+    "iso2": "06",
+    "native": "Grenadines",
+    "latitude": "12.90447000",
+    "longitude": "-61.27655690",
+    "type": "parish",
+    "timezone": "America/St_Vincent",
+    "CountryID": 188
+  },
+  {
+    "id": 3386,
+    "name": "Saint Andrew",
+    "iso2": "02",
+    "native": "Saint Andrew",
+    "latitude": "13.19426950",
+    "longitude": "-61.23998660",
+    "type": "parish",
+    "timezone": "America/St_Vincent",
+    "CountryID": 188
+  },
+  {
+    "id": 3387,
+    "name": "Saint David",
+    "iso2": "03",
+    "native": "Saint David",
+    "latitude": "13.31836400",
+    "longitude": "-61.20087860",
+    "type": "parish",
+    "timezone": "America/St_Vincent",
+    "CountryID": 188
+  },
+  {
+    "id": 3384,
+    "name": "Saint George",
+    "iso2": "04",
+    "native": "Saint George",
+    "latitude": "13.16629500",
+    "longitude": "-61.18785120",
+    "type": "parish",
+    "timezone": "America/St_Vincent",
+    "CountryID": 188
+  },
+  {
+    "id": 3385,
+    "name": "Saint Patrick",
+    "iso2": "05",
+    "native": "Saint Patrick",
+    "latitude": "13.23807930",
+    "longitude": "-61.23641840",
+    "type": "parish",
+    "timezone": "America/St_Vincent",
+    "CountryID": 188
+  }
+]

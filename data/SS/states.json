@@ -1,0 +1,112 @@
+[
+  {
+    "id": 2092,
+    "name": "Central Equatoria",
+    "iso2": "EC",
+    "native": "Central Equatoria",
+    "latitude": "5.00000000",
+    "longitude": "31.50000000",
+    "type": "state",
+    "timezone": "Africa/Juba",
+    "CountryID": 206
+  },
+  {
+    "id": 2093,
+    "name": "Eastern Equatoria",
+    "iso2": "EE",
+    "native": "Eastern Equatoria",
+    "latitude": "5.28393200",
+    "longitude": "33.59123290",
+    "type": "state",
+    "timezone": "Africa/Juba",
+    "CountryID": 206
+  },
+  {
+    "id": 2094,
+    "name": "Jonglei State",
+    "iso2": "JG",
+    "native": "Jonglei State",
+    "latitude": "8.00000000",
+    "longitude": "32.00000000",
+    "type": "state",
+    "timezone": "Africa/Juba",
+    "CountryID": 206
+  },
+  {
+    "id": 2090,
+    "name": "Lakes",
+    "iso2": "LK",
+    "native": "Lakes",
+    "latitude": "6.75267160",
+    "longitude": "30.09484290",
+    "type": "state",
+    "timezone": "Africa/Juba",
+    "CountryID": 206
+  },
+  {
+    "id": 2088,
+    "name": "Northern Bahr el Ghazal",
+    "iso2": "BN",
+    "native": "Northern Bahr el Ghazal",
+    "latitude": "9.00000000",
+    "longitude": "27.00000000",
+    "type": "state",
+    "timezone": "Africa/Juba",
+    "CountryID": 206
+  },
+  {
+    "id": 2085,
+    "name": "Unity",
+    "iso2": "UY",
+    "native": "Unity",
+    "latitude": "8.45825250",
+    "longitude": "29.95605470",
+    "type": "state",
+    "timezone": "Africa/Juba",
+    "CountryID": 206
+  },
+  {
+    "id": 2086,
+    "name": "Upper Nile",
+    "iso2": "NU",
+    "native": "Upper Nile",
+    "latitude": "9.00000000",
+    "longitude": "33.00000000",
+    "type": "state",
+    "timezone": "Africa/Juba",
+    "CountryID": 206
+  },
+  {
+    "id": 2087,
+    "name": "Warrap",
+    "iso2": "WR",
+    "native": "Warrap",
+    "latitude": "7.91326880",
+    "longitude": "28.95881410",
+    "type": "state",
+    "timezone": "Africa/Juba",
+    "CountryID": 206
+  },
+  {
+    "id": 2091,
+    "name": "Western Bahr el Ghazal",
+    "iso2": "BW",
+    "native": "Western bahr el ghazal",
+    "latitude": "8.54555550",
+    "longitude": "25.22245040",
+    "type": "state",
+    "timezone": "Africa/Juba",
+    "CountryID": 206
+  },
+  {
+    "id": 2089,
+    "name": "Western Equatoria",
+    "iso2": "EW",
+    "native": "Western Equatoria",
+    "latitude": "5.53812150",
+    "longitude": "29.14951180",
+    "type": "state",
+    "timezone": "Africa/Juba",
+    "CountryID": 206
+  }
+]

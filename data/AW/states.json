@@ -1,0 +1,101 @@
+[
+  {
+    "id": 5243,
+    "name": "Noord",
+    "iso2": "01",
+    "native": "Noord",
+    "latitude": "12.56368050",
+    "longitude": "-70.03298690",
+    "type": "region",
+    "timezone": "America/Aruba",
+    "CountryID": 13
+  },
+  {
+    "id": 5341,
+    "name": "Oranjestad",
+    "iso2": "09",
+    "native": "Oranjestad",
+    "latitude": "12.52010240",
+    "longitude": "-70.03713290",
+    "type": "capital city",
+    "timezone": "America/Aruba",
+    "CountryID": 13
+  },
+  {
+    "id": 5245,
+    "name": "Oranjestad East",
+    "iso2": "03",
+    "native": "Oranjestad East",
+    "latitude": "12.50226960",
+    "longitude": "-70.01495860",
+    "type": "region",
+    "timezone": "America/Aruba",
+    "CountryID": 13
+  },
+  {
+    "id": 5244,
+    "name": "Oranjestad West",
+    "iso2": "02",
+    "native": "Oranjestad West",
+    "latitude": "12.53614860",
+    "longitude": "-70.04305970",
+    "type": "region",
+    "timezone": "America/Aruba",
+    "CountryID": 13
+  },
+  {
+    "id": 5246,
+    "name": "Paradera",
+    "iso2": "04",
+    "native": "Paradera",
+    "latitude": "12.53628710",
+    "longitude": "-70.01485110",
+    "type": "region",
+    "timezone": "America/Aruba",
+    "CountryID": 13
+  },
+  {
+    "id": 5247,
+    "name": "San Nicolaas Noord",
+    "iso2": "05",
+    "native": "San Nicolaas Noord",
+    "latitude": "12.46427170",
+    "longitude": "-69.94349390",
+    "type": "region",
+    "timezone": "America/Aruba",
+    "CountryID": 13
+  },
+  {
+    "id": 5248,
+    "name": "San Nicolaas Zuid",
+    "iso2": "06",
+    "native": "San Nicolaas Zuid",
+    "latitude": "12.42785580",
+    "longitude": "-69.93810790",
+    "type": "region",
+    "timezone": "America/Aruba",
+    "CountryID": 13
+  },
+  {
+    "id": 5249,
+    "name": "Santa Cruz",
+    "iso2": "07",
+    "native": "Santa Cruz",
+    "latitude": "12.51128360",
+    "longitude": "-69.98769660",
+    "type": "region",
+    "timezone": "America/Aruba",
+    "CountryID": 13
+  },
+  {
+    "id": 5250,
+    "name": "Savaneta",
+    "iso2": "08",
+    "native": "Savaneta",
+    "latitude": "12.45263850",
+    "longitude": "-69.94965210",
+    "type": "region",
+    "timezone": "America/Aruba",
+    "CountryID": 13
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": 3374,
+    "name": "Ahal",
+    "iso2": "A",
+    "native": "Mümkin",
+    "latitude": "38.83955480",
+    "longitude": "58.86101860",
+    "type": "region",
+    "timezone": "Asia/Ashgabat",
+    "CountryID": 226
+  },
+  {
+    "id": 3371,
+    "name": "Ashgabat",
+    "iso2": "S",
+    "native": "Ashgabat",
+    "latitude": "37.94046480",
+    "longitude": "58.38234870",
+    "type": "city",
+    "timezone": "Asia/Ashgabat",
+    "CountryID": 226
+  },
+  {
+    "id": 3372,
+    "name": "Balkan",
+    "iso2": "B",
+    "native": "Balkan",
+    "latitude": "39.93537140",
+    "longitude": "54.91200550",
+    "type": "region",
+    "timezone": "Asia/Ashgabat",
+    "CountryID": 226
+  },
+  {
+    "id": 3373,
+    "name": "Daşoguz",
+    "iso2": "D",
+    "native": "Daş",
+    "latitude": "41.83687370",
+    "longitude": "59.96519040",
+    "type": "region",
+    "timezone": "Asia/Ashgabat",
+    "CountryID": 226
+  },
+  {
+    "id": 3370,
+    "name": "Lebap",
+    "iso2": "L",
+    "native": "Lebap",
+    "latitude": "38.81311390",
+    "longitude": "63.05132180",
+    "type": "region",
+    "timezone": "Asia/Ashgabat",
+    "CountryID": 226
+  },
+  {
+    "id": 3369,
+    "name": "Mary",
+    "iso2": "M",
+    "native": "Mary",
+    "latitude": "37.13029160",
+    "longitude": "62.40195130",
+    "type": "region",
+    "timezone": "Asia/Ashgabat",
+    "CountryID": 226
+  }
+]

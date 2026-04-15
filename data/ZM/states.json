@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1986,
+    "name": "Central",
+    "iso2": "02",
+    "native": "Central",
+    "latitude": "-14.18350700",
+    "longitude": "29.03755430",
+    "type": "province",
+    "timezone": "Africa/Lusaka",
+    "CountryID": 246
+  },
+  {
+    "id": 1984,
+    "name": "Copperbelt",
+    "iso2": "08",
+    "native": "Copperbelt",
+    "latitude": "-13.02141710",
+    "longitude": "27.88761770",
+    "type": "province",
+    "timezone": "Africa/Lusaka",
+    "CountryID": 246
+  },
+  {
+    "id": 1991,
+    "name": "Eastern",
+    "iso2": "03",
+    "native": "Eastern",
+    "latitude": "-13.65147370",
+    "longitude": "31.99585390",
+    "type": "province",
+    "timezone": "Africa/Lusaka",
+    "CountryID": 246
+  },
+  {
+    "id": 1987,
+    "name": "Luapula",
+    "iso2": "04",
+    "native": "Luapula",
+    "latitude": "-10.46802440",
+    "longitude": "29.12756090",
+    "type": "province",
+    "timezone": "Africa/Lusaka",
+    "CountryID": 246
+  },
+  {
+    "id": 1988,
+    "name": "Lusaka",
+    "iso2": "09",
+    "native": "Saturday",
+    "latitude": "-15.35760900",
+    "longitude": "29.16530920",
+    "type": "province",
+    "timezone": "Africa/Lusaka",
+    "CountryID": 246
+  },
+  {
+    "id": 1989,
+    "name": "Muchinga",
+    "iso2": "10",
+    "native": "To go",
+    "latitude": "-11.10052590",
+    "longitude": "31.63996400",
+    "type": "province",
+    "timezone": "Africa/Lusaka",
+    "CountryID": 246
+  },
+  {
+    "id": 1982,
+    "name": "Northern",
+    "iso2": "05",
+    "native": "Northern",
+    "latitude": "-9.45141650",
+    "longitude": "30.88810010",
+    "type": "province",
+    "timezone": "Africa/Lusaka",
+    "CountryID": 246
+  },
+  {
+    "id": 1985,
+    "name": "Northwestern",
+    "iso2": "06",
+    "native": "Northwestern",
+    "latitude": "-13.00502580",
+    "longitude": "24.90422080",
+    "type": "province",
+    "timezone": "Africa/Lusaka",
+    "CountryID": 246
+  },
+  {
+    "id": 1990,
+    "name": "Southern",
+    "iso2": "07",
+    "native": "Southern",
+    "latitude": "-16.53817150",
+    "longitude": "26.73749970",
+    "type": "province",
+    "timezone": "Africa/Lusaka",
+    "CountryID": 246
+  },
+  {
+    "id": 1983,
+    "name": "Western",
+    "iso2": "01",
+    "native": "Western",
+    "latitude": "6.90160860",
+    "longitude": "80.00877460",
+    "type": "province",
+    "timezone": "Africa/Lusaka",
+    "CountryID": 246
+  }
+]

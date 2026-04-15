@@ -1,0 +1,46 @@
+[
+  {
+    "id": 5398,
+    "name": "Fort-de-France",
+    "iso2": "01",
+    "native": "Fort-de-France",
+    "latitude": "14.60279620",
+    "longitude": "-61.06767240",
+    "type": "district",
+    "timezone": "America/Martinique",
+    "CountryID": 138
+  },
+  {
+    "id": 5399,
+    "name": "La Trinité",
+    "iso2": "02",
+    "native": "La Trinité",
+    "latitude": "14.75531610",
+    "longitude": "-61.02872260",
+    "type": "district",
+    "timezone": "America/Martinique",
+    "CountryID": 138
+  },
+  {
+    "id": 5400,
+    "name": "Le Marin",
+    "iso2": "03",
+    "native": "Le Marin",
+    "latitude": "14.52518410",
+    "longitude": "-60.96241510",
+    "type": "district",
+    "timezone": "America/Martinique",
+    "CountryID": 138
+  },
+  {
+    "id": 5401,
+    "name": "Saint-Pierre",
+    "iso2": "04",
+    "native": "Saint-Pierre",
+    "latitude": "14.74171830",
+    "longitude": "-61.17639040",
+    "type": "district",
+    "timezone": "America/Martinique",
+    "CountryID": 138
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": 3030,
+    "name": "Berea",
+    "iso2": "D",
+    "native": "Berea",
+    "latitude": "-29.19639710",
+    "longitude": "27.91755810",
+    "type": "district",
+    "timezone": "Africa/Maseru",
+    "CountryID": 122
+  },
+  {
+    "id": 3029,
+    "name": "Butha-Buthe",
+    "iso2": "B",
+    "native": "Butha-Buthe",
+    "latitude": "-28.76537540",
+    "longitude": "28.24681480",
+    "type": "district",
+    "timezone": "Africa/Maseru",
+    "CountryID": 122
+  },
+  {
+    "id": 3026,
+    "name": "Leribe",
+    "iso2": "C",
+    "native": "LERIBE",
+    "latitude": "-28.86689100",
+    "longitude": "28.05794080",
+    "type": "district",
+    "timezone": "Africa/Maseru",
+    "CountryID": 122
+  },
+  {
+    "id": 3022,
+    "name": "Mafeteng",
+    "iso2": "E",
+    "native": "Mafeteng",
+    "latitude": "-29.78930490",
+    "longitude": "27.44231930",
+    "type": "district",
+    "timezone": "Africa/Maseru",
+    "CountryID": 122
+  },
+  {
+    "id": 3028,
+    "name": "Maseru",
+    "iso2": "A",
+    "native": "Maseru",
+    "latitude": "-29.58169420",
+    "longitude": "27.82432080",
+    "type": "district",
+    "timezone": "Africa/Maseru",
+    "CountryID": 122
+  },
+  {
+    "id": 3023,
+    "name": "Mohale's Hoek",
+    "iso2": "F",
+    "native": "Mohale's corner",
+    "latitude": "-30.15163050",
+    "longitude": "27.47701130",
+    "type": "district",
+    "timezone": "Africa/Maseru",
+    "CountryID": 122
+  },
+  {
+    "id": 3024,
+    "name": "Mokhotlong",
+    "iso2": "J",
+    "native": "Mokhotlong",
+    "latitude": "-29.21906970",
+    "longitude": "29.03513690",
+    "type": "district",
+    "timezone": "Africa/Maseru",
+    "CountryID": 122
+  },
+  {
+    "id": 3025,
+    "name": "Qacha's Nek",
+    "iso2": "H",
+    "native": "Qacha's Nek",
+    "latitude": "-30.11145650",
+    "longitude": "28.67897900",
+    "type": "district",
+    "timezone": "Africa/Maseru",
+    "CountryID": 122
+  },
+  {
+    "id": 3027,
+    "name": "Quthing",
+    "iso2": "G",
+    "native": "Quthing",
+    "latitude": "-30.40156870",
+    "longitude": "27.70801330",
+    "type": "district",
+    "timezone": "Africa/Maseru",
+    "CountryID": 122
+  },
+  {
+    "id": 3031,
+    "name": "Thaba-Tseka",
+    "iso2": "K",
+    "native": "Butha-Buthe",
+    "latitude": "-29.51518320",
+    "longitude": "28.60361790",
+    "type": "district",
+    "timezone": "Africa/Maseru",
+    "CountryID": 122
+  }
+]

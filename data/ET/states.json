@@ -1,0 +1,145 @@
+[
+  {
+    "id": 11,
+    "name": "Addis Ababa",
+    "iso2": "AA",
+    "native": "አዲስ አበባ",
+    "latitude": "9.00000000",
+    "longitude": "38.75000000",
+    "type": "administration",
+    "timezone": "Africa/Addis_Ababa",
+    "CountryID": 70
+  },
+  {
+    "id": 6,
+    "name": "Afar",
+    "iso2": "AF",
+    "native": "አፋር",
+    "latitude": "11.71082060",
+    "longitude": "41.03308660",
+    "type": "region",
+    "timezone": "Africa/Addis_Ababa",
+    "CountryID": 70
+  },
+  {
+    "id": 3,
+    "name": "Amhara",
+    "iso2": "AM",
+    "native": "አማራ",
+    "latitude": "11.50000000",
+    "longitude": "38.50000000",
+    "type": "region",
+    "timezone": "Africa/Addis_Ababa",
+    "CountryID": 70
+  },
+  {
+    "id": 9,
+    "name": "Benishangul-Gumuz",
+    "iso2": "BE",
+    "native": "ቤኒሻል-ጉሙዝ",
+    "latitude": "10.37782510",
+    "longitude": "35.50844420",
+    "type": "region",
+    "timezone": "Africa/Addis_Ababa",
+    "CountryID": 70
+  },
+  {
+    "id": 8,
+    "name": "Dire Dawa",
+    "iso2": "DD",
+    "native": "አዝናኝ",
+    "latitude": "9.59132300",
+    "longitude": "41.85663410",
+    "type": "administration",
+    "timezone": "Africa/Addis_Ababa",
+    "CountryID": 70
+  },
+  {
+    "id": 10,
+    "name": "Gambela",
+    "iso2": "GA",
+    "native": "ጋምቤላ",
+    "latitude": "7.81026470",
+    "longitude": "34.18221720",
+    "type": "region",
+    "timezone": "Africa/Addis_Ababa",
+    "CountryID": 70
+  },
+  {
+    "id": 7,
+    "name": "Harari",
+    "iso2": "HA",
+    "native": "ሐረሪ",
+    "latitude": "9.29055170",
+    "longitude": "42.18856720",
+    "type": "region",
+    "timezone": "Africa/Addis_Ababa",
+    "CountryID": 70
+  },
+  {
+    "id": 5,
+    "name": "Oromia",
+    "iso2": "OR",
+    "native": "ኦሮሚያ",
+    "latitude": "7.67216440",
+    "longitude": "40.02997270",
+    "type": "region",
+    "timezone": "Africa/Addis_Ababa",
+    "CountryID": 70
+  },
+  {
+    "id": 5465,
+    "name": "Sidama",
+    "iso2": "SI",
+    "native": "ሲዳማ",
+    "latitude": "6.50000000",
+    "longitude": "38.50000000",
+    "type": "region",
+    "timezone": "Africa/Addis_Ababa",
+    "CountryID": 70
+  },
+  {
+    "id": 2,
+    "name": "Somali",
+    "iso2": "SO",
+    "native": "ሶማሌ",
+    "latitude": "7.26298440",
+    "longitude": "43.53605310",
+    "type": "region",
+    "timezone": "Africa/Addis_Ababa",
+    "CountryID": 70
+  },
+  {
+    "id": 1,
+    "name": "Southern Nations, Nationalities, and Peoples",
+    "iso2": "SN",
+    "native": "ደቡብ ብሔር ብሔረሰቦችና ሕዝቦች",
+    "latitude": "6.51569110",
+    "longitude": "36.95410700",
+    "type": "region",
+    "timezone": "Africa/Addis_Ababa",
+    "CountryID": 70
+  },
+  {
+    "id": 5466,
+    "name": "Southwest Ethiopia Peoples",
+    "iso2": "SW",
+    "native": "ደቡብ ምዕራብ የኢትዮጵያ ሕዝቦች",
+    "latitude": "7.30000000",
+    "longitude": "36.20000000",
+    "type": "region",
+    "timezone": "Africa/Addis_Ababa",
+    "CountryID": 70
+  },
+  {
+    "id": 4,
+    "name": "Tigray",
+    "iso2": "TI",
+    "native": "ክልል ትግራይ",
+    "latitude": "13.88127300",
+    "longitude": "39.12749500",
+    "type": "region",
+    "timezone": "Africa/Addis_Ababa",
+    "CountryID": 70
+  }
+]

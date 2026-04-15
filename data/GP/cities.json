@@ -1,0 +1,258 @@
+[
+  {
+    "id": 154948,
+    "name": "Baie-Mahault",
+    "latitude": "16.24976070",
+    "longitude": "-61.67750720",
+    "CountryID": 88,
+    "StateID": 5384
+  },
+  {
+    "id": 154949,
+    "name": "Baillif",
+    "latitude": "16.04973310",
+    "longitude": "-61.75705910",
+    "CountryID": 88,
+    "StateID": 5384
+  },
+  {
+    "id": 154950,
+    "name": "Basse-Terre",
+    "latitude": "15.99916310",
+    "longitude": "-61.74998100",
+    "CountryID": 88,
+    "StateID": 5384
+  },
+  {
+    "id": 154951,
+    "name": "Bouillante",
+    "latitude": "16.13869370",
+    "longitude": "-61.79898970",
+    "CountryID": 88,
+    "StateID": 5384
+  },
+  {
+    "id": 154952,
+    "name": "Capesterre-Belle-Eau",
+    "latitude": "16.04854020",
+    "longitude": "-61.70210450",
+    "CountryID": 88,
+    "StateID": 5384
+  },
+  {
+    "id": 154953,
+    "name": "Deshaies",
+    "latitude": "16.31936050",
+    "longitude": "-61.82425780",
+    "CountryID": 88,
+    "StateID": 5384
+  },
+  {
+    "id": 154954,
+    "name": "Gourbeyre",
+    "latitude": "16.00565950",
+    "longitude": "-61.73023870",
+    "CountryID": 88,
+    "StateID": 5384
+  },
+  {
+    "id": 154955,
+    "name": "Goyave",
+    "latitude": "16.12310770",
+    "longitude": "-61.69740210",
+    "CountryID": 88,
+    "StateID": 5384
+  },
+  {
+    "id": 154956,
+    "name": "Lamentin",
+    "latitude": "16.24431320",
+    "longitude": "-61.75191940",
+    "CountryID": 88,
+    "StateID": 5384
+  },
+  {
+    "id": 154957,
+    "name": "Petit-Bourg",
+    "latitude": "16.16948810",
+    "longitude": "-61.74043310",
+    "CountryID": 88,
+    "StateID": 5384
+  },
+  {
+    "id": 154958,
+    "name": "Pointe-Noire",
+    "latitude": "16.22702770",
+    "longitude": "-61.80631220",
+    "CountryID": 88,
+    "StateID": 5384
+  },
+  {
+    "id": 154959,
+    "name": "Saint-Claude",
+    "latitude": "16.04057440",
+    "longitude": "-61.73648730",
+    "CountryID": 88,
+    "StateID": 5384
+  },
+  {
+    "id": 154960,
+    "name": "Sainte-Rose",
+    "latitude": "16.29372520",
+    "longitude": "-61.76595760",
+    "CountryID": 88,
+    "StateID": 5384
+  },
+  {
+    "id": 154961,
+    "name": "Terre-de-Bas",
+    "latitude": "15.85541960",
+    "longitude": "-61.65329200",
+    "CountryID": 88,
+    "StateID": 5384
+  },
+  {
+    "id": 154962,
+    "name": "Terre-de-Haut",
+    "latitude": "15.85803760",
+    "longitude": "-61.60960980",
+    "CountryID": 88,
+    "StateID": 5384
+  },
+  {
+    "id": 154963,
+    "name": "Trois-Rivières",
+    "latitude": "15.99313620",
+    "longitude": "-61.69052960",
+    "CountryID": 88,
+    "StateID": 5384
+  },
+  {
+    "id": 154964,
+    "name": "Vieux-Fort",
+    "latitude": "15.96070380",
+    "longitude": "-61.71351770",
+    "CountryID": 88,
+    "StateID": 5384
+  },
+  {
+    "id": 154965,
+    "name": "Vieux-Habitants",
+    "latitude": "16.08466180",
+    "longitude": "-61.79939230",
+    "CountryID": 88,
+    "StateID": 5384
+  },
+  {
+    "id": 154967,
+    "name": "Anse-Bertrand",
+    "latitude": "16.46681810",
+    "longitude": "-61.55217680",
+    "CountryID": 88,
+    "StateID": 5385
+  },
+  {
+    "id": 154968,
+    "name": "Capesterre-de-Marie-Galante",
+    "latitude": "15.91763990",
+    "longitude": "-61.27077860",
+    "CountryID": 88,
+    "StateID": 5385
+  },
+  {
+    "id": 154971,
+    "name": "Grand-Bourg",
+    "latitude": "15.90853800",
+    "longitude": "-61.33406180",
+    "CountryID": 88,
+    "StateID": 5385
+  },
+  {
+    "id": 154969,
+    "name": "La Désirade",
+    "latitude": "16.25845450",
+    "longitude": "-61.14902790",
+    "CountryID": 88,
+    "StateID": 5385
+  },
+  {
+    "id": 154970,
+    "name": "Le Gosier",
+    "latitude": "16.22726250",
+    "longitude": "-61.55734490",
+    "CountryID": 88,
+    "StateID": 5385
+  },
+  {
+    "id": 154973,
+    "name": "Le Moule",
+    "latitude": "16.33536870",
+    "longitude": "-61.44242930",
+    "CountryID": 88,
+    "StateID": 5385
+  },
+  {
+    "id": 154966,
+    "name": "Les Abymes",
+    "latitude": "16.26773830",
+    "longitude": "-61.57907270",
+    "CountryID": 88,
+    "StateID": 5385
+  },
+  {
+    "id": 154972,
+    "name": "Morne-à-l'Eau",
+    "latitude": "16.32110610",
+    "longitude": "-61.66356890",
+    "CountryID": 88,
+    "StateID": 5385
+  },
+  {
+    "id": 154974,
+    "name": "Petit-Canal",
+    "latitude": "16.39213100",
+    "longitude": "-61.53713120",
+    "CountryID": 88,
+    "StateID": 5385
+  },
+  {
+    "id": 154975,
+    "name": "Pointe-à-Pitre",
+    "latitude": "16.23313040",
+    "longitude": "-61.56234850",
+    "CountryID": 88,
+    "StateID": 5385
+  },
+  {
+    "id": 154976,
+    "name": "Port-Louis",
+    "latitude": "16.42012820",
+    "longitude": "-61.57039890",
+    "CountryID": 88,
+    "StateID": 5385
+  },
+  {
+    "id": 154977,
+    "name": "Saint-François",
+    "latitude": "16.27834950",
+    "longitude": "-61.33624980",
+    "CountryID": 88,
+    "StateID": 5385
+  },
+  {
+    "id": 154978,
+    "name": "Saint-Louis",
+    "latitude": "15.96535890",
+    "longitude": "-61.35562500",
+    "CountryID": 88,
+    "StateID": 5385
+  },
+  {
+    "id": 154979,
+    "name": "Sainte-Anne",
+    "latitude": "16.25646130",
+    "longitude": "-61.47202880",
+    "CountryID": 88,
+    "StateID": 5385
+  }
+]

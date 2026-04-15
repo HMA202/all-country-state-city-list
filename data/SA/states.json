@@ -1,0 +1,145 @@
+[
+  {
+    "id": 2859,
+    "name": "Al Bahah",
+    "iso2": "11",
+    "native": "الباحة",
+    "latitude": "20.23726710",
+    "longitude": "41.46154790",
+    "type": "region",
+    "timezone": "Asia/Riyadh",
+    "CountryID": 194
+  },
+  {
+    "id": 2857,
+    "name": "Al Jawf",
+    "iso2": "12",
+    "native": "الجوف",
+    "latitude": "29.76738180",
+    "longitude": "39.56298830",
+    "type": "region",
+    "timezone": "Asia/Riyadh",
+    "CountryID": 194
+  },
+  {
+    "id": 2851,
+    "name": "Al Madinah",
+    "iso2": "03",
+    "native": "المدينة المنورة",
+    "latitude": "25.13543630",
+    "longitude": "39.16259400",
+    "type": "region",
+    "timezone": "Asia/Riyadh",
+    "CountryID": 194
+  },
+  {
+    "id": 2861,
+    "name": "Al-Qassim",
+    "iso2": "05",
+    "native": "القصيم",
+    "latitude": "26.19422350",
+    "longitude": "43.45657110",
+    "type": "region",
+    "timezone": "Asia/Riyadh",
+    "CountryID": 194
+  },
+  {
+    "id": 2853,
+    "name": "Asir",
+    "iso2": "14",
+    "native": "عسير",
+    "latitude": "19.16666700",
+    "longitude": "43.16666700",
+    "type": "region",
+    "timezone": "Asia/Riyadh",
+    "CountryID": 194
+  },
+  {
+    "id": 2856,
+    "name": "Eastern Province",
+    "iso2": "04",
+    "native": "المنطقة الشرقية",
+    "latitude": "23.30360770",
+    "longitude": "50.12588040",
+    "type": "region",
+    "timezone": "Asia/Riyadh",
+    "CountryID": 194
+  },
+  {
+    "id": 2855,
+    "name": "Ha'il",
+    "iso2": "06",
+    "native": "يشيد",
+    "latitude": "26.99209870",
+    "longitude": "41.48925780",
+    "type": "region",
+    "timezone": "Asia/Riyadh",
+    "CountryID": 194
+  },
+  {
+    "id": 2858,
+    "name": "Jizan",
+    "iso2": "09",
+    "native": "جيزان",
+    "latitude": "17.33333300",
+    "longitude": "42.66666700",
+    "type": "region",
+    "timezone": "Asia/Riyadh",
+    "CountryID": 194
+  },
+  {
+    "id": 2850,
+    "name": "Makkah",
+    "iso2": "02",
+    "native": "مكة المكرمة",
+    "latitude": "21.66980630",
+    "longitude": "41.49960290",
+    "type": "region",
+    "timezone": "Asia/Riyadh",
+    "CountryID": 194
+  },
+  {
+    "id": 2860,
+    "name": "Najran",
+    "iso2": "10",
+    "native": "نجران",
+    "latitude": "18.00000000",
+    "longitude": "45.66666700",
+    "type": "region",
+    "timezone": "Asia/Riyadh",
+    "CountryID": 194
+  },
+  {
+    "id": 2854,
+    "name": "Northern Borders",
+    "iso2": "08",
+    "native": "الحدود الشمالية",
+    "latitude": "30.00000000",
+    "longitude": "42.66666700",
+    "type": "region",
+    "timezone": "Asia/Riyadh",
+    "CountryID": 194
+  },
+  {
+    "id": 2849,
+    "name": "Riyadh",
+    "iso2": "01",
+    "native": "الرياض",
+    "latitude": "23.33333300",
+    "longitude": "45.33333300",
+    "type": "region",
+    "timezone": "Asia/Riyadh",
+    "CountryID": 194
+  },
+  {
+    "id": 2852,
+    "name": "Tabuk",
+    "iso2": "07",
+    "native": "تبوك",
+    "latitude": "28.32518660",
+    "longitude": "37.63286480",
+    "type": "region",
+    "timezone": "Asia/Riyadh",
+    "CountryID": 194
+  }
+]

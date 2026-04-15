@@ -1,0 +1,68 @@
+[
+  {
+    "id": 2933,
+    "name": "Ali Sabieh",
+    "iso2": "AS",
+    "native": "Autrement l'a trouvé",
+    "latitude": "11.21338090",
+    "longitude": "42.86992490",
+    "type": "region",
+    "timezone": "Africa/Djibouti",
+    "CountryID": 60
+  },
+  {
+    "id": 2932,
+    "name": "Arta",
+    "iso2": "AR",
+    "native": "Art",
+    "latitude": "11.52194590",
+    "longitude": "42.83936290",
+    "type": "region",
+    "timezone": "Africa/Djibouti",
+    "CountryID": 60
+  },
+  {
+    "id": 2930,
+    "name": "Dikhil",
+    "iso2": "DI",
+    "native": "Dikhil",
+    "latitude": "11.10543360",
+    "longitude": "42.37047440",
+    "type": "region",
+    "timezone": "Africa/Djibouti",
+    "CountryID": 60
+  },
+  {
+    "id": 2929,
+    "name": "Djibouti",
+    "iso2": "DJ",
+    "native": "Djibouti",
+    "latitude": "11.81459660",
+    "longitude": "42.84530610",
+    "type": "city",
+    "timezone": "Africa/Djibouti",
+    "CountryID": 60
+  },
+  {
+    "id": 2928,
+    "name": "Obock",
+    "iso2": "OB",
+    "native": "Obosek",
+    "latitude": "12.21110510",
+    "longitude": "43.16858090",
+    "type": "region",
+    "timezone": "Africa/Djibouti",
+    "CountryID": 60
+  },
+  {
+    "id": 2931,
+    "name": "Tadjourah",
+    "iso2": "TA",
+    "native": "Tadamand",
+    "latitude": "12.03581210",
+    "longitude": "42.51745050",
+    "type": "region",
+    "timezone": "Africa/Djibouti",
+    "CountryID": 60
+  }
+]

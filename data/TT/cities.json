@@ -1,0 +1,202 @@
+[
+  {
+    "id": 108968,
+    "name": "Arima",
+    "latitude": "10.63737000",
+    "longitude": "-61.28228000",
+    "CountryID": 223,
+    "StateID": 3362
+  },
+  {
+    "id": 108970,
+    "name": "Chaguanas",
+    "latitude": "10.51667000",
+    "longitude": "-61.41667000",
+    "CountryID": 223,
+    "StateID": 3366
+  },
+  {
+    "id": 108990,
+    "name": "Ward of Chaguanas",
+    "latitude": "10.50000000",
+    "longitude": "-61.38333000",
+    "CountryID": 223,
+    "StateID": 3366
+  },
+  {
+    "id": 108971,
+    "name": "Couva",
+    "latitude": "10.42248000",
+    "longitude": "-61.46748000",
+    "CountryID": 223,
+    "StateID": 3354
+  },
+  {
+    "id": 108988,
+    "name": "Tabaquite",
+    "latitude": "10.38824000",
+    "longitude": "-61.29704000",
+    "CountryID": 223,
+    "StateID": 3354
+  },
+  {
+    "id": 108978,
+    "name": "Petit Valley",
+    "latitude": "10.69974000",
+    "longitude": "-61.54717000",
+    "CountryID": 223,
+    "StateID": 3367
+  },
+  {
+    "id": 108991,
+    "name": "Ward of Diego Martin",
+    "latitude": "10.70000000",
+    "longitude": "-61.58333000",
+    "CountryID": 223,
+    "StateID": 3367
+  },
+  {
+    "id": 108972,
+    "name": "Debe",
+    "latitude": "10.20846000",
+    "longitude": "-61.45273000",
+    "CountryID": 223,
+    "StateID": 3365
+  },
+  {
+    "id": 108979,
+    "name": "Peñal",
+    "latitude": "10.16667000",
+    "longitude": "-61.46667000",
+    "CountryID": 223,
+    "StateID": 3365
+  },
+  {
+    "id": 108980,
+    "name": "Point Fortin",
+    "latitude": "10.17411000",
+    "longitude": "-61.68407000",
+    "CountryID": 223,
+    "StateID": 3360
+  },
+  {
+    "id": 108976,
+    "name": "Mucurapo",
+    "latitude": "10.66253000",
+    "longitude": "-61.53697000",
+    "CountryID": 223,
+    "StateID": 3363
+  },
+  {
+    "id": 108981,
+    "name": "Port of Spain",
+    "latitude": "10.66668000",
+    "longitude": "-61.51889000",
+    "CountryID": 223,
+    "StateID": 3363
+  },
+  {
+    "id": 108982,
+    "name": "Princes Town",
+    "latitude": "10.27184000",
+    "longitude": "-61.37103000",
+    "CountryID": 223,
+    "StateID": 3368
+  },
+  {
+    "id": 108983,
+    "name": "Rio Claro",
+    "latitude": "10.30594000",
+    "longitude": "-61.17556000",
+    "CountryID": 223,
+    "StateID": 3356
+  },
+  {
+    "id": 108974,
+    "name": "Marabella",
+    "latitude": "10.30618000",
+    "longitude": "-61.44671000",
+    "CountryID": 223,
+    "StateID": 3359
+  },
+  {
+    "id": 108975,
+    "name": "Mon Repos",
+    "latitude": "10.27979000",
+    "longitude": "-61.44590000",
+    "CountryID": 223,
+    "StateID": 3359
+  },
+  {
+    "id": 108984,
+    "name": "San Fernando",
+    "latitude": "10.27969000",
+    "longitude": "-61.46835000",
+    "CountryID": 223,
+    "StateID": 3359
+  },
+  {
+    "id": 108973,
+    "name": "Laventille",
+    "latitude": "10.64917000",
+    "longitude": "-61.49889000",
+    "CountryID": 223,
+    "StateID": 3357
+  },
+  {
+    "id": 108985,
+    "name": "Sangre Grande",
+    "latitude": "10.58705000",
+    "longitude": "-61.13008000",
+    "CountryID": 223,
+    "StateID": 3361
+  },
+  {
+    "id": 108987,
+    "name": "Siparia",
+    "latitude": "10.14525000",
+    "longitude": "-61.50740000",
+    "CountryID": 223,
+    "StateID": 3364
+  },
+  {
+    "id": 108992,
+    "name": "Ward of Siparia",
+    "latitude": "10.15000000",
+    "longitude": "-61.46667000",
+    "CountryID": 223,
+    "StateID": 3364
+  },
+  {
+    "id": 108986,
+    "name": "Scarborough",
+    "latitude": "11.18229000",
+    "longitude": "-60.73525000",
+    "CountryID": 223,
+    "StateID": 5735
+  },
+  {
+    "id": 108969,
+    "name": "Arouca",
+    "latitude": "10.62877000",
+    "longitude": "-61.33487000",
+    "CountryID": 223,
+    "StateID": 3358
+  },
+  {
+    "id": 108977,
+    "name": "Paradise",
+    "latitude": "10.65298000",
+    "longitude": "-61.36298000",
+    "CountryID": 223,
+    "StateID": 3358
+  },
+  {
+    "id": 108989,
+    "name": "Tunapuna",
+    "latitude": "10.65245000",
+    "longitude": "-61.38878000",
+    "CountryID": 223,
+    "StateID": 3358
+  }
+]

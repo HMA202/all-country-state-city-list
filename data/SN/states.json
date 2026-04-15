@@ -1,0 +1,156 @@
+[
+  {
+    "id": 473,
+    "name": "Dakar",
+    "iso2": "DK",
+    "native": "Dakar",
+    "latitude": "14.69342500",
+    "longitude": "-17.44793800",
+    "type": "region",
+    "timezone": "Africa/Dakar",
+    "CountryID": 195
+  },
+  {
+    "id": 480,
+    "name": "Diourbel Region",
+    "iso2": "DB",
+    "native": "Diourbel Region",
+    "latitude": "14.78445390",
+    "longitude": "-16.03164510",
+    "type": "region",
+    "timezone": "Africa/Dakar",
+    "CountryID": 195
+  },
+  {
+    "id": 479,
+    "name": "Fatick",
+    "iso2": "FK",
+    "native": "Fatick",
+    "latitude": "14.33901670",
+    "longitude": "-16.41114250",
+    "type": "region",
+    "timezone": "Africa/Dakar",
+    "CountryID": 195
+  },
+  {
+    "id": 475,
+    "name": "Kaffrine",
+    "iso2": "KA",
+    "native": "Kaffrine",
+    "latitude": "14.10520200",
+    "longitude": "-15.54157550",
+    "type": "region",
+    "timezone": "Africa/Dakar",
+    "CountryID": 195
+  },
+  {
+    "id": 483,
+    "name": "Kaolack",
+    "iso2": "KL",
+    "native": "Kaolack",
+    "latitude": "14.13881500",
+    "longitude": "-16.07639100",
+    "type": "region",
+    "timezone": "Africa/Dakar",
+    "CountryID": 195
+  },
+  {
+    "id": 481,
+    "name": "Kédougou",
+    "iso2": "KE",
+    "native": "Kédougou",
+    "latitude": "12.55707520",
+    "longitude": "-12.18556550",
+    "type": "region",
+    "timezone": "Africa/Dakar",
+    "CountryID": 195
+  },
+  {
+    "id": 474,
+    "name": "Kolda",
+    "iso2": "KD",
+    "native": "Dans le bras",
+    "latitude": "12.89211540",
+    "longitude": "-14.94009710",
+    "type": "region",
+    "timezone": "Africa/Dakar",
+    "CountryID": 195
+  },
+  {
+    "id": 485,
+    "name": "Louga",
+    "iso2": "LG",
+    "native": "Lougue",
+    "latitude": "15.61417680",
+    "longitude": "-16.22868000",
+    "type": "region",
+    "timezone": "Africa/Dakar",
+    "CountryID": 195
+  },
+  {
+    "id": 476,
+    "name": "Matam",
+    "iso2": "MT",
+    "native": "doux",
+    "latitude": "15.66002250",
+    "longitude": "-13.25769060",
+    "type": "region",
+    "timezone": "Africa/Dakar",
+    "CountryID": 195
+  },
+  {
+    "id": 477,
+    "name": "Saint-Louis",
+    "iso2": "SL",
+    "native": "Saint-Louis",
+    "latitude": "16.02804450",
+    "longitude": "-16.50486860",
+    "type": "region",
+    "timezone": "Africa/Dakar",
+    "CountryID": 195
+  },
+  {
+    "id": 482,
+    "name": "Sédhiou",
+    "iso2": "SE",
+    "native": "Sédhiou",
+    "latitude": "12.70460400",
+    "longitude": "-15.55623040",
+    "type": "region",
+    "timezone": "Africa/Dakar",
+    "CountryID": 195
+  },
+  {
+    "id": 486,
+    "name": "Tambacounda Region",
+    "iso2": "TC",
+    "native": "Tambacounda Region",
+    "latitude": "13.86863240",
+    "longitude": "-13.31903280",
+    "type": "region",
+    "timezone": "Africa/Dakar",
+    "CountryID": 195
+  },
+  {
+    "id": 484,
+    "name": "Thiès Region",
+    "iso2": "TH",
+    "native": "Thiès Region",
+    "latitude": "14.75386610",
+    "longitude": "-16.86378230",
+    "type": "region",
+    "timezone": "Africa/Dakar",
+    "CountryID": 195
+  },
+  {
+    "id": 478,
+    "name": "Ziguinchor",
+    "iso2": "ZG",
+    "native": "Ziguinchor",
+    "latitude": "12.56414790",
+    "longitude": "-16.26398250",
+    "type": "region",
+    "timezone": "Africa/Dakar",
+    "CountryID": 195
+  }
+]

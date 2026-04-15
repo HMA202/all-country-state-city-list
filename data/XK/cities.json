@@ -1,0 +1,474 @@
+[
+  {
+    "id": 160143,
+    "name": "Ferizaj",
+    "latitude": "42.37056000",
+    "longitude": "21.15528000",
+    "CountryID": 248,
+    "StateID": 4874
+  },
+  {
+    "id": 160139,
+    "name": "Hani i Elezit",
+    "latitude": "42.15000000",
+    "longitude": "21.29667000",
+    "CountryID": 248,
+    "StateID": 4874
+  },
+  {
+    "id": 160140,
+    "name": "Kačanik",
+    "latitude": "42.23194000",
+    "longitude": "21.25944000",
+    "CountryID": 248,
+    "StateID": 4874
+  },
+  {
+    "id": 160141,
+    "name": "Shtime",
+    "latitude": "42.43306000",
+    "longitude": "21.03972000",
+    "CountryID": 248,
+    "StateID": 4874
+  },
+  {
+    "id": 160142,
+    "name": "Štrpce",
+    "latitude": "42.23944000",
+    "longitude": "21.02722000",
+    "CountryID": 248,
+    "StateID": 4874
+  },
+  {
+    "id": 160147,
+    "name": "Deçan",
+    "latitude": "42.54018000",
+    "longitude": "20.28793000",
+    "CountryID": 248,
+    "StateID": 4876
+  },
+  {
+    "id": 160149,
+    "name": "Dranoc",
+    "latitude": "42.51556000",
+    "longitude": "20.29222000",
+    "CountryID": 248,
+    "StateID": 4876
+  },
+  {
+    "id": 160146,
+    "name": "Gjakovë",
+    "latitude": "42.38028000",
+    "longitude": "20.43083000",
+    "CountryID": 248,
+    "StateID": 4876
+  },
+  {
+    "id": 160150,
+    "name": "Gllogjan",
+    "latitude": "42.50722000",
+    "longitude": "20.36278000",
+    "CountryID": 248,
+    "StateID": 4876
+  },
+  {
+    "id": 160158,
+    "name": "Irzniq",
+    "latitude": "42.52000000",
+    "longitude": "20.34722000",
+    "CountryID": 248,
+    "StateID": 4876
+  },
+  {
+    "id": 160153,
+    "name": "Isniq",
+    "latitude": "42.55750000",
+    "longitude": "20.30278000",
+    "CountryID": 248,
+    "StateID": 4876
+  },
+  {
+    "id": 160154,
+    "name": "Lëbushë",
+    "latitude": "42.56306000",
+    "longitude": "20.29083000",
+    "CountryID": 248,
+    "StateID": 4876
+  },
+  {
+    "id": 160144,
+    "name": "Lloqan",
+    "latitude": "42.52444000",
+    "longitude": "20.28083000",
+    "CountryID": 248,
+    "StateID": 4876
+  },
+  {
+    "id": 160151,
+    "name": "Lluka e Eperme",
+    "latitude": "42.54500000",
+    "longitude": "20.30778000",
+    "CountryID": 248,
+    "StateID": 4876
+  },
+  {
+    "id": 160155,
+    "name": "Lumbardhi",
+    "latitude": "42.54667000",
+    "longitude": "20.34667000",
+    "CountryID": 248,
+    "StateID": 4876
+  },
+  {
+    "id": 160156,
+    "name": "Orahovac",
+    "latitude": "42.39944000",
+    "longitude": "20.65472000",
+    "CountryID": 248,
+    "StateID": 4876
+  },
+  {
+    "id": 160145,
+    "name": "Papraqan",
+    "latitude": "42.55278000",
+    "longitude": "20.33111000",
+    "CountryID": 248,
+    "StateID": 4876
+  },
+  {
+    "id": 160157,
+    "name": "Prilep",
+    "latitude": "42.50750000",
+    "longitude": "20.31778000",
+    "CountryID": 248,
+    "StateID": 4876
+  },
+  {
+    "id": 160152,
+    "name": "Strellc i Epërm",
+    "latitude": "42.57843000",
+    "longitude": "20.29398000",
+    "CountryID": 248,
+    "StateID": 4876
+  },
+  {
+    "id": 160148,
+    "name": "Strellc i Ulët",
+    "latitude": "42.58063000",
+    "longitude": "20.31619000",
+    "CountryID": 248,
+    "StateID": 4876
+  },
+  {
+    "id": 160159,
+    "name": "Gjilan",
+    "latitude": "42.46045000",
+    "longitude": "21.46986000",
+    "CountryID": 248,
+    "StateID": 4877
+  },
+  {
+    "id": 160161,
+    "name": "Kamenica",
+    "latitude": "42.57806000",
+    "longitude": "21.58028000",
+    "CountryID": 248,
+    "StateID": 4877
+  },
+  {
+    "id": 160160,
+    "name": "Klokot",
+    "latitude": "42.37139000",
+    "longitude": "21.37444000",
+    "CountryID": 248,
+    "StateID": 4877
+  },
+  {
+    "id": 160162,
+    "name": "Partesh",
+    "latitude": "42.40194000",
+    "longitude": "21.43361000",
+    "CountryID": 248,
+    "StateID": 4877
+  },
+  {
+    "id": 160163,
+    "name": "Pasjane",
+    "latitude": "42.40694000",
+    "longitude": "21.49556000",
+    "CountryID": 248,
+    "StateID": 4877
+  },
+  {
+    "id": 160164,
+    "name": "Ranilug",
+    "latitude": "42.49222000",
+    "longitude": "21.59889000",
+    "CountryID": 248,
+    "StateID": 4877
+  },
+  {
+    "id": 160165,
+    "name": "Vitina",
+    "latitude": "42.32139000",
+    "longitude": "21.35833000",
+    "CountryID": 248,
+    "StateID": 4877
+  },
+  {
+    "id": 160167,
+    "name": "Leposaviq",
+    "latitude": "43.10389000",
+    "longitude": "20.80278000",
+    "CountryID": 248,
+    "StateID": 4878
+  },
+  {
+    "id": 160166,
+    "name": "Mitrovicë",
+    "latitude": "42.88333000",
+    "longitude": "20.86667000",
+    "CountryID": 248,
+    "StateID": 4878
+  },
+  {
+    "id": 160168,
+    "name": "Srbica",
+    "latitude": "42.74667000",
+    "longitude": "20.78861000",
+    "CountryID": 248,
+    "StateID": 4878
+  },
+  {
+    "id": 160169,
+    "name": "Vushtrri",
+    "latitude": "42.82306000",
+    "longitude": "20.96750000",
+    "CountryID": 248,
+    "StateID": 4878
+  },
+  {
+    "id": 160170,
+    "name": "Zubin Potok",
+    "latitude": "42.91444000",
+    "longitude": "20.68972000",
+    "CountryID": 248,
+    "StateID": 4878
+  },
+  {
+    "id": 160171,
+    "name": "Zvečan",
+    "latitude": "42.90750000",
+    "longitude": "20.84028000",
+    "CountryID": 248,
+    "StateID": 4878
+  },
+  {
+    "id": 160181,
+    "name": "Dubova (Driloni)",
+    "latitude": "42.71194000",
+    "longitude": "20.36972000",
+    "CountryID": 248,
+    "StateID": 5321
+  },
+  {
+    "id": 160182,
+    "name": "Istok",
+    "latitude": "42.78083000",
+    "longitude": "20.48750000",
+    "CountryID": 248,
+    "StateID": 5321
+  },
+  {
+    "id": 160183,
+    "name": "Klina",
+    "latitude": "42.62167000",
+    "longitude": "20.57778000",
+    "CountryID": 248,
+    "StateID": 5321
+  },
+  {
+    "id": 160184,
+    "name": "Kosuriq",
+    "latitude": "42.57028000",
+    "longitude": "20.46472000",
+    "CountryID": 248,
+    "StateID": 5321
+  },
+  {
+    "id": 160185,
+    "name": "Pejë",
+    "latitude": "42.65913000",
+    "longitude": "20.28828000",
+    "CountryID": 248,
+    "StateID": 5321
+  },
+  {
+    "id": 160172,
+    "name": "Bradash",
+    "latitude": "42.94028000",
+    "longitude": "21.13806000",
+    "CountryID": 248,
+    "StateID": 4879
+  },
+  {
+    "id": 160173,
+    "name": "Glogovac",
+    "latitude": "42.62833000",
+    "longitude": "20.89389000",
+    "CountryID": 248,
+    "StateID": 4879
+  },
+  {
+    "id": 160174,
+    "name": "Gračanica",
+    "latitude": "42.60111000",
+    "longitude": "21.19583000",
+    "CountryID": 248,
+    "StateID": 4879
+  },
+  {
+    "id": 160175,
+    "name": "Kosovo Polje",
+    "latitude": "42.66394000",
+    "longitude": "21.09611000",
+    "CountryID": 248,
+    "StateID": 4879
+  },
+  {
+    "id": 160176,
+    "name": "Lipljan",
+    "latitude": "42.52167000",
+    "longitude": "21.12583000",
+    "CountryID": 248,
+    "StateID": 4879
+  },
+  {
+    "id": 160177,
+    "name": "Novo Brdo",
+    "latitude": "42.61590000",
+    "longitude": "21.43405000",
+    "CountryID": 248,
+    "StateID": 4879
+  },
+  {
+    "id": 160178,
+    "name": "Obiliq",
+    "latitude": "42.68694000",
+    "longitude": "21.07028000",
+    "CountryID": 248,
+    "StateID": 4879
+  },
+  {
+    "id": 160179,
+    "name": "Podujeva",
+    "latitude": "42.91056000",
+    "longitude": "21.19306000",
+    "CountryID": 248,
+    "StateID": 4879
+  },
+  {
+    "id": 160180,
+    "name": "Pristina",
+    "latitude": "42.67272000",
+    "longitude": "21.16688000",
+    "CountryID": 248,
+    "StateID": 4879
+  },
+  {
+    "id": 160186,
+    "name": "Budakovo",
+    "latitude": "42.35500000",
+    "longitude": "20.92500000",
+    "CountryID": 248,
+    "StateID": 5322
+  },
+  {
+    "id": 160188,
+    "name": "Dragash",
+    "latitude": "42.02650000",
+    "longitude": "20.65333000",
+    "CountryID": 248,
+    "StateID": 5322
+  },
+  {
+    "id": 160187,
+    "name": "Gjinoc",
+    "latitude": "42.31833000",
+    "longitude": "20.81861000",
+    "CountryID": 248,
+    "StateID": 5322
+  },
+  {
+    "id": 160189,
+    "name": "Leshan",
+    "latitude": "42.32778000",
+    "longitude": "20.78111000",
+    "CountryID": 248,
+    "StateID": 5322
+  },
+  {
+    "id": 160190,
+    "name": "Llazicë",
+    "latitude": "42.55528000",
+    "longitude": "20.76333000",
+    "CountryID": 248,
+    "StateID": 5322
+  },
+  {
+    "id": 160191,
+    "name": "Mališevo",
+    "latitude": "42.48222000",
+    "longitude": "20.74583000",
+    "CountryID": 248,
+    "StateID": 5322
+  },
+  {
+    "id": 160192,
+    "name": "Mamuša",
+    "latitude": "42.33083000",
+    "longitude": "20.72694000",
+    "CountryID": 248,
+    "StateID": 5322
+  },
+  {
+    "id": 160193,
+    "name": "Nishor",
+    "latitude": "42.42389000",
+    "longitude": "20.80167000",
+    "CountryID": 248,
+    "StateID": 5322
+  },
+  {
+    "id": 160194,
+    "name": "Pagaruša",
+    "latitude": "42.42000000",
+    "longitude": "20.74222000",
+    "CountryID": 248,
+    "StateID": 5322
+  },
+  {
+    "id": 160195,
+    "name": "Peqan",
+    "latitude": "42.38361000",
+    "longitude": "20.82194000",
+    "CountryID": 248,
+    "StateID": 5322
+  },
+  {
+    "id": 160196,
+    "name": "Prizren",
+    "latitude": "42.21389000",
+    "longitude": "20.73972000",
+    "CountryID": 248,
+    "StateID": 5322
+  },
+  {
+    "id": 160197,
+    "name": "Suva Reka",
+    "latitude": "42.35861000",
+    "longitude": "20.82500000",
+    "CountryID": 248,
+    "StateID": 5322
+  }
+]

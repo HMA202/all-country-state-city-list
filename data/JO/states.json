@@ -1,0 +1,134 @@
+[
+  {
+    "id": 963,
+    "name": "Ajloun",
+    "iso2": "AJ",
+    "native": "عجلون",
+    "latitude": "32.33255840",
+    "longitude": "35.75168440",
+    "type": "governorate",
+    "timezone": "Asia/Amman",
+    "CountryID": 111
+  },
+  {
+    "id": 965,
+    "name": "Amman",
+    "iso2": "AM",
+    "native": "عمان",
+    "latitude": "31.94536330",
+    "longitude": "35.92838950",
+    "type": "governorate",
+    "timezone": "Asia/Amman",
+    "CountryID": 111
+  },
+  {
+    "id": 959,
+    "name": "Aqaba",
+    "iso2": "AQ",
+    "native": "العقبة",
+    "latitude": "29.53208600",
+    "longitude": "35.00628210",
+    "type": "governorate",
+    "timezone": "Asia/Amman",
+    "CountryID": 111
+  },
+  {
+    "id": 961,
+    "name": "Balqa",
+    "iso2": "BA",
+    "native": "البلقاء",
+    "latitude": "31.97829170",
+    "longitude": "35.65852320",
+    "type": "governorate",
+    "timezone": "Asia/Amman",
+    "CountryID": 111
+  },
+  {
+    "id": 960,
+    "name": "Irbid",
+    "iso2": "IR",
+    "native": "إربد",
+    "latitude": "32.55696360",
+    "longitude": "35.84789650",
+    "type": "governorate",
+    "timezone": "Asia/Amman",
+    "CountryID": 111
+  },
+  {
+    "id": 966,
+    "name": "Jerash",
+    "iso2": "JA",
+    "native": "جرش",
+    "latitude": "32.27472370",
+    "longitude": "35.89609540",
+    "type": "governorate",
+    "timezone": "Asia/Amman",
+    "CountryID": 111
+  },
+  {
+    "id": 956,
+    "name": "Karak",
+    "iso2": "KA",
+    "native": "الكرك",
+    "latitude": "31.12570360",
+    "longitude": "35.82470400",
+    "type": "governorate",
+    "timezone": "Asia/Amman",
+    "CountryID": 111
+  },
+  {
+    "id": 964,
+    "name": "Ma'an",
+    "iso2": "MN",
+    "native": "معان",
+    "latitude": "30.20000000",
+    "longitude": "35.73333290",
+    "type": "governorate",
+    "timezone": "Asia/Amman",
+    "CountryID": 111
+  },
+  {
+    "id": 958,
+    "name": "Madaba",
+    "iso2": "MD",
+    "native": "مادبا",
+    "latitude": "31.71960970",
+    "longitude": "35.79327540",
+    "type": "governorate",
+    "timezone": "Asia/Amman",
+    "CountryID": 111
+  },
+  {
+    "id": 962,
+    "name": "Mafraq",
+    "iso2": "MA",
+    "native": "المفرق",
+    "latitude": "32.34169230",
+    "longitude": "36.20201750",
+    "type": "governorate",
+    "timezone": "Asia/Amman",
+    "CountryID": 111
+  },
+  {
+    "id": 957,
+    "name": "Tafilah",
+    "iso2": "AT",
+    "native": "الطفيلة",
+    "latitude": "30.83333300",
+    "longitude": "35.59999990",
+    "type": "governorate",
+    "timezone": "Asia/Amman",
+    "CountryID": 111
+  },
+  {
+    "id": 967,
+    "name": "Zarqa",
+    "iso2": "AZ",
+    "native": "الزرقاء",
+    "latitude": "32.06085050",
+    "longitude": "36.09421210",
+    "type": "governorate",
+    "timezone": "Asia/Amman",
+    "CountryID": 111
+  }
+]

@@ -1,0 +1,626 @@
+[
+  {
+    "id": 153549,
+    "name": "Adjuntas",
+    "latitude": "18.16348480",
+    "longitude": "-66.72315800",
+    "CountryID": 178,
+    "StateID": 5134
+  },
+  {
+    "id": 153550,
+    "name": "Aguada",
+    "latitude": "18.38015790",
+    "longitude": "-67.18870400",
+    "CountryID": 178,
+    "StateID": 5135
+  },
+  {
+    "id": 153551,
+    "name": "Aguadilla",
+    "latitude": "18.42744540",
+    "longitude": "-67.15406980",
+    "CountryID": 178,
+    "StateID": 5136
+  },
+  {
+    "id": 153552,
+    "name": "Aguas Buenas",
+    "latitude": "18.25689890",
+    "longitude": "-66.10294420",
+    "CountryID": 178,
+    "StateID": 5137
+  },
+  {
+    "id": 153553,
+    "name": "Aibonito",
+    "latitude": "18.13995940",
+    "longitude": "-66.26600160",
+    "CountryID": 178,
+    "StateID": 5138
+  },
+  {
+    "id": 153554,
+    "name": "Añasco",
+    "latitude": "18.28544760",
+    "longitude": "-67.14029350",
+    "CountryID": 178,
+    "StateID": 5139
+  },
+  {
+    "id": 153555,
+    "name": "Arecibo",
+    "latitude": "18.47051370",
+    "longitude": "-66.72184720",
+    "CountryID": 178,
+    "StateID": 5081
+  },
+  {
+    "id": 153556,
+    "name": "Arroyo",
+    "latitude": "17.99642200",
+    "longitude": "-66.09248790",
+    "CountryID": 178,
+    "StateID": 5141
+  },
+  {
+    "id": 153557,
+    "name": "Barceloneta",
+    "latitude": "41.38010610",
+    "longitude": "2.18969570",
+    "CountryID": 178,
+    "StateID": 5142
+  },
+  {
+    "id": 153558,
+    "name": "Barranquitas",
+    "latitude": "18.18662420",
+    "longitude": "-66.30628020",
+    "CountryID": 178,
+    "StateID": 5143
+  },
+  {
+    "id": 153559,
+    "name": "Bayamón",
+    "latitude": "18.38939600",
+    "longitude": "-66.16532240",
+    "CountryID": 178,
+    "StateID": 5076
+  },
+  {
+    "id": 153560,
+    "name": "Cabo Rojo",
+    "latitude": "18.08662650",
+    "longitude": "-67.14573470",
+    "CountryID": 178,
+    "StateID": 5145
+  },
+  {
+    "id": 153561,
+    "name": "Caguas",
+    "latitude": "18.23879950",
+    "longitude": "-66.03524900",
+    "CountryID": 178,
+    "StateID": 5079
+  },
+  {
+    "id": 153562,
+    "name": "Camuy",
+    "latitude": "18.48383300",
+    "longitude": "-66.84489940",
+    "CountryID": 178,
+    "StateID": 5147
+  },
+  {
+    "id": 153563,
+    "name": "Canóvanas",
+    "latitude": "18.37487480",
+    "longitude": "-65.89975330",
+    "CountryID": 178,
+    "StateID": 5148
+  },
+  {
+    "id": 153564,
+    "name": "Carolina",
+    "latitude": "18.36808770",
+    "longitude": "-66.04247340",
+    "CountryID": 178,
+    "StateID": 5077
+  },
+  {
+    "id": 153565,
+    "name": "Cataño",
+    "latitude": "18.44653550",
+    "longitude": "-66.13557750",
+    "CountryID": 178,
+    "StateID": 5150
+  },
+  {
+    "id": 153566,
+    "name": "Cayey",
+    "latitude": "18.11190510",
+    "longitude": "-66.16600000",
+    "CountryID": 178,
+    "StateID": 5151
+  },
+  {
+    "id": 153567,
+    "name": "Ceiba",
+    "latitude": "18.24751770",
+    "longitude": "-65.90849530",
+    "CountryID": 178,
+    "StateID": 5152
+  },
+  {
+    "id": 153568,
+    "name": "Ciales",
+    "latitude": "18.33606220",
+    "longitude": "-66.46878230",
+    "CountryID": 178,
+    "StateID": 5153
+  },
+  {
+    "id": 153569,
+    "name": "Cidra",
+    "latitude": "18.17579140",
+    "longitude": "-66.16127790",
+    "CountryID": 178,
+    "StateID": 5154
+  },
+  {
+    "id": 153570,
+    "name": "Coamo",
+    "latitude": "18.07996160",
+    "longitude": "-66.35794730",
+    "CountryID": 178,
+    "StateID": 5155
+  },
+  {
+    "id": 153571,
+    "name": "Comerío",
+    "latitude": "18.21920010",
+    "longitude": "-66.22560220",
+    "CountryID": 178,
+    "StateID": 5156
+  },
+  {
+    "id": 153572,
+    "name": "Corozal",
+    "latitude": "18.40308020",
+    "longitude": "-88.39675360",
+    "CountryID": 178,
+    "StateID": 5157
+  },
+  {
+    "id": 153573,
+    "name": "Culebra",
+    "latitude": "18.31039400",
+    "longitude": "-65.30307050",
+    "CountryID": 178,
+    "StateID": 5158
+  },
+  {
+    "id": 153574,
+    "name": "Dorado",
+    "latitude": "43.14805560",
+    "longitude": "-77.57722220",
+    "CountryID": 178,
+    "StateID": 5159
+  },
+  {
+    "id": 153575,
+    "name": "Fajardo",
+    "latitude": "18.32521480",
+    "longitude": "-65.65393560",
+    "CountryID": 178,
+    "StateID": 5160
+  },
+  {
+    "id": 153576,
+    "name": "Florida",
+    "latitude": "27.66482740",
+    "longitude": "-81.51575350",
+    "CountryID": 178,
+    "StateID": 5161
+  },
+  {
+    "id": 153577,
+    "name": "Guánica",
+    "latitude": "17.97251450",
+    "longitude": "-66.90862640",
+    "CountryID": 178,
+    "StateID": 5162
+  },
+  {
+    "id": 153578,
+    "name": "Guayama",
+    "latitude": "17.98413280",
+    "longitude": "-66.11377670",
+    "CountryID": 178,
+    "StateID": 5163
+  },
+  {
+    "id": 153579,
+    "name": "Guayanilla",
+    "latitude": "18.01913140",
+    "longitude": "-66.79184200",
+    "CountryID": 178,
+    "StateID": 5164
+  },
+  {
+    "id": 153580,
+    "name": "Guaynabo",
+    "latitude": "18.36129540",
+    "longitude": "-66.11029570",
+    "CountryID": 178,
+    "StateID": 5080
+  },
+  {
+    "id": 153581,
+    "name": "Gurabo",
+    "latitude": "18.25439870",
+    "longitude": "-65.97294210",
+    "CountryID": 178,
+    "StateID": 5166
+  },
+  {
+    "id": 153582,
+    "name": "Hatillo",
+    "latitude": "18.42846420",
+    "longitude": "-66.78753210",
+    "CountryID": 178,
+    "StateID": 5167
+  },
+  {
+    "id": 153583,
+    "name": "Hormigueros",
+    "latitude": "18.13346380",
+    "longitude": "-67.11281230",
+    "CountryID": 178,
+    "StateID": 5168
+  },
+  {
+    "id": 153584,
+    "name": "Humacao",
+    "latitude": "18.15157360",
+    "longitude": "-65.82485290",
+    "CountryID": 178,
+    "StateID": 5169
+  },
+  {
+    "id": 153585,
+    "name": "Isabela",
+    "latitude": "16.97537580",
+    "longitude": "121.81070790",
+    "CountryID": 178,
+    "StateID": 5170
+  },
+  {
+    "id": 153586,
+    "name": "Jayuya",
+    "latitude": "18.21856740",
+    "longitude": "-66.59156170",
+    "CountryID": 178,
+    "StateID": 5171
+  },
+  {
+    "id": 153587,
+    "name": "Juana Díaz",
+    "latitude": "18.05343720",
+    "longitude": "-66.50750790",
+    "CountryID": 178,
+    "StateID": 5172
+  },
+  {
+    "id": 153588,
+    "name": "Juncos",
+    "latitude": "18.22745580",
+    "longitude": "-65.92099700",
+    "CountryID": 178,
+    "StateID": 5173
+  },
+  {
+    "id": 153589,
+    "name": "Lajas",
+    "latitude": "18.04996200",
+    "longitude": "-67.05934490",
+    "CountryID": 178,
+    "StateID": 5174
+  },
+  {
+    "id": 153590,
+    "name": "Lares",
+    "latitude": "34.02508020",
+    "longitude": "-118.45945930",
+    "CountryID": 178,
+    "StateID": 5175
+  },
+  {
+    "id": 153591,
+    "name": "Las Marías",
+    "latitude": "35.83822380",
+    "longitude": "-78.61035660",
+    "CountryID": 178,
+    "StateID": 5176
+  },
+  {
+    "id": 153592,
+    "name": "Las Piedras",
+    "latitude": "18.18557530",
+    "longitude": "-65.87362450",
+    "CountryID": 178,
+    "StateID": 5177
+  },
+  {
+    "id": 153593,
+    "name": "Loíza",
+    "latitude": "18.43299040",
+    "longitude": "-65.87836000",
+    "CountryID": 178,
+    "StateID": 5178
+  },
+  {
+    "id": 153594,
+    "name": "Luquillo",
+    "latitude": "18.37245070",
+    "longitude": "-65.71655110",
+    "CountryID": 178,
+    "StateID": 5179
+  },
+  {
+    "id": 153595,
+    "name": "Manatí",
+    "latitude": "18.41812150",
+    "longitude": "-66.52627830",
+    "CountryID": 178,
+    "StateID": 5180
+  },
+  {
+    "id": 153596,
+    "name": "Maricao",
+    "latitude": "18.18079020",
+    "longitude": "-66.97990010",
+    "CountryID": 178,
+    "StateID": 5181
+  },
+  {
+    "id": 153597,
+    "name": "Maunabo",
+    "latitude": "18.00718850",
+    "longitude": "-65.89932890",
+    "CountryID": 178,
+    "StateID": 5182
+  },
+  {
+    "id": 153598,
+    "name": "Mayagüez",
+    "latitude": "18.20134520",
+    "longitude": "-67.14515490",
+    "CountryID": 178,
+    "StateID": 5083
+  },
+  {
+    "id": 153599,
+    "name": "Moca",
+    "latitude": "18.39679290",
+    "longitude": "-67.14790350",
+    "CountryID": 178,
+    "StateID": 5184
+  },
+  {
+    "id": 153600,
+    "name": "Morovis",
+    "latitude": "18.32578500",
+    "longitude": "-66.40655920",
+    "CountryID": 178,
+    "StateID": 5185
+  },
+  {
+    "id": 153601,
+    "name": "Naguabo",
+    "latitude": "18.21162470",
+    "longitude": "-65.73488410",
+    "CountryID": 178,
+    "StateID": 5186
+  },
+  {
+    "id": 153602,
+    "name": "Naranjito",
+    "latitude": "18.30078610",
+    "longitude": "-66.24489040",
+    "CountryID": 178,
+    "StateID": 5187
+  },
+  {
+    "id": 153603,
+    "name": "Orocovis",
+    "latitude": "18.22692240",
+    "longitude": "-66.39116860",
+    "CountryID": 178,
+    "StateID": 5188
+  },
+  {
+    "id": 153604,
+    "name": "Patillas",
+    "latitude": "18.00373810",
+    "longitude": "-66.01340590",
+    "CountryID": 178,
+    "StateID": 5189
+  },
+  {
+    "id": 153605,
+    "name": "Peñuelas",
+    "latitude": "18.06335770",
+    "longitude": "-66.72738960",
+    "CountryID": 178,
+    "StateID": 5190
+  },
+  {
+    "id": 153606,
+    "name": "Ponce",
+    "latitude": "18.01107680",
+    "longitude": "-66.61406160",
+    "CountryID": 178,
+    "StateID": 5078
+  },
+  {
+    "id": 153607,
+    "name": "Quebradillas",
+    "latitude": "18.47383300",
+    "longitude": "-66.93851200",
+    "CountryID": 178,
+    "StateID": 5192
+  },
+  {
+    "id": 153608,
+    "name": "Rincón",
+    "latitude": "18.34015140",
+    "longitude": "-67.24994590",
+    "CountryID": 178,
+    "StateID": 5193
+  },
+  {
+    "id": 153609,
+    "name": "Río Grande",
+    "latitude": "28.81063826",
+    "longitude": "-101.83538780",
+    "CountryID": 178,
+    "StateID": 5194
+  },
+  {
+    "id": 153610,
+    "name": "Sabana Grande",
+    "latitude": "18.07773920",
+    "longitude": "-66.96045490",
+    "CountryID": 178,
+    "StateID": 5195
+  },
+  {
+    "id": 153611,
+    "name": "Salinas",
+    "latitude": "36.67773720",
+    "longitude": "-121.65550130",
+    "CountryID": 178,
+    "StateID": 5196
+  },
+  {
+    "id": 153612,
+    "name": "San Germán",
+    "latitude": "18.08070820",
+    "longitude": "-67.04110960",
+    "CountryID": 178,
+    "StateID": 5197
+  },
+  {
+    "id": 153613,
+    "name": "San Juan",
+    "latitude": "18.46320300",
+    "longitude": "-66.11475710",
+    "CountryID": 178,
+    "StateID": 5075
+  },
+  {
+    "id": 153614,
+    "name": "San Lorenzo",
+    "latitude": "18.18869120",
+    "longitude": "-65.97658620",
+    "CountryID": 178,
+    "StateID": 5199
+  },
+  {
+    "id": 153615,
+    "name": "San Sebastián",
+    "latitude": "43.31833400",
+    "longitude": "-1.98123130",
+    "CountryID": 178,
+    "StateID": 5200
+  },
+  {
+    "id": 153616,
+    "name": "Santa Isabel",
+    "latitude": "17.96607750",
+    "longitude": "-66.40489200",
+    "CountryID": 178,
+    "StateID": 5201
+  },
+  {
+    "id": 153617,
+    "name": "Toa Alta",
+    "latitude": "18.38828230",
+    "longitude": "-66.24822370",
+    "CountryID": 178,
+    "StateID": 5202
+  },
+  {
+    "id": 153618,
+    "name": "Toa Baja",
+    "latitude": "18.44447090",
+    "longitude": "-66.25432930",
+    "CountryID": 178,
+    "StateID": 5082
+  },
+  {
+    "id": 153619,
+    "name": "Trujillo Alto",
+    "latitude": "18.35467190",
+    "longitude": "-66.00738760",
+    "CountryID": 178,
+    "StateID": 5084
+  },
+  {
+    "id": 153620,
+    "name": "Utuado",
+    "latitude": "18.26550950",
+    "longitude": "-66.70045190",
+    "CountryID": 178,
+    "StateID": 5205
+  },
+  {
+    "id": 153621,
+    "name": "Vega Alta",
+    "latitude": "18.41217030",
+    "longitude": "-66.33128050",
+    "CountryID": 178,
+    "StateID": 5206
+  },
+  {
+    "id": 153622,
+    "name": "Vega Baja",
+    "latitude": "18.44614590",
+    "longitude": "-66.40419670",
+    "CountryID": 178,
+    "StateID": 5207
+  },
+  {
+    "id": 153623,
+    "name": "Vieques",
+    "latitude": "18.12628540",
+    "longitude": "-65.44009850",
+    "CountryID": 178,
+    "StateID": 5208
+  },
+  {
+    "id": 153624,
+    "name": "Villalba",
+    "latitude": "18.12175540",
+    "longitude": "-66.49857870",
+    "CountryID": 178,
+    "StateID": 5209
+  },
+  {
+    "id": 153625,
+    "name": "Yabucoa",
+    "latitude": "18.05052010",
+    "longitude": "-65.87932880",
+    "CountryID": 178,
+    "StateID": 5210
+  },
+  {
+    "id": 153626,
+    "name": "Yauco",
+    "latitude": "18.03496400",
+    "longitude": "-66.84989830",
+    "CountryID": 178,
+    "StateID": 5211
+  }
+]

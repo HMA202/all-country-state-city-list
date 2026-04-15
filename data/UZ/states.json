@@ -1,0 +1,156 @@
+[
+  {
+    "id": 2540,
+    "name": "Andijan",
+    "iso2": "AN",
+    "native": "Andijan",
+    "latitude": "40.77277960",
+    "longitude": "72.34196600",
+    "type": "region",
+    "timezone": "Asia/Samarkand",
+    "CountryID": 236
+  },
+  {
+    "id": 2541,
+    "name": "Bukhara",
+    "iso2": "BU",
+    "native": "Buxoro",
+    "latitude": "40.22936600",
+    "longitude": "63.54705840",
+    "type": "region",
+    "timezone": "Asia/Samarkand",
+    "CountryID": 236
+  },
+  {
+    "id": 2538,
+    "name": "Fergana",
+    "iso2": "FA",
+    "native": "Farg'ona",
+    "latitude": "40.50000000",
+    "longitude": "71.25000000",
+    "type": "region",
+    "timezone": "Asia/Samarkand",
+    "CountryID": 236
+  },
+  {
+    "id": 2545,
+    "name": "Jizzakh",
+    "iso2": "JI",
+    "native": "Jizzakh",
+    "latitude": "40.33190950",
+    "longitude": "67.45511980",
+    "type": "region",
+    "timezone": "Asia/Samarkand",
+    "CountryID": 236
+  },
+  {
+    "id": 2548,
+    "name": "Karakalpakstan",
+    "iso2": "QR",
+    "native": "Qoraqalpog'iston",
+    "latitude": "43.77388410",
+    "longitude": "57.62346170",
+    "type": "republic",
+    "timezone": "Asia/Samarkand",
+    "CountryID": 236
+  },
+  {
+    "id": 2537,
+    "name": "Namangan",
+    "iso2": "NG",
+    "native": "Namangan",
+    "latitude": "40.95550610",
+    "longitude": "71.10977490",
+    "type": "region",
+    "timezone": "Asia/Samarkand",
+    "CountryID": 236
+  },
+  {
+    "id": 2542,
+    "name": "Navoiy",
+    "iso2": "NW",
+    "native": "Navoiy",
+    "latitude": "42.00000000",
+    "longitude": "64.00000000",
+    "type": "region",
+    "timezone": "Asia/Samarkand",
+    "CountryID": 236
+  },
+  {
+    "id": 2543,
+    "name": "Qashqadaryo",
+    "iso2": "QA",
+    "native": "Qashqadaryo",
+    "latitude": "39.04249740",
+    "longitude": "66.57752760",
+    "type": "region",
+    "timezone": "Asia/Samarkand",
+    "CountryID": 236
+  },
+  {
+    "id": 2544,
+    "name": "Samarqand",
+    "iso2": "SA",
+    "native": "Samarqand",
+    "latitude": "39.65500170",
+    "longitude": "66.97569540",
+    "type": "region",
+    "timezone": "Asia/Samarkand",
+    "CountryID": 236
+  },
+  {
+    "id": 2547,
+    "name": "Sirdaryo",
+    "iso2": "SI",
+    "native": "Sirdaryo",
+    "latitude": "40.80293260",
+    "longitude": "68.82428410",
+    "type": "region",
+    "timezone": "Asia/Samarkand",
+    "CountryID": 236
+  },
+  {
+    "id": 2546,
+    "name": "Surxondaryo",
+    "iso2": "SU",
+    "native": "Surxondaryo",
+    "latitude": "37.95208430",
+    "longitude": "67.12659960",
+    "type": "region",
+    "timezone": "Asia/Samarkand",
+    "CountryID": 236
+  },
+  {
+    "id": 2536,
+    "name": "Tashkent",
+    "iso2": "TK",
+    "native": "Tashkent",
+    "latitude": "41.31233630",
+    "longitude": "69.27870790",
+    "type": "city",
+    "timezone": "Asia/Samarkand",
+    "CountryID": 236
+  },
+  {
+    "id": 2549,
+    "name": "Tashkent",
+    "iso2": "TO",
+    "native": "Toshkent",
+    "latitude": "41.31233630",
+    "longitude": "69.27870790",
+    "type": "region",
+    "timezone": "Asia/Samarkand",
+    "CountryID": 236
+  },
+  {
+    "id": 2539,
+    "name": "Xorazm",
+    "iso2": "XO",
+    "native": "Xorazm",
+    "latitude": "41.29028350",
+    "longitude": "60.54285370",
+    "type": "region",
+    "timezone": "Asia/Samarkand",
+    "CountryID": 236
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": 59,
+    "name": "Acquaviva",
+    "iso2": "01",
+    "native": "Acquaviva",
+    "latitude": "43.94642460",
+    "longitude": "12.41919090",
+    "type": "municipality",
+    "timezone": "Europe/San_Marino",
+    "CountryID": 192
+  },
+  {
+    "id": 61,
+    "name": "Borgo Maggiore",
+    "iso2": "06",
+    "native": "Borgo Maggiore",
+    "latitude": "43.94118650",
+    "longitude": "12.44742200",
+    "type": "municipality",
+    "timezone": "Europe/San_Marino",
+    "CountryID": 192
+  },
+  {
+    "id": 60,
+    "name": "Chiesanuova",
+    "iso2": "02",
+    "native": "Chiesanuova",
+    "latitude": "43.90533820",
+    "longitude": "12.42201870",
+    "type": "municipality",
+    "timezone": "Europe/San_Marino",
+    "CountryID": 192
+  },
+  {
+    "id": 64,
+    "name": "Domagnano",
+    "iso2": "03",
+    "native": "Domagnano",
+    "latitude": "43.95019290",
+    "longitude": "12.46815370",
+    "type": "municipality",
+    "timezone": "Europe/San_Marino",
+    "CountryID": 192
+  },
+  {
+    "id": 62,
+    "name": "Faetano",
+    "iso2": "04",
+    "native": "Condizione",
+    "latitude": "43.92691220",
+    "longitude": "12.49746330",
+    "type": "municipality",
+    "timezone": "Europe/San_Marino",
+    "CountryID": 192
+  },
+  {
+    "id": 66,
+    "name": "Fiorentino",
+    "iso2": "05",
+    "native": "Fiorentino",
+    "latitude": "43.90783370",
+    "longitude": "12.45812090",
+    "type": "municipality",
+    "timezone": "Europe/San_Marino",
+    "CountryID": 192
+  },
+  {
+    "id": 63,
+    "name": "Montegiardino",
+    "iso2": "08",
+    "native": "Montegiardino",
+    "latitude": "43.90529990",
+    "longitude": "12.48105420",
+    "type": "municipality",
+    "timezone": "Europe/San_Marino",
+    "CountryID": 192
+  },
+  {
+    "id": 58,
+    "name": "San Marino",
+    "iso2": "07",
+    "native": "San Marino",
+    "latitude": "43.94236000",
+    "longitude": "12.45777700",
+    "type": "municipality",
+    "timezone": "Europe/San_Marino",
+    "CountryID": 192
+  },
+  {
+    "id": 65,
+    "name": "Serravalle",
+    "iso2": "09",
+    "native": "Serravalle",
+    "latitude": "43.96990260",
+    "longitude": "12.48029460",
+    "type": "municipality",
+    "timezone": "Europe/San_Marino",
+    "CountryID": 192
+  }
+]

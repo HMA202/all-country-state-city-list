@@ -1,0 +1,322 @@
+[
+  {
+    "id": 109003,
+    "name": "Changhua",
+    "latitude": "23.95361000",
+    "longitude": "120.49083000",
+    "CountryID": 216,
+    "StateID": 3404
+  },
+  {
+    "id": 109038,
+    "name": "Yuanlin",
+    "latitude": "23.95671000",
+    "longitude": "120.57608000",
+    "CountryID": 216,
+    "StateID": 3404
+  },
+  {
+    "id": 109004,
+    "name": "Chiayi",
+    "latitude": "23.47722000",
+    "longitude": "120.44527000",
+    "CountryID": 216,
+    "StateID": 3408
+  },
+  {
+    "id": 109026,
+    "name": "Pizitou",
+    "latitude": "23.48556000",
+    "longitude": "120.44472000",
+    "CountryID": 216,
+    "StateID": 3408
+  },
+  {
+    "id": 160127,
+    "name": "Budai",
+    "latitude": "23.36000000",
+    "longitude": "120.17000000",
+    "CountryID": 216,
+    "StateID": 5704
+  },
+  {
+    "id": 109005,
+    "name": "Chiayi",
+    "latitude": "23.46333000",
+    "longitude": "120.58166000",
+    "CountryID": 216,
+    "StateID": 5704
+  },
+  {
+    "id": 160128,
+    "name": "Dalin",
+    "latitude": "23.59888889",
+    "longitude": "120.47000000",
+    "CountryID": 216,
+    "StateID": 5704
+  },
+  {
+    "id": 160129,
+    "name": "Minxiong",
+    "latitude": "23.55039900",
+    "longitude": "120.44569600",
+    "CountryID": 216,
+    "StateID": 5704
+  },
+  {
+    "id": 109011,
+    "name": "Hsinchu",
+    "latitude": "24.67416000",
+    "longitude": "121.16111000",
+    "CountryID": 216,
+    "StateID": 3417
+  },
+  {
+    "id": 109010,
+    "name": "Hsinchu",
+    "latitude": "24.80361000",
+    "longitude": "120.96861000",
+    "CountryID": 216,
+    "StateID": 5705
+  },
+  {
+    "id": 160131,
+    "name": "Hukou",
+    "latitude": "24.90000000",
+    "longitude": "121.05000000",
+    "CountryID": 216,
+    "StateID": 5705
+  },
+  {
+    "id": 160130,
+    "name": "Zhubei",
+    "latitude": "24.83333333",
+    "longitude": "121.01194444",
+    "CountryID": 216,
+    "StateID": 5705
+  },
+  {
+    "id": 109012,
+    "name": "Hualien",
+    "latitude": "23.78166000",
+    "longitude": "121.39333000",
+    "CountryID": 216,
+    "StateID": 3411
+  },
+  {
+    "id": 109016,
+    "name": "Kaohsiung",
+    "latitude": "22.61626000",
+    "longitude": "120.31333000",
+    "CountryID": 216,
+    "StateID": 3412
+  },
+  {
+    "id": 109014,
+    "name": "Jincheng",
+    "latitude": "24.43415000",
+    "longitude": "118.31712000",
+    "CountryID": 216,
+    "StateID": 3415
+  },
+  {
+    "id": 109017,
+    "name": "Kinmen",
+    "latitude": "24.45333000",
+    "longitude": "118.38861000",
+    "CountryID": 216,
+    "StateID": 3415
+  },
+  {
+    "id": 109018,
+    "name": "Lienchiang",
+    "latitude": "26.37004000",
+    "longitude": "120.49545000",
+    "CountryID": 216,
+    "StateID": 3420
+  },
+  {
+    "id": 109022,
+    "name": "Nangan",
+    "latitude": "26.15039000",
+    "longitude": "119.93284000",
+    "CountryID": 216,
+    "StateID": 3420
+  },
+  {
+    "id": 109021,
+    "name": "Miaoli",
+    "latitude": "24.48972000",
+    "longitude": "120.90638000",
+    "CountryID": 216,
+    "StateID": 3413
+  },
+  {
+    "id": 109019,
+    "name": "Lugu",
+    "latitude": "23.74639000",
+    "longitude": "120.75250000",
+    "CountryID": 216,
+    "StateID": 3407
+  },
+  {
+    "id": 109023,
+    "name": "Nantou",
+    "latitude": "23.83419000",
+    "longitude": "120.92704000",
+    "CountryID": 216,
+    "StateID": 3407
+  },
+  {
+    "id": 109027,
+    "name": "Puli",
+    "latitude": "23.96639000",
+    "longitude": "120.96952000",
+    "CountryID": 216,
+    "StateID": 3407
+  },
+  {
+    "id": 109041,
+    "name": "Zhongxing New Village",
+    "latitude": "23.95908000",
+    "longitude": "120.68516000",
+    "CountryID": 216,
+    "StateID": 3407
+  },
+  {
+    "id": 109020,
+    "name": "Magong",
+    "latitude": "23.56540000",
+    "longitude": "119.58627000",
+    "CountryID": 216,
+    "StateID": 3403
+  },
+  {
+    "id": 109024,
+    "name": "Penghu",
+    "latitude": "23.57111000",
+    "longitude": "119.61138000",
+    "CountryID": 216,
+    "StateID": 3403
+  },
+  {
+    "id": 109007,
+    "name": "Donggang",
+    "latitude": "22.46515000",
+    "longitude": "120.44927000",
+    "CountryID": 216,
+    "StateID": 3405
+  },
+  {
+    "id": 109009,
+    "name": "Hengchun",
+    "latitude": "22.00417000",
+    "longitude": "120.74389000",
+    "CountryID": 216,
+    "StateID": 3405
+  },
+  {
+    "id": 109025,
+    "name": "Pingtung",
+    "latitude": "22.49555000",
+    "longitude": "120.61444000",
+    "CountryID": 216,
+    "StateID": 3405
+  },
+  {
+    "id": 109028,
+    "name": "Taichung",
+    "latitude": "24.14690000",
+    "longitude": "120.68390000",
+    "CountryID": 216,
+    "StateID": 3406
+  },
+  {
+    "id": 109030,
+    "name": "Tainan",
+    "latitude": "22.99083000",
+    "longitude": "120.21333000",
+    "CountryID": 216,
+    "StateID": 3421
+  },
+  {
+    "id": 109039,
+    "name": "Yujing",
+    "latitude": "23.12493000",
+    "longitude": "120.46138000",
+    "CountryID": 216,
+    "StateID": 3421
+  },
+  {
+    "id": 109002,
+    "name": "Banqiao",
+    "latitude": "25.01427000",
+    "longitude": "121.46719000",
+    "CountryID": 216,
+    "StateID": 3422
+  },
+  {
+    "id": 109015,
+    "name": "Jiufen",
+    "latitude": "25.10957000",
+    "longitude": "121.84424000",
+    "CountryID": 216,
+    "StateID": 3422
+  },
+  {
+    "id": 109031,
+    "name": "Taipei",
+    "latitude": "25.04776000",
+    "longitude": "121.53185000",
+    "CountryID": 216,
+    "StateID": 3422
+  },
+  {
+    "id": 109033,
+    "name": "Taitung",
+    "latitude": "22.88361000",
+    "longitude": "121.04833000",
+    "CountryID": 216,
+    "StateID": 3410
+  },
+  {
+    "id": 109006,
+    "name": "Daxi",
+    "latitude": "24.88373000",
+    "longitude": "121.29043000",
+    "CountryID": 216,
+    "StateID": 3419
+  },
+  {
+    "id": 109035,
+    "name": "Taoyuan",
+    "latitude": "24.89500000",
+    "longitude": "121.24611000",
+    "CountryID": 216,
+    "StateID": 3419
+  },
+  {
+    "id": 109037,
+    "name": "Yilan",
+    "latitude": "24.54250000",
+    "longitude": "121.63361000",
+    "CountryID": 216,
+    "StateID": 3402
+  },
+  {
+    "id": 109008,
+    "name": "Douliu",
+    "latitude": "23.70944000",
+    "longitude": "120.54333000",
+    "CountryID": 216,
+    "StateID": 3416
+  },
+  {
+    "id": 109040,
+    "name": "Yunlin",
+    "latitude": "23.70701000",
+    "longitude": "120.38481000",
+    "CountryID": 216,
+    "StateID": 3416
+  }
+]

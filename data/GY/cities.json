@@ -1,0 +1,114 @@
+[
+  {
+    "id": 53826,
+    "name": "Mabaruma",
+    "latitude": "8.20000000",
+    "longitude": "-59.78333000",
+    "CountryID": 94,
+    "StateID": 2764
+  },
+  {
+    "id": 53822,
+    "name": "Bartica",
+    "latitude": "6.40799000",
+    "longitude": "-58.62192000",
+    "CountryID": 94,
+    "StateID": 2760
+  },
+  {
+    "id": 53823,
+    "name": "Georgetown",
+    "latitude": "6.80448000",
+    "longitude": "-58.15527000",
+    "CountryID": 94,
+    "StateID": 2767
+  },
+  {
+    "id": 53827,
+    "name": "Mahaica Village",
+    "latitude": "6.68405000",
+    "longitude": "-57.92181000",
+    "CountryID": 94,
+    "StateID": 2767
+  },
+  {
+    "id": 53830,
+    "name": "New Amsterdam",
+    "latitude": "6.24793000",
+    "longitude": "-57.51710000",
+    "CountryID": 94,
+    "StateID": 2766
+  },
+  {
+    "id": 53833,
+    "name": "Skeldon",
+    "latitude": "5.88333000",
+    "longitude": "-57.13333000",
+    "CountryID": 94,
+    "StateID": 2766
+  },
+  {
+    "id": 53831,
+    "name": "Parika",
+    "latitude": "6.83712000",
+    "longitude": "-58.42941000",
+    "CountryID": 94,
+    "StateID": 2768
+  },
+  {
+    "id": 53834,
+    "name": "Vreed-en-Hoop",
+    "latitude": "6.80927000",
+    "longitude": "-58.19798000",
+    "CountryID": 94,
+    "StateID": 2768
+  },
+  {
+    "id": 53828,
+    "name": "Mahaicony Village",
+    "latitude": "6.57633000",
+    "longitude": "-57.80486000",
+    "CountryID": 94,
+    "StateID": 2762
+  },
+  {
+    "id": 53832,
+    "name": "Rosignol",
+    "latitude": "6.27095000",
+    "longitude": "-57.53697000",
+    "CountryID": 94,
+    "StateID": 2762
+  },
+  {
+    "id": 53821,
+    "name": "Anna Regina",
+    "latitude": "7.26439000",
+    "longitude": "-58.50769000",
+    "CountryID": 94,
+    "StateID": 2765
+  },
+  {
+    "id": 53829,
+    "name": "Mahdia",
+    "latitude": "5.26667000",
+    "longitude": "-59.15000000",
+    "CountryID": 94,
+    "StateID": 2761
+  },
+  {
+    "id": 53825,
+    "name": "Linden",
+    "latitude": "6.00809000",
+    "longitude": "-58.30714000",
+    "CountryID": 94,
+    "StateID": 2763
+  },
+  {
+    "id": 53824,
+    "name": "Lethem",
+    "latitude": "3.38333000",
+    "longitude": "-59.80000000",
+    "CountryID": 94,
+    "StateID": 2769
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": 2727,
+    "name": "Estuaire",
+    "iso2": "1",
+    "native": "Estuaire",
+    "latitude": "0.43026390",
+    "longitude": "9.46551890",
+    "type": "province",
+    "timezone": "Africa/Libreville",
+    "CountryID": 79
+  },
+  {
+    "id": 2726,
+    "name": "Haut-Ogooué",
+    "iso2": "2",
+    "native": "Haut-Ogooué",
+    "latitude": "-1.23154400",
+    "longitude": "13.83097130",
+    "type": "province",
+    "timezone": "Africa/Libreville",
+    "CountryID": 79
+  },
+  {
+    "id": 2730,
+    "name": "Moyen-Ogooué",
+    "iso2": "3",
+    "native": "Moyen-Ogooué",
+    "latitude": "-0.50034950",
+    "longitude": "10.49910630",
+    "type": "province",
+    "timezone": "Africa/Libreville",
+    "CountryID": 79
+  },
+  {
+    "id": 2731,
+    "name": "Ngounié",
+    "iso2": "4",
+    "native": "Ngounié",
+    "latitude": "-1.59107270",
+    "longitude": "10.97850300",
+    "type": "province",
+    "timezone": "Africa/Libreville",
+    "CountryID": 79
+  },
+  {
+    "id": 2725,
+    "name": "Nyanga",
+    "iso2": "5",
+    "native": "Lune",
+    "latitude": "-3.00804150",
+    "longitude": "10.99647460",
+    "type": "province",
+    "timezone": "Africa/Libreville",
+    "CountryID": 79
+  },
+  {
+    "id": 2724,
+    "name": "Ogooué-Ivindo",
+    "iso2": "6",
+    "native": "Ogooué-Ivindo",
+    "latitude": "0.60082000",
+    "longitude": "12.68879110",
+    "type": "province",
+    "timezone": "Africa/Libreville",
+    "CountryID": 79
+  },
+  {
+    "id": 2729,
+    "name": "Ogooué-Lolo",
+    "iso2": "7",
+    "native": "Ogooué-lolo",
+    "latitude": "-1.00029040",
+    "longitude": "12.49524240",
+    "type": "province",
+    "timezone": "Africa/Libreville",
+    "CountryID": 79
+  },
+  {
+    "id": 2728,
+    "name": "Ogooué-Maritime",
+    "iso2": "8",
+    "native": "Ogooué-Maritime",
+    "latitude": "-1.49581570",
+    "longitude": "9.50608960",
+    "type": "province",
+    "timezone": "Africa/Libreville",
+    "CountryID": 79
+  },
+  {
+    "id": 2723,
+    "name": "Woleu-Ntem",
+    "iso2": "9",
+    "native": "Woleu-Ntem",
+    "latitude": "1.29501250",
+    "longitude": "11.82188270",
+    "type": "province",
+    "timezone": "Africa/Libreville",
+    "CountryID": 79
+  }
+]

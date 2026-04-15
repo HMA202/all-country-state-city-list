@@ -1,0 +1,226 @@
+[
+  {
+    "id": 79926,
+    "name": "Adam",
+    "latitude": "22.37934000",
+    "longitude": "57.52718000",
+    "CountryID": 166,
+    "StateID": 3058
+  },
+  {
+    "id": 79930,
+    "name": "Bahlā’",
+    "latitude": "22.97886000",
+    "longitude": "57.30470000",
+    "CountryID": 166,
+    "StateID": 3058
+  },
+  {
+    "id": 79934,
+    "name": "Bidbid",
+    "latitude": "23.40787000",
+    "longitude": "58.12830000",
+    "CountryID": 166,
+    "StateID": 3058
+  },
+  {
+    "id": 79937,
+    "name": "Izkī",
+    "latitude": "22.93333000",
+    "longitude": "57.76667000",
+    "CountryID": 166,
+    "StateID": 3058
+  },
+  {
+    "id": 79942,
+    "name": "Nizwá",
+    "latitude": "22.93333000",
+    "longitude": "57.53333000",
+    "CountryID": 166,
+    "StateID": 3058
+  },
+  {
+    "id": 79948,
+    "name": "Sufālat Samā’il",
+    "latitude": "23.31667000",
+    "longitude": "58.01667000",
+    "CountryID": 166,
+    "StateID": 3058
+  },
+  {
+    "id": 79953,
+    "name": "‘Ibrī",
+    "latitude": "23.22573000",
+    "longitude": "56.51572000",
+    "CountryID": 166,
+    "StateID": 3047
+  },
+  {
+    "id": 79950,
+    "name": "Yanqul",
+    "latitude": "23.58645000",
+    "longitude": "56.53969000",
+    "CountryID": 166,
+    "StateID": 3047
+  },
+  {
+    "id": 79928,
+    "name": "Al Khābūrah",
+    "latitude": "23.97144000",
+    "longitude": "57.09313000",
+    "CountryID": 166,
+    "StateID": 3048
+  },
+  {
+    "id": 79929,
+    "name": "As Suwayq",
+    "latitude": "23.84944000",
+    "longitude": "57.43861000",
+    "CountryID": 166,
+    "StateID": 3048
+  },
+  {
+    "id": 79939,
+    "name": "Liwá",
+    "latitude": "24.53077000",
+    "longitude": "56.56300000",
+    "CountryID": 166,
+    "StateID": 3048
+  },
+  {
+    "id": 79952,
+    "name": "Şaḩam",
+    "latitude": "24.17222000",
+    "longitude": "56.88861000",
+    "CountryID": 166,
+    "StateID": 3048
+  },
+  {
+    "id": 79946,
+    "name": "Shināş",
+    "latitude": "24.74260000",
+    "longitude": "56.46698000",
+    "CountryID": 166,
+    "StateID": 3048
+  },
+  {
+    "id": 79947,
+    "name": "Sohar",
+    "latitude": "24.34745000",
+    "longitude": "56.70937000",
+    "CountryID": 166,
+    "StateID": 3048
+  },
+  {
+    "id": 79931,
+    "name": "Barkā’",
+    "latitude": "23.67872000",
+    "longitude": "57.88605000",
+    "CountryID": 166,
+    "StateID": 3049
+  },
+  {
+    "id": 79933,
+    "name": "Bayt al ‘Awābī",
+    "latitude": "23.30324000",
+    "longitude": "57.52459000",
+    "CountryID": 166,
+    "StateID": 3049
+  },
+  {
+    "id": 79943,
+    "name": "Oman Smart Future City",
+    "latitude": "23.65270000",
+    "longitude": "57.59926000",
+    "CountryID": 166,
+    "StateID": 3049
+  },
+  {
+    "id": 79944,
+    "name": "Rustaq",
+    "latitude": "23.39083000",
+    "longitude": "57.42444000",
+    "CountryID": 166,
+    "StateID": 3049
+  },
+  {
+    "id": 79927,
+    "name": "Al Buraymī",
+    "latitude": "24.25088000",
+    "longitude": "55.79312000",
+    "CountryID": 166,
+    "StateID": 3059
+  },
+  {
+    "id": 79936,
+    "name": "Haymā’",
+    "latitude": "19.95931000",
+    "longitude": "56.27575000",
+    "CountryID": 166,
+    "StateID": 3056
+  },
+  {
+    "id": 79949,
+    "name": "Sur",
+    "latitude": "22.56667000",
+    "longitude": "59.52889000",
+    "CountryID": 166,
+    "StateID": 3054
+  },
+  {
+    "id": 79951,
+    "name": "Şalālah",
+    "latitude": "17.01505000",
+    "longitude": "54.09237000",
+    "CountryID": 166,
+    "StateID": 3057
+  },
+  {
+    "id": 79935,
+    "name": "Dib Dibba",
+    "latitude": "26.19778000",
+    "longitude": "56.25778000",
+    "CountryID": 166,
+    "StateID": 3052
+  },
+  {
+    "id": 79938,
+    "name": "Khasab",
+    "latitude": "26.17993000",
+    "longitude": "56.24774000",
+    "CountryID": 166,
+    "StateID": 3052
+  },
+  {
+    "id": 79940,
+    "name": "Madḩā’ al Jadīdah",
+    "latitude": "25.28345000",
+    "longitude": "56.33280000",
+    "CountryID": 166,
+    "StateID": 3052
+  },
+  {
+    "id": 79932,
+    "name": "Bawshar",
+    "latitude": "23.57769000",
+    "longitude": "58.39982000",
+    "CountryID": 166,
+    "StateID": 3055
+  },
+  {
+    "id": 79941,
+    "name": "Muscat",
+    "latitude": "23.58413000",
+    "longitude": "58.40778000",
+    "CountryID": 166,
+    "StateID": 3055
+  },
+  {
+    "id": 79945,
+    "name": "Seeb",
+    "latitude": "23.67027000",
+    "longitude": "58.18911000",
+    "CountryID": 166,
+    "StateID": 3055
+  }
+]

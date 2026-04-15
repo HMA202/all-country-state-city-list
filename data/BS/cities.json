@@ -1,0 +1,170 @@
+[
+  {
+    "id": 15686,
+    "name": "Alice Town",
+    "latitude": "25.72800000",
+    "longitude": "-79.29721000",
+    "CountryID": 17,
+    "StateID": 3629
+  },
+  {
+    "id": 15688,
+    "name": "Arthur’s Town",
+    "latitude": "24.62240000",
+    "longitude": "-75.67151000",
+    "CountryID": 17,
+    "StateID": 3611
+  },
+  {
+    "id": 15699,
+    "name": "Marsh Harbour",
+    "latitude": "26.54124000",
+    "longitude": "-77.06360000",
+    "CountryID": 17,
+    "StateID": 3603
+  },
+  {
+    "id": 15691,
+    "name": "Colonel Hill",
+    "latitude": "22.75450000",
+    "longitude": "-74.20415000",
+    "CountryID": 17,
+    "StateID": 3621
+  },
+  {
+    "id": 15697,
+    "name": "High Rock",
+    "latitude": "26.60999000",
+    "longitude": "-78.27863000",
+    "CountryID": 17,
+    "StateID": 3614
+  },
+  {
+    "id": 15696,
+    "name": "George Town",
+    "latitude": "23.51616000",
+    "longitude": "-75.78665000",
+    "CountryID": 17,
+    "StateID": 3612
+  },
+  {
+    "id": 15695,
+    "name": "Freeport",
+    "latitude": "26.53333000",
+    "longitude": "-78.70000000",
+    "CountryID": 17,
+    "StateID": 3626
+  },
+  {
+    "id": 15698,
+    "name": "Lucaya",
+    "latitude": "26.53333000",
+    "longitude": "-78.66667000",
+    "CountryID": 17,
+    "StateID": 3626
+  },
+  {
+    "id": 15694,
+    "name": "Dunmore Town",
+    "latitude": "25.50216000",
+    "longitude": "-76.63633000",
+    "CountryID": 17,
+    "StateID": 3613
+  },
+  {
+    "id": 15700,
+    "name": "Matthew Town",
+    "latitude": "20.94982000",
+    "longitude": "-73.67346000",
+    "CountryID": 17,
+    "StateID": 3609
+  },
+  {
+    "id": 15689,
+    "name": "Clarence Town",
+    "latitude": "23.10000000",
+    "longitude": "-74.98333000",
+    "CountryID": 17,
+    "StateID": 3610
+  },
+  {
+    "id": 15685,
+    "name": "Abraham’s Bay",
+    "latitude": "22.36667000",
+    "longitude": "-72.96667000",
+    "CountryID": 17,
+    "StateID": 3633
+  },
+  {
+    "id": 143913,
+    "name": "Nassau",
+    "latitude": "25.06666667",
+    "longitude": "-77.33333333",
+    "CountryID": 17,
+    "StateID": 4881
+  },
+  {
+    "id": 15692,
+    "name": "Cooper’s Town",
+    "latitude": "26.87137000",
+    "longitude": "-77.51131000",
+    "CountryID": 17,
+    "StateID": 3616
+  },
+  {
+    "id": 15687,
+    "name": "Andros Town",
+    "latitude": "24.70502000",
+    "longitude": "-77.76912000",
+    "CountryID": 17,
+    "StateID": 3617
+  },
+  {
+    "id": 15702,
+    "name": "San Andros",
+    "latitude": "25.06667000",
+    "longitude": "-78.05000000",
+    "CountryID": 17,
+    "StateID": 3617
+  },
+  {
+    "id": 15693,
+    "name": "Duncan Town",
+    "latitude": "22.19083000",
+    "longitude": "-75.72583000",
+    "CountryID": 17,
+    "StateID": 3615
+  },
+  {
+    "id": 15701,
+    "name": "Port Nelson",
+    "latitude": "23.64967000",
+    "longitude": "-74.84157000",
+    "CountryID": 17,
+    "StateID": 3600
+  },
+  {
+    "id": 15690,
+    "name": "Cockburn Town",
+    "latitude": "24.05179000",
+    "longitude": "-74.53138000",
+    "CountryID": 17,
+    "StateID": 3627
+  },
+  {
+    "id": 15703,
+    "name": "Spanish Wells",
+    "latitude": "25.54717000",
+    "longitude": "-76.76405000",
+    "CountryID": 17,
+    "StateID": 3630
+  },
+  {
+    "id": 15704,
+    "name": "West End",
+    "latitude": "26.68711000",
+    "longitude": "-78.97702000",
+    "CountryID": 17,
+    "StateID": 3599
+  }
+]

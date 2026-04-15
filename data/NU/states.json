@@ -1,0 +1,156 @@
+[
+  {
+    "id": 5435,
+    "name": "Alofi North",
+    "iso2": "14",
+    "native": "Mightyly",
+    "latitude": "-19.04889770",
+    "longitude": "-169.91909050",
+    "type": "village",
+    "timezone": "Pacific/Niue",
+    "CountryID": 162
+  },
+  {
+    "id": 5434,
+    "name": "Alofi South",
+    "iso2": "13",
+    "native": "Alofa south",
+    "latitude": "-19.05483600",
+    "longitude": "-169.91988460",
+    "type": "village",
+    "timezone": "Pacific/Niue",
+    "CountryID": 162
+  },
+  {
+    "id": 5432,
+    "name": "Avatele",
+    "iso2": "11",
+    "native": "Avatele",
+    "latitude": "-19.12373020",
+    "longitude": "-169.91656780",
+    "type": "village",
+    "timezone": "Pacific/Niue",
+    "CountryID": 162
+  },
+  {
+    "id": 5430,
+    "name": "Hakupu",
+    "iso2": "09",
+    "native": "Afflass",
+    "latitude": "-19.12872750",
+    "longitude": "-169.84921230",
+    "type": "village",
+    "timezone": "Pacific/Niue",
+    "CountryID": 162
+  },
+  {
+    "id": 5425,
+    "name": "Hikutavake",
+    "iso2": "04",
+    "native": "Hikuvake",
+    "latitude": "-18.96563260",
+    "longitude": "-169.88063600",
+    "type": "village",
+    "timezone": "Pacific/Niue",
+    "CountryID": 162
+  },
+  {
+    "id": 5428,
+    "name": "Lakepa",
+    "iso2": "07",
+    "native": "Lake coffee",
+    "latitude": "-19.00964250",
+    "longitude": "-169.81200460",
+    "type": "village",
+    "timezone": "Pacific/Niue",
+    "CountryID": 162
+  },
+  {
+    "id": 5429,
+    "name": "Liku",
+    "iso2": "08",
+    "native": "Liku",
+    "latitude": "-19.05369070",
+    "longitude": "-169.79425910",
+    "type": "village",
+    "timezone": "Pacific/Niue",
+    "CountryID": 162
+  },
+  {
+    "id": 5422,
+    "name": "Makefu",
+    "iso2": "01",
+    "native": "Makeffi",
+    "latitude": "-19.00326180",
+    "longitude": "-169.92047320",
+    "type": "village",
+    "timezone": "Pacific/Niue",
+    "CountryID": 162
+  },
+  {
+    "id": 5427,
+    "name": "Mutalau",
+    "iso2": "06",
+    "native": "Mutalau",
+    "latitude": "-18.96393850",
+    "longitude": "-169.83278630",
+    "type": "village",
+    "timezone": "Pacific/Niue",
+    "CountryID": 162
+  },
+  {
+    "id": 5424,
+    "name": "Namukulu",
+    "iso2": "03",
+    "native": "The hospital",
+    "latitude": "-18.98122750",
+    "longitude": "-169.90294220",
+    "type": "village",
+    "timezone": "Pacific/Niue",
+    "CountryID": 162
+  },
+  {
+    "id": 5433,
+    "name": "Tamakautoga",
+    "iso2": "12",
+    "native": "Tamakautoga",
+    "latitude": "-19.10452400",
+    "longitude": "-169.91738200",
+    "type": "village",
+    "timezone": "Pacific/Niue",
+    "CountryID": 162
+  },
+  {
+    "id": 5426,
+    "name": "Toi",
+    "iso2": "05",
+    "native": "Toi",
+    "latitude": "-18.97376000",
+    "longitude": "-169.86297740",
+    "type": "village",
+    "timezone": "Pacific/Niue",
+    "CountryID": 162
+  },
+  {
+    "id": 5423,
+    "name": "Tuapa",
+    "iso2": "02",
+    "native": "Backplaces",
+    "latitude": "-18.99125070",
+    "longitude": "-169.90920780",
+    "type": "village",
+    "timezone": "Pacific/Niue",
+    "CountryID": 162
+  },
+  {
+    "id": 5431,
+    "name": "Vaiea",
+    "iso2": "10",
+    "native": "Woe",
+    "latitude": "-19.13083580",
+    "longitude": "-169.89380120",
+    "type": "village",
+    "timezone": "Pacific/Niue",
+    "CountryID": 162
+  }
+]

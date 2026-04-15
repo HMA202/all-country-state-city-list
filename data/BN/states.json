@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1217,
+    "name": "Belait",
+    "iso2": "BE",
+    "native": "Belait",
+    "latitude": "4.43499380",
+    "longitude": "114.49465240",
+    "type": "district",
+    "timezone": "Asia/Brunei",
+    "CountryID": 33
+  },
+  {
+    "id": 1216,
+    "name": "Brunei-Muara",
+    "iso2": "BM",
+    "native": "Brunei-Muara",
+    "latitude": "4.97520980",
+    "longitude": "114.93676630",
+    "type": "district",
+    "timezone": "Asia/Brunei",
+    "CountryID": 33
+  },
+  {
+    "id": 1218,
+    "name": "Temburong",
+    "iso2": "TE",
+    "native": "Temburong",
+    "latitude": "4.62918400",
+    "longitude": "115.16344080",
+    "type": "district",
+    "timezone": "Asia/Brunei",
+    "CountryID": 33
+  },
+  {
+    "id": 1219,
+    "name": "Tutong",
+    "iso2": "TU",
+    "native": "Tutong",
+    "latitude": "4.68268100",
+    "longitude": "114.65627060",
+    "type": "district",
+    "timezone": "Asia/Brunei",
+    "CountryID": 33
+  }
+]

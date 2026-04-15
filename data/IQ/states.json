@@ -1,0 +1,211 @@
+[
+  {
+    "id": 3964,
+    "name": "Al Anbar",
+    "iso2": "AN",
+    "native": "الأنبار",
+    "latitude": "32.78894430",
+    "longitude": "41.60939830",
+    "type": "governorate",
+    "timezone": "Asia/Baghdad",
+    "CountryID": 104
+  },
+  {
+    "id": 3958,
+    "name": "Al Muthanna",
+    "iso2": "MU",
+    "native": "المثنى",
+    "latitude": "30.59237390",
+    "longitude": "45.29160410",
+    "type": "governorate",
+    "timezone": "Asia/Baghdad",
+    "CountryID": 104
+  },
+  {
+    "id": 3956,
+    "name": "Al-Qādisiyyah",
+    "iso2": "QA",
+    "native": "القادسية",
+    "latitude": "31.95996170",
+    "longitude": "45.11978140",
+    "type": "governorate",
+    "timezone": "Asia/Baghdad",
+    "CountryID": 104
+  },
+  {
+    "id": 3955,
+    "name": "Babylon",
+    "iso2": "BB",
+    "native": "بابل",
+    "latitude": "32.63193350",
+    "longitude": "44.56293620",
+    "type": "governorate",
+    "timezone": "Asia/Baghdad",
+    "CountryID": 104
+  },
+  {
+    "id": 3959,
+    "name": "Baghdad",
+    "iso2": "BG",
+    "native": "بغداد",
+    "latitude": "33.30617010",
+    "longitude": "44.38722130",
+    "type": "governorate",
+    "timezone": "Asia/Baghdad",
+    "CountryID": 104
+  },
+  {
+    "id": 3960,
+    "name": "Basra",
+    "iso2": "BA",
+    "native": "البصرة",
+    "latitude": "30.49523710",
+    "longitude": "47.80909810",
+    "type": "governorate",
+    "timezone": "Asia/Baghdad",
+    "CountryID": 104
+  },
+  {
+    "id": 3954,
+    "name": "Dhi Qar",
+    "iso2": "DQ",
+    "native": "ذي قار",
+    "latitude": "31.28579410",
+    "longitude": "46.30683470",
+    "type": "governorate",
+    "timezone": "Asia/Baghdad",
+    "CountryID": 104
+  },
+  {
+    "id": 3965,
+    "name": "Diyala",
+    "iso2": "DI",
+    "native": "ديالى",
+    "latitude": "34.02287190",
+    "longitude": "45.10462240",
+    "type": "governorate",
+    "timezone": "Asia/Baghdad",
+    "CountryID": 104
+  },
+  {
+    "id": 3967,
+    "name": "Dohuk",
+    "iso2": "DA",
+    "native": "دهوك",
+    "latitude": "36.85425980",
+    "longitude": "42.99245280",
+    "type": "governorate",
+    "timezone": "Asia/Baghdad",
+    "CountryID": 104
+  },
+  {
+    "id": 3968,
+    "name": "Erbil",
+    "iso2": "AR",
+    "native": "أربيل",
+    "latitude": "36.54790070",
+    "longitude": "44.47883560",
+    "type": "governorate",
+    "timezone": "Asia/Baghdad",
+    "CountryID": 104
+  },
+  {
+    "id": 5625,
+    "name": "Iqlim Kurdistan",
+    "iso2": "KR",
+    "native": "ھەرێمی کوردستان",
+    "latitude": "36.18333333",
+    "longitude": "44.00000000",
+    "type": "region",
+    "timezone": "Asia/Baghdad",
+    "CountryID": 104
+  },
+  {
+    "id": 3957,
+    "name": "Karbala",
+    "iso2": "KA",
+    "native": "كربلاء",
+    "latitude": "32.45117030",
+    "longitude": "43.81966170",
+    "type": "governorate",
+    "timezone": "Asia/Baghdad",
+    "CountryID": 104
+  },
+  {
+    "id": 3971,
+    "name": "Kirkuk",
+    "iso2": "KI",
+    "native": "كركوك",
+    "latitude": "35.29600940",
+    "longitude": "44.03119530",
+    "type": "governorate",
+    "timezone": "Asia/Baghdad",
+    "CountryID": 104
+  },
+  {
+    "id": 3966,
+    "name": "Maysan",
+    "iso2": "MA",
+    "native": "ميسان",
+    "latitude": "32.01825420",
+    "longitude": "47.06959570",
+    "type": "governorate",
+    "timezone": "Asia/Baghdad",
+    "CountryID": 104
+  },
+  {
+    "id": 3962,
+    "name": "Najaf",
+    "iso2": "NA",
+    "native": "النجف",
+    "latitude": "31.33835300",
+    "longitude": "43.84113370",
+    "type": "governorate",
+    "timezone": "Asia/Baghdad",
+    "CountryID": 104
+  },
+  {
+    "id": 3963,
+    "name": "Nineveh",
+    "iso2": "NI",
+    "native": "نينوى",
+    "latitude": "36.03679350",
+    "longitude": "42.31686230",
+    "type": "governorate",
+    "timezone": "Asia/Baghdad",
+    "CountryID": 104
+  },
+  {
+    "id": 3961,
+    "name": "Saladin",
+    "iso2": "SD",
+    "native": "صلاح الدين",
+    "latitude": "34.37622200",
+    "longitude": "43.64465040",
+    "type": "governorate",
+    "timezone": "Asia/Baghdad",
+    "CountryID": 104
+  },
+  {
+    "id": 3969,
+    "name": "Sulaymaniyah",
+    "iso2": "SU",
+    "native": "السليمانية",
+    "latitude": "35.55747250",
+    "longitude": "45.43520200",
+    "type": "governorate",
+    "timezone": "Asia/Baghdad",
+    "CountryID": 104
+  },
+  {
+    "id": 3970,
+    "name": "Wasit",
+    "iso2": "WA",
+    "native": "واسط",
+    "latitude": "32.69448270",
+    "longitude": "45.68480090",
+    "type": "governorate",
+    "timezone": "Asia/Baghdad",
+    "CountryID": 104
+  }
+]

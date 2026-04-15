@@ -1,0 +1,200 @@
+[
+  {
+    "id": 885,
+    "name": "Al Jazirah",
+    "iso2": "GZ",
+    "native": "الجزيرة",
+    "latitude": "14.66715370",
+    "longitude": "33.22236100",
+    "type": "state",
+    "timezone": "Africa/Khartoum",
+    "CountryID": 209
+  },
+  {
+    "id": 886,
+    "name": "Al Qadarif",
+    "iso2": "GD",
+    "native": "القضارف",
+    "latitude": "14.04094100",
+    "longitude": "35.39883200",
+    "type": "state",
+    "timezone": "Africa/Khartoum",
+    "CountryID": 209
+  },
+  {
+    "id": 887,
+    "name": "Blue Nile",
+    "iso2": "NB",
+    "native": "النيل الأزرق",
+    "latitude": "11.95669720",
+    "longitude": "34.12289400",
+    "type": "state",
+    "timezone": "Africa/Khartoum",
+    "CountryID": 209
+  },
+  {
+    "id": 896,
+    "name": "Central Darfur",
+    "iso2": "DC",
+    "native": "وسط دارفور",
+    "latitude": "12.12970930",
+    "longitude": "23.35416870",
+    "type": "state",
+    "timezone": "Africa/Khartoum",
+    "CountryID": 209
+  },
+  {
+    "id": 892,
+    "name": "East Darfur",
+    "iso2": "DE",
+    "native": "شرق دارفور",
+    "latitude": "11.22319830",
+    "longitude": "26.58580410",
+    "type": "state",
+    "timezone": "Africa/Khartoum",
+    "CountryID": 209
+  },
+  {
+    "id": 884,
+    "name": "Kassala",
+    "iso2": "KA",
+    "native": "كسلا",
+    "latitude": "15.45201100",
+    "longitude": "36.37706990",
+    "type": "state",
+    "timezone": "Africa/Khartoum",
+    "CountryID": 209
+  },
+  {
+    "id": 881,
+    "name": "Khartoum",
+    "iso2": "KH",
+    "native": "الخرطوم",
+    "latitude": "15.50383010",
+    "longitude": "32.57389790",
+    "type": "state",
+    "timezone": "Africa/Khartoum",
+    "CountryID": 209
+  },
+  {
+    "id": 890,
+    "name": "North Darfur",
+    "iso2": "DN",
+    "native": "شمال دارفور",
+    "latitude": "16.00000000",
+    "longitude": "26.00000000",
+    "type": "state",
+    "timezone": "Africa/Khartoum",
+    "CountryID": 209
+  },
+  {
+    "id": 893,
+    "name": "North Kordofan",
+    "iso2": "KN",
+    "native": "شمال كردفان",
+    "latitude": "14.41693020",
+    "longitude": "29.46836900",
+    "type": "state",
+    "timezone": "Africa/Khartoum",
+    "CountryID": 209
+  },
+  {
+    "id": 895,
+    "name": "Northern",
+    "iso2": "NO",
+    "native": "شمالي",
+    "latitude": "19.00000000",
+    "longitude": "30.00000000",
+    "type": "state",
+    "timezone": "Africa/Khartoum",
+    "CountryID": 209
+  },
+  {
+    "id": 880,
+    "name": "Red Sea",
+    "iso2": "RS",
+    "native": "البحر الأحمر",
+    "latitude": "20.00000000",
+    "longitude": "36.00000000",
+    "type": "state",
+    "timezone": "Africa/Khartoum",
+    "CountryID": 209
+  },
+  {
+    "id": 891,
+    "name": "River Nile",
+    "iso2": "NR",
+    "native": "نهر النيل",
+    "latitude": "19.01055960",
+    "longitude": "33.01831800",
+    "type": "state",
+    "timezone": "Africa/Khartoum",
+    "CountryID": 209
+  },
+  {
+    "id": 882,
+    "name": "Sennar",
+    "iso2": "SI",
+    "native": "سنار",
+    "latitude": "13.54240540",
+    "longitude": "33.61035550",
+    "type": "state",
+    "timezone": "Africa/Khartoum",
+    "CountryID": 209
+  },
+  {
+    "id": 894,
+    "name": "South Darfur",
+    "iso2": "DS",
+    "native": "جنوب دارفور",
+    "latitude": "11.00000000",
+    "longitude": "25.00000000",
+    "type": "state",
+    "timezone": "Africa/Khartoum",
+    "CountryID": 209
+  },
+  {
+    "id": 883,
+    "name": "South Kordofan",
+    "iso2": "KS",
+    "native": "جنوب كردفان",
+    "latitude": "11.00000000",
+    "longitude": "31.00000000",
+    "type": "state",
+    "timezone": "Africa/Khartoum",
+    "CountryID": 209
+  },
+  {
+    "id": 888,
+    "name": "West Darfur",
+    "iso2": "DW",
+    "native": "غرب دارفور",
+    "latitude": "13.51100520",
+    "longitude": "22.70334270",
+    "type": "state",
+    "timezone": "Africa/Khartoum",
+    "CountryID": 209
+  },
+  {
+    "id": 889,
+    "name": "West Kordofan",
+    "iso2": "GK",
+    "native": "غرب كردفان",
+    "latitude": "11.75228030",
+    "longitude": "28.20460260",
+    "type": "state",
+    "timezone": "Africa/Khartoum",
+    "CountryID": 209
+  },
+  {
+    "id": 879,
+    "name": "White Nile",
+    "iso2": "NW",
+    "native": "النيل الأبيض",
+    "latitude": "12.49998380",
+    "longitude": "32.50001660",
+    "type": "state",
+    "timezone": "Africa/Khartoum",
+    "CountryID": 209
+  }
+]

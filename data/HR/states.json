@@ -1,0 +1,222 @@
+[
+  {
+    "id": 734,
+    "name": "Bjelovar-Bilogora",
+    "iso2": "07",
+    "native": "Bjelovar-Bilogora",
+    "latitude": "45.74621420",
+    "longitude": "16.92123350",
+    "type": "county",
+    "timezone": "Europe/Zagreb",
+    "CountryID": 55
+  },
+  {
+    "id": 737,
+    "name": "Brod-Posavina",
+    "iso2": "12",
+    "native": "Brod-Posavina",
+    "latitude": "45.15426690",
+    "longitude": "18.01177610",
+    "type": "county",
+    "timezone": "Europe/Zagreb",
+    "CountryID": 55
+  },
+  {
+    "id": 728,
+    "name": "Dubrovnik-Neretva",
+    "iso2": "19",
+    "native": "Dubrovnik-Neretva",
+    "latitude": "42.81431660",
+    "longitude": "17.37466280",
+    "type": "county",
+    "timezone": "Europe/Zagreb",
+    "CountryID": 55
+  },
+  {
+    "id": 743,
+    "name": "Istria",
+    "iso2": "18",
+    "native": "Istrija",
+    "latitude": "45.19343450",
+    "longitude": "13.91505360",
+    "type": "county",
+    "timezone": "Europe/Zagreb",
+    "CountryID": 55
+  },
+  {
+    "id": 5069,
+    "name": "Karlovac",
+    "iso2": "04",
+    "native": "Karlovac",
+    "latitude": "45.48925220",
+    "longitude": "15.54863030",
+    "type": "county",
+    "timezone": "Europe/Zagreb",
+    "CountryID": 55
+  },
+  {
+    "id": 742,
+    "name": "Koprivnica-Križevci",
+    "iso2": "06",
+    "native": "Koprivnica-Križevci",
+    "latitude": "46.12545080",
+    "longitude": "16.82212780",
+    "type": "county",
+    "timezone": "Europe/Zagreb",
+    "CountryID": 55
+  },
+  {
+    "id": 729,
+    "name": "Krapina-Zagorje",
+    "iso2": "02",
+    "native": "Krapina-Zagorje",
+    "latitude": "46.09832180",
+    "longitude": "15.93774040",
+    "type": "county",
+    "timezone": "Europe/Zagreb",
+    "CountryID": 55
+  },
+  {
+    "id": 731,
+    "name": "Lika-Senj",
+    "iso2": "09",
+    "native": "Lika-Senj",
+    "latitude": "44.66818000",
+    "longitude": "15.33246960",
+    "type": "county",
+    "timezone": "Europe/Zagreb",
+    "CountryID": 55
+  },
+  {
+    "id": 726,
+    "name": "Međimurje",
+    "iso2": "20",
+    "native": "Međimurje",
+    "latitude": "46.40619430",
+    "longitude": "16.54722780",
+    "type": "county",
+    "timezone": "Europe/Zagreb",
+    "CountryID": 55
+  },
+  {
+    "id": 740,
+    "name": "Osijek-Baranja",
+    "iso2": "14",
+    "native": "Osijek-Baranja",
+    "latitude": "45.54111100",
+    "longitude": "18.43846150",
+    "type": "county",
+    "timezone": "Europe/Zagreb",
+    "CountryID": 55
+  },
+  {
+    "id": 724,
+    "name": "Požega-Slavonia",
+    "iso2": "11",
+    "native": "Požega-Slavonia",
+    "latitude": "45.43811510",
+    "longitude": "17.51336870",
+    "type": "county",
+    "timezone": "Europe/Zagreb",
+    "CountryID": 55
+  },
+  {
+    "id": 735,
+    "name": "Primorje-Gorski Kotar",
+    "iso2": "08",
+    "native": "Primorje-gorski kotar",
+    "latitude": "45.42259370",
+    "longitude": "14.61720320",
+    "type": "county",
+    "timezone": "Europe/Zagreb",
+    "CountryID": 55
+  },
+  {
+    "id": 730,
+    "name": "Šibenik-Knin",
+    "iso2": "15",
+    "native": "Šibenik-Knin",
+    "latitude": "43.92814850",
+    "longitude": "16.10376940",
+    "type": "county",
+    "timezone": "Europe/Zagreb",
+    "CountryID": 55
+  },
+  {
+    "id": 733,
+    "name": "Sisak-Moslavina",
+    "iso2": "03",
+    "native": "Sisak-Moslavina",
+    "latitude": "45.39816660",
+    "longitude": "16.49551110",
+    "type": "county",
+    "timezone": "Europe/Zagreb",
+    "CountryID": 55
+  },
+  {
+    "id": 725,
+    "name": "Split-Dalmatia",
+    "iso2": "17",
+    "native": "Split-dalmacija",
+    "latitude": "43.50034070",
+    "longitude": "16.81561930",
+    "type": "county",
+    "timezone": "Europe/Zagreb",
+    "CountryID": 55
+  },
+  {
+    "id": 739,
+    "name": "Varaždin",
+    "iso2": "05",
+    "native": "Varaždin",
+    "latitude": "46.30796450",
+    "longitude": "16.33781980",
+    "type": "county",
+    "timezone": "Europe/Zagreb",
+    "CountryID": 55
+  },
+  {
+    "id": 732,
+    "name": "Virovitica-Podravina",
+    "iso2": "10",
+    "native": "Virovitica-Podravina",
+    "latitude": "45.77327510",
+    "longitude": "17.57891610",
+    "type": "county",
+    "timezone": "Europe/Zagreb",
+    "CountryID": 55
+  },
+  {
+    "id": 741,
+    "name": "Vukovar-Syrmia",
+    "iso2": "16",
+    "native": "Vukovar-Sirmija",
+    "latitude": "45.16724010",
+    "longitude": "18.63898980",
+    "type": "county",
+    "timezone": "Europe/Zagreb",
+    "CountryID": 55
+  },
+  {
+    "id": 727,
+    "name": "Zadar",
+    "iso2": "13",
+    "native": "Zadar",
+    "latitude": "44.11685940",
+    "longitude": "15.23532570",
+    "type": "county",
+    "timezone": "Europe/Zagreb",
+    "CountryID": 55
+  },
+  {
+    "id": 736,
+    "name": "Zagreb",
+    "iso2": "01",
+    "native": "Zagreb",
+    "latitude": "45.81309670",
+    "longitude": "15.97727950",
+    "type": "county",
+    "timezone": "Europe/Zagreb",
+    "CountryID": 55
+  }
+]

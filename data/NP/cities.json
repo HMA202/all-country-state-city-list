@@ -1,0 +1,618 @@
+[
+  {
+    "id": 79705,
+    "name": "Bhaktapur",
+    "latitude": "27.67743440",
+    "longitude": "85.40386700",
+    "CountryID": 154,
+    "StateID": 2073
+  },
+  {
+    "id": 79707,
+    "name": "Chitwan",
+    "latitude": "27.61953620",
+    "longitude": "84.02793400",
+    "CountryID": 154,
+    "StateID": 2073
+  },
+  {
+    "id": 79713,
+    "name": "Dhading",
+    "latitude": "28.00725840",
+    "longitude": "84.28464170",
+    "CountryID": 154,
+    "StateID": 2073
+  },
+  {
+    "id": 79722,
+    "name": "Dolakha",
+    "latitude": "27.82371900",
+    "longitude": "85.55991890",
+    "CountryID": 154,
+    "StateID": 2073
+  },
+  {
+    "id": 79726,
+    "name": "Kathmandu",
+    "latitude": "27.70903020",
+    "longitude": "85.28493270",
+    "CountryID": 154,
+    "StateID": 2073
+  },
+  {
+    "id": 79728,
+    "name": "Kavrepalanchok",
+    "latitude": "27.54539810",
+    "longitude": "85.30416730",
+    "CountryID": 154,
+    "StateID": 2073
+  },
+  {
+    "id": 79729,
+    "name": "Lalitpur",
+    "latitude": "27.54820230",
+    "longitude": "85.04201470",
+    "CountryID": 154,
+    "StateID": 2073
+  },
+  {
+    "id": 79732,
+    "name": "Makwanpur",
+    "latitude": "27.43720820",
+    "longitude": "84.75780400",
+    "CountryID": 154,
+    "StateID": 2073
+  },
+  {
+    "id": 79733,
+    "name": "Nuwakot",
+    "latitude": "27.92205490",
+    "longitude": "84.05968460",
+    "CountryID": 154,
+    "StateID": 2073
+  },
+  {
+    "id": 79735,
+    "name": "Ramechhap",
+    "latitude": "27.53749850",
+    "longitude": "85.85535100",
+    "CountryID": 154,
+    "StateID": 2073
+  },
+  {
+    "id": 79737,
+    "name": "Rasuwa",
+    "latitude": "28.17177410",
+    "longitude": "84.27823120",
+    "CountryID": 154,
+    "StateID": 2073
+  },
+  {
+    "id": 79740,
+    "name": "Sindhuli",
+    "latitude": "27.18469330",
+    "longitude": "85.24437150",
+    "CountryID": 154,
+    "StateID": 2073
+  },
+  {
+    "id": 79742,
+    "name": "Sindhupalchok",
+    "latitude": "27.90711960",
+    "longitude": "85.42360670",
+    "CountryID": 154,
+    "StateID": 2073
+  },
+  {
+    "id": 79706,
+    "name": "Baglung",
+    "latitude": "28.27711640",
+    "longitude": "83.54353530",
+    "CountryID": 154,
+    "StateID": 2069
+  },
+  {
+    "id": 79709,
+    "name": "Gorkha",
+    "latitude": "28.27346270",
+    "longitude": "84.14877700",
+    "CountryID": 154,
+    "StateID": 2069
+  },
+  {
+    "id": 79711,
+    "name": "Kaski",
+    "latitude": "28.34572360",
+    "longitude": "83.65987310",
+    "CountryID": 154,
+    "StateID": 2069
+  },
+  {
+    "id": 79720,
+    "name": "Lamjung",
+    "latitude": "28.28305670",
+    "longitude": "84.11103120",
+    "CountryID": 154,
+    "StateID": 2069
+  },
+  {
+    "id": 79721,
+    "name": "Manang",
+    "latitude": "28.66872810",
+    "longitude": "82.99681360",
+    "CountryID": 154,
+    "StateID": 2069
+  },
+  {
+    "id": 79730,
+    "name": "Mustang",
+    "latitude": "28.94399870",
+    "longitude": "82.68067390",
+    "CountryID": 154,
+    "StateID": 2069
+  },
+  {
+    "id": 79731,
+    "name": "Myagdi",
+    "latitude": "28.54609860",
+    "longitude": "83.15597750",
+    "CountryID": 154,
+    "StateID": 2069
+  },
+  {
+    "id": 79736,
+    "name": "Nawalpur",
+    "latitude": "27.65319650",
+    "longitude": "83.72442870",
+    "CountryID": 154,
+    "StateID": 2069
+  },
+  {
+    "id": 79738,
+    "name": "Parbat",
+    "latitude": "28.20276430",
+    "longitude": "83.36121860",
+    "CountryID": 154,
+    "StateID": 2069
+  },
+  {
+    "id": 79739,
+    "name": "Syangja",
+    "latitude": "28.04509710",
+    "longitude": "83.40612700",
+    "CountryID": 154,
+    "StateID": 2069
+  },
+  {
+    "id": 79744,
+    "name": "Tanahun",
+    "latitude": "27.93565560",
+    "longitude": "83.91793110",
+    "CountryID": 154,
+    "StateID": 2069
+  },
+  {
+    "id": 79717,
+    "name": "Dailekh",
+    "latitude": "28.88480530",
+    "longitude": "81.33871970",
+    "CountryID": 154,
+    "StateID": 2068
+  },
+  {
+    "id": 79719,
+    "name": "Dolpa",
+    "latitude": "29.21372390",
+    "longitude": "82.37667750",
+    "CountryID": 154,
+    "StateID": 2068
+  },
+  {
+    "id": 79724,
+    "name": "Humla",
+    "latitude": "30.02557030",
+    "longitude": "81.21732030",
+    "CountryID": 154,
+    "StateID": 2068
+  },
+  {
+    "id": 79741,
+    "name": "Jajarkot",
+    "latitude": "28.86955260",
+    "longitude": "81.87033700",
+    "CountryID": 154,
+    "StateID": 2068
+  },
+  {
+    "id": 79760,
+    "name": "Jumla",
+    "latitude": "29.23886510",
+    "longitude": "81.88899740",
+    "CountryID": 154,
+    "StateID": 2068
+  },
+  {
+    "id": 153801,
+    "name": "Kalikot",
+    "latitude": "29.21645520",
+    "longitude": "81.41396150",
+    "CountryID": 154,
+    "StateID": 2068
+  },
+  {
+    "id": 153802,
+    "name": "Mugu",
+    "latitude": "29.67782880",
+    "longitude": "81.63611370",
+    "CountryID": 154,
+    "StateID": 2068
+  },
+  {
+    "id": 153803,
+    "name": "Salyan",
+    "latitude": "28.40693490",
+    "longitude": "81.76058940",
+    "CountryID": 154,
+    "StateID": 2068
+  },
+  {
+    "id": 153804,
+    "name": "Surkhet",
+    "latitude": "28.65735870",
+    "longitude": "80.85115200",
+    "CountryID": 154,
+    "StateID": 2068
+  },
+  {
+    "id": 153805,
+    "name": "Western Rukum",
+    "latitude": "28.75665210",
+    "longitude": "82.11273090",
+    "CountryID": 154,
+    "StateID": 2068
+  },
+  {
+    "id": 79710,
+    "name": "Bhojpur",
+    "latitude": "27.16432030",
+    "longitude": "86.97399080",
+    "CountryID": 154,
+    "StateID": 2066
+  },
+  {
+    "id": 79712,
+    "name": "Dhankuta",
+    "latitude": "26.98445610",
+    "longitude": "87.24311290",
+    "CountryID": 154,
+    "StateID": 2066
+  },
+  {
+    "id": 79718,
+    "name": "Ilam",
+    "latitude": "26.89856010",
+    "longitude": "87.88160070",
+    "CountryID": 154,
+    "StateID": 2066
+  },
+  {
+    "id": 79727,
+    "name": "Jhapa",
+    "latitude": "26.58377460",
+    "longitude": "87.58265500",
+    "CountryID": 154,
+    "StateID": 2066
+  },
+  {
+    "id": 79734,
+    "name": "Khotang",
+    "latitude": "27.15640300",
+    "longitude": "86.37601470",
+    "CountryID": 154,
+    "StateID": 2066
+  },
+  {
+    "id": 79745,
+    "name": "Morang",
+    "latitude": "26.61072710",
+    "longitude": "87.13496260",
+    "CountryID": 154,
+    "StateID": 2066
+  },
+  {
+    "id": 79756,
+    "name": "Okhaldhunga",
+    "latitude": "27.33668120",
+    "longitude": "86.11507710",
+    "CountryID": 154,
+    "StateID": 2066
+  },
+  {
+    "id": 153792,
+    "name": "Panchthar",
+    "latitude": "27.14929510",
+    "longitude": "87.45396980",
+    "CountryID": 154,
+    "StateID": 2066
+  },
+  {
+    "id": 153793,
+    "name": "Sankhuwasabha",
+    "latitude": "27.54665800",
+    "longitude": "86.64912720",
+    "CountryID": 154,
+    "StateID": 2066
+  },
+  {
+    "id": 153794,
+    "name": "Solukhumbu",
+    "latitude": "27.72514640",
+    "longitude": "86.02324040",
+    "CountryID": 154,
+    "StateID": 2066
+  },
+  {
+    "id": 153795,
+    "name": "Sunsari",
+    "latitude": "26.64116460",
+    "longitude": "86.79919520",
+    "CountryID": 154,
+    "StateID": 2066
+  },
+  {
+    "id": 153796,
+    "name": "Taplejung",
+    "latitude": "27.61014090",
+    "longitude": "87.16355390",
+    "CountryID": 154,
+    "StateID": 2066
+  },
+  {
+    "id": 153797,
+    "name": "Terhathum",
+    "latitude": "27.13268960",
+    "longitude": "87.40691430",
+    "CountryID": 154,
+    "StateID": 2066
+  },
+  {
+    "id": 153798,
+    "name": "Udayapur",
+    "latitude": "26.93274070",
+    "longitude": "86.00264640",
+    "CountryID": 154,
+    "StateID": 2066
+  },
+  {
+    "id": 79708,
+    "name": "Arghakhanchi",
+    "latitude": "27.93234540",
+    "longitude": "82.70966110",
+    "CountryID": 154,
+    "StateID": 2067
+  },
+  {
+    "id": 79714,
+    "name": "Banke",
+    "latitude": "28.09593710",
+    "longitude": "81.51662830",
+    "CountryID": 154,
+    "StateID": 2067
+  },
+  {
+    "id": 79715,
+    "name": "Bardiya",
+    "latitude": "28.37201670",
+    "longitude": "81.08316830",
+    "CountryID": 154,
+    "StateID": 2067
+  },
+  {
+    "id": 79716,
+    "name": "Dang",
+    "latitude": "27.97887990",
+    "longitude": "82.46841760",
+    "CountryID": 154,
+    "StateID": 2067
+  },
+  {
+    "id": 79723,
+    "name": "Eastern Rukum",
+    "latitude": "28.67248040",
+    "longitude": "82.48940030",
+    "CountryID": 154,
+    "StateID": 2067
+  },
+  {
+    "id": 79725,
+    "name": "Gulmi",
+    "latitude": "28.09597820",
+    "longitude": "82.98379720",
+    "CountryID": 154,
+    "StateID": 2067
+  },
+  {
+    "id": 79748,
+    "name": "Kapilvastu",
+    "latitude": "27.54506960",
+    "longitude": "82.97552520",
+    "CountryID": 154,
+    "StateID": 2067
+  },
+  {
+    "id": 79752,
+    "name": "Nawalparasi (West of Bardaghat Susta)",
+    "latitude": "27.51977900",
+    "longitude": "83.40494810",
+    "CountryID": 154,
+    "StateID": 2067
+  },
+  {
+    "id": 79757,
+    "name": "Palpa",
+    "latitude": "27.81068740",
+    "longitude": "83.30000220",
+    "CountryID": 154,
+    "StateID": 2067
+  },
+  {
+    "id": 79758,
+    "name": "Pyuthan",
+    "latitude": "28.10805440",
+    "longitude": "82.78532440",
+    "CountryID": 154,
+    "StateID": 2067
+  },
+  {
+    "id": 153799,
+    "name": "Rolpa",
+    "latitude": "28.32573400",
+    "longitude": "82.32376150",
+    "CountryID": 154,
+    "StateID": 2067
+  },
+  {
+    "id": 153800,
+    "name": "Rupandehi",
+    "latitude": "27.54931420",
+    "longitude": "83.08930670",
+    "CountryID": 154,
+    "StateID": 2067
+  },
+  {
+    "id": 153809,
+    "name": "Bara",
+    "latitude": "27.10766310",
+    "longitude": "84.73878940",
+    "CountryID": 154,
+    "StateID": 5240
+  },
+  {
+    "id": 153807,
+    "name": "Dhanusha",
+    "latitude": "26.85112570",
+    "longitude": "85.72433070",
+    "CountryID": 154,
+    "StateID": 5240
+  },
+  {
+    "id": 153813,
+    "name": "Mahottari",
+    "latitude": "26.88439340",
+    "longitude": "85.21963240",
+    "CountryID": 154,
+    "StateID": 5240
+  },
+  {
+    "id": 153814,
+    "name": "Parsa",
+    "latitude": "27.21960860",
+    "longitude": "83.54541570",
+    "CountryID": 154,
+    "StateID": 5240
+  },
+  {
+    "id": 153810,
+    "name": "Rautahat",
+    "latitude": "26.98892410",
+    "longitude": "85.00379450",
+    "CountryID": 154,
+    "StateID": 5240
+  },
+  {
+    "id": 153811,
+    "name": "Saptari",
+    "latitude": "26.60706670",
+    "longitude": "86.42052270",
+    "CountryID": 154,
+    "StateID": 5240
+  },
+  {
+    "id": 153808,
+    "name": "Sarlahi",
+    "latitude": "26.96861190",
+    "longitude": "85.23906480",
+    "CountryID": 154,
+    "StateID": 5240
+  },
+  {
+    "id": 153812,
+    "name": "Siraha",
+    "latitude": "26.74287390",
+    "longitude": "86.01304490",
+    "CountryID": 154,
+    "StateID": 5240
+  },
+  {
+    "id": 153815,
+    "name": "Achham",
+    "latitude": "29.06759620",
+    "longitude": "80.97452850",
+    "CountryID": 154,
+    "StateID": 5241
+  },
+  {
+    "id": 153816,
+    "name": "Baitadi",
+    "latitude": "29.50832630",
+    "longitude": "80.24534200",
+    "CountryID": 154,
+    "StateID": 5241
+  },
+  {
+    "id": 153817,
+    "name": "Bajhang",
+    "latitude": "29.72211100",
+    "longitude": "80.49591420",
+    "CountryID": 154,
+    "StateID": 5241
+  },
+  {
+    "id": 153818,
+    "name": "Bajura",
+    "latitude": "29.61008120",
+    "longitude": "80.82948020",
+    "CountryID": 154,
+    "StateID": 5241
+  },
+  {
+    "id": 153819,
+    "name": "Dadeldhura",
+    "latitude": "29.20934090",
+    "longitude": "80.15536460",
+    "CountryID": 154,
+    "StateID": 5241
+  },
+  {
+    "id": 153820,
+    "name": "Darchula",
+    "latitude": "29.91273330",
+    "longitude": "80.79371590",
+    "CountryID": 154,
+    "StateID": 5241
+  },
+  {
+    "id": 153821,
+    "name": "Doti",
+    "latitude": "29.18833610",
+    "longitude": "80.52682610",
+    "CountryID": 154,
+    "StateID": 5241
+  },
+  {
+    "id": 153822,
+    "name": "Kailali",
+    "latitude": "28.73090610",
+    "longitude": "80.21847770",
+    "CountryID": 154,
+    "StateID": 5241
+  },
+  {
+    "id": 153823,
+    "name": "Kanchanpur",
+    "latitude": "28.84394510",
+    "longitude": "80.28330710",
+    "CountryID": 154,
+    "StateID": 5241
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "id": 2594,
+    "name": "Addu",
+    "iso2": "01",
+    "native": "ދުޢާ",
+    "latitude": "-0.64149350",
+    "longitude": "73.16299780",
+    "type": "city",
+    "timezone": "Indian/Maldives",
+    "CountryID": 133
+  },
+  {
+    "id": 2587,
+    "name": "Alif Alif",
+    "iso2": "02",
+    "native": "އަލީފް އަލީފް",
+    "latitude": "4.43892360",
+    "longitude": "72.87168540",
+    "type": "administrative atoll",
+    "timezone": "Indian/Maldives",
+    "CountryID": 133
+  },
+  {
+    "id": 2600,
+    "name": "Alif Dhaal",
+    "iso2": "00",
+    "native": "އަލީފް ދަލް",
+    "latitude": "3.61230260",
+    "longitude": "72.85566300",
+    "type": "administrative atoll",
+    "timezone": "Indian/Maldives",
+    "CountryID": 133
+  },
+  {
+    "id": 5727,
+    "name": "Baa",
+    "iso2": "20",
+    "native": "ބ އަތޮޅު",
+    "latitude": "5.13333333",
+    "longitude": "72.95000000",
+    "type": "administrative atoll",
+    "timezone": "Indian/Maldives",
+    "CountryID": 133
+  },
+  {
+    "id": 2590,
+    "name": "Dhaalu",
+    "iso2": "17",
+    "native": "ދައުލޫ",
+    "latitude": "2.84734540",
+    "longitude": "72.90295260",
+    "type": "administrative atoll",
+    "timezone": "Indian/Maldives",
+    "CountryID": 133
+  },
+  {
+    "id": 2599,
+    "name": "Faafu",
+    "iso2": "14",
+    "native": "ފައު",
+    "latitude": "3.13149090",
+    "longitude": "72.88435670",
+    "type": "administrative atoll",
+    "timezone": "Indian/Maldives",
+    "CountryID": 133
+  },
+  {
+    "id": 2598,
+    "name": "Gaafu Alif",
+    "iso2": "27",
+    "native": "އެ ސުވާލު އަލިފް",
+    "latitude": "0.98295270",
+    "longitude": "73.27809390",
+    "type": "administrative atoll",
+    "timezone": "Indian/Maldives",
+    "CountryID": 133
+  },
+  {
+    "id": 2603,
+    "name": "Gaafu Dhaalu",
+    "iso2": "28",
+    "native": "އެމީހުންނަށް ވާރުތަވާ ސުވާލު",
+    "latitude": "0.30417830",
+    "longitude": "73.21247460",
+    "type": "administrative atoll",
+    "timezone": "Indian/Maldives",
+    "CountryID": 133
+  },
+  {
+    "id": 2595,
+    "name": "Gnaviyani",
+    "iso2": "29",
+    "native": "ގްނާވިއަން",
+    "latitude": "-0.20532640",
+    "longitude": "73.25698680",
+    "type": "administrative atoll",
+    "timezone": "Indian/Maldives",
+    "CountryID": 133
+  },
+  {
+    "id": 2586,
+    "name": "Haa Alif",
+    "iso2": "07",
+    "native": "ހާ އަލިފް",
+    "latitude": "7.06072960",
+    "longitude": "72.98966280",
+    "type": "administrative atoll",
+    "timezone": "Indian/Maldives",
+    "CountryID": 133
+  },
+  {
+    "id": 2597,
+    "name": "Haa Dhaalu",
+    "iso2": "23",
+    "native": "އޭނާއަށް ވާރުތަވާށިއެވެ .",
+    "latitude": "6.44990100",
+    "longitude": "72.62648990",
+    "type": "administrative atoll",
+    "timezone": "Indian/Maldives",
+    "CountryID": 133
+  },
+  {
+    "id": 2596,
+    "name": "Kaafu",
+    "iso2": "26",
+    "native": "ކައިފީ",
+    "latitude": "4.35429900",
+    "longitude": "73.57600320",
+    "type": "administrative atoll",
+    "timezone": "Indian/Maldives",
+    "CountryID": 133
+  },
+  {
+    "id": 2601,
+    "name": "Laamu",
+    "iso2": "05",
+    "native": "ސަރުކާރު",
+    "latitude": "1.88994180",
+    "longitude": "73.31400270",
+    "type": "administrative atoll",
+    "timezone": "Indian/Maldives",
+    "CountryID": 133
+  },
+  {
+    "id": 2607,
+    "name": "Lhaviyani",
+    "iso2": "03",
+    "native": "ލަހަވާނީ",
+    "latitude": "5.39925440",
+    "longitude": "73.52739240",
+    "type": "administrative atoll",
+    "timezone": "Indian/Maldives",
+    "CountryID": 133
+  },
+  {
+    "id": 2609,
+    "name": "Malé",
+    "iso2": "MLE",
+    "native": "ކުޑަ",
+    "latitude": "4.17798790",
+    "longitude": "73.51073870",
+    "type": "administrative atoll",
+    "timezone": "Indian/Maldives",
+    "CountryID": 133
+  },
+  {
+    "id": 2608,
+    "name": "Meemu",
+    "iso2": "12",
+    "native": "މީމު",
+    "latitude": "2.78780940",
+    "longitude": "73.53429870",
+    "type": "administrative atoll",
+    "timezone": "Indian/Maldives",
+    "CountryID": 133
+  },
+  {
+    "id": 2592,
+    "name": "Noonu",
+    "iso2": "25",
+    "native": "ނޫނޫނެވެ",
+    "latitude": "5.78675500",
+    "longitude": "73.41843360",
+    "type": "administrative atoll",
+    "timezone": "Indian/Maldives",
+    "CountryID": 133
+  },
+  {
+    "id": 2602,
+    "name": "Raa",
+    "iso2": "13",
+    "native": "ރާ",
+    "latitude": "5.66094850",
+    "longitude": "72.76816450",
+    "type": "administrative atoll",
+    "timezone": "Indian/Maldives",
+    "CountryID": 133
+  },
+  {
+    "id": 2585,
+    "name": "Shaviyani",
+    "iso2": "24",
+    "native": "ލޮނު",
+    "latitude": "6.33229970",
+    "longitude": "73.23246350",
+    "type": "administrative atoll",
+    "timezone": "Indian/Maldives",
+    "CountryID": 133
+  },
+  {
+    "id": 2591,
+    "name": "Thaa",
+    "iso2": "08",
+    "native": "ތައާ",
+    "latitude": "2.14616550",
+    "longitude": "73.02882450",
+    "type": "administrative atoll",
+    "timezone": "Indian/Maldives",
+    "CountryID": 133
+  },
+  {
+    "id": 2584,
+    "name": "Vaavu",
+    "iso2": "04",
+    "native": "ހެދުން",
+    "latitude": "3.61524920",
+    "longitude": "73.58699860",
+    "type": "administrative atoll",
+    "timezone": "Indian/Maldives",
+    "CountryID": 133
+  }
+]

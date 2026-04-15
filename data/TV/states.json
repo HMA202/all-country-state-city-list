@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3951,
+    "name": "Funafuti",
+    "iso2": "FUN",
+    "native": "Funfuta",
+    "latitude": "-8.52114710",
+    "longitude": "179.19619260",
+    "type": "town council",
+    "timezone": "Pacific/Funafuti",
+    "CountryID": 228
+  },
+  {
+    "id": 3947,
+    "name": "Nanumanga",
+    "iso2": "NMG",
+    "native": "Nanumga",
+    "latitude": "-6.28580190",
+    "longitude": "176.31992800",
+    "type": "island council",
+    "timezone": "Pacific/Funafuti",
+    "CountryID": 228
+  },
+  {
+    "id": 3949,
+    "name": "Nanumea",
+    "iso2": "NMA",
+    "native": "Stiff",
+    "latitude": "-5.68173380",
+    "longitude": "176.12717870",
+    "type": "island council",
+    "timezone": "Pacific/Funafuti",
+    "CountryID": 228
+  },
+  {
+    "id": 3946,
+    "name": "Niutao Island Council",
+    "iso2": "NIT",
+    "native": "Nutoo Island Council",
+    "latitude": "-6.10642580",
+    "longitude": "177.34384290",
+    "type": "island council",
+    "timezone": "Pacific/Funafuti",
+    "CountryID": 228
+  },
+  {
+    "id": 3948,
+    "name": "Nui",
+    "iso2": "NUI",
+    "native": "Great",
+    "latitude": "-7.22075990",
+    "longitude": "177.14611220",
+    "type": "island council",
+    "timezone": "Pacific/Funafuti",
+    "CountryID": 228
+  },
+  {
+    "id": 3952,
+    "name": "Nukufetau",
+    "iso2": "NKF",
+    "native": "Nuquosa",
+    "latitude": "-8.11592640",
+    "longitude": "178.47981650",
+    "type": "island council",
+    "timezone": "Pacific/Funafuti",
+    "CountryID": 228
+  },
+  {
+    "id": 3953,
+    "name": "Nukulaelae",
+    "iso2": "NKL",
+    "native": "Nukulaelae",
+    "latitude": "-9.17541730",
+    "longitude": "179.63677920",
+    "type": "island council",
+    "timezone": "Pacific/Funafuti",
+    "CountryID": 228
+  },
+  {
+    "id": 3950,
+    "name": "Vaitupu",
+    "iso2": "VAI",
+    "native": "Vaitupu",
+    "latitude": "-7.47673270",
+    "longitude": "178.67476750",
+    "type": "island council",
+    "timezone": "Pacific/Funafuti",
+    "CountryID": 228
+  }
+]

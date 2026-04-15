@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1831,
+    "name": "Gilbert",
+    "iso2": "G",
+    "native": "Gilbert",
+    "latitude": "-1.23945560",
+    "longitude": "175.29694550",
+    "type": "island",
+    "timezone": "Pacific/Enderbury",
+    "CountryID": 114
+  },
+  {
+    "id": 1832,
+    "name": "Line",
+    "iso2": "L",
+    "native": "Line",
+    "latitude": "1.35897790",
+    "longitude": "172.93112020",
+    "type": "island",
+    "timezone": "Pacific/Enderbury",
+    "CountryID": 114
+  },
+  {
+    "id": 1830,
+    "name": "Phoenix",
+    "iso2": "P",
+    "native": "Phoenix",
+    "latitude": "-3.72134440",
+    "longitude": "-170.71170520",
+    "type": "island",
+    "timezone": "Pacific/Enderbury",
+    "CountryID": 114
+  }
+]

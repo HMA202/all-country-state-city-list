@@ -1,0 +1,162 @@
+[
+  {
+    "id": 39145,
+    "name": "Naitasiri",
+    "latitude": "-17.83333000",
+    "longitude": "178.25000000",
+    "CountryID": 73,
+    "StateID": 1929
+  },
+  {
+    "id": 39146,
+    "name": "Namosi",
+    "latitude": "-18.05000000",
+    "longitude": "178.13333000",
+    "CountryID": 73,
+    "StateID": 1929
+  },
+  {
+    "id": 39149,
+    "name": "Rewa",
+    "latitude": "-18.08333000",
+    "longitude": "178.33333000",
+    "CountryID": 73,
+    "StateID": 1929
+  },
+  {
+    "id": 39150,
+    "name": "Serua",
+    "latitude": "-18.16667000",
+    "longitude": "178.00000000",
+    "CountryID": 73,
+    "StateID": 1929
+  },
+  {
+    "id": 39151,
+    "name": "Suva",
+    "latitude": "-18.14161000",
+    "longitude": "178.44149000",
+    "CountryID": 73,
+    "StateID": 1929
+  },
+  {
+    "id": 39152,
+    "name": "Tailevu",
+    "latitude": "-17.83333000",
+    "longitude": "178.50000000",
+    "CountryID": 73,
+    "StateID": 1929
+  },
+  {
+    "id": 39137,
+    "name": "Kadavu",
+    "latitude": "-18.99331000",
+    "longitude": "178.22021000",
+    "CountryID": 73,
+    "StateID": 1932
+  },
+  {
+    "id": 39139,
+    "name": "Lau",
+    "latitude": "-18.20488000",
+    "longitude": "-178.79251000",
+    "CountryID": 73,
+    "StateID": 1932
+  },
+  {
+    "id": 39141,
+    "name": "Levuka",
+    "latitude": "-18.06667000",
+    "longitude": "179.31667000",
+    "CountryID": 73,
+    "StateID": 1932
+  },
+  {
+    "id": 39142,
+    "name": "Lomaiviti",
+    "latitude": "-17.66667000",
+    "longitude": "178.80000000",
+    "CountryID": 73,
+    "StateID": 1932
+  },
+  {
+    "id": 39135,
+    "name": "Bua",
+    "latitude": "-16.83333000",
+    "longitude": "178.75000000",
+    "CountryID": 73,
+    "StateID": 1921
+  },
+  {
+    "id": 39136,
+    "name": "Cakaudrove",
+    "latitude": "-16.66667000",
+    "longitude": "179.41667000",
+    "CountryID": 73,
+    "StateID": 1921
+  },
+  {
+    "id": 39138,
+    "name": "Labasa",
+    "latitude": "-16.43320000",
+    "longitude": "179.36451000",
+    "CountryID": 73,
+    "StateID": 1921
+  },
+  {
+    "id": 39143,
+    "name": "Macuata",
+    "latitude": "-16.50000000",
+    "longitude": "179.25000000",
+    "CountryID": 73,
+    "StateID": 1921
+  },
+  {
+    "id": 39133,
+    "name": "Ba",
+    "latitude": "-17.53430000",
+    "longitude": "177.67407000",
+    "CountryID": 73,
+    "StateID": 1923
+  },
+  {
+    "id": 39134,
+    "name": "Ba Province",
+    "latitude": "-17.66667000",
+    "longitude": "177.66667000",
+    "CountryID": 73,
+    "StateID": 1923
+  },
+  {
+    "id": 39140,
+    "name": "Lautoka",
+    "latitude": "-17.61686000",
+    "longitude": "177.45049000",
+    "CountryID": 73,
+    "StateID": 1923
+  },
+  {
+    "id": 39144,
+    "name": "Nadi",
+    "latitude": "-17.80309000",
+    "longitude": "177.41617000",
+    "CountryID": 73,
+    "StateID": 1923
+  },
+  {
+    "id": 39147,
+    "name": "Nandronga and Navosa",
+    "latitude": "-18.00000000",
+    "longitude": "177.66667000",
+    "CountryID": 73,
+    "StateID": 1923
+  },
+  {
+    "id": 39148,
+    "name": "Ra",
+    "latitude": "-17.50000000",
+    "longitude": "178.16667000",
+    "CountryID": 73,
+    "StateID": 1923
+  }
+]

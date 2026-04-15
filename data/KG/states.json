@@ -1,0 +1,101 @@
+[
+  {
+    "id": 998,
+    "name": "Batken",
+    "iso2": "B",
+    "native": "Баткен",
+    "latitude": "40.06118520",
+    "longitude": "70.82009640",
+    "type": "region",
+    "timezone": "Asia/Bishkek",
+    "CountryID": 118
+  },
+  {
+    "id": 1001,
+    "name": "Bishkek",
+    "iso2": "GB",
+    "native": "Бишкек",
+    "latitude": "42.87614240",
+    "longitude": "74.60367240",
+    "type": "city",
+    "timezone": "Asia/Bishkek",
+    "CountryID": 118
+  },
+  {
+    "id": 1004,
+    "name": "Chuy",
+    "iso2": "C",
+    "native": "Чүй",
+    "latitude": "42.55502360",
+    "longitude": "74.62199100",
+    "type": "region",
+    "timezone": "Asia/Bishkek",
+    "CountryID": 118
+  },
+  {
+    "id": 1002,
+    "name": "Issyk-Kul",
+    "iso2": "Y",
+    "native": "Ыссык Көл",
+    "latitude": "42.46203980",
+    "longitude": "77.07898620",
+    "type": "region",
+    "timezone": "Asia/Bishkek",
+    "CountryID": 118
+  },
+  {
+    "id": 1000,
+    "name": "Jalal-Abad",
+    "iso2": "J",
+    "native": "Жалал Абад",
+    "latitude": "40.92981820",
+    "longitude": "73.00119000",
+    "type": "region",
+    "timezone": "Asia/Bishkek",
+    "CountryID": 118
+  },
+  {
+    "id": 999,
+    "name": "Naryn",
+    "iso2": "N",
+    "native": "Нарын",
+    "latitude": "41.36706580",
+    "longitude": "75.99318380",
+    "type": "region",
+    "timezone": "Asia/Bishkek",
+    "CountryID": 118
+  },
+  {
+    "id": 1003,
+    "name": "Osh",
+    "iso2": "GO",
+    "native": "Ош",
+    "latitude": "40.51726780",
+    "longitude": "72.80498940",
+    "type": "city",
+    "timezone": "Asia/Bishkek",
+    "CountryID": 118
+  },
+  {
+    "id": 1005,
+    "name": "Osh",
+    "iso2": "O",
+    "native": "Ош",
+    "latitude": "40.51726780",
+    "longitude": "72.80498940",
+    "type": "region",
+    "timezone": "Asia/Bishkek",
+    "CountryID": 118
+  },
+  {
+    "id": 997,
+    "name": "Talas",
+    "iso2": "T",
+    "native": "Талас",
+    "latitude": "42.52199500",
+    "longitude": "72.24769300",
+    "type": "region",
+    "timezone": "Asia/Bishkek",
+    "CountryID": 118
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "id": 3753,
+    "name": "Clarendon",
+    "iso2": "13",
+    "native": "Clarendon",
+    "latitude": "17.95185250",
+    "longitude": "-77.27192770",
+    "type": "parish",
+    "timezone": "America/Jamaica",
+    "CountryID": 108
+  },
+  {
+    "id": 3749,
+    "name": "Hanover",
+    "iso2": "09",
+    "native": "Hanover",
+    "latitude": "18.38506530",
+    "longitude": "-78.13099300",
+    "type": "parish",
+    "timezone": "America/Jamaica",
+    "CountryID": 108
+  },
+  {
+    "id": 3748,
+    "name": "Kingston",
+    "iso2": "01",
+    "native": "Kingston",
+    "latitude": "17.97121480",
+    "longitude": "-76.79281280",
+    "type": "parish",
+    "timezone": "America/Jamaica",
+    "CountryID": 108
+  },
+  {
+    "id": 3754,
+    "name": "Manchester",
+    "iso2": "12",
+    "native": "Manchester",
+    "latitude": "18.04992570",
+    "longitude": "-77.51101430",
+    "type": "parish",
+    "timezone": "America/Jamaica",
+    "CountryID": 108
+  },
+  {
+    "id": 3752,
+    "name": "Portland",
+    "iso2": "04",
+    "native": "Portland",
+    "latitude": "18.12682060",
+    "longitude": "-76.53740120",
+    "type": "parish",
+    "timezone": "America/Jamaica",
+    "CountryID": 108
+  },
+  {
+    "id": 3751,
+    "name": "Saint Andrew",
+    "iso2": "02",
+    "native": "Saint Andrew",
+    "latitude": "18.05896480",
+    "longitude": "-76.76077670",
+    "type": "parish",
+    "timezone": "America/Jamaica",
+    "CountryID": 108
+  },
+  {
+    "id": 3744,
+    "name": "Saint Ann",
+    "iso2": "06",
+    "native": "Saint Ann",
+    "latitude": "18.32993000",
+    "longitude": "-77.25418160",
+    "type": "parish",
+    "timezone": "America/Jamaica",
+    "CountryID": 108
+  },
+  {
+    "id": 3746,
+    "name": "Saint Catherine",
+    "iso2": "14",
+    "native": "Saint Catherine",
+    "latitude": "18.04717370",
+    "longitude": "-77.03338520",
+    "type": "parish",
+    "timezone": "America/Jamaica",
+    "CountryID": 108
+  },
+  {
+    "id": 3743,
+    "name": "Saint Elizabeth",
+    "iso2": "11",
+    "native": "Saint Elizabeth",
+    "latitude": "18.05384500",
+    "longitude": "-77.78282490",
+    "type": "parish",
+    "timezone": "America/Jamaica",
+    "CountryID": 108
+  },
+  {
+    "id": 3745,
+    "name": "Saint James",
+    "iso2": "08",
+    "native": "Saint James",
+    "latitude": "18.36580900",
+    "longitude": "-77.85220370",
+    "type": "parish",
+    "timezone": "America/Jamaica",
+    "CountryID": 108
+  },
+  {
+    "id": 3747,
+    "name": "Saint Mary",
+    "iso2": "05",
+    "native": "Saint Mary",
+    "latitude": "18.27891790",
+    "longitude": "-76.90218680",
+    "type": "parish",
+    "timezone": "America/Jamaica",
+    "CountryID": 108
+  },
+  {
+    "id": 3750,
+    "name": "Saint Thomas",
+    "iso2": "03",
+    "native": "Saint Thomas",
+    "latitude": "17.97163060",
+    "longitude": "-76.44143060",
+    "type": "parish",
+    "timezone": "America/Jamaica",
+    "CountryID": 108
+  },
+  {
+    "id": 3755,
+    "name": "Trelawny",
+    "iso2": "07",
+    "native": "Trelawny",
+    "latitude": "18.36821280",
+    "longitude": "-77.60436150",
+    "type": "parish",
+    "timezone": "America/Jamaica",
+    "CountryID": 108
+  },
+  {
+    "id": 3742,
+    "name": "Westmoreland",
+    "iso2": "10",
+    "native": "Westmoreland",
+    "latitude": "18.21040260",
+    "longitude": "-77.97932110",
+    "type": "parish",
+    "timezone": "America/Jamaica",
+    "CountryID": 108
+  }
+]

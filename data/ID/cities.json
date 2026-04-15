@@ -1,0 +1,6394 @@
+[
+  {
+    "id": 56307,
+    "name": "Aceh Barat",
+    "latitude": "4.45000000",
+    "longitude": "96.16667000",
+    "CountryID": 102,
+    "StateID": 1822
+  },
+  {
+    "id": 56308,
+    "name": "Aceh Barat Daya",
+    "latitude": "3.83333000",
+    "longitude": "96.88333000",
+    "CountryID": 102,
+    "StateID": 1822
+  },
+  {
+    "id": 56309,
+    "name": "Aceh Besar",
+    "latitude": "5.38333000",
+    "longitude": "95.51667000",
+    "CountryID": 102,
+    "StateID": 1822
+  },
+  {
+    "id": 56310,
+    "name": "Aceh Jaya",
+    "latitude": "4.86000000",
+    "longitude": "95.64000000",
+    "CountryID": 102,
+    "StateID": 1822
+  },
+  {
+    "id": 56311,
+    "name": "Aceh Selatan",
+    "latitude": "3.16667000",
+    "longitude": "97.41667000",
+    "CountryID": 102,
+    "StateID": 1822
+  },
+  {
+    "id": 56312,
+    "name": "Aceh Singkil",
+    "latitude": "2.41667000",
+    "longitude": "97.91667000",
+    "CountryID": 102,
+    "StateID": 1822
+  },
+  {
+    "id": 56313,
+    "name": "Aceh Tamiang",
+    "latitude": "4.25000000",
+    "longitude": "97.96667000",
+    "CountryID": 102,
+    "StateID": 1822
+  },
+  {
+    "id": 56314,
+    "name": "Aceh Tengah",
+    "latitude": "4.51000000",
+    "longitude": "96.85500000",
+    "CountryID": 102,
+    "StateID": 1822
+  },
+  {
+    "id": 56315,
+    "name": "Aceh Tenggara",
+    "latitude": "3.36667000",
+    "longitude": "97.70000000",
+    "CountryID": 102,
+    "StateID": 1822
+  },
+  {
+    "id": 56316,
+    "name": "Aceh Timur",
+    "latitude": "4.63333000",
+    "longitude": "97.63333000",
+    "CountryID": 102,
+    "StateID": 1822
+  },
+  {
+    "id": 56317,
+    "name": "Aceh Utara",
+    "latitude": "4.97000000",
+    "longitude": "97.14000000",
+    "CountryID": 102,
+    "StateID": 1822
+  },
+  {
+    "id": 56193,
+    "name": "Banda Aceh",
+    "latitude": "5.54167000",
+    "longitude": "95.33333000",
+    "CountryID": 102,
+    "StateID": 1822
+  },
+  {
+    "id": 56353,
+    "name": "Bener Meriah",
+    "latitude": "4.73015000",
+    "longitude": "96.86156000",
+    "CountryID": 102,
+    "StateID": 1822
+  },
+  {
+    "id": 56362,
+    "name": "Bireuen",
+    "latitude": "5.08333000",
+    "longitude": "96.58333000",
+    "CountryID": 102,
+    "StateID": 1822
+  },
+  {
+    "id": 56223,
+    "name": "Bireun",
+    "latitude": "5.20300000",
+    "longitude": "96.70090000",
+    "CountryID": 102,
+    "StateID": 1822
+  },
+  {
+    "id": 56408,
+    "name": "Gayo Lues",
+    "latitude": "3.95000000",
+    "longitude": "97.39000000",
+    "CountryID": 102,
+    "StateID": 1822
+  },
+  {
+    "id": 56837,
+    "name": "Langsa",
+    "latitude": "4.46830000",
+    "longitude": "97.96830000",
+    "CountryID": 102,
+    "StateID": 1822
+  },
+  {
+    "id": 56844,
+    "name": "Lhokseumawe",
+    "latitude": "5.18010000",
+    "longitude": "97.15070000",
+    "CountryID": 102,
+    "StateID": 1822
+  },
+  {
+    "id": 56872,
+    "name": "Meulaboh",
+    "latitude": "4.14402000",
+    "longitude": "96.12664000",
+    "CountryID": 102,
+    "StateID": 1822
+  },
+  {
+    "id": 56552,
+    "name": "Nagan Raya",
+    "latitude": "4.16667000",
+    "longitude": "96.51667000",
+    "CountryID": 102,
+    "StateID": 1822
+  },
+  {
+    "id": 56593,
+    "name": "Pidie",
+    "latitude": "5.08000000",
+    "longitude": "96.11000000",
+    "CountryID": 102,
+    "StateID": 1822
+  },
+  {
+    "id": 56955,
+    "name": "Reuleuet",
+    "latitude": "5.21667000",
+    "longitude": "96.28333000",
+    "CountryID": 102,
+    "StateID": 1822
+  },
+  {
+    "id": 56957,
+    "name": "Sabang",
+    "latitude": "5.88969000",
+    "longitude": "95.31644000",
+    "CountryID": 102,
+    "StateID": 1822
+  },
+  {
+    "id": 56976,
+    "name": "Sigli",
+    "latitude": "5.38480000",
+    "longitude": "95.96090000",
+    "CountryID": 102,
+    "StateID": 1822
+  },
+  {
+    "id": 56634,
+    "name": "Simeulue",
+    "latitude": "2.61667000",
+    "longitude": "96.08333000",
+    "CountryID": 102,
+    "StateID": 1822
+  },
+  {
+    "id": 56979,
+    "name": "Sinabang",
+    "latitude": "2.48030000",
+    "longitude": "96.38010000",
+    "CountryID": 102,
+    "StateID": 1822
+  },
+  {
+    "id": 56982,
+    "name": "Singkil",
+    "latitude": "2.28740000",
+    "longitude": "97.78840000",
+    "CountryID": 102,
+    "StateID": 1822
+  },
+  {
+    "id": 56179,
+    "name": "Amlapura",
+    "latitude": "-8.45000000",
+    "longitude": "115.61667000",
+    "CountryID": 102,
+    "StateID": 1826
+  },
+  {
+    "id": 56322,
+    "name": "Badung",
+    "latitude": "-8.51667000",
+    "longitude": "115.20000000",
+    "CountryID": 102,
+    "StateID": 1826
+  },
+  {
+    "id": 56334,
+    "name": "Bangli",
+    "latitude": "-8.28333000",
+    "longitude": "115.35000000",
+    "CountryID": 102,
+    "StateID": 1826
+  },
+  {
+    "id": 56200,
+    "name": "Banjar",
+    "latitude": "-8.19000000",
+    "longitude": "114.96750000",
+    "CountryID": 102,
+    "StateID": 1826
+  },
+  {
+    "id": 56201,
+    "name": "Banjar Wangsian",
+    "latitude": "-8.49497000",
+    "longitude": "115.42342000",
+    "CountryID": 102,
+    "StateID": 1826
+  },
+  {
+    "id": 56213,
+    "name": "Bedugul",
+    "latitude": "-8.45040000",
+    "longitude": "115.59250000",
+    "CountryID": 102,
+    "StateID": 1826
+  },
+  {
+    "id": 56379,
+    "name": "Buleleng",
+    "latitude": "-8.25000000",
+    "longitude": "114.96667000",
+    "CountryID": 102,
+    "StateID": 1826
+  },
+  {
+    "id": 56263,
+    "name": "Denpasar",
+    "latitude": "-8.65000000",
+    "longitude": "115.21667000",
+    "CountryID": 102,
+    "StateID": 1826
+  },
+  {
+    "id": 56409,
+    "name": "Gianyar",
+    "latitude": "-8.46667000",
+    "longitude": "115.28333000",
+    "CountryID": 102,
+    "StateID": 1826
+  },
+  {
+    "id": 56431,
+    "name": "Jembrana",
+    "latitude": "-8.30000000",
+    "longitude": "114.66667000",
+    "CountryID": 102,
+    "StateID": 1826
+  },
+  {
+    "id": 56302,
+    "name": "Jimbaran",
+    "latitude": "-8.79093000",
+    "longitude": "115.16006000",
+    "CountryID": 102,
+    "StateID": 1826
+  },
+  {
+    "id": 56460,
+    "name": "Kabupaten Klungkung",
+    "latitude": "-8.55000000",
+    "longitude": "115.40000000",
+    "CountryID": 102,
+    "StateID": 1826
+  },
+  {
+    "id": 56658,
+    "name": "Kabupaten Tabanan",
+    "latitude": "-8.43333000",
+    "longitude": "115.06667000",
+    "CountryID": 102,
+    "StateID": 1826
+  },
+  {
+    "id": 56438,
+    "name": "Karang Asem",
+    "latitude": "-8.38910000",
+    "longitude": "115.53930000",
+    "CountryID": 102,
+    "StateID": 1826
+  },
+  {
+    "id": 56720,
+    "name": "Klungkung",
+    "latitude": "-8.53333000",
+    "longitude": "115.40000000",
+    "CountryID": 102,
+    "StateID": 1826
+  },
+  {
+    "id": 56827,
+    "name": "Kuta",
+    "latitude": "-8.72332000",
+    "longitude": "115.17234000",
+    "CountryID": 102,
+    "StateID": 1826
+  },
+  {
+    "id": 56841,
+    "name": "Legian",
+    "latitude": "-8.70415000",
+    "longitude": "115.17028000",
+    "CountryID": 102,
+    "StateID": 1826
+  },
+  {
+    "id": 56846,
+    "name": "Lovina",
+    "latitude": "-8.14927000",
+    "longitude": "115.03999000",
+    "CountryID": 102,
+    "StateID": 1826
+  },
+  {
+    "id": 56879,
+    "name": "Munduk",
+    "latitude": "-8.26866000",
+    "longitude": "115.07947000",
+    "CountryID": 102,
+    "StateID": 1826
+  },
+  {
+    "id": 56884,
+    "name": "Negara",
+    "latitude": "-8.35694000",
+    "longitude": "114.61694000",
+    "CountryID": 102,
+    "StateID": 1826
+  },
+  {
+    "id": 56890,
+    "name": "Nusa Dua",
+    "latitude": "-8.80047000",
+    "longitude": "115.23341000",
+    "CountryID": 102,
+    "StateID": 1826
+  },
+  {
+    "id": 56970,
+    "name": "Seririt",
+    "latitude": "-8.19280000",
+    "longitude": "114.93880000",
+    "CountryID": 102,
+    "StateID": 1826
+  },
+  {
+    "id": 56981,
+    "name": "Singaraja",
+    "latitude": "-8.11200000",
+    "longitude": "115.08818000",
+    "CountryID": 102,
+    "StateID": 1826
+  },
+  {
+    "id": 57013,
+    "name": "Tabanan",
+    "latitude": "-8.54130000",
+    "longitude": "115.12522000",
+    "CountryID": 102,
+    "StateID": 1826
+  },
+  {
+    "id": 57046,
+    "name": "Ubud",
+    "latitude": "-8.50980000",
+    "longitude": "115.26540000",
+    "CountryID": 102,
+    "StateID": 1826
+  },
+  {
+    "id": 56257,
+    "name": "Kota Cilegon",
+    "latitude": "-5.96849850",
+    "longitude": "105.92142320",
+    "CountryID": 102,
+    "StateID": 1810
+  },
+  {
+    "id": 56969,
+    "name": "Kota Serang",
+    "latitude": "-6.11528000",
+    "longitude": "106.15417000",
+    "CountryID": 102,
+    "StateID": 1810
+  },
+  {
+    "id": 57014,
+    "name": "Kota Tangerang",
+    "latitude": "-6.17806000",
+    "longitude": "106.63000000",
+    "CountryID": 102,
+    "StateID": 1810
+  },
+  {
+    "id": 56996,
+    "name": "Kota Tangerang Selatan",
+    "latitude": "-6.28862000",
+    "longitude": "106.71789000",
+    "CountryID": 102,
+    "StateID": 1810
+  },
+  {
+    "id": 56491,
+    "name": "Lebak",
+    "latitude": "-6.65000000",
+    "longitude": "106.21667000",
+    "CountryID": 102,
+    "StateID": 1810
+  },
+  {
+    "id": 56574,
+    "name": "Pandeglang",
+    "latitude": "-6.63333000",
+    "longitude": "105.75000000",
+    "CountryID": 102,
+    "StateID": 1810
+  },
+  {
+    "id": 56623,
+    "name": "Serang",
+    "latitude": "-6.15000000",
+    "longitude": "106.00000000",
+    "CountryID": 102,
+    "StateID": 1810
+  },
+  {
+    "id": 56666,
+    "name": "Tangerang",
+    "latitude": "-6.20000000",
+    "longitude": "106.46667000",
+    "CountryID": 102,
+    "StateID": 1810
+  },
+  {
+    "id": 56217,
+    "name": "Bengkulu",
+    "latitude": "-3.80044000",
+    "longitude": "102.26554000",
+    "CountryID": 102,
+    "StateID": 1793
+  },
+  {
+    "id": 56355,
+    "name": "Bengkulu Selatan",
+    "latitude": "-4.35000000",
+    "longitude": "103.03333000",
+    "CountryID": 102,
+    "StateID": 1793
+  },
+  {
+    "id": 56356,
+    "name": "Bengkulu Tengah",
+    "latitude": "-3.20679000",
+    "longitude": "102.12616000",
+    "CountryID": 102,
+    "StateID": 1793
+  },
+  {
+    "id": 56357,
+    "name": "Bengkulu Utara",
+    "latitude": "-3.33333000",
+    "longitude": "102.05000000",
+    "CountryID": 102,
+    "StateID": 1793
+  },
+  {
+    "id": 56258,
+    "name": "Curup",
+    "latitude": "-3.47030000",
+    "longitude": "102.52070000",
+    "CountryID": 102,
+    "StateID": 1793
+  },
+  {
+    "id": 56444,
+    "name": "Kaur",
+    "latitude": "-4.78179000",
+    "longitude": "103.36109000",
+    "CountryID": 102,
+    "StateID": 1793
+  },
+  {
+    "id": 56449,
+    "name": "Kepahiang",
+    "latitude": "-3.60194000",
+    "longitude": "102.56424000",
+    "CountryID": 102,
+    "StateID": 1793
+  },
+  {
+    "id": 56492,
+    "name": "Lebong",
+    "latitude": "-3.24278000",
+    "longitude": "102.33490000",
+    "CountryID": 102,
+    "StateID": 1793
+  },
+  {
+    "id": 56544,
+    "name": "Mukomuko",
+    "latitude": "-3.07438000",
+    "longitude": "101.54766000",
+    "CountryID": 102,
+    "StateID": 1793
+  },
+  {
+    "id": 56609,
+    "name": "Rejang Lebong",
+    "latitude": "-3.43333000",
+    "longitude": "102.71667000",
+    "CountryID": 102,
+    "StateID": 1793
+  },
+  {
+    "id": 56619,
+    "name": "Seluma",
+    "latitude": "-3.96644000",
+    "longitude": "102.47429000",
+    "CountryID": 102,
+    "StateID": 1793
+  },
+  {
+    "id": 56338,
+    "name": "Bantul",
+    "latitude": "-7.90000000",
+    "longitude": "110.36667000",
+    "CountryID": 102,
+    "StateID": 1829
+  },
+  {
+    "id": 56414,
+    "name": "Gunung Kidul",
+    "latitude": "-7.98333000",
+    "longitude": "110.61667000",
+    "CountryID": 102,
+    "StateID": 1829
+  },
+  {
+    "id": 56473,
+    "name": "Kulon Progo",
+    "latitude": "-7.64500000",
+    "longitude": "110.02694000",
+    "CountryID": 102,
+    "StateID": 1829
+  },
+  {
+    "id": 56637,
+    "name": "Sleman",
+    "latitude": "-7.68167000",
+    "longitude": "110.32333000",
+    "CountryID": 102,
+    "StateID": 1829
+  },
+  {
+    "id": 57061,
+    "name": "Yogyakarta",
+    "latitude": "-7.80139000",
+    "longitude": "110.36472000",
+    "CountryID": 102,
+    "StateID": 1829
+  },
+  {
+    "id": 154474,
+    "name": "Jakarta Barat",
+    "latitude": "-6.15999160",
+    "longitude": "106.67485740",
+    "CountryID": 102,
+    "StateID": 1805
+  },
+  {
+    "id": 154470,
+    "name": "Jakarta Pusat",
+    "latitude": "-6.18222610",
+    "longitude": "106.79526480",
+    "CountryID": 102,
+    "StateID": 1805
+  },
+  {
+    "id": 154471,
+    "name": "Jakarta Selatan",
+    "latitude": "-6.28392950",
+    "longitude": "106.71967730",
+    "CountryID": 102,
+    "StateID": 1805
+  },
+  {
+    "id": 154473,
+    "name": "Jakarta Timur",
+    "latitude": "-6.26097100",
+    "longitude": "106.82261800",
+    "CountryID": 102,
+    "StateID": 1805
+  },
+  {
+    "id": 154472,
+    "name": "Jakarta Utara",
+    "latitude": "-6.13570900",
+    "longitude": "106.75949840",
+    "CountryID": 102,
+    "StateID": 1805
+  },
+  {
+    "id": 56365,
+    "name": "Boalemo",
+    "latitude": "0.62689000",
+    "longitude": "122.35680000",
+    "CountryID": 102,
+    "StateID": 1812
+  },
+  {
+    "id": 56375,
+    "name": "Bone Bolango",
+    "latitude": "0.50296000",
+    "longitude": "123.27501000",
+    "CountryID": 102,
+    "StateID": 1812
+  },
+  {
+    "id": 56285,
+    "name": "Gorontalo",
+    "latitude": "0.53750000",
+    "longitude": "123.06250000",
+    "CountryID": 102,
+    "StateID": 1812
+  },
+  {
+    "id": 56411,
+    "name": "Gorontalo Utara",
+    "latitude": "0.77000000",
+    "longitude": "122.31667000",
+    "CountryID": 102,
+    "StateID": 1812
+  },
+  {
+    "id": 56410,
+    "name": "Kabupaten Gorontalo",
+    "latitude": "0.57280000",
+    "longitude": "122.23370000",
+    "CountryID": 102,
+    "StateID": 1812
+  },
+  {
+    "id": 56595,
+    "name": "Pohuwato",
+    "latitude": "0.70980000",
+    "longitude": "121.59582000",
+    "CountryID": 102,
+    "StateID": 1812
+  },
+  {
+    "id": 56347,
+    "name": "Batang Hari",
+    "latitude": "-1.75000000",
+    "longitude": "103.11667000",
+    "CountryID": 102,
+    "StateID": 1815
+  },
+  {
+    "id": 56214,
+    "name": "Bejubang Dua",
+    "latitude": "-1.79230000",
+    "longitude": "103.31670000",
+    "CountryID": 102,
+    "StateID": 1815
+  },
+  {
+    "id": 56382,
+    "name": "Bungo",
+    "latitude": "-1.50222000",
+    "longitude": "101.96000000",
+    "CountryID": 102,
+    "StateID": 1815
+  },
+  {
+    "id": 56294,
+    "name": "Jambi City",
+    "latitude": "-1.60000000",
+    "longitude": "103.61667000",
+    "CountryID": 102,
+    "StateID": 1815
+  },
+  {
+    "id": 56458,
+    "name": "Kerinci",
+    "latitude": "-2.03333000",
+    "longitude": "101.53333000",
+    "CountryID": 102,
+    "StateID": 1815
+  },
+  {
+    "id": 56822,
+    "name": "Kuala Tungkal",
+    "latitude": "-0.81623000",
+    "longitude": "103.46111000",
+    "CountryID": 102,
+    "StateID": 1815
+  },
+  {
+    "id": 56869,
+    "name": "Mendaha",
+    "latitude": "-1.01630000",
+    "longitude": "103.59331000",
+    "CountryID": 102,
+    "StateID": 1815
+  },
+  {
+    "id": 56532,
+    "name": "Merangin",
+    "latitude": "-2.06933000",
+    "longitude": "102.13303000",
+    "CountryID": 102,
+    "StateID": 1815
+  },
+  {
+    "id": 56543,
+    "name": "Muaro Jambi",
+    "latitude": "-1.55214000",
+    "longitude": "103.82163000",
+    "CountryID": 102,
+    "StateID": 1815
+  },
+  {
+    "id": 56618,
+    "name": "Sarolangun",
+    "latitude": "-2.30000000",
+    "longitude": "102.65000000",
+    "CountryID": 102,
+    "StateID": 1815
+  },
+  {
+    "id": 56978,
+    "name": "Simpang",
+    "latitude": "-1.26424000",
+    "longitude": "104.09701000",
+    "CountryID": 102,
+    "StateID": 1815
+  },
+  {
+    "id": 57008,
+    "name": "Sungai Penuh",
+    "latitude": "-2.05610000",
+    "longitude": "101.39130000",
+    "CountryID": 102,
+    "StateID": 1815
+  },
+  {
+    "id": 56668,
+    "name": "Tanjung Jabung Barat",
+    "latitude": "-1.15440000",
+    "longitude": "103.24402000",
+    "CountryID": 102,
+    "StateID": 1815
+  },
+  {
+    "id": 56669,
+    "name": "Tanjung Jabung Timur",
+    "latitude": "-1.13198000",
+    "longitude": "103.61755000",
+    "CountryID": 102,
+    "StateID": 1815
+  },
+  {
+    "id": 56675,
+    "name": "Tebo",
+    "latitude": "-1.45576000",
+    "longitude": "102.37473000",
+    "CountryID": 102,
+    "StateID": 1815
+  },
+  {
+    "id": 56182,
+    "name": "Arjawinangun",
+    "latitude": "-6.64528000",
+    "longitude": "108.41028000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56183,
+    "name": "Astanajapura",
+    "latitude": "-6.80170000",
+    "longitude": "108.63110000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56196,
+    "name": "Bandung",
+    "latitude": "-6.92222000",
+    "longitude": "107.60694000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56325,
+    "name": "Bandung Barat",
+    "latitude": "-6.83333000",
+    "longitude": "107.48333000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56199,
+    "name": "Banjar",
+    "latitude": "-7.19550000",
+    "longitude": "107.43130000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56202,
+    "name": "Banjaran",
+    "latitude": "-7.04528000",
+    "longitude": "107.58778000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56215,
+    "name": "Bekasi",
+    "latitude": "-6.23490000",
+    "longitude": "106.98960000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56226,
+    "name": "Bogor",
+    "latitude": "-6.59444000",
+    "longitude": "106.78917000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56237,
+    "name": "Caringin",
+    "latitude": "-6.70611000",
+    "longitude": "106.82139000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56240,
+    "name": "Ciamis",
+    "latitude": "-7.32570000",
+    "longitude": "108.35340000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56241,
+    "name": "Ciampea",
+    "latitude": "-6.55472000",
+    "longitude": "106.70083000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56391,
+    "name": "Cianjur",
+    "latitude": "-6.77250000",
+    "longitude": "107.08306000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56242,
+    "name": "Cibinong",
+    "latitude": "-6.48167000",
+    "longitude": "106.85417000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56243,
+    "name": "Cicurug",
+    "latitude": "-6.78139000",
+    "longitude": "106.78250000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56244,
+    "name": "Cikampek",
+    "latitude": "-6.41972000",
+    "longitude": "107.45583000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56245,
+    "name": "Cikarang",
+    "latitude": "-6.26111000",
+    "longitude": "107.15278000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56246,
+    "name": "Cikupa",
+    "latitude": "-6.23639000",
+    "longitude": "106.50833000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56247,
+    "name": "Cileungsir",
+    "latitude": "-6.39472000",
+    "longitude": "106.95917000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56248,
+    "name": "Cileunyi",
+    "latitude": "-6.93889000",
+    "longitude": "107.75278000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56249,
+    "name": "Cimahi",
+    "latitude": "-6.87222000",
+    "longitude": "107.54250000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56250,
+    "name": "Ciputat",
+    "latitude": "-6.23750000",
+    "longitude": "106.69556000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56251,
+    "name": "Ciranjang-hilir",
+    "latitude": "-6.82000000",
+    "longitude": "107.25722000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56252,
+    "name": "Cirebon",
+    "latitude": "-6.70630000",
+    "longitude": "108.55700000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56253,
+    "name": "Citeureup",
+    "latitude": "-6.48556000",
+    "longitude": "106.88194000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56265,
+    "name": "Depok",
+    "latitude": "-6.40000000",
+    "longitude": "106.81861000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56407,
+    "name": "Garut",
+    "latitude": "-7.38333000",
+    "longitude": "107.76667000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56291,
+    "name": "Indramayu",
+    "latitude": "-6.32639000",
+    "longitude": "108.32000000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56296,
+    "name": "Jatibarang",
+    "latitude": "-6.47472000",
+    "longitude": "108.31528000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56298,
+    "name": "Jatiwangi",
+    "latitude": "-6.73361000",
+    "longitude": "108.26278000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56324,
+    "name": "Kabupaten Bandung",
+    "latitude": "-7.10000000",
+    "longitude": "107.60000000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56349,
+    "name": "Kabupaten Bekasi",
+    "latitude": "-6.24667000",
+    "longitude": "107.10833000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56366,
+    "name": "Kabupaten Bogor",
+    "latitude": "-6.58333000",
+    "longitude": "106.71667000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56390,
+    "name": "Kabupaten Ciamis",
+    "latitude": "-7.28333000",
+    "longitude": "108.41667000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56393,
+    "name": "Kabupaten Cirebon",
+    "latitude": "-6.80000000",
+    "longitude": "108.56667000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56426,
+    "name": "Kabupaten Indramayu",
+    "latitude": "-6.45000000",
+    "longitude": "108.16667000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56474,
+    "name": "Kabupaten Kuningan",
+    "latitude": "-7.00000000",
+    "longitude": "108.55000000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56508,
+    "name": "Kabupaten Majalengka",
+    "latitude": "-6.81667000",
+    "longitude": "108.28333000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56606,
+    "name": "Kabupaten Purwakarta",
+    "latitude": "-6.58333000",
+    "longitude": "107.45000000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56645,
+    "name": "Kabupaten Sukabumi",
+    "latitude": "-7.06667000",
+    "longitude": "106.70000000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56654,
+    "name": "Kabupaten Sumedang",
+    "latitude": "-6.81667000",
+    "longitude": "107.98333000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56674,
+    "name": "Kabupaten Tasikmalaya",
+    "latitude": "-7.50000000",
+    "longitude": "108.13333000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56698,
+    "name": "Karangampel",
+    "latitude": "-6.46222000",
+    "longitude": "108.45194000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56700,
+    "name": "Karangsembung",
+    "latitude": "-6.84870000",
+    "longitude": "108.64220000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56440,
+    "name": "Karawang",
+    "latitude": "-6.26667000",
+    "longitude": "107.41667000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56704,
+    "name": "Kawalu",
+    "latitude": "-7.38170000",
+    "longitude": "108.20820000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56718,
+    "name": "Klangenan",
+    "latitude": "-6.70944000",
+    "longitude": "108.44000000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56819,
+    "name": "Kresek",
+    "latitude": "-6.13139000",
+    "longitude": "106.37972000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56825,
+    "name": "Kuningan",
+    "latitude": "-6.97583000",
+    "longitude": "108.48306000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56842,
+    "name": "Lembang",
+    "latitude": "-6.81167000",
+    "longitude": "107.61750000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56852,
+    "name": "Majalengka",
+    "latitude": "-6.83611000",
+    "longitude": "108.22778000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56861,
+    "name": "Margahayukencana",
+    "latitude": "-6.97083000",
+    "longitude": "107.56750000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56886,
+    "name": "Ngawi",
+    "latitude": "-7.40380000",
+    "longitude": "111.44610000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56892,
+    "name": "Padalarang",
+    "latitude": "-6.83778000",
+    "longitude": "107.47278000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56899,
+    "name": "Palimanan",
+    "latitude": "-6.70694000",
+    "longitude": "108.42417000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56902,
+    "name": "Pamanukan",
+    "latitude": "-6.28417000",
+    "longitude": "107.81056000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56904,
+    "name": "Pameungpeuk",
+    "latitude": "-7.01833000",
+    "longitude": "107.60389000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56905,
+    "name": "Pamulang",
+    "latitude": "-6.34278000",
+    "longitude": "106.73833000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56575,
+    "name": "Pangandaran",
+    "latitude": "-7.66730000",
+    "longitude": "108.64037000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56918,
+    "name": "Parung",
+    "latitude": "-6.42139000",
+    "longitude": "106.73306000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56919,
+    "name": "Pasarkemis",
+    "latitude": "-6.17028000",
+    "longitude": "106.53028000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56920,
+    "name": "Paseh",
+    "latitude": "-7.10260000",
+    "longitude": "107.76410000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56928,
+    "name": "Pelabuhanratu",
+    "latitude": "-6.98750000",
+    "longitude": "106.55139000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56934,
+    "name": "Plumbon",
+    "latitude": "-6.70500000",
+    "longitude": "108.47278000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56945,
+    "name": "Purwakarta",
+    "latitude": "-6.55694000",
+    "longitude": "107.44333000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56948,
+    "name": "Rajapolah",
+    "latitude": "-7.22100000",
+    "longitude": "108.18960000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56954,
+    "name": "Rengasdengklok",
+    "latitude": "-6.15917000",
+    "longitude": "107.29806000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56962,
+    "name": "Sawangan",
+    "latitude": "-6.40278000",
+    "longitude": "106.77444000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56968,
+    "name": "Sepatan",
+    "latitude": "-6.11889000",
+    "longitude": "106.57500000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56971,
+    "name": "Serpong",
+    "latitude": "-6.31694000",
+    "longitude": "106.66417000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56980,
+    "name": "Singaparna",
+    "latitude": "-7.35150000",
+    "longitude": "108.11100000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56994,
+    "name": "Soreang",
+    "latitude": "-7.03306000",
+    "longitude": "107.51833000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56644,
+    "name": "Subang",
+    "latitude": "-6.50833000",
+    "longitude": "107.70250000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 57001,
+    "name": "Sukabumi",
+    "latitude": "-6.91806000",
+    "longitude": "106.92667000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 57003,
+    "name": "Sumber",
+    "latitude": "-6.76028000",
+    "longitude": "108.48306000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 57005,
+    "name": "Sumedang",
+    "latitude": "-6.85861000",
+    "longitude": "107.91639000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 57006,
+    "name": "Sumedang Utara",
+    "latitude": "-6.85000000",
+    "longitude": "107.91667000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 57025,
+    "name": "Tasikmalaya",
+    "latitude": "-7.32740000",
+    "longitude": "108.22070000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 57030,
+    "name": "Teluknaga",
+    "latitude": "-6.09889000",
+    "longitude": "106.63806000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 57050,
+    "name": "Wanaraja",
+    "latitude": "-7.17490000",
+    "longitude": "107.98080000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 57056,
+    "name": "Weru",
+    "latitude": "-6.71100000",
+    "longitude": "108.50370000",
+    "CountryID": 102,
+    "StateID": 1825
+  },
+  {
+    "id": 56174,
+    "name": "Adiwerna",
+    "latitude": "-6.93750000",
+    "longitude": "109.13250000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56176,
+    "name": "Ambarawa",
+    "latitude": "-7.26333000",
+    "longitude": "110.39750000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56186,
+    "name": "Baekrajan",
+    "latitude": "-6.76740000",
+    "longitude": "110.85410000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56187,
+    "name": "Baki",
+    "latitude": "-7.61278000",
+    "longitude": "110.78389000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56189,
+    "name": "Balapulang",
+    "latitude": "-7.04858000",
+    "longitude": "109.10056000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56336,
+    "name": "Banjarnegara",
+    "latitude": "-7.35111000",
+    "longitude": "109.58750000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56205,
+    "name": "Banyumas",
+    "latitude": "-7.51417000",
+    "longitude": "109.29417000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56209,
+    "name": "Batang",
+    "latitude": "-6.48460000",
+    "longitude": "110.70830000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56211,
+    "name": "Baturaden",
+    "latitude": "-7.30000000",
+    "longitude": "109.21667000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56225,
+    "name": "Blora",
+    "latitude": "-6.96980000",
+    "longitude": "111.41860000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56230,
+    "name": "Boyolali",
+    "latitude": "-7.53306000",
+    "longitude": "110.59583000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56378,
+    "name": "Brebes",
+    "latitude": "-7.05000000",
+    "longitude": "108.90000000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56232,
+    "name": "Buaran",
+    "latitude": "-7.05000000",
+    "longitude": "109.55000000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56235,
+    "name": "Bulakamba",
+    "latitude": "-6.87480000",
+    "longitude": "108.95590000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56236,
+    "name": "Candi Prambanan",
+    "latitude": "-7.75000000",
+    "longitude": "110.49417000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56238,
+    "name": "Ceper",
+    "latitude": "-7.67417000",
+    "longitude": "110.67889000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56239,
+    "name": "Cepu",
+    "latitude": "-7.14750000",
+    "longitude": "111.59060000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56392,
+    "name": "Cilacap",
+    "latitude": "-7.57417000",
+    "longitude": "108.98861000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56255,
+    "name": "Colomadu",
+    "latitude": "-7.53333000",
+    "longitude": "110.75000000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56256,
+    "name": "Comal",
+    "latitude": "-6.90530000",
+    "longitude": "109.53470000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56260,
+    "name": "Delanggu",
+    "latitude": "-7.61667000",
+    "longitude": "110.68333000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56262,
+    "name": "Demak",
+    "latitude": "-6.89090000",
+    "longitude": "110.63960000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56269,
+    "name": "Dukuhturi",
+    "latitude": "-6.90000000",
+    "longitude": "109.08333000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56277,
+    "name": "Gatak",
+    "latitude": "-7.59083000",
+    "longitude": "110.70444000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56278,
+    "name": "Gebog",
+    "latitude": "-6.73500000",
+    "longitude": "110.84440000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56283,
+    "name": "Gombong",
+    "latitude": "-7.60722000",
+    "longitude": "109.51417000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56413,
+    "name": "Grobogan",
+    "latitude": "-7.11667000",
+    "longitude": "110.91667000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56288,
+    "name": "Grogol",
+    "latitude": "-7.60111000",
+    "longitude": "110.81861000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56289,
+    "name": "Gunung Kendil",
+    "latitude": "-7.33167000",
+    "longitude": "110.40417000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56295,
+    "name": "Jaten",
+    "latitude": "-7.57722000",
+    "longitude": "110.89750000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56297,
+    "name": "Jatiroto",
+    "latitude": "-7.88333000",
+    "longitude": "111.11667000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56300,
+    "name": "Jekulo",
+    "latitude": "-6.80570000",
+    "longitude": "110.92620000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56433,
+    "name": "Jepara",
+    "latitude": "-6.58333000",
+    "longitude": "110.76667000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56303,
+    "name": "Jogonalan",
+    "latitude": "-7.70361000",
+    "longitude": "110.53611000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56305,
+    "name": "Juwana",
+    "latitude": "-6.71500000",
+    "longitude": "111.15140000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56339,
+    "name": "Kabupaten Banyumas",
+    "latitude": "-7.45000000",
+    "longitude": "109.16667000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56346,
+    "name": "Kabupaten Batang",
+    "latitude": "-7.03333000",
+    "longitude": "109.88333000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56364,
+    "name": "Kabupaten Blora",
+    "latitude": "-7.06667000",
+    "longitude": "111.38333000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56377,
+    "name": "Kabupaten Boyolali",
+    "latitude": "-7.50000000",
+    "longitude": "110.70000000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56397,
+    "name": "Kabupaten Demak",
+    "latitude": "-6.89930000",
+    "longitude": "110.61220000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56459,
+    "name": "Kabupaten Klaten",
+    "latitude": "-7.68333000",
+    "longitude": "110.61667000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56472,
+    "name": "Kabupaten Kudus",
+    "latitude": "-6.80000000",
+    "longitude": "110.86667000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56505,
+    "name": "Kabupaten Magelang",
+    "latitude": "-7.42750000",
+    "longitude": "110.16194000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56583,
+    "name": "Kabupaten Pati",
+    "latitude": "-6.76667000",
+    "longitude": "111.10000000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56585,
+    "name": "Kabupaten Pekalongan",
+    "latitude": "-7.03190000",
+    "longitude": "109.62400000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56587,
+    "name": "Kabupaten Pemalang",
+    "latitude": "-7.03333000",
+    "longitude": "109.40000000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56605,
+    "name": "Kabupaten Purbalingga",
+    "latitude": "-7.28417000",
+    "longitude": "109.35028000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56620,
+    "name": "Kabupaten Semarang",
+    "latitude": "-7.20667000",
+    "longitude": "110.44139000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56643,
+    "name": "Kabupaten Sragen",
+    "latitude": "-7.41278000",
+    "longitude": "110.93500000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56676,
+    "name": "Kabupaten Tegal",
+    "latitude": "-7.03333000",
+    "longitude": "109.16667000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56693,
+    "name": "Kabupaten Wonosobo",
+    "latitude": "-7.36139000",
+    "longitude": "109.92667000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56699,
+    "name": "Karanganom",
+    "latitude": "-7.64889000",
+    "longitude": "110.62500000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56439,
+    "name": "Karanganyar",
+    "latitude": "-7.62806000",
+    "longitude": "111.06250000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56701,
+    "name": "Kartasura",
+    "latitude": "-7.55194000",
+    "longitude": "110.73778000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56706,
+    "name": "Kebonarun",
+    "latitude": "-7.70028000",
+    "longitude": "110.56306000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56445,
+    "name": "Kebumen",
+    "latitude": "-7.63917000",
+    "longitude": "109.66056000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56709,
+    "name": "Kedungwuni",
+    "latitude": "-6.97038000",
+    "longitude": "109.64794000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56448,
+    "name": "Kendal",
+    "latitude": "-7.02560000",
+    "longitude": "110.16850000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56715,
+    "name": "Ketanggungan",
+    "latitude": "-6.93830000",
+    "longitude": "108.89100000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56719,
+    "name": "Klaten",
+    "latitude": "-7.70583000",
+    "longitude": "110.60639000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56821,
+    "name": "Kroya",
+    "latitude": "-7.63306000",
+    "longitude": "109.24611000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56824,
+    "name": "Kudus",
+    "latitude": "-6.80480000",
+    "longitude": "110.84050000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56828,
+    "name": "Kutoarjo",
+    "latitude": "-7.71694000",
+    "longitude": "109.91278000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56838,
+    "name": "Lasem",
+    "latitude": "-6.69220000",
+    "longitude": "111.45270000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56840,
+    "name": "Lebaksiu",
+    "latitude": "-7.04960000",
+    "longitude": "109.14410000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56851,
+    "name": "Magelang",
+    "latitude": "-7.47056000",
+    "longitude": "110.21778000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56853,
+    "name": "Majenang",
+    "latitude": "-7.29750000",
+    "longitude": "108.76420000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56862,
+    "name": "Margasari",
+    "latitude": "-7.10000000",
+    "longitude": "109.01667000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56870,
+    "name": "Mertoyudan",
+    "latitude": "-7.52000000",
+    "longitude": "110.22639000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56873,
+    "name": "Mlonggo",
+    "latitude": "-6.53333000",
+    "longitude": "110.70000000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56877,
+    "name": "Mranggen",
+    "latitude": "-7.02680000",
+    "longitude": "110.51580000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56880,
+    "name": "Muntilan",
+    "latitude": "-7.58111000",
+    "longitude": "110.29278000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56887,
+    "name": "Ngemplak",
+    "latitude": "-7.54972000",
+    "longitude": "110.71639000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56922,
+    "name": "Pati",
+    "latitude": "-6.75590000",
+    "longitude": "111.03800000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56924,
+    "name": "Pecangaan",
+    "latitude": "-6.69780000",
+    "longitude": "110.71070000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56925,
+    "name": "Pekalongan",
+    "latitude": "-6.88860000",
+    "longitude": "109.67530000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56929,
+    "name": "Pemalang",
+    "latitude": "-6.89193000",
+    "longitude": "109.38263000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56944,
+    "name": "Purbalingga",
+    "latitude": "-7.38806000",
+    "longitude": "109.36389000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56946,
+    "name": "Purwodadi",
+    "latitude": "-7.08680000",
+    "longitude": "110.91580000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56947,
+    "name": "Purwokerto",
+    "latitude": "-7.42139000",
+    "longitude": "109.23444000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56607,
+    "name": "Purworejo",
+    "latitude": "-7.70000000",
+    "longitude": "109.96667000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56949,
+    "name": "Randudongkal",
+    "latitude": "-7.09810000",
+    "longitude": "109.32430000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56610,
+    "name": "Rembang",
+    "latitude": "-6.78333000",
+    "longitude": "111.46667000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56953,
+    "name": "Rembangan",
+    "latitude": "-6.70360000",
+    "longitude": "111.34160000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56958,
+    "name": "Salatiga",
+    "latitude": "-7.33194000",
+    "longitude": "110.49278000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56964,
+    "name": "Selogiri",
+    "latitude": "-7.78333000",
+    "longitude": "110.86667000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56965,
+    "name": "Semarang",
+    "latitude": "-6.99306000",
+    "longitude": "110.42083000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56974,
+    "name": "Sidareja",
+    "latitude": "-7.48460000",
+    "longitude": "108.79230000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56987,
+    "name": "Slawi",
+    "latitude": "-6.98160000",
+    "longitude": "109.14070000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56991,
+    "name": "Sokaraja",
+    "latitude": "-7.45806000",
+    "longitude": "109.28806000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56997,
+    "name": "Sragen",
+    "latitude": "-7.42639000",
+    "longitude": "111.02222000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56647,
+    "name": "Sukoharjo",
+    "latitude": "-7.68333000",
+    "longitude": "110.83333000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 57012,
+    "name": "Surakarta",
+    "latitude": "-7.55611000",
+    "longitude": "110.83167000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 57024,
+    "name": "Tarub",
+    "latitude": "-6.93333000",
+    "longitude": "109.16667000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 57026,
+    "name": "Tayu",
+    "latitude": "-6.53970000",
+    "longitude": "111.05180000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 57028,
+    "name": "Tegal",
+    "latitude": "-6.86940000",
+    "longitude": "109.14020000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56679,
+    "name": "Temanggung",
+    "latitude": "-7.25000000",
+    "longitude": "110.11667000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 57040,
+    "name": "Trucuk",
+    "latitude": "-7.71833000",
+    "longitude": "110.65889000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 57047,
+    "name": "Ungaran",
+    "latitude": "-7.13972000",
+    "longitude": "110.40500000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 57051,
+    "name": "Wangon",
+    "latitude": "-7.51611000",
+    "longitude": "109.05389000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 57053,
+    "name": "Wedi",
+    "latitude": "-7.74306000",
+    "longitude": "110.57944000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 57054,
+    "name": "Welahan",
+    "latitude": "-6.80000000",
+    "longitude": "110.71667000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 57055,
+    "name": "Weleri",
+    "latitude": "-6.97130000",
+    "longitude": "110.06660000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 57057,
+    "name": "Wiradesa",
+    "latitude": "-6.89220000",
+    "longitude": "109.61900000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56692,
+    "name": "Wonogiri",
+    "latitude": "-7.91667000",
+    "longitude": "111.00000000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 57059,
+    "name": "Wonopringgo",
+    "latitude": "-6.98333000",
+    "longitude": "109.61667000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 57060,
+    "name": "Wonosobo",
+    "latitude": "-7.35889000",
+    "longitude": "109.90306000",
+    "CountryID": 102,
+    "StateID": 1802
+  },
+  {
+    "id": 56185,
+    "name": "Babat",
+    "latitude": "-7.11282000",
+    "longitude": "112.16354000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56191,
+    "name": "Balung",
+    "latitude": "-7.73333000",
+    "longitude": "113.91667000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56197,
+    "name": "Bangil",
+    "latitude": "-7.59939000",
+    "longitude": "112.81860000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56198,
+    "name": "Bangkalan",
+    "latitude": "-7.04550000",
+    "longitude": "112.73510000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56206,
+    "name": "Banyuwangi",
+    "latitude": "-8.23250000",
+    "longitude": "114.35755000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56210,
+    "name": "Batu",
+    "latitude": "-7.87000000",
+    "longitude": "112.52833000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56219,
+    "name": "Besuki",
+    "latitude": "-7.73379000",
+    "longitude": "113.69785000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56224,
+    "name": "Blitar",
+    "latitude": "-8.09830000",
+    "longitude": "112.16810000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56227,
+    "name": "Bojonegoro",
+    "latitude": "-7.15020000",
+    "longitude": "111.88170000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56228,
+    "name": "Bondowoso",
+    "latitude": "-7.91346000",
+    "longitude": "113.82145000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56231,
+    "name": "Boyolangu",
+    "latitude": "-8.11810000",
+    "longitude": "111.89350000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56233,
+    "name": "Buduran",
+    "latitude": "-7.42810000",
+    "longitude": "112.72340000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56259,
+    "name": "Dampit",
+    "latitude": "-8.21162000",
+    "longitude": "112.74934000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56266,
+    "name": "Diwek",
+    "latitude": "-7.57897000",
+    "longitude": "112.23109000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56268,
+    "name": "Driyorejo",
+    "latitude": "-7.36590000",
+    "longitude": "112.62190000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56274,
+    "name": "Gambiran Satu",
+    "latitude": "-8.39390000",
+    "longitude": "114.14640000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56275,
+    "name": "Gampengrejo",
+    "latitude": "-7.76667000",
+    "longitude": "112.01667000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56279,
+    "name": "Gedangan",
+    "latitude": "-7.39083000",
+    "longitude": "112.72667000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56280,
+    "name": "Genteng",
+    "latitude": "-8.36667000",
+    "longitude": "114.15000000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56284,
+    "name": "Gongdanglegi Kulon",
+    "latitude": "-8.17529000",
+    "longitude": "112.63594000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56286,
+    "name": "Gresik",
+    "latitude": "-7.15389000",
+    "longitude": "112.65611000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56287,
+    "name": "Gresik Regency",
+    "latitude": "-7.19330000",
+    "longitude": "112.55300000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56301,
+    "name": "Jember",
+    "latitude": "-8.17211000",
+    "longitude": "113.69953000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56304,
+    "name": "Jombang",
+    "latitude": "-7.54595000",
+    "longitude": "112.23307000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56333,
+    "name": "Kabupaten Bangkalan",
+    "latitude": "-7.05000000",
+    "longitude": "112.93333000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56340,
+    "name": "Kabupaten Banyuwangi",
+    "latitude": "-8.33333000",
+    "longitude": "114.20000000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56363,
+    "name": "Kabupaten Blitar",
+    "latitude": "-8.13333000",
+    "longitude": "112.25000000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56367,
+    "name": "Kabupaten Bojonegoro",
+    "latitude": "-7.25000000",
+    "longitude": "111.80000000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56373,
+    "name": "Kabupaten Bondowoso",
+    "latitude": "-7.94040000",
+    "longitude": "113.98340000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56430,
+    "name": "Kabupaten Jember",
+    "latitude": "-8.25000000",
+    "longitude": "113.65000000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56434,
+    "name": "Kabupaten Jombang",
+    "latitude": "-7.55000000",
+    "longitude": "112.25000000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56446,
+    "name": "Kabupaten Kediri",
+    "latitude": "-7.83333000",
+    "longitude": "112.16667000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56483,
+    "name": "Kabupaten Lamongan",
+    "latitude": "-7.13333000",
+    "longitude": "112.31667000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56500,
+    "name": "Kabupaten Lumajang",
+    "latitude": "-8.11667000",
+    "longitude": "113.15000000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56504,
+    "name": "Kabupaten Madiun",
+    "latitude": "-7.61667000",
+    "longitude": "111.65000000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56511,
+    "name": "Kabupaten Malang",
+    "latitude": "-8.16667000",
+    "longitude": "112.66667000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56540,
+    "name": "Kabupaten Mojokerto",
+    "latitude": "-7.55000000",
+    "longitude": "112.50000000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56557,
+    "name": "Kabupaten Nganjuk",
+    "latitude": "-7.60000000",
+    "longitude": "111.93333000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56573,
+    "name": "Kabupaten Pamekasan",
+    "latitude": "-7.06667000",
+    "longitude": "113.50000000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56582,
+    "name": "Kabupaten Pasuruan",
+    "latitude": "-7.73333000",
+    "longitude": "112.83333000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56597,
+    "name": "Kabupaten Ponorogo",
+    "latitude": "-7.93333000",
+    "longitude": "111.50000000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56600,
+    "name": "Kabupaten Probolinggo",
+    "latitude": "-7.86667000",
+    "longitude": "113.31667000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56616,
+    "name": "Kabupaten Sampang",
+    "latitude": "-7.05000000",
+    "longitude": "113.25000000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56629,
+    "name": "Kabupaten Sidoarjo",
+    "latitude": "-7.45000000",
+    "longitude": "112.70000000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56636,
+    "name": "Kabupaten Situbondo",
+    "latitude": "-7.71667000",
+    "longitude": "114.05000000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56655,
+    "name": "Kabupaten Sumenep",
+    "latitude": "-7.11667000",
+    "longitude": "114.33333000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56685,
+    "name": "Kabupaten Trenggalek",
+    "latitude": "-8.16667000",
+    "longitude": "111.61667000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56686,
+    "name": "Kabupaten Tuban",
+    "latitude": "-6.96667000",
+    "longitude": "111.90000000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56688,
+    "name": "Kabupaten Tulungagung",
+    "latitude": "-8.11667000",
+    "longitude": "111.91667000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56696,
+    "name": "Kalianget",
+    "latitude": "-7.05370000",
+    "longitude": "113.94244000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56697,
+    "name": "Kamal",
+    "latitude": "-7.16778000",
+    "longitude": "112.71917000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56705,
+    "name": "Kebomas",
+    "latitude": "-7.16667000",
+    "longitude": "112.63330000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56707,
+    "name": "Kediri",
+    "latitude": "-7.81667000",
+    "longitude": "112.01667000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56708,
+    "name": "Kedungwaru",
+    "latitude": "-8.06667000",
+    "longitude": "111.91667000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56711,
+    "name": "Kencong",
+    "latitude": "-8.28333000",
+    "longitude": "113.36667000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56713,
+    "name": "Kepanjen",
+    "latitude": "-8.13030000",
+    "longitude": "112.57270000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56714,
+    "name": "Kertosono",
+    "latitude": "-7.58333000",
+    "longitude": "112.10000000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56818,
+    "name": "Kraksaan",
+    "latitude": "-7.75845000",
+    "longitude": "113.39624000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56820,
+    "name": "Krian",
+    "latitude": "-7.41040000",
+    "longitude": "112.57920000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56836,
+    "name": "Lamongan",
+    "latitude": "-7.11667000",
+    "longitude": "112.41667000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56839,
+    "name": "Lawang",
+    "latitude": "-7.83530000",
+    "longitude": "112.69470000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56848,
+    "name": "Lumajang",
+    "latitude": "-8.13350000",
+    "longitude": "113.22480000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56850,
+    "name": "Madiun",
+    "latitude": "-7.62980000",
+    "longitude": "111.52390000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56506,
+    "name": "Magetan",
+    "latitude": "-7.64472000",
+    "longitude": "111.35917000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56856,
+    "name": "Malang",
+    "latitude": "-7.97970000",
+    "longitude": "112.63040000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56874,
+    "name": "Mojoagung",
+    "latitude": "-7.56667000",
+    "longitude": "112.35000000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56875,
+    "name": "Mojokerto",
+    "latitude": "-7.46640000",
+    "longitude": "112.43380000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56878,
+    "name": "Muncar",
+    "latitude": "-8.43333000",
+    "longitude": "114.33333000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56885,
+    "name": "Nganjuk",
+    "latitude": "-7.60510000",
+    "longitude": "111.90350000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56558,
+    "name": "Ngawi",
+    "latitude": "-7.47444000",
+    "longitude": "111.33444000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56888,
+    "name": "Ngoro",
+    "latitude": "-7.68386000",
+    "longitude": "112.25804000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56889,
+    "name": "Ngunut",
+    "latitude": "-8.10580000",
+    "longitude": "112.01591000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56891,
+    "name": "Paciran",
+    "latitude": "-6.87666000",
+    "longitude": "112.37606000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56568,
+    "name": "Pacitan",
+    "latitude": "-8.13333000",
+    "longitude": "111.16667000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56896,
+    "name": "Pakisaji",
+    "latitude": "-8.06650000",
+    "longitude": "112.59810000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56903,
+    "name": "Pamekasan",
+    "latitude": "-7.15680000",
+    "longitude": "113.47460000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56906,
+    "name": "Panarukan",
+    "latitude": "-7.70181000",
+    "longitude": "113.91844000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56907,
+    "name": "Pandaan",
+    "latitude": "-7.65268000",
+    "longitude": "112.68750000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56913,
+    "name": "Panji",
+    "latitude": "-7.72528000",
+    "longitude": "114.09954000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56915,
+    "name": "Pare",
+    "latitude": "-7.76790000",
+    "longitude": "112.19800000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56921,
+    "name": "Pasuruan",
+    "latitude": "-7.64530000",
+    "longitude": "112.90750000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56936,
+    "name": "Ponorogo",
+    "latitude": "-7.86850000",
+    "longitude": "111.46200000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56941,
+    "name": "Prigen",
+    "latitude": "-7.68333000",
+    "longitude": "112.61667000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56942,
+    "name": "Probolinggo",
+    "latitude": "-7.75430000",
+    "longitude": "113.21590000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56960,
+    "name": "Sampang",
+    "latitude": "-7.18720000",
+    "longitude": "113.23940000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56975,
+    "name": "Sidoarjo",
+    "latitude": "-7.44780000",
+    "longitude": "112.71830000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56983,
+    "name": "Singojuruh",
+    "latitude": "-8.31667000",
+    "longitude": "114.23333000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56984,
+    "name": "Singosari",
+    "latitude": "-7.89240000",
+    "longitude": "112.66580000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56986,
+    "name": "Situbondo",
+    "latitude": "-7.70623000",
+    "longitude": "114.00976000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56992,
+    "name": "Soko",
+    "latitude": "-7.48315000",
+    "longitude": "112.42704000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 56999,
+    "name": "Srono",
+    "latitude": "-8.40003000",
+    "longitude": "114.26661000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 57004,
+    "name": "Sumberpucung",
+    "latitude": "-8.15856000",
+    "longitude": "112.48292000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 57007,
+    "name": "Sumenep",
+    "latitude": "-7.01667000",
+    "longitude": "113.86667000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 57011,
+    "name": "Surabaya",
+    "latitude": "-7.24917000",
+    "longitude": "112.75083000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 57015,
+    "name": "Tanggul",
+    "latitude": "-8.16450000",
+    "longitude": "113.45250000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 57016,
+    "name": "Tanggulangin",
+    "latitude": "-7.49958000",
+    "longitude": "112.69992000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 57039,
+    "name": "Trenggalek",
+    "latitude": "-8.07640000",
+    "longitude": "111.70641000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 57042,
+    "name": "Tuban",
+    "latitude": "-6.89760000",
+    "longitude": "112.06490000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 57044,
+    "name": "Tulangan Utara",
+    "latitude": "-7.47370000",
+    "longitude": "112.65050000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 57045,
+    "name": "Tulungagung",
+    "latitude": "-8.06570000",
+    "longitude": "111.90250000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 57058,
+    "name": "Wongsorejo",
+    "latitude": "-7.99080000",
+    "longitude": "114.40090000",
+    "CountryID": 102,
+    "StateID": 1827
+  },
+  {
+    "id": 150090,
+    "name": "Bengkayang",
+    "latitude": "1.06911000",
+    "longitude": "109.66393000",
+    "CountryID": 102,
+    "StateID": 1806
+  },
+  {
+    "id": 150091,
+    "name": "Kapuas Hulu",
+    "latitude": "0.83333000",
+    "longitude": "112.80000000",
+    "CountryID": 102,
+    "StateID": 1806
+  },
+  {
+    "id": 150092,
+    "name": "Kayong Utara",
+    "latitude": "-1.06023000",
+    "longitude": "110.10402000",
+    "CountryID": 102,
+    "StateID": 1806
+  },
+  {
+    "id": 150093,
+    "name": "Ketapang",
+    "latitude": "-1.85000000",
+    "longitude": "109.98333333",
+    "CountryID": 102,
+    "StateID": 1806
+  },
+  {
+    "id": 150094,
+    "name": "Kubu Raya",
+    "latitude": "-0.31924000",
+    "longitude": "109.51865000",
+    "CountryID": 102,
+    "StateID": 1806
+  },
+  {
+    "id": 150095,
+    "name": "Landak",
+    "latitude": "0.42373000",
+    "longitude": "109.75917000",
+    "CountryID": 102,
+    "StateID": 1806
+  },
+  {
+    "id": 150096,
+    "name": "Manismata",
+    "latitude": "-2.46666667",
+    "longitude": "111.03333333",
+    "CountryID": 102,
+    "StateID": 1806
+  },
+  {
+    "id": 150097,
+    "name": "Melawi",
+    "latitude": "-0.33617000",
+    "longitude": "111.69800000",
+    "CountryID": 102,
+    "StateID": 1806
+  },
+  {
+    "id": 150098,
+    "name": "Mempawah",
+    "latitude": "0.25000000",
+    "longitude": "109.16667000",
+    "CountryID": 102,
+    "StateID": 1806
+  },
+  {
+    "id": 150099,
+    "name": "Pemangkat",
+    "latitude": "1.17680000",
+    "longitude": "108.96240000",
+    "CountryID": 102,
+    "StateID": 1806
+  },
+  {
+    "id": 150100,
+    "name": "Pontianak",
+    "latitude": "-0.02055556",
+    "longitude": "109.34138889",
+    "CountryID": 102,
+    "StateID": 1806
+  },
+  {
+    "id": 150101,
+    "name": "Sambas",
+    "latitude": "1.43333000",
+    "longitude": "109.35000000",
+    "CountryID": 102,
+    "StateID": 1806
+  },
+  {
+    "id": 150102,
+    "name": "Sanggau",
+    "latitude": "0.11944444",
+    "longitude": "110.58888889",
+    "CountryID": 102,
+    "StateID": 1806
+  },
+  {
+    "id": 150103,
+    "name": "Sekadau",
+    "latitude": "0.03485000",
+    "longitude": "110.95066000",
+    "CountryID": 102,
+    "StateID": 1806
+  },
+  {
+    "id": 150104,
+    "name": "Singkawang",
+    "latitude": "0.90000000",
+    "longitude": "108.98333333",
+    "CountryID": 102,
+    "StateID": 1806
+  },
+  {
+    "id": 150105,
+    "name": "Sintang",
+    "latitude": "0.06805556",
+    "longitude": "111.49805556",
+    "CountryID": 102,
+    "StateID": 1806
+  },
+  {
+    "id": 56181,
+    "name": "Amuntai",
+    "latitude": "-2.41773000",
+    "longitude": "115.24941000",
+    "CountryID": 102,
+    "StateID": 1819
+  },
+  {
+    "id": 56323,
+    "name": "Balangan",
+    "latitude": "-2.32314000",
+    "longitude": "115.62922000",
+    "CountryID": 102,
+    "StateID": 1819
+  },
+  {
+    "id": 56335,
+    "name": "Banjar",
+    "latitude": "-3.31667000",
+    "longitude": "115.08333000",
+    "CountryID": 102,
+    "StateID": 1819
+  },
+  {
+    "id": 56203,
+    "name": "Banjarmasin",
+    "latitude": "-3.31987000",
+    "longitude": "114.59075000",
+    "CountryID": 102,
+    "StateID": 1819
+  },
+  {
+    "id": 56207,
+    "name": "Barabai",
+    "latitude": "-2.58333000",
+    "longitude": "115.38333000",
+    "CountryID": 102,
+    "StateID": 1819
+  },
+  {
+    "id": 56341,
+    "name": "Barito Kuala",
+    "latitude": "-3.08333000",
+    "longitude": "114.61667000",
+    "CountryID": 102,
+    "StateID": 1819
+  },
+  {
+    "id": 56420,
+    "name": "Hulu Sungai Selatan",
+    "latitude": "-2.75000000",
+    "longitude": "115.20000000",
+    "CountryID": 102,
+    "StateID": 1819
+  },
+  {
+    "id": 56421,
+    "name": "Hulu Sungai Tengah",
+    "latitude": "-2.61667000",
+    "longitude": "115.41667000",
+    "CountryID": 102,
+    "StateID": 1819
+  },
+  {
+    "id": 56422,
+    "name": "Hulu Sungai Utara",
+    "latitude": "-2.45000000",
+    "longitude": "115.13333000",
+    "CountryID": 102,
+    "StateID": 1819
+  },
+  {
+    "id": 56468,
+    "name": "Kota Baru",
+    "latitude": "-3.00000000",
+    "longitude": "116.00000000",
+    "CountryID": 102,
+    "StateID": 1819
+  },
+  {
+    "id": 56864,
+    "name": "Martapura",
+    "latitude": "-3.41090000",
+    "longitude": "114.86420000",
+    "CountryID": 102,
+    "StateID": 1819
+  },
+  {
+    "id": 56657,
+    "name": "Tabalong",
+    "latitude": "-1.88333000",
+    "longitude": "115.50000000",
+    "CountryID": 102,
+    "StateID": 1819
+  },
+  {
+    "id": 56663,
+    "name": "Tanah Bumbu",
+    "latitude": "-3.45413000",
+    "longitude": "115.70372000",
+    "CountryID": 102,
+    "StateID": 1819
+  },
+  {
+    "id": 56665,
+    "name": "Tanah Laut",
+    "latitude": "-3.88333000",
+    "longitude": "114.86667000",
+    "CountryID": 102,
+    "StateID": 1819
+  },
+  {
+    "id": 56673,
+    "name": "Tapin",
+    "latitude": "-2.91667000",
+    "longitude": "115.03333000",
+    "CountryID": 102,
+    "StateID": 1819
+  },
+  {
+    "id": 56342,
+    "name": "Barito Selatan",
+    "latitude": "-1.86667000",
+    "longitude": "114.73333000",
+    "CountryID": 102,
+    "StateID": 1794
+  },
+  {
+    "id": 56343,
+    "name": "Barito Timur",
+    "latitude": "-1.93333000",
+    "longitude": "115.10000000",
+    "CountryID": 102,
+    "StateID": 1794
+  },
+  {
+    "id": 56344,
+    "name": "Barito Utara",
+    "latitude": "-0.98333000",
+    "longitude": "115.10000000",
+    "CountryID": 102,
+    "StateID": 1794
+  },
+  {
+    "id": 56415,
+    "name": "Gunung Mas",
+    "latitude": "-0.95000000",
+    "longitude": "113.50000000",
+    "CountryID": 102,
+    "StateID": 1794
+  },
+  {
+    "id": 56437,
+    "name": "Kapuas",
+    "latitude": "-2.01667000",
+    "longitude": "114.38333000",
+    "CountryID": 102,
+    "StateID": 1794
+  },
+  {
+    "id": 56443,
+    "name": "Katingan",
+    "latitude": "-2.06667000",
+    "longitude": "113.40000000",
+    "CountryID": 102,
+    "StateID": 1794
+  },
+  {
+    "id": 56469,
+    "name": "Kotawaringin Barat",
+    "latitude": "-2.40000000",
+    "longitude": "111.73333000",
+    "CountryID": 102,
+    "StateID": 1794
+  },
+  {
+    "id": 56470,
+    "name": "Kotawaringin Timur",
+    "latitude": "-2.08333000",
+    "longitude": "112.75000000",
+    "CountryID": 102,
+    "StateID": 1794
+  },
+  {
+    "id": 56823,
+    "name": "Kualakapuas",
+    "latitude": "-3.00913000",
+    "longitude": "114.38759000",
+    "CountryID": 102,
+    "StateID": 1794
+  },
+  {
+    "id": 56482,
+    "name": "Lamandau",
+    "latitude": "-1.83828000",
+    "longitude": "111.28690000",
+    "CountryID": 102,
+    "StateID": 1794
+  },
+  {
+    "id": 56547,
+    "name": "Murung Raya",
+    "latitude": "-0.01667000",
+    "longitude": "114.26667000",
+    "CountryID": 102,
+    "StateID": 1794
+  },
+  {
+    "id": 56897,
+    "name": "Palangkaraya",
+    "latitude": "-2.20833000",
+    "longitude": "113.91667000",
+    "CountryID": 102,
+    "StateID": 1794
+  },
+  {
+    "id": 56911,
+    "name": "Pangkalanbuun",
+    "latitude": "-2.68320000",
+    "longitude": "111.62590000",
+    "CountryID": 102,
+    "StateID": 1794
+  },
+  {
+    "id": 56601,
+    "name": "Pulang Pisau",
+    "latitude": "-3.11858000",
+    "longitude": "113.86230000",
+    "CountryID": 102,
+    "StateID": 1794
+  },
+  {
+    "id": 56961,
+    "name": "Sampit",
+    "latitude": "-2.53150000",
+    "longitude": "112.94960000",
+    "CountryID": 102,
+    "StateID": 1794
+  },
+  {
+    "id": 56625,
+    "name": "Seruyan",
+    "latitude": "-2.33333000",
+    "longitude": "112.25000000",
+    "CountryID": 102,
+    "StateID": 1794
+  },
+  {
+    "id": 56646,
+    "name": "Sukamara",
+    "latitude": "-2.62675000",
+    "longitude": "111.23681000",
+    "CountryID": 102,
+    "StateID": 1794
+  },
+  {
+    "id": 56190,
+    "name": "Balikpapan",
+    "latitude": "-1.26753000",
+    "longitude": "116.82887000",
+    "CountryID": 102,
+    "StateID": 1804
+  },
+  {
+    "id": 56358,
+    "name": "Berau",
+    "latitude": "2.00000000",
+    "longitude": "117.30000000",
+    "CountryID": 102,
+    "StateID": 1804
+  },
+  {
+    "id": 56229,
+    "name": "Bontang",
+    "latitude": "0.13240000",
+    "longitude": "117.48540000",
+    "CountryID": 102,
+    "StateID": 1804
+  },
+  {
+    "id": 56254,
+    "name": "City of Balikpapan",
+    "latitude": "-1.24204000",
+    "longitude": "116.89419000",
+    "CountryID": 102,
+    "StateID": 1804
+  },
+  {
+    "id": 56476,
+    "name": "Kutai Barat",
+    "latitude": "-0.59417000",
+    "longitude": "115.51575000",
+    "CountryID": 102,
+    "StateID": 1804
+  },
+  {
+    "id": 56477,
+    "name": "Kutai Kartanegara",
+    "latitude": "-0.44019000",
+    "longitude": "116.98139000",
+    "CountryID": 102,
+    "StateID": 1804
+  },
+  {
+    "id": 56478,
+    "name": "Kutai Timur",
+    "latitude": "1.03769000",
+    "longitude": "117.83112000",
+    "CountryID": 102,
+    "StateID": 1804
+  },
+  {
+    "id": 56845,
+    "name": "Loa Janan",
+    "latitude": "-0.58295000",
+    "longitude": "117.09503000",
+    "CountryID": 102,
+    "StateID": 1804
+  },
+  {
+    "id": 56507,
+    "name": "Mahakam Hulu",
+    "latitude": "0.37822000",
+    "longitude": "115.38048000",
+    "CountryID": 102,
+    "StateID": 1804
+  },
+  {
+    "id": 56581,
+    "name": "Paser",
+    "latitude": "-1.43517000",
+    "longitude": "116.23535000",
+    "CountryID": 102,
+    "StateID": 1804
+  },
+  {
+    "id": 56588,
+    "name": "Penajam Paser Utara",
+    "latitude": "-1.25000000",
+    "longitude": "116.83333000",
+    "CountryID": 102,
+    "StateID": 1804
+  },
+  {
+    "id": 56959,
+    "name": "Samarinda",
+    "latitude": "-0.49167000",
+    "longitude": "117.14583000",
+    "CountryID": 102,
+    "StateID": 1804
+  },
+  {
+    "id": 56381,
+    "name": "Bulungan",
+    "latitude": "3.00000000",
+    "longitude": "117.16667000",
+    "CountryID": 102,
+    "StateID": 1824
+  },
+  {
+    "id": 56512,
+    "name": "Malinau",
+    "latitude": "2.45000000",
+    "longitude": "115.68333000",
+    "CountryID": 102,
+    "StateID": 1824
+  },
+  {
+    "id": 56562,
+    "name": "Nunukan",
+    "latitude": "4.13333000",
+    "longitude": "116.70000000",
+    "CountryID": 102,
+    "StateID": 1824
+  },
+  {
+    "id": 56661,
+    "name": "Tana Tidung",
+    "latitude": "3.55000000",
+    "longitude": "117.25000000",
+    "CountryID": 102,
+    "StateID": 1824
+  },
+  {
+    "id": 57019,
+    "name": "Tanjung Selor",
+    "latitude": "2.83750000",
+    "longitude": "117.36528000",
+    "CountryID": 102,
+    "StateID": 1824
+  },
+  {
+    "id": 57023,
+    "name": "Tarakan",
+    "latitude": "3.31332000",
+    "longitude": "117.59152000",
+    "CountryID": 102,
+    "StateID": 1824
+  },
+  {
+    "id": 56329,
+    "name": "Bangka",
+    "latitude": "-1.91667000",
+    "longitude": "105.93333000",
+    "CountryID": 102,
+    "StateID": 1820
+  },
+  {
+    "id": 56330,
+    "name": "Bangka Barat",
+    "latitude": "-1.95839000",
+    "longitude": "105.53741000",
+    "CountryID": 102,
+    "StateID": 1820
+  },
+  {
+    "id": 56331,
+    "name": "Bangka Selatan",
+    "latitude": "-2.66803000",
+    "longitude": "106.01257000",
+    "CountryID": 102,
+    "StateID": 1820
+  },
+  {
+    "id": 56332,
+    "name": "Bangka Tengah",
+    "latitude": "-2.33989000",
+    "longitude": "106.11420000",
+    "CountryID": 102,
+    "StateID": 1820
+  },
+  {
+    "id": 56350,
+    "name": "Belitung",
+    "latitude": "-2.86667000",
+    "longitude": "107.70000000",
+    "CountryID": 102,
+    "StateID": 1820
+  },
+  {
+    "id": 56351,
+    "name": "Belitung Timur",
+    "latitude": "-2.96270000",
+    "longitude": "108.15216000",
+    "CountryID": 102,
+    "StateID": 1820
+  },
+  {
+    "id": 56859,
+    "name": "Manggar",
+    "latitude": "-2.88333000",
+    "longitude": "108.26667000",
+    "CountryID": 102,
+    "StateID": 1820
+  },
+  {
+    "id": 56881,
+    "name": "Muntok",
+    "latitude": "-2.06719000",
+    "longitude": "105.16228000",
+    "CountryID": 102,
+    "StateID": 1820
+  },
+  {
+    "id": 56912,
+    "name": "Pangkalpinang",
+    "latitude": "-2.12914000",
+    "longitude": "106.11377000",
+    "CountryID": 102,
+    "StateID": 1820
+  },
+  {
+    "id": 57009,
+    "name": "Sungailiat",
+    "latitude": "-1.85442000",
+    "longitude": "106.12215000",
+    "CountryID": 102,
+    "StateID": 1820
+  },
+  {
+    "id": 57017,
+    "name": "Tanjung Pandan",
+    "latitude": "-2.73353000",
+    "longitude": "107.63477000",
+    "CountryID": 102,
+    "StateID": 1820
+  },
+  {
+    "id": 56361,
+    "name": "Bintan",
+    "latitude": "0.95000000",
+    "longitude": "104.61944000",
+    "CountryID": 102,
+    "StateID": 1807
+  },
+  {
+    "id": 56441,
+    "name": "Karimun",
+    "latitude": "0.80764000",
+    "longitude": "103.41911000",
+    "CountryID": 102,
+    "StateID": 1807
+  },
+  {
+    "id": 56450,
+    "name": "Kepulauan Anambas",
+    "latitude": "3.00000000",
+    "longitude": "106.00000000",
+    "CountryID": 102,
+    "StateID": 1807
+  },
+  {
+    "id": 56716,
+    "name": "Kijang",
+    "latitude": "0.90000000",
+    "longitude": "104.63333000",
+    "CountryID": 102,
+    "StateID": 1807
+  },
+  {
+    "id": 56495,
+    "name": "Lingga",
+    "latitude": "0.20000000",
+    "longitude": "104.61667000",
+    "CountryID": 102,
+    "StateID": 1807
+  },
+  {
+    "id": 56554,
+    "name": "Natuna",
+    "latitude": "4.71417000",
+    "longitude": "107.97639000",
+    "CountryID": 102,
+    "StateID": 1807
+  },
+  {
+    "id": 57018,
+    "name": "Tanjung Pinang",
+    "latitude": "0.91667000",
+    "longitude": "104.45833000",
+    "CountryID": 102,
+    "StateID": 1807
+  },
+  {
+    "id": 56195,
+    "name": "Bandar Lampung",
+    "latitude": "-5.42917000",
+    "longitude": "105.26111000",
+    "CountryID": 102,
+    "StateID": 1811
+  },
+  {
+    "id": 56817,
+    "name": "Kotabumi",
+    "latitude": "-4.82505000",
+    "longitude": "104.88170000",
+    "CountryID": 102,
+    "StateID": 1811
+  },
+  {
+    "id": 56484,
+    "name": "Lampung Barat",
+    "latitude": "-5.14904000",
+    "longitude": "104.19309000",
+    "CountryID": 102,
+    "StateID": 1811
+  },
+  {
+    "id": 56485,
+    "name": "Lampung Selatan",
+    "latitude": "-5.45310000",
+    "longitude": "104.98770000",
+    "CountryID": 102,
+    "StateID": 1811
+  },
+  {
+    "id": 56486,
+    "name": "Lampung Tengah",
+    "latitude": "-4.86667000",
+    "longitude": "105.26667000",
+    "CountryID": 102,
+    "StateID": 1811
+  },
+  {
+    "id": 56487,
+    "name": "Lampung Timur",
+    "latitude": "-5.10273000",
+    "longitude": "105.68003000",
+    "CountryID": 102,
+    "StateID": 1811
+  },
+  {
+    "id": 56488,
+    "name": "Lampung Utara",
+    "latitude": "-4.81667000",
+    "longitude": "104.80000000",
+    "CountryID": 102,
+    "StateID": 1811
+  },
+  {
+    "id": 56534,
+    "name": "Mesuji",
+    "latitude": "-4.04390000",
+    "longitude": "105.40130000",
+    "CountryID": 102,
+    "StateID": 1811
+  },
+  {
+    "id": 56871,
+    "name": "Metro",
+    "latitude": "-5.11306000",
+    "longitude": "105.30667000",
+    "CountryID": 102,
+    "StateID": 1811
+  },
+  {
+    "id": 56590,
+    "name": "Pesawaran",
+    "latitude": "-5.42980000",
+    "longitude": "105.17899000",
+    "CountryID": 102,
+    "StateID": 1811
+  },
+  {
+    "id": 56591,
+    "name": "Pesisir Barat",
+    "latitude": "-5.19323000",
+    "longitude": "103.93976000",
+    "CountryID": 102,
+    "StateID": 1811
+  },
+  {
+    "id": 56599,
+    "name": "Pringsewu",
+    "latitude": "-5.42211000",
+    "longitude": "104.93454000",
+    "CountryID": 102,
+    "StateID": 1811
+  },
+  {
+    "id": 56667,
+    "name": "Tanggamus",
+    "latitude": "-5.38508000",
+    "longitude": "104.62349000",
+    "CountryID": 102,
+    "StateID": 1811
+  },
+  {
+    "id": 57031,
+    "name": "Terbanggi Besar",
+    "latitude": "-4.87898000",
+    "longitude": "105.21818000",
+    "CountryID": 102,
+    "StateID": 1811
+  },
+  {
+    "id": 56687,
+    "name": "Tulangbawang",
+    "latitude": "-4.20604000",
+    "longitude": "105.57999000",
+    "CountryID": 102,
+    "StateID": 1811
+  },
+  {
+    "id": 56691,
+    "name": "Way Kanan",
+    "latitude": "-4.44705000",
+    "longitude": "104.52753000",
+    "CountryID": 102,
+    "StateID": 1811
+  },
+  {
+    "id": 56175,
+    "name": "Amahai",
+    "latitude": "-3.33984000",
+    "longitude": "128.91975000",
+    "CountryID": 102,
+    "StateID": 1800
+  },
+  {
+    "id": 56178,
+    "name": "Ambon",
+    "latitude": "-3.69583000",
+    "longitude": "128.18333000",
+    "CountryID": 102,
+    "StateID": 1800
+  },
+  {
+    "id": 56384,
+    "name": "Buru",
+    "latitude": "-3.32767000",
+    "longitude": "126.68413000",
+    "CountryID": 102,
+    "StateID": 1800
+  },
+  {
+    "id": 56385,
+    "name": "Buru Selatan",
+    "latitude": "-3.52187000",
+    "longitude": "126.59271000",
+    "CountryID": 102,
+    "StateID": 1800
+  },
+  {
+    "id": 56451,
+    "name": "Kepulauan Aru",
+    "latitude": "-6.17059000",
+    "longitude": "134.46991000",
+    "CountryID": 102,
+    "StateID": 1800
+  },
+  {
+    "id": 56513,
+    "name": "Maluku Barat Daya",
+    "latitude": "-7.82960000",
+    "longitude": "126.17386000",
+    "CountryID": 102,
+    "StateID": 1800
+  },
+  {
+    "id": 56514,
+    "name": "Maluku Tengah",
+    "latitude": "-3.29167000",
+    "longitude": "128.96750000",
+    "CountryID": 102,
+    "StateID": 1800
+  },
+  {
+    "id": 56515,
+    "name": "Maluku Tenggara",
+    "latitude": "-5.75000000",
+    "longitude": "132.73333000",
+    "CountryID": 102,
+    "StateID": 1800
+  },
+  {
+    "id": 56516,
+    "name": "Maluku Tenggara Barat",
+    "latitude": "-7.61186000",
+    "longitude": "131.38000000",
+    "CountryID": 102,
+    "StateID": 1800
+  },
+  {
+    "id": 56621,
+    "name": "Seram Bagian Barat",
+    "latitude": "-3.10270000",
+    "longitude": "128.42996000",
+    "CountryID": 102,
+    "StateID": 1800
+  },
+  {
+    "id": 56622,
+    "name": "Seram Bagian Timur",
+    "latitude": "-3.39851000",
+    "longitude": "130.39167000",
+    "CountryID": 102,
+    "StateID": 1800
+  },
+  {
+    "id": 57041,
+    "name": "Tual",
+    "latitude": "-5.62878000",
+    "longitude": "132.75229000",
+    "CountryID": 102,
+    "StateID": 1800
+  },
+  {
+    "id": 56271,
+    "name": "East Halmahera Regency",
+    "latitude": "1.33517000",
+    "longitude": "128.48627000",
+    "CountryID": 102,
+    "StateID": 1801
+  },
+  {
+    "id": 56416,
+    "name": "Halmahera Barat",
+    "latitude": "1.41709000",
+    "longitude": "127.55264000",
+    "CountryID": 102,
+    "StateID": 1801
+  },
+  {
+    "id": 56417,
+    "name": "Halmahera Selatan",
+    "latitude": "-0.39550000",
+    "longitude": "127.90833000",
+    "CountryID": 102,
+    "StateID": 1801
+  },
+  {
+    "id": 56418,
+    "name": "Halmahera Tengah",
+    "latitude": "0.48056000",
+    "longitude": "128.25000000",
+    "CountryID": 102,
+    "StateID": 1801
+  },
+  {
+    "id": 56419,
+    "name": "Halmahera Utara",
+    "latitude": "1.73194000",
+    "longitude": "128.00778000",
+    "CountryID": 102,
+    "StateID": 1801
+  },
+  {
+    "id": 56455,
+    "name": "Kepulauan Sula",
+    "latitude": "-1.86460000",
+    "longitude": "125.69046000",
+    "CountryID": 102,
+    "StateID": 1801
+  },
+  {
+    "id": 56602,
+    "name": "Pulau Morotai",
+    "latitude": "2.19924000",
+    "longitude": "128.40546000",
+    "CountryID": 102,
+    "StateID": 1801
+  },
+  {
+    "id": 56603,
+    "name": "Pulau Taliabu",
+    "latitude": "-1.84578000",
+    "longitude": "124.78992000",
+    "CountryID": 102,
+    "StateID": 1801
+  },
+  {
+    "id": 56990,
+    "name": "Sofifi",
+    "latitude": "0.73729000",
+    "longitude": "127.55880000",
+    "CountryID": 102,
+    "StateID": 1801
+  },
+  {
+    "id": 57032,
+    "name": "Ternate",
+    "latitude": "0.79065000",
+    "longitude": "127.38424000",
+    "CountryID": 102,
+    "StateID": 1801
+  },
+  {
+    "id": 57033,
+    "name": "Tobelo",
+    "latitude": "1.72837000",
+    "longitude": "128.00948000",
+    "CountryID": 102,
+    "StateID": 1801
+  },
+  {
+    "id": 56221,
+    "name": "Bima",
+    "latitude": "-8.46006000",
+    "longitude": "118.72667000",
+    "CountryID": 102,
+    "StateID": 1814
+  },
+  {
+    "id": 56267,
+    "name": "Dompu",
+    "latitude": "-8.53650000",
+    "longitude": "118.46340000",
+    "CountryID": 102,
+    "StateID": 1814
+  },
+  {
+    "id": 56281,
+    "name": "Gili Air",
+    "latitude": "-8.35783000",
+    "longitude": "116.08240000",
+    "CountryID": 102,
+    "StateID": 1814
+  },
+  {
+    "id": 56360,
+    "name": "Kabupaten Bima",
+    "latitude": "-8.60000000",
+    "longitude": "118.61667000",
+    "CountryID": 102,
+    "StateID": 1814
+  },
+  {
+    "id": 56400,
+    "name": "Kabupaten Dompu",
+    "latitude": "-8.50940000",
+    "longitude": "118.48160000",
+    "CountryID": 102,
+    "StateID": 1814
+  },
+  {
+    "id": 56831,
+    "name": "Labuan Lombok",
+    "latitude": "-8.50000000",
+    "longitude": "116.66667000",
+    "CountryID": 102,
+    "StateID": 1814
+  },
+  {
+    "id": 56843,
+    "name": "Lembar",
+    "latitude": "-8.72640000",
+    "longitude": "116.07440000",
+    "CountryID": 102,
+    "StateID": 1814
+  },
+  {
+    "id": 56496,
+    "name": "Lombok Barat",
+    "latitude": "-8.69583000",
+    "longitude": "116.11667000",
+    "CountryID": 102,
+    "StateID": 1814
+  },
+  {
+    "id": 56497,
+    "name": "Lombok Tengah",
+    "latitude": "-8.70000000",
+    "longitude": "116.30000000",
+    "CountryID": 102,
+    "StateID": 1814
+  },
+  {
+    "id": 56498,
+    "name": "Lombok Timur",
+    "latitude": "-8.53333000",
+    "longitude": "116.53333000",
+    "CountryID": 102,
+    "StateID": 1814
+  },
+  {
+    "id": 56499,
+    "name": "Lombok Utara",
+    "latitude": "-8.35214000",
+    "longitude": "116.40152000",
+    "CountryID": 102,
+    "StateID": 1814
+  },
+  {
+    "id": 56865,
+    "name": "Mataram",
+    "latitude": "-8.58333000",
+    "longitude": "116.11667000",
+    "CountryID": 102,
+    "StateID": 1814
+  },
+  {
+    "id": 56931,
+    "name": "Pemenang",
+    "latitude": "-8.40401000",
+    "longitude": "116.10255000",
+    "CountryID": 102,
+    "StateID": 1814
+  },
+  {
+    "id": 56938,
+    "name": "Pototano",
+    "latitude": "-8.41260000",
+    "longitude": "117.48110000",
+    "CountryID": 102,
+    "StateID": 1814
+  },
+  {
+    "id": 56940,
+    "name": "Praya",
+    "latitude": "-8.70536000",
+    "longitude": "116.27036000",
+    "CountryID": 102,
+    "StateID": 1814
+  },
+  {
+    "id": 56966,
+    "name": "Senggigi",
+    "latitude": "-8.49190000",
+    "longitude": "116.04240000",
+    "CountryID": 102,
+    "StateID": 1814
+  },
+  {
+    "id": 56652,
+    "name": "Sumbawa",
+    "latitude": "-8.74390000",
+    "longitude": "117.33240000",
+    "CountryID": 102,
+    "StateID": 1814
+  },
+  {
+    "id": 56653,
+    "name": "Sumbawa Barat",
+    "latitude": "-8.75159000",
+    "longitude": "116.92132000",
+    "CountryID": 102,
+    "StateID": 1814
+  },
+  {
+    "id": 57002,
+    "name": "Sumbawa Besar",
+    "latitude": "-8.49317000",
+    "longitude": "117.42024000",
+    "CountryID": 102,
+    "StateID": 1814
+  },
+  {
+    "id": 56319,
+    "name": "Alor",
+    "latitude": "-8.30000000",
+    "longitude": "124.56667000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56184,
+    "name": "Atambua",
+    "latitude": "-9.10611000",
+    "longitude": "124.89250000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56352,
+    "name": "Belu",
+    "latitude": "-9.41258000",
+    "longitude": "124.95066000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56272,
+    "name": "Ende",
+    "latitude": "-8.84320000",
+    "longitude": "121.66230000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56406,
+    "name": "Flores Timur",
+    "latitude": "-8.24224000",
+    "longitude": "122.96817000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56403,
+    "name": "Kabupaten Ende",
+    "latitude": "-8.84056000",
+    "longitude": "121.66389000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56475,
+    "name": "Kabupaten Kupang",
+    "latitude": "-9.91667000",
+    "longitude": "123.83333000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56710,
+    "name": "Kefamenanu",
+    "latitude": "-9.44667000",
+    "longitude": "124.47806000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56721,
+    "name": "Komodo",
+    "latitude": "-8.58950000",
+    "longitude": "119.49130000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56826,
+    "name": "Kupang",
+    "latitude": "-10.17083000",
+    "longitude": "123.60694000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56830,
+    "name": "Labuan Bajo",
+    "latitude": "-8.49640000",
+    "longitude": "119.88770000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56493,
+    "name": "Lembata",
+    "latitude": "-8.41396000",
+    "longitude": "123.55225000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56510,
+    "name": "Malaka",
+    "latitude": "-9.56320000",
+    "longitude": "124.89481000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56524,
+    "name": "Manggarai",
+    "latitude": "-8.56667000",
+    "longitude": "120.41667000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56525,
+    "name": "Manggarai Barat",
+    "latitude": "-8.64484000",
+    "longitude": "119.88281000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56526,
+    "name": "Manggarai Timur",
+    "latitude": "-8.55533000",
+    "longitude": "120.59761000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56866,
+    "name": "Maumere",
+    "latitude": "-8.61990000",
+    "longitude": "122.21110000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56553,
+    "name": "Nagekeo",
+    "latitude": "-8.87210000",
+    "longitude": "121.20963000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56883,
+    "name": "Naisano Dua",
+    "latitude": "-9.59806000",
+    "longitude": "123.77028000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56556,
+    "name": "Ngada",
+    "latitude": "-8.66667000",
+    "longitude": "121.00000000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56613,
+    "name": "Rote Ndao",
+    "latitude": "-10.73617000",
+    "longitude": "123.12054000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56956,
+    "name": "Ruteng",
+    "latitude": "-8.61139000",
+    "longitude": "120.46444000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56614,
+    "name": "Sabu Raijua",
+    "latitude": "-10.56286000",
+    "longitude": "121.78894000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56632,
+    "name": "Sikka",
+    "latitude": "-8.66667000",
+    "longitude": "122.36667000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56989,
+    "name": "Soe",
+    "latitude": "-9.86071000",
+    "longitude": "124.28395000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56648,
+    "name": "Sumba Barat",
+    "latitude": "-9.56667000",
+    "longitude": "119.45000000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56649,
+    "name": "Sumba Barat Daya",
+    "latitude": "-9.56216000",
+    "longitude": "119.08905000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56650,
+    "name": "Sumba Tengah",
+    "latitude": "-9.62941000",
+    "longitude": "119.61914000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56651,
+    "name": "Sumba Timur",
+    "latitude": "-9.88333000",
+    "longitude": "120.25000000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56680,
+    "name": "Timor Tengah Selatan",
+    "latitude": "-9.83333000",
+    "longitude": "124.40000000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56681,
+    "name": "Timor Tengah Utara",
+    "latitude": "-9.33136000",
+    "longitude": "124.51904000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 57048,
+    "name": "Waingapu",
+    "latitude": "-9.65670000",
+    "longitude": "120.26410000",
+    "CountryID": 102,
+    "StateID": 1818
+  },
+  {
+    "id": 56173,
+    "name": "Abepura",
+    "latitude": "-2.59640000",
+    "longitude": "140.63240000",
+    "CountryID": 102,
+    "StateID": 1798
+  },
+  {
+    "id": 56220,
+    "name": "Biak",
+    "latitude": "-1.17670000",
+    "longitude": "136.08200000",
+    "CountryID": 102,
+    "StateID": 1798
+  },
+  {
+    "id": 56359,
+    "name": "Biak Numfor",
+    "latitude": "-1.03333000",
+    "longitude": "136.00000000",
+    "CountryID": 102,
+    "StateID": 1798
+  },
+  {
+    "id": 56292,
+    "name": "Insrom",
+    "latitude": "-1.14473000",
+    "longitude": "136.03134000",
+    "CountryID": 102,
+    "StateID": 1798
+  },
+  {
+    "id": 56299,
+    "name": "Jayapura",
+    "latitude": "-2.53371000",
+    "longitude": "140.71813000",
+    "CountryID": 102,
+    "StateID": 1798
+  },
+  {
+    "id": 56428,
+    "name": "Kabupaten Jayapura",
+    "latitude": "-3.00000000",
+    "longitude": "139.95000000",
+    "CountryID": 102,
+    "StateID": 1798
+  },
+  {
+    "id": 56447,
+    "name": "Keerom",
+    "latitude": "-3.30000000",
+    "longitude": "140.61667000",
+    "CountryID": 102,
+    "StateID": 1798
+  },
+  {
+    "id": 56457,
+    "name": "Kepulauan Yapen",
+    "latitude": "-1.78773000",
+    "longitude": "136.27716000",
+    "CountryID": 102,
+    "StateID": 1798
+  },
+  {
+    "id": 56518,
+    "name": "Mamberamo Raya",
+    "latitude": "-2.23561000",
+    "longitude": "137.78229000",
+    "CountryID": 102,
+    "StateID": 1798
+  },
+  {
+    "id": 56617,
+    "name": "Sarmi",
+    "latitude": "-2.41667000",
+    "longitude": "139.08333000",
+    "CountryID": 102,
+    "StateID": 1798
+  },
+  {
+    "id": 56656,
+    "name": "Supiori",
+    "latitude": "-0.73881000",
+    "longitude": "135.61111000",
+    "CountryID": 102,
+    "StateID": 1798
+  },
+  {
+    "id": 56690,
+    "name": "Waropen",
+    "latitude": "-2.28600000",
+    "longitude": "137.01837000",
+    "CountryID": 102,
+    "StateID": 1798
+  },
+  {
+    "id": 56405,
+    "name": "Fakfak",
+    "latitude": "-2.92641000",
+    "longitude": "132.29608000",
+    "CountryID": 102,
+    "StateID": 1799
+  },
+  {
+    "id": 56527,
+    "name": "Kabupaten Manokwari",
+    "latitude": "-0.90000000",
+    "longitude": "133.75000000",
+    "CountryID": 102,
+    "StateID": 1799
+  },
+  {
+    "id": 56435,
+    "name": "Kaimana",
+    "latitude": "-3.66093000",
+    "longitude": "133.77451000",
+    "CountryID": 102,
+    "StateID": 1799
+  },
+  {
+    "id": 56860,
+    "name": "Manokwari",
+    "latitude": "-0.86291000",
+    "longitude": "134.06402000",
+    "CountryID": 102,
+    "StateID": 1799
+  },
+  {
+    "id": 56528,
+    "name": "Manokwari Selatan",
+    "latitude": "-1.07980000",
+    "longitude": "133.96729000",
+    "CountryID": 102,
+    "StateID": 1799
+  },
+  {
+    "id": 56677,
+    "name": "Teluk Bintuni",
+    "latitude": "-1.88037000",
+    "longitude": "133.33105000",
+    "CountryID": 102,
+    "StateID": 1799
+  },
+  {
+    "id": 56678,
+    "name": "Teluk Wondama",
+    "latitude": "-2.70000000",
+    "longitude": "134.50000000",
+    "CountryID": 102,
+    "StateID": 1799
+  },
+  {
+    "id": 56641,
+    "name": "Kabupaten Sorong",
+    "latitude": "-1.16667000",
+    "longitude": "131.50000000",
+    "CountryID": 102,
+    "StateID": 5238
+  },
+  {
+    "id": 56531,
+    "name": "Maybrat",
+    "latitude": "-1.21550000",
+    "longitude": "132.35092000",
+    "CountryID": 102,
+    "StateID": 5238
+  },
+  {
+    "id": 56608,
+    "name": "Raja Ampat",
+    "latitude": "-0.50000000",
+    "longitude": "130.00000000",
+    "CountryID": 102,
+    "StateID": 5238
+  },
+  {
+    "id": 56995,
+    "name": "Sorong",
+    "latitude": "-0.87956000",
+    "longitude": "131.26104000",
+    "CountryID": 102,
+    "StateID": 5238
+  },
+  {
+    "id": 56642,
+    "name": "Sorong Selatan",
+    "latitude": "-1.50495000",
+    "longitude": "132.28638000",
+    "CountryID": 102,
+    "StateID": 5238
+  },
+  {
+    "id": 56660,
+    "name": "Tambrauw",
+    "latitude": "-0.60515000",
+    "longitude": "132.48962000",
+    "CountryID": 102,
+    "StateID": 5238
+  },
+  {
+    "id": 56429,
+    "name": "Jayawijaya",
+    "latitude": "-4.08333000",
+    "longitude": "139.08333000",
+    "CountryID": 102,
+    "StateID": 5236
+  },
+  {
+    "id": 56490,
+    "name": "Lanny Jaya",
+    "latitude": "-3.91244000",
+    "longitude": "138.28766000",
+    "CountryID": 102,
+    "StateID": 5236
+  },
+  {
+    "id": 56519,
+    "name": "Mamberamo Tengah",
+    "latitude": "-2.46064000",
+    "longitude": "138.45245000",
+    "CountryID": 102,
+    "StateID": 5236
+  },
+  {
+    "id": 56555,
+    "name": "Nduga",
+    "latitude": "-4.45093000",
+    "longitude": "138.10089000",
+    "CountryID": 102,
+    "StateID": 5236
+  },
+  {
+    "id": 56584,
+    "name": "Pegunungan Bintang",
+    "latitude": "-4.52167000",
+    "longitude": "140.29541000",
+    "CountryID": 102,
+    "StateID": 5236
+  },
+  {
+    "id": 56683,
+    "name": "Tolikara",
+    "latitude": "-3.42661000",
+    "longitude": "137.41699000",
+    "CountryID": 102,
+    "StateID": 5236
+  },
+  {
+    "id": 56694,
+    "name": "Yahukimo",
+    "latitude": "-4.60403000",
+    "longitude": "139.58405000",
+    "CountryID": 102,
+    "StateID": 5236
+  },
+  {
+    "id": 56695,
+    "name": "Yalimo",
+    "latitude": "-3.86037000",
+    "longitude": "138.47305000",
+    "CountryID": 102,
+    "StateID": 5236
+  },
+  {
+    "id": 56321,
+    "name": "Asmat",
+    "latitude": "-5.37950000",
+    "longitude": "138.46344000",
+    "CountryID": 102,
+    "StateID": 5237
+  },
+  {
+    "id": 56376,
+    "name": "Boven Digoel",
+    "latitude": "-5.70519000",
+    "longitude": "140.36349000",
+    "CountryID": 102,
+    "StateID": 5237
+  },
+  {
+    "id": 56529,
+    "name": "Mappi",
+    "latitude": "-6.49971000",
+    "longitude": "139.34441000",
+    "CountryID": 102,
+    "StateID": 5237
+  },
+  {
+    "id": 56533,
+    "name": "Merauke",
+    "latitude": "-7.66667000",
+    "longitude": "139.66667000",
+    "CountryID": 102,
+    "StateID": 5237
+  },
+  {
+    "id": 56395,
+    "name": "Deiyai",
+    "latitude": "-3.94737000",
+    "longitude": "135.95032000",
+    "CountryID": 102,
+    "StateID": 5235
+  },
+  {
+    "id": 56399,
+    "name": "Dogiyai",
+    "latitude": "-4.03186000",
+    "longitude": "135.43945000",
+    "CountryID": 102,
+    "StateID": 5235
+  },
+  {
+    "id": 56427,
+    "name": "Intan Jaya",
+    "latitude": "-3.41016000",
+    "longitude": "136.70837000",
+    "CountryID": 102,
+    "StateID": 5235
+  },
+  {
+    "id": 56551,
+    "name": "Kabupaten Nabire",
+    "latitude": "-3.54016000",
+    "longitude": "135.55511000",
+    "CountryID": 102,
+    "StateID": 5235
+  },
+  {
+    "id": 56535,
+    "name": "Mimika",
+    "latitude": "-4.54357000",
+    "longitude": "136.56555000",
+    "CountryID": 102,
+    "StateID": 5235
+  },
+  {
+    "id": 56882,
+    "name": "Nabire",
+    "latitude": "-3.35989000",
+    "longitude": "135.50074000",
+    "CountryID": 102,
+    "StateID": 5235
+  },
+  {
+    "id": 56577,
+    "name": "Paniai",
+    "latitude": "-3.90000000",
+    "longitude": "136.60000000",
+    "CountryID": 102,
+    "StateID": 5235
+  },
+  {
+    "id": 56604,
+    "name": "Puncak",
+    "latitude": "-3.67241000",
+    "longitude": "137.43896000",
+    "CountryID": 102,
+    "StateID": 5235
+  },
+  {
+    "id": 153774,
+    "name": "Puncak Jaya",
+    "latitude": "-3.51069440",
+    "longitude": "137.86611111",
+    "CountryID": 102,
+    "StateID": 5235
+  },
+  {
+    "id": 56188,
+    "name": "Balaipungut",
+    "latitude": "1.05949000",
+    "longitude": "101.29054000",
+    "CountryID": 102,
+    "StateID": 1809
+  },
+  {
+    "id": 56208,
+    "name": "Batam",
+    "latitude": "1.14937000",
+    "longitude": "104.02491000",
+    "CountryID": 102,
+    "StateID": 1809
+  },
+  {
+    "id": 56354,
+    "name": "Bengkalis",
+    "latitude": "0.98380000",
+    "longitude": "102.50960000",
+    "CountryID": 102,
+    "StateID": 1809
+  },
+  {
+    "id": 56270,
+    "name": "Dumai",
+    "latitude": "1.66711000",
+    "longitude": "101.44316000",
+    "CountryID": 102,
+    "StateID": 1809
+  },
+  {
+    "id": 56424,
+    "name": "Indragiri Hilir",
+    "latitude": "-0.33333000",
+    "longitude": "103.16667000",
+    "CountryID": 102,
+    "StateID": 1809
+  },
+  {
+    "id": 56425,
+    "name": "Indragiri Hulu",
+    "latitude": "-0.55000000",
+    "longitude": "102.31667000",
+    "CountryID": 102,
+    "StateID": 1809
+  },
+  {
+    "id": 56436,
+    "name": "Kampar",
+    "latitude": "0.23440000",
+    "longitude": "101.21310000",
+    "CountryID": 102,
+    "StateID": 1809
+  },
+  {
+    "id": 56453,
+    "name": "Kepulauan Meranti",
+    "latitude": "0.97488000",
+    "longitude": "102.69539000",
+    "CountryID": 102,
+    "StateID": 1809
+  },
+  {
+    "id": 56471,
+    "name": "Kuantan Singingi",
+    "latitude": "-0.47532000",
+    "longitude": "101.45857000",
+    "CountryID": 102,
+    "StateID": 1809
+  },
+  {
+    "id": 56927,
+    "name": "Pekanbaru",
+    "latitude": "0.51667000",
+    "longitude": "101.44167000",
+    "CountryID": 102,
+    "StateID": 1809
+  },
+  {
+    "id": 56586,
+    "name": "Pelalawan",
+    "latitude": "0.20822000",
+    "longitude": "102.18607000",
+    "CountryID": 102,
+    "StateID": 1809
+  },
+  {
+    "id": 56611,
+    "name": "Rokan Hilir",
+    "latitude": "2.16599000",
+    "longitude": "100.82514000",
+    "CountryID": 102,
+    "StateID": 1809
+  },
+  {
+    "id": 56612,
+    "name": "Rokan Hulu",
+    "latitude": "0.88333000",
+    "longitude": "100.48333000",
+    "CountryID": 102,
+    "StateID": 1809
+  },
+  {
+    "id": 56626,
+    "name": "Siak",
+    "latitude": "0.97453000",
+    "longitude": "102.01355000",
+    "CountryID": 102,
+    "StateID": 1809
+  },
+  {
+    "id": 56509,
+    "name": "Kabupaten Majene",
+    "latitude": "-3.15000000",
+    "longitude": "118.86667000",
+    "CountryID": 102,
+    "StateID": 1817
+  },
+  {
+    "id": 56520,
+    "name": "Kabupaten Mamuju",
+    "latitude": "-2.50000000",
+    "longitude": "119.41667000",
+    "CountryID": 102,
+    "StateID": 1817
+  },
+  {
+    "id": 56854,
+    "name": "Majene",
+    "latitude": "-3.54030000",
+    "longitude": "118.97070000",
+    "CountryID": 102,
+    "StateID": 1817
+  },
+  {
+    "id": 56517,
+    "name": "Mamasa",
+    "latitude": "-2.96492000",
+    "longitude": "119.30631000",
+    "CountryID": 102,
+    "StateID": 1817
+  },
+  {
+    "id": 56857,
+    "name": "Mamuju",
+    "latitude": "-2.68056000",
+    "longitude": "118.88611000",
+    "CountryID": 102,
+    "StateID": 1817
+  },
+  {
+    "id": 56521,
+    "name": "Mamuju Tengah",
+    "latitude": "-2.82120000",
+    "longitude": "119.26620000",
+    "CountryID": 102,
+    "StateID": 1817
+  },
+  {
+    "id": 56522,
+    "name": "Mamuju Utara",
+    "latitude": "-1.51639000",
+    "longitude": "119.42139000",
+    "CountryID": 102,
+    "StateID": 1817
+  },
+  {
+    "id": 56935,
+    "name": "Polewali",
+    "latitude": "-3.43240000",
+    "longitude": "119.34350000",
+    "CountryID": 102,
+    "StateID": 1817
+  },
+  {
+    "id": 56596,
+    "name": "Polewali Mandar",
+    "latitude": "-3.30000000",
+    "longitude": "119.16667000",
+    "CountryID": 102,
+    "StateID": 1817
+  },
+  {
+    "id": 56337,
+    "name": "Bantaeng",
+    "latitude": "-5.48333000",
+    "longitude": "119.98333000",
+    "CountryID": 102,
+    "StateID": 1795
+  },
+  {
+    "id": 56345,
+    "name": "Barru",
+    "latitude": "-4.43333000",
+    "longitude": "119.68333000",
+    "CountryID": 102,
+    "StateID": 1795
+  },
+  {
+    "id": 56374,
+    "name": "Bone",
+    "latitude": "-4.70000000",
+    "longitude": "120.13333000",
+    "CountryID": 102,
+    "StateID": 1795
+  },
+  {
+    "id": 56380,
+    "name": "Bulukumba",
+    "latitude": "-5.41667000",
+    "longitude": "120.23333000",
+    "CountryID": 102,
+    "StateID": 1795
+  },
+  {
+    "id": 56404,
+    "name": "Enrekang",
+    "latitude": "-3.50000000",
+    "longitude": "119.86667000",
+    "CountryID": 102,
+    "StateID": 1795
+  },
+  {
+    "id": 56273,
+    "name": "Galesong",
+    "latitude": "-5.31660000",
+    "longitude": "119.36610000",
+    "CountryID": 102,
+    "StateID": 1795
+  },
+  {
+    "id": 56412,
+    "name": "Gowa",
+    "latitude": "-5.31667000",
+    "longitude": "119.75000000",
+    "CountryID": 102,
+    "StateID": 1795
+  },
+  {
+    "id": 56432,
+    "name": "Jeneponto",
+    "latitude": "-5.63333000",
+    "longitude": "119.73333000",
+    "CountryID": 102,
+    "StateID": 1795
+  },
+  {
+    "id": 56530,
+    "name": "Kabupaten Maros",
+    "latitude": "-5.05000000",
+    "longitude": "119.71667000",
+    "CountryID": 102,
+    "StateID": 1795
+  },
+  {
+    "id": 56635,
+    "name": "Kabupaten Sinjai",
+    "latitude": "-5.21667000",
+    "longitude": "120.15000000",
+    "CountryID": 102,
+    "StateID": 1795
+  },
+  {
+    "id": 56501,
+    "name": "Luwu",
+    "latitude": "-2.55770000",
+    "longitude": "121.32420000",
+    "CountryID": 102,
+    "StateID": 1795
+  },
+  {
+    "id": 56502,
+    "name": "Luwu Timur",
+    "latitude": "-2.50957000",
+    "longitude": "120.39780000",
+    "CountryID": 102,
+    "StateID": 1795
+  },
+  {
+    "id": 56503,
+    "name": "Luwu Utara",
+    "latitude": "-2.60000000",
+    "longitude": "120.25000000",
+    "CountryID": 102,
+    "StateID": 1795
+  },
+  {
+    "id": 56855,
+    "name": "Makassar",
+    "latitude": "-5.14861000",
+    "longitude": "119.43194000",
+    "CountryID": 102,
+    "StateID": 1795
+  },
+  {
+    "id": 56863,
+    "name": "Maros",
+    "latitude": "-5.00600000",
+    "longitude": "119.57270000",
+    "CountryID": 102,
+    "StateID": 1795
+  },
+  {
+    "id": 56900,
+    "name": "Palopo",
+    "latitude": "-2.99250000",
+    "longitude": "120.19694000",
+    "CountryID": 102,
+    "StateID": 1795
+  },
+  {
+    "id": 56576,
+    "name": "Pangkajene Dan Kepulauan",
+    "latitude": "-4.78270000",
+    "longitude": "119.55060000",
+    "CountryID": 102,
+    "StateID": 1795
+  },
+  {
+    "id": 56916,
+    "name": "Parepare",
+    "latitude": "-4.01350000",
+    "longitude": "119.62550000",
+    "CountryID": 102,
+    "StateID": 1795
+  },
+  {
+    "id": 56594,
+    "name": "Pinrang",
+    "latitude": "-3.61667000",
+    "longitude": "119.60000000",
+    "CountryID": 102,
+    "StateID": 1795
+  },
+  {
+    "id": 56952,
+    "name": "Rantepao",
+    "latitude": "-2.97010000",
+    "longitude": "119.89780000",
+    "CountryID": 102,
+    "StateID": 1795
+  },
+  {
+    "id": 56963,
+    "name": "Selayar Islands Regency",
+    "latitude": "-6.81667000",
+    "longitude": "120.80000000",
+    "CountryID": 102,
+    "StateID": 1795
+  },
+  {
+    "id": 56967,
+    "name": "Sengkang",
+    "latitude": "-4.12790000",
+    "longitude": "120.02970000",
+    "CountryID": 102,
+    "StateID": 1795
+  },
+  {
+    "id": 56628,
+    "name": "Sidenreng Rappang",
+    "latitude": "-3.85000000",
+    "longitude": "119.96667000",
+    "CountryID": 102,
+    "StateID": 1795
+  },
+  {
+    "id": 56985,
+    "name": "Sinjai",
+    "latitude": "-5.12410000",
+    "longitude": "120.25300000",
+    "CountryID": 102,
+    "StateID": 1795
+  },
+  {
+    "id": 56640,
+    "name": "Soppeng",
+    "latitude": "-4.38420000",
+    "longitude": "119.89000000",
+    "CountryID": 102,
+    "StateID": 1795
+  },
+  {
+    "id": 56659,
+    "name": "Takalar",
+    "latitude": "-5.41667000",
+    "longitude": "119.51667000",
+    "CountryID": 102,
+    "StateID": 1795
+  },
+  {
+    "id": 56662,
+    "name": "Tana Toraja",
+    "latitude": "-3.00240000",
+    "longitude": "119.79655000",
+    "CountryID": 102,
+    "StateID": 1795
+  },
+  {
+    "id": 56684,
+    "name": "Toraja Utara",
+    "latitude": "-2.92738000",
+    "longitude": "119.79218000",
+    "CountryID": 102,
+    "StateID": 1795
+  },
+  {
+    "id": 56689,
+    "name": "Wajo",
+    "latitude": "-4.00000000",
+    "longitude": "120.16667000",
+    "CountryID": 102,
+    "StateID": 1795
+  },
+  {
+    "id": 57052,
+    "name": "Watampone",
+    "latitude": "-4.53860000",
+    "longitude": "120.32790000",
+    "CountryID": 102,
+    "StateID": 1795
+  },
+  {
+    "id": 56326,
+    "name": "Banggai",
+    "latitude": "-0.91141000",
+    "longitude": "122.71836000",
+    "CountryID": 102,
+    "StateID": 1813
+  },
+  {
+    "id": 56327,
+    "name": "Banggai Kepulauan",
+    "latitude": "-1.30236000",
+    "longitude": "123.03726000",
+    "CountryID": 102,
+    "StateID": 1813
+  },
+  {
+    "id": 56328,
+    "name": "Banggai Laut",
+    "latitude": "-1.61841000",
+    "longitude": "123.49388000",
+    "CountryID": 102,
+    "StateID": 1813
+  },
+  {
+    "id": 56383,
+    "name": "Buol",
+    "latitude": "1.04656000",
+    "longitude": "121.36867000",
+    "CountryID": 102,
+    "StateID": 1813
+  },
+  {
+    "id": 56401,
+    "name": "Donggala",
+    "latitude": "-0.58333000",
+    "longitude": "119.85000000",
+    "CountryID": 102,
+    "StateID": 1813
+  },
+  {
+    "id": 56598,
+    "name": "Kabupaten Poso",
+    "latitude": "-1.65000000",
+    "longitude": "120.50000000",
+    "CountryID": 102,
+    "StateID": 1813
+  },
+  {
+    "id": 56849,
+    "name": "Luwuk",
+    "latitude": "-0.95160000",
+    "longitude": "122.78750000",
+    "CountryID": 102,
+    "StateID": 1813
+  },
+  {
+    "id": 56876,
+    "name": "Morowali Regency",
+    "latitude": "-2.76062000",
+    "longitude": "121.95267000",
+    "CountryID": 102,
+    "StateID": 1813
+  },
+  {
+    "id": 56541,
+    "name": "Morowali Utara",
+    "latitude": "-1.72070000",
+    "longitude": "121.24649000",
+    "CountryID": 102,
+    "StateID": 1813
+  },
+  {
+    "id": 56901,
+    "name": "Palu",
+    "latitude": "-0.90833000",
+    "longitude": "119.87083000",
+    "CountryID": 102,
+    "StateID": 1813
+  },
+  {
+    "id": 56578,
+    "name": "Parigi Moutong",
+    "latitude": "0.33680000",
+    "longitude": "120.17841000",
+    "CountryID": 102,
+    "StateID": 1813
+  },
+  {
+    "id": 56937,
+    "name": "Poso",
+    "latitude": "-1.39590000",
+    "longitude": "120.75240000",
+    "CountryID": 102,
+    "StateID": 1813
+  },
+  {
+    "id": 56630,
+    "name": "Sigi",
+    "latitude": "-1.38500000",
+    "longitude": "119.96694000",
+    "CountryID": 102,
+    "StateID": 1813
+  },
+  {
+    "id": 57034,
+    "name": "Tojo Una-Una Regency",
+    "latitude": "-1.20360000",
+    "longitude": "121.48201000",
+    "CountryID": 102,
+    "StateID": 1813
+  },
+  {
+    "id": 56682,
+    "name": "Toli-Toli",
+    "latitude": "1.30862000",
+    "longitude": "120.88643000",
+    "CountryID": 102,
+    "StateID": 1813
+  },
+  {
+    "id": 56372,
+    "name": "Bombana",
+    "latitude": "-4.62570000",
+    "longitude": "121.81641000",
+    "CountryID": 102,
+    "StateID": 1796
+  },
+  {
+    "id": 56386,
+    "name": "Buton",
+    "latitude": "-5.31667000",
+    "longitude": "122.91667000",
+    "CountryID": 102,
+    "StateID": 1796
+  },
+  {
+    "id": 56387,
+    "name": "Buton Selatan",
+    "latitude": "-5.56667000",
+    "longitude": "122.70000000",
+    "CountryID": 102,
+    "StateID": 1796
+  },
+  {
+    "id": 56388,
+    "name": "Buton Tengah",
+    "latitude": "-5.31667000",
+    "longitude": "122.33333000",
+    "CountryID": 102,
+    "StateID": 1796
+  },
+  {
+    "id": 56389,
+    "name": "Buton Utara",
+    "latitude": "-5.01457000",
+    "longitude": "122.93015000",
+    "CountryID": 102,
+    "StateID": 1796
+  },
+  {
+    "id": 56703,
+    "name": "Katabu",
+    "latitude": "-4.93330000",
+    "longitude": "122.51670000",
+    "CountryID": 102,
+    "StateID": 1796
+  },
+  {
+    "id": 56712,
+    "name": "Kendari",
+    "latitude": "-3.97780000",
+    "longitude": "122.51507000",
+    "CountryID": 102,
+    "StateID": 1796
+  },
+  {
+    "id": 56461,
+    "name": "Kolaka",
+    "latitude": "-4.08333000",
+    "longitude": "121.66667000",
+    "CountryID": 102,
+    "StateID": 1796
+  },
+  {
+    "id": 56462,
+    "name": "Kolaka Timur",
+    "latitude": "-4.01807000",
+    "longitude": "121.86172000",
+    "CountryID": 102,
+    "StateID": 1796
+  },
+  {
+    "id": 56463,
+    "name": "Kolaka Utara",
+    "latitude": "-3.10452000",
+    "longitude": "121.12427000",
+    "CountryID": 102,
+    "StateID": 1796
+  },
+  {
+    "id": 56464,
+    "name": "Konawe",
+    "latitude": "-3.91717000",
+    "longitude": "122.08823000",
+    "CountryID": 102,
+    "StateID": 1796
+  },
+  {
+    "id": 56465,
+    "name": "Konawe Kepulauan",
+    "latitude": "-4.11656000",
+    "longitude": "123.10181000",
+    "CountryID": 102,
+    "StateID": 1796
+  },
+  {
+    "id": 56466,
+    "name": "Konawe Selatan",
+    "latitude": "-4.19191000",
+    "longitude": "122.44854000",
+    "CountryID": 102,
+    "StateID": 1796
+  },
+  {
+    "id": 56467,
+    "name": "Konawe Utara",
+    "latitude": "-3.41552000",
+    "longitude": "121.99081000",
+    "CountryID": 102,
+    "StateID": 1796
+  },
+  {
+    "id": 56545,
+    "name": "Muna",
+    "latitude": "-4.96667000",
+    "longitude": "122.66667000",
+    "CountryID": 102,
+    "StateID": 1796
+  },
+  {
+    "id": 56546,
+    "name": "Muna Barat",
+    "latitude": "-4.83333000",
+    "longitude": "122.48333000",
+    "CountryID": 102,
+    "StateID": 1796
+  },
+  {
+    "id": 57049,
+    "name": "Wakatobi Regency",
+    "latitude": "-5.31934000",
+    "longitude": "123.59480000",
+    "CountryID": 102,
+    "StateID": 1796
+  },
+  {
+    "id": 56368,
+    "name": "Bolaang Mongondow",
+    "latitude": "0.75000000",
+    "longitude": "124.08333000",
+    "CountryID": 102,
+    "StateID": 1808
+  },
+  {
+    "id": 56369,
+    "name": "Bolaang Mongondow Selatan",
+    "latitude": "0.40912000",
+    "longitude": "123.75961000",
+    "CountryID": 102,
+    "StateID": 1808
+  },
+  {
+    "id": 56370,
+    "name": "Bolaang Mongondow Timur",
+    "latitude": "0.72073000",
+    "longitude": "124.50256000",
+    "CountryID": 102,
+    "StateID": 1808
+  },
+  {
+    "id": 56371,
+    "name": "Bolaang Mongondow Utara",
+    "latitude": "0.78527000",
+    "longitude": "123.41766000",
+    "CountryID": 102,
+    "StateID": 1808
+  },
+  {
+    "id": 56454,
+    "name": "Kepulauan Sangihe",
+    "latitude": "3.50000000",
+    "longitude": "125.55000000",
+    "CountryID": 102,
+    "StateID": 1808
+  },
+  {
+    "id": 56456,
+    "name": "Kepulauan Talaud",
+    "latitude": "4.31178000",
+    "longitude": "126.78085000",
+    "CountryID": 102,
+    "StateID": 1808
+  },
+  {
+    "id": 56835,
+    "name": "Laikit Laikit II (Dimembe)",
+    "latitude": "1.48833000",
+    "longitude": "124.97444000",
+    "CountryID": 102,
+    "StateID": 1808
+  },
+  {
+    "id": 56858,
+    "name": "Manado",
+    "latitude": "1.48218000",
+    "longitude": "124.84892000",
+    "CountryID": 102,
+    "StateID": 1808
+  },
+  {
+    "id": 56536,
+    "name": "Minahasa",
+    "latitude": "1.25370000",
+    "longitude": "124.83000000",
+    "CountryID": 102,
+    "StateID": 1808
+  },
+  {
+    "id": 56537,
+    "name": "Minahasa Selatan",
+    "latitude": "1.21291000",
+    "longitude": "124.59708000",
+    "CountryID": 102,
+    "StateID": 1808
+  },
+  {
+    "id": 56538,
+    "name": "Minahasa Tenggara",
+    "latitude": "1.05633000",
+    "longitude": "124.79250000",
+    "CountryID": 102,
+    "StateID": 1808
+  },
+  {
+    "id": 56539,
+    "name": "Minahasa Utara",
+    "latitude": "1.40250000",
+    "longitude": "124.96000000",
+    "CountryID": 102,
+    "StateID": 1808
+  },
+  {
+    "id": 56627,
+    "name": "Siau Tagulandang Biaro",
+    "latitude": "2.11728000",
+    "longitude": "125.37512000",
+    "CountryID": 102,
+    "StateID": 1808
+  },
+  {
+    "id": 57035,
+    "name": "Tomohon",
+    "latitude": "1.31678000",
+    "longitude": "124.80379000",
+    "CountryID": 102,
+    "StateID": 1808
+  },
+  {
+    "id": 57037,
+    "name": "Tondano",
+    "latitude": "1.30540000",
+    "longitude": "124.91261000",
+    "CountryID": 102,
+    "StateID": 1808
+  },
+  {
+    "id": 56318,
+    "name": "Agam",
+    "latitude": "-0.25000000",
+    "longitude": "100.16667000",
+    "CountryID": 102,
+    "StateID": 1828
+  },
+  {
+    "id": 56234,
+    "name": "Bukittinggi",
+    "latitude": "-0.30907000",
+    "longitude": "100.37055000",
+    "CountryID": 102,
+    "StateID": 1828
+  },
+  {
+    "id": 56398,
+    "name": "Dharmasraya",
+    "latitude": "-1.05000000",
+    "longitude": "101.36700000",
+    "CountryID": 102,
+    "StateID": 1828
+  },
+  {
+    "id": 56631,
+    "name": "Kabupaten Sijunjung",
+    "latitude": "-1.18270000",
+    "longitude": "101.60560000",
+    "CountryID": 102,
+    "StateID": 1828
+  },
+  {
+    "id": 56638,
+    "name": "Kabupaten Solok",
+    "latitude": "-0.96667000",
+    "longitude": "100.81667000",
+    "CountryID": 102,
+    "StateID": 1828
+  },
+  {
+    "id": 56452,
+    "name": "Kepulauan Mentawai",
+    "latitude": "1.98917000",
+    "longitude": "99.51889000",
+    "CountryID": 102,
+    "StateID": 1828
+  },
+  {
+    "id": 56494,
+    "name": "Lima Puluh Kota",
+    "latitude": "-0.01680000",
+    "longitude": "100.58720000",
+    "CountryID": 102,
+    "StateID": 1828
+  },
+  {
+    "id": 56893,
+    "name": "Padang",
+    "latitude": "-0.94924000",
+    "longitude": "100.35427000",
+    "CountryID": 102,
+    "StateID": 1828
+  },
+  {
+    "id": 56571,
+    "name": "Padang Pariaman",
+    "latitude": "-0.60000000",
+    "longitude": "100.28333000",
+    "CountryID": 102,
+    "StateID": 1828
+  },
+  {
+    "id": 56917,
+    "name": "Pariaman",
+    "latitude": "-0.61898000",
+    "longitude": "100.11997000",
+    "CountryID": 102,
+    "StateID": 1828
+  },
+  {
+    "id": 56579,
+    "name": "Pasaman",
+    "latitude": "0.42503000",
+    "longitude": "99.94606000",
+    "CountryID": 102,
+    "StateID": 1828
+  },
+  {
+    "id": 56580,
+    "name": "Pasaman Barat",
+    "latitude": "0.28152000",
+    "longitude": "99.51965000",
+    "CountryID": 102,
+    "StateID": 1828
+  },
+  {
+    "id": 56923,
+    "name": "Payakumbuh",
+    "latitude": "-0.21590000",
+    "longitude": "100.63340000",
+    "CountryID": 102,
+    "StateID": 1828
+  },
+  {
+    "id": 56592,
+    "name": "Pesisir Selatan",
+    "latitude": "-1.58333000",
+    "longitude": "100.85000000",
+    "CountryID": 102,
+    "StateID": 1828
+  },
+  {
+    "id": 56977,
+    "name": "Sijunjung",
+    "latitude": "-0.70050000",
+    "longitude": "100.97740000",
+    "CountryID": 102,
+    "StateID": 1828
+  },
+  {
+    "id": 56993,
+    "name": "Solok",
+    "latitude": "-0.80060000",
+    "longitude": "100.65710000",
+    "CountryID": 102,
+    "StateID": 1828
+  },
+  {
+    "id": 56639,
+    "name": "Solok Selatan",
+    "latitude": "-1.23333000",
+    "longitude": "101.41700000",
+    "CountryID": 102,
+    "StateID": 1828
+  },
+  {
+    "id": 56664,
+    "name": "Tanah Datar",
+    "latitude": "-0.45550000",
+    "longitude": "100.57710000",
+    "CountryID": 102,
+    "StateID": 1828
+  },
+  {
+    "id": 56212,
+    "name": "Baturaja",
+    "latitude": "-4.12891000",
+    "longitude": "104.16695000",
+    "CountryID": 102,
+    "StateID": 1816
+  },
+  {
+    "id": 56402,
+    "name": "Empat Lawang",
+    "latitude": "3.22667000",
+    "longitude": "99.09256000",
+    "CountryID": 102,
+    "StateID": 1816
+  },
+  {
+    "id": 56833,
+    "name": "Lahat",
+    "latitude": "-3.78514000",
+    "longitude": "103.54279000",
+    "CountryID": 102,
+    "StateID": 1816
+  },
+  {
+    "id": 56834,
+    "name": "Lahat Regency",
+    "latitude": "-3.78640000",
+    "longitude": "103.54280000",
+    "CountryID": 102,
+    "StateID": 1816
+  },
+  {
+    "id": 56847,
+    "name": "Lubuklinggau",
+    "latitude": "-3.29450000",
+    "longitude": "102.86140000",
+    "CountryID": 102,
+    "StateID": 1816
+  },
+  {
+    "id": 56542,
+    "name": "Muara Enim",
+    "latitude": "-4.23270000",
+    "longitude": "103.61410000",
+    "CountryID": 102,
+    "StateID": 1816
+  },
+  {
+    "id": 56548,
+    "name": "Musi Banyuasin",
+    "latitude": "-2.41667000",
+    "longitude": "103.75000000",
+    "CountryID": 102,
+    "StateID": 1816
+  },
+  {
+    "id": 56549,
+    "name": "Musi Rawas",
+    "latitude": "-3.08333000",
+    "longitude": "103.20000000",
+    "CountryID": 102,
+    "StateID": 1816
+  },
+  {
+    "id": 56550,
+    "name": "Musi Rawas Utara",
+    "latitude": "-2.48533000",
+    "longitude": "103.29346000",
+    "CountryID": 102,
+    "StateID": 1816
+  },
+  {
+    "id": 56563,
+    "name": "Ogan Ilir",
+    "latitude": "-3.43186000",
+    "longitude": "104.62727000",
+    "CountryID": 102,
+    "StateID": 1816
+  },
+  {
+    "id": 56564,
+    "name": "Ogan Komering Ilir",
+    "latitude": "-3.36667000",
+    "longitude": "105.36667000",
+    "CountryID": 102,
+    "StateID": 1816
+  },
+  {
+    "id": 56565,
+    "name": "Ogan Komering Ulu",
+    "latitude": "-4.13333000",
+    "longitude": "104.03333000",
+    "CountryID": 102,
+    "StateID": 1816
+  },
+  {
+    "id": 56566,
+    "name": "Ogan Komering Ulu Selatan",
+    "latitude": "-4.65728000",
+    "longitude": "104.00659000",
+    "CountryID": 102,
+    "StateID": 1816
+  },
+  {
+    "id": 56567,
+    "name": "Ogan Komering Ulu Timur",
+    "latitude": "-3.85679000",
+    "longitude": "104.75209000",
+    "CountryID": 102,
+    "StateID": 1816
+  },
+  {
+    "id": 56895,
+    "name": "Pagar Alam",
+    "latitude": "-4.02506000",
+    "longitude": "103.24694000",
+    "CountryID": 102,
+    "StateID": 1816
+  },
+  {
+    "id": 56898,
+    "name": "Palembang",
+    "latitude": "-2.91673000",
+    "longitude": "104.74580000",
+    "CountryID": 102,
+    "StateID": 1816
+  },
+  {
+    "id": 56589,
+    "name": "Penukal Abab Lematang Ilir",
+    "latitude": "-3.21342000",
+    "longitude": "104.08722000",
+    "CountryID": 102,
+    "StateID": 1816
+  },
+  {
+    "id": 56939,
+    "name": "Prabumulih",
+    "latitude": "-3.43447000",
+    "longitude": "104.23056000",
+    "CountryID": 102,
+    "StateID": 1816
+  },
+  {
+    "id": 57020,
+    "name": "Tanjungagung",
+    "latitude": "-3.93728000",
+    "longitude": "103.80465000",
+    "CountryID": 102,
+    "StateID": 1816
+  },
+  {
+    "id": 56177,
+    "name": "Ambarita",
+    "latitude": "2.68140000",
+    "longitude": "98.83110000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56320,
+    "name": "Asahan",
+    "latitude": "2.78333000",
+    "longitude": "99.55000000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56194,
+    "name": "Bandar",
+    "latitude": "2.05000000",
+    "longitude": "99.75000000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56348,
+    "name": "Batu Bara",
+    "latitude": "3.16166000",
+    "longitude": "99.52652000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56216,
+    "name": "Belawan",
+    "latitude": "3.77550000",
+    "longitude": "98.68320000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56218,
+    "name": "Berastagi",
+    "latitude": "3.19468000",
+    "longitude": "98.50889000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56222,
+    "name": "Binjai",
+    "latitude": "3.60010000",
+    "longitude": "98.48540000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56394,
+    "name": "Dairi",
+    "latitude": "2.86667000",
+    "longitude": "98.23333000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56396,
+    "name": "Deli Serdang",
+    "latitude": "3.41667000",
+    "longitude": "98.66667000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56261,
+    "name": "Deli Tua",
+    "latitude": "3.50780000",
+    "longitude": "98.68390000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56290,
+    "name": "Gunungsitoli",
+    "latitude": "1.28880000",
+    "longitude": "97.61430000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56423,
+    "name": "Humbang Hasundutan",
+    "latitude": "2.26551000",
+    "longitude": "98.50376000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56306,
+    "name": "Kabanjahe",
+    "latitude": "3.10010000",
+    "longitude": "98.49080000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56442,
+    "name": "Karo",
+    "latitude": "3.11667000",
+    "longitude": "98.30000000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56717,
+    "name": "Kisaran",
+    "latitude": "2.98450000",
+    "longitude": "99.61580000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56479,
+    "name": "Labuhan Batu",
+    "latitude": "2.26667000",
+    "longitude": "100.10000000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56480,
+    "name": "Labuhan Batu Selatan",
+    "latitude": "1.98300000",
+    "longitude": "100.09760000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56481,
+    "name": "Labuhan Batu Utara",
+    "latitude": "2.33349000",
+    "longitude": "99.63776000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56832,
+    "name": "Labuhan Deli",
+    "latitude": "3.72780000",
+    "longitude": "98.67380000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56489,
+    "name": "Langkat",
+    "latitude": "3.71667000",
+    "longitude": "98.21667000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56523,
+    "name": "Mandailing Natal",
+    "latitude": "0.78378000",
+    "longitude": "99.25495000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56867,
+    "name": "Medan",
+    "latitude": "3.58333000",
+    "longitude": "98.66667000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56559,
+    "name": "Nias",
+    "latitude": "1.03333000",
+    "longitude": "97.76667000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56560,
+    "name": "Nias Barat",
+    "latitude": "1.05966000",
+    "longitude": "97.58606000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56561,
+    "name": "Nias Utara",
+    "latitude": "1.33037000",
+    "longitude": "97.31964000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56569,
+    "name": "Padang Lawas",
+    "latitude": "1.44684000",
+    "longitude": "99.99207000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56570,
+    "name": "Padang Lawas Utara",
+    "latitude": "1.46011000",
+    "longitude": "99.67346000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56894,
+    "name": "Padangsidempuan",
+    "latitude": "1.37952000",
+    "longitude": "99.27146000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56572,
+    "name": "Pakpak Bharat",
+    "latitude": "2.56667000",
+    "longitude": "98.28333000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56910,
+    "name": "Pangkalan Brandan",
+    "latitude": "4.02380000",
+    "longitude": "98.27820000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56914,
+    "name": "Parapat",
+    "latitude": "2.66300000",
+    "longitude": "98.93490000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56926,
+    "name": "Pekan Bahapal",
+    "latitude": "3.11313000",
+    "longitude": "99.17352000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56930,
+    "name": "Pematangsiantar",
+    "latitude": "2.95950000",
+    "longitude": "99.06870000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56932,
+    "name": "Perbaungan",
+    "latitude": "3.56790000",
+    "longitude": "98.95600000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56933,
+    "name": "Percut",
+    "latitude": "3.62530000",
+    "longitude": "98.86400000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56951,
+    "name": "Rantauprapat",
+    "latitude": "2.10000000",
+    "longitude": "99.83333000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56615,
+    "name": "Samosir",
+    "latitude": "2.64025000",
+    "longitude": "98.71525000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56624,
+    "name": "Serdang Bedagai",
+    "latitude": "3.36667000",
+    "longitude": "99.03333000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56973,
+    "name": "Sibolga",
+    "latitude": "1.74016000",
+    "longitude": "98.78117000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56633,
+    "name": "Simalungun",
+    "latitude": "2.90000000",
+    "longitude": "99.00000000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 57000,
+    "name": "Stabat",
+    "latitude": "3.73335000",
+    "longitude": "98.45025000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 57010,
+    "name": "Sunggal",
+    "latitude": "3.57650000",
+    "longitude": "98.61510000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 57021,
+    "name": "Tanjungbalai",
+    "latitude": "2.96667000",
+    "longitude": "99.80000000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 57022,
+    "name": "Tanjungtiram",
+    "latitude": "4.06130000",
+    "longitude": "98.36990000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56670,
+    "name": "Tapanuli Selatan",
+    "latitude": "1.51667000",
+    "longitude": "99.25000000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56671,
+    "name": "Tapanuli Tengah",
+    "latitude": "1.90000000",
+    "longitude": "98.66667000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 56672,
+    "name": "Tapanuli Utara",
+    "latitude": "2.00280000",
+    "longitude": "99.07070000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 57027,
+    "name": "Tebingtinggi",
+    "latitude": "3.32850000",
+    "longitude": "99.16250000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 57029,
+    "name": "Teluk Nibung",
+    "latitude": "3.00100000",
+    "longitude": "99.81640000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 57036,
+    "name": "Tomok Bolon",
+    "latitude": "2.65210000",
+    "longitude": "98.86080000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 57038,
+    "name": "Tongging",
+    "latitude": "2.89850000",
+    "longitude": "98.52310000",
+    "CountryID": 102,
+    "StateID": 1792
+  },
+  {
+    "id": 57043,
+    "name": "Tuktuk Sonak",
+    "latitude": "2.66890000",
+    "longitude": "98.85760000",
+    "CountryID": 102,
+    "StateID": 1792
+  }
+]

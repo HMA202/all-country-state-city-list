@@ -1,0 +1,338 @@
+[
+  {
+    "id": 67746,
+    "name": "Atar",
+    "latitude": "20.51770000",
+    "longitude": "-13.04857000",
+    "CountryID": 139,
+    "StateID": 3344
+  },
+  {
+    "id": 150074,
+    "name": "Azougui",
+    "latitude": "20.56764000",
+    "longitude": "-13.11191000",
+    "CountryID": 139,
+    "StateID": 3344
+  },
+  {
+    "id": 67748,
+    "name": "Chingueṭṭi",
+    "latitude": "20.46300000",
+    "longitude": "-12.36200000",
+    "CountryID": 139,
+    "StateID": 3344
+  },
+  {
+    "id": 150075,
+    "name": "Ksar el Khali",
+    "latitude": "20.93333333",
+    "longitude": "-11.61666667",
+    "CountryID": 139,
+    "StateID": 3344
+  },
+  {
+    "id": 67747,
+    "name": "Barkéwol",
+    "latitude": "16.64039000",
+    "longitude": "-12.49849000",
+    "CountryID": 139,
+    "StateID": 3349
+  },
+  {
+    "id": 67750,
+    "name": "Kiffa",
+    "latitude": "16.62073000",
+    "longitude": "-11.40208000",
+    "CountryID": 139,
+    "StateID": 3349
+  },
+  {
+    "id": 67757,
+    "name": "’Elb el Jmel",
+    "latitude": "17.01050000",
+    "longitude": "-13.97102000",
+    "CountryID": 139,
+    "StateID": 3339
+  },
+  {
+    "id": 67745,
+    "name": "Aleg",
+    "latitude": "17.05314000",
+    "longitude": "-13.91312000",
+    "CountryID": 139,
+    "StateID": 3339
+  },
+  {
+    "id": 150071,
+    "name": "Bofal",
+    "latitude": "16.41666667",
+    "longitude": "-13.80000000",
+    "CountryID": 139,
+    "StateID": 3339
+  },
+  {
+    "id": 150072,
+    "name": "Sori Malé",
+    "latitude": "16.95416667",
+    "longitude": "-13.37916667",
+    "CountryID": 139,
+    "StateID": 3339
+  },
+  {
+    "id": 150076,
+    "name": "Cansado",
+    "latitude": "20.85333333",
+    "longitude": "-17.03250000",
+    "CountryID": 139,
+    "StateID": 3346
+  },
+  {
+    "id": 150077,
+    "name": "Iouik",
+    "latitude": "19.84944444",
+    "longitude": "-16.33083333",
+    "CountryID": 139,
+    "StateID": 3346
+  },
+  {
+    "id": 67751,
+    "name": "Nouadhibou",
+    "latitude": "20.94188000",
+    "longitude": "-17.03842000",
+    "CountryID": 139,
+    "StateID": 3346
+  },
+  {
+    "id": 67749,
+    "name": "Kaédi",
+    "latitude": "16.15027000",
+    "longitude": "-13.50370000",
+    "CountryID": 139,
+    "StateID": 3341
+  },
+  {
+    "id": 67754,
+    "name": "Sélibaby",
+    "latitude": "15.15846000",
+    "longitude": "-12.18430000",
+    "CountryID": 139,
+    "StateID": 3350
+  },
+  {
+    "id": 150066,
+    "name": "Diade",
+    "latitude": "16.23333333",
+    "longitude": "-7.41666667",
+    "CountryID": 139,
+    "StateID": 3338
+  },
+  {
+    "id": 150067,
+    "name": "Kataouane",
+    "latitude": "16.06888889",
+    "longitude": "-6.49888889",
+    "CountryID": 139,
+    "StateID": 3338
+  },
+  {
+    "id": 67752,
+    "name": "Néma",
+    "latitude": "16.61702000",
+    "longitude": "-7.25649000",
+    "CountryID": 139,
+    "StateID": 3338
+  },
+  {
+    "id": 150068,
+    "name": "Timbedra",
+    "latitude": "16.24472222",
+    "longitude": "-8.16750000",
+    "CountryID": 139,
+    "StateID": 3338
+  },
+  {
+    "id": 67743,
+    "name": "Aioun",
+    "latitude": "16.66140000",
+    "longitude": "-9.61490000",
+    "CountryID": 139,
+    "StateID": 3351
+  },
+  {
+    "id": 150069,
+    "name": "Ayoun el Atrous",
+    "latitude": "16.66666667",
+    "longitude": "-9.61666667",
+    "CountryID": 139,
+    "StateID": 3351
+  },
+  {
+    "id": 150070,
+    "name": "Togba",
+    "latitude": "17.40000000",
+    "longitude": "-10.36666667",
+    "CountryID": 139,
+    "StateID": 3351
+  },
+  {
+    "id": 67744,
+    "name": "Akjoujt",
+    "latitude": "19.74657000",
+    "longitude": "-14.38531000",
+    "CountryID": 139,
+    "StateID": 3342
+  },
+  {
+    "id": 150085,
+    "name": "Dar-Naim",
+    "latitude": "18.03333333",
+    "longitude": "-15.96666667",
+    "CountryID": 139,
+    "StateID": 3343
+  },
+  {
+    "id": 150086,
+    "name": "Teyarett",
+    "latitude": "18.12895720",
+    "longitude": "-15.93778340",
+    "CountryID": 139,
+    "StateID": 3343
+  },
+  {
+    "id": 150087,
+    "name": "Toujouonine",
+    "latitude": "18.07169000",
+    "longitude": "-15.90311000",
+    "CountryID": 139,
+    "StateID": 3343
+  },
+  {
+    "id": 150082,
+    "name": "Ksar",
+    "latitude": "18.10490330",
+    "longitude": "-15.96443370",
+    "CountryID": 139,
+    "StateID": 3352
+  },
+  {
+    "id": 150083,
+    "name": "Sebkha",
+    "latitude": "18.07555556",
+    "longitude": "-16.00194444",
+    "CountryID": 139,
+    "StateID": 3352
+  },
+  {
+    "id": 150084,
+    "name": "Tevragh-Zeina",
+    "latitude": "18.11011000",
+    "longitude": "-15.99931000",
+    "CountryID": 139,
+    "StateID": 3352
+  },
+  {
+    "id": 150088,
+    "name": "Arafat",
+    "latitude": "18.04639000",
+    "longitude": "-15.97194000",
+    "CountryID": 139,
+    "StateID": 3347
+  },
+  {
+    "id": 150089,
+    "name": "Riyad",
+    "latitude": "18.00784270",
+    "longitude": "-15.97404000",
+    "CountryID": 139,
+    "StateID": 3347
+  },
+  {
+    "id": 153945,
+    "name": "Moudjeria",
+    "latitude": "17.97955140",
+    "longitude": "-13.39795340",
+    "CountryID": 139,
+    "StateID": 3345
+  },
+  {
+    "id": 153946,
+    "name": "Tichit",
+    "latitude": "18.49686260",
+    "longitude": "-12.12199350",
+    "CountryID": 139,
+    "StateID": 3345
+  },
+  {
+    "id": 153947,
+    "name": "Tijigja",
+    "latitude": "18.51647870",
+    "longitude": "-12.98264760",
+    "CountryID": 139,
+    "StateID": 3345
+  },
+  {
+    "id": 150078,
+    "name": "Ain Ben Tili",
+    "latitude": "25.99444444",
+    "longitude": "-9.55333333",
+    "CountryID": 139,
+    "StateID": 3340
+  },
+  {
+    "id": 150079,
+    "name": "Chegga",
+    "latitude": "25.37194444",
+    "longitude": "-5.78666667",
+    "CountryID": 139,
+    "StateID": 3340
+  },
+  {
+    "id": 150080,
+    "name": "Fderîck",
+    "latitude": "22.67777778",
+    "longitude": "-12.70750000",
+    "CountryID": 139,
+    "StateID": 3340
+  },
+  {
+    "id": 150081,
+    "name": "Zouérat",
+    "latitude": "22.73444444",
+    "longitude": "-12.47250000",
+    "CountryID": 139,
+    "StateID": 3340
+  },
+  {
+    "id": 67756,
+    "name": "Zouerate",
+    "latitude": "22.73542000",
+    "longitude": "-12.47134000",
+    "CountryID": 139,
+    "StateID": 3340
+  },
+  {
+    "id": 150073,
+    "name": "Legat",
+    "latitude": "16.75000000",
+    "longitude": "-14.83333333",
+    "CountryID": 139,
+    "StateID": 3348
+  },
+  {
+    "id": 67753,
+    "name": "Rosso",
+    "latitude": "16.51378000",
+    "longitude": "-15.80503000",
+    "CountryID": 139,
+    "StateID": 3348
+  },
+  {
+    "id": 67755,
+    "name": "Tékane",
+    "latitude": "16.60175000",
+    "longitude": "-15.34866000",
+    "CountryID": 139,
+    "StateID": 3348
+  }
+]

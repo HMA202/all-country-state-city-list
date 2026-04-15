@@ -1,0 +1,101 @@
+[
+  {
+    "id": 938,
+    "name": "Eastern Cape",
+    "iso2": "EC",
+    "native": "Eastern Cape",
+    "latitude": "-32.21718310",
+    "longitude": "26.63864010",
+    "type": "province",
+    "timezone": "Africa/Johannesburg",
+    "CountryID": 204
+  },
+  {
+    "id": 932,
+    "name": "Free State",
+    "iso2": "FS",
+    "native": "Free State",
+    "latitude": "-28.78536180",
+    "longitude": "26.49789330",
+    "type": "province",
+    "timezone": "Africa/Johannesburg",
+    "CountryID": 204
+  },
+  {
+    "id": 936,
+    "name": "Gauteng",
+    "iso2": "GP",
+    "native": "Gauteng",
+    "latitude": "-25.93634390",
+    "longitude": "28.08131050",
+    "type": "province",
+    "timezone": "Africa/Johannesburg",
+    "CountryID": 204
+  },
+  {
+    "id": 935,
+    "name": "KwaZulu-Natal",
+    "iso2": "KZN",
+    "native": "KwaZulu-Natal",
+    "latitude": "-28.50383300",
+    "longitude": "30.88750090",
+    "type": "province",
+    "timezone": "Africa/Johannesburg",
+    "CountryID": 204
+  },
+  {
+    "id": 933,
+    "name": "Limpopo",
+    "iso2": "LP",
+    "native": "Limpopo",
+    "latitude": "-23.47352880",
+    "longitude": "29.39591990",
+    "type": "province",
+    "timezone": "Africa/Johannesburg",
+    "CountryID": 204
+  },
+  {
+    "id": 937,
+    "name": "Mpumalanga",
+    "iso2": "MP",
+    "native": "East",
+    "latitude": "-26.27684900",
+    "longitude": "30.15001530",
+    "type": "province",
+    "timezone": "Africa/Johannesburg",
+    "CountryID": 204
+  },
+  {
+    "id": 934,
+    "name": "North West",
+    "iso2": "NW",
+    "native": "North West",
+    "latitude": "-26.13478190",
+    "longitude": "25.65467290",
+    "type": "province",
+    "timezone": "Africa/Johannesburg",
+    "CountryID": 204
+  },
+  {
+    "id": 931,
+    "name": "Northern Cape",
+    "iso2": "NC",
+    "native": "Northern Cape",
+    "latitude": "-29.57340200",
+    "longitude": "21.20513610",
+    "type": "province",
+    "timezone": "Africa/Johannesburg",
+    "CountryID": 204
+  },
+  {
+    "id": 939,
+    "name": "Western Cape",
+    "iso2": "WC",
+    "native": "Western Cape",
+    "latitude": "-33.54697700",
+    "longitude": "20.72753000",
+    "type": "province",
+    "timezone": "Africa/Johannesburg",
+    "CountryID": 204
+  }
+]

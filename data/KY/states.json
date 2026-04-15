@@ -1,0 +1,35 @@
+[
+  {
+    "id": 5252,
+    "name": "Cayman Brac",
+    "iso2": "02",
+    "native": "Cayman Brac",
+    "latitude": "19.71988620",
+    "longitude": "-79.79314000",
+    "type": "",
+    "timezone": "America/Cayman",
+    "CountryID": 41
+  },
+  {
+    "id": 5251,
+    "name": "Grand Cayman",
+    "iso2": "01",
+    "native": "Grand Cayman",
+    "latitude": "19.32984710",
+    "longitude": "-81.17122160",
+    "type": "",
+    "timezone": "America/Cayman",
+    "CountryID": 41
+  },
+  {
+    "id": 5253,
+    "name": "Little Cayman",
+    "iso2": "03",
+    "native": "Little Cayman",
+    "latitude": "19.68533460",
+    "longitude": "-80.04778240",
+    "type": "",
+    "timezone": "America/Cayman",
+    "CountryID": 41
+  }
+]

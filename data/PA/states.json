@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1393,
+    "name": "Bocas del Toro",
+    "iso2": "1",
+    "native": "Bocas del Toro",
+    "latitude": "9.34029640",
+    "longitude": "-82.24181690",
+    "type": "province",
+    "timezone": "America/Panama",
+    "CountryID": 170
+  },
+  {
+    "id": 1397,
+    "name": "Chiriquí Province",
+    "iso2": "4",
+    "native": "Chiriquí Province",
+    "latitude": "9.02873510",
+    "longitude": "-79.62238690",
+    "type": "province",
+    "timezone": "America/Panama",
+    "CountryID": 170
+  },
+  {
+    "id": 1387,
+    "name": "Coclé",
+    "iso2": "2",
+    "native": "Coclé",
+    "latitude": "8.57431370",
+    "longitude": "-80.44490590",
+    "type": "province",
+    "timezone": "America/Panama",
+    "CountryID": 170
+  },
+  {
+    "id": 1386,
+    "name": "Colón",
+    "iso2": "3",
+    "native": "Colon",
+    "latitude": "9.23530850",
+    "longitude": "-80.25325260",
+    "type": "province",
+    "timezone": "America/Panama",
+    "CountryID": 170
+  },
+  {
+    "id": 1385,
+    "name": "Darién",
+    "iso2": "5",
+    "native": "Darién",
+    "latitude": "8.21589910",
+    "longitude": "-78.01725510",
+    "type": "province",
+    "timezone": "America/Panama",
+    "CountryID": 170
+  },
+  {
+    "id": 1396,
+    "name": "Emberá-Wounaan Comarca",
+    "iso2": "EM",
+    "native": "Emberá-Wounaan Comarca",
+    "latitude": "8.42107540",
+    "longitude": "-77.59226900",
+    "type": "indigenous region",
+    "timezone": "America/Panama",
+    "CountryID": 170
+  },
+  {
+    "id": 1388,
+    "name": "Guna",
+    "iso2": "KY",
+    "native": "Guna",
+    "latitude": "9.15914090",
+    "longitude": "-78.45530830",
+    "type": "indigenous region",
+    "timezone": "America/Panama",
+    "CountryID": 170
+  },
+  {
+    "id": 1389,
+    "name": "Herrera",
+    "iso2": "6",
+    "native": "Herrera",
+    "latitude": "7.85443800",
+    "longitude": "-80.74363130",
+    "type": "province",
+    "timezone": "America/Panama",
+    "CountryID": 170
+  },
+  {
+    "id": 1390,
+    "name": "Los Santos",
+    "iso2": "7",
+    "native": "Los Santos",
+    "latitude": "7.87734710",
+    "longitude": "-80.42906170",
+    "type": "province",
+    "timezone": "America/Panama",
+    "CountryID": 170
+  },
+  {
+    "id": 5686,
+    "name": "Naso Tjër Di",
+    "iso2": "NT",
+    "native": "Naso Tjër Di",
+    "latitude": "9.24440000",
+    "longitude": "-82.73530000",
+    "type": "indigenous region",
+    "timezone": "America/Panama",
+    "CountryID": 170
+  },
+  {
+    "id": 1391,
+    "name": "Ngöbe-Buglé Comarca",
+    "iso2": "NB",
+    "native": "Ngöbe-Buglé Comarca",
+    "latitude": "8.79324400",
+    "longitude": "-81.76826940",
+    "type": "indigenous region",
+    "timezone": "America/Panama",
+    "CountryID": 170
+  },
+  {
+    "id": 1395,
+    "name": "Panamá",
+    "iso2": "8",
+    "native": "Panamá",
+    "latitude": "8.97144930",
+    "longitude": "-79.53418020",
+    "type": "province",
+    "timezone": "America/Panama",
+    "CountryID": 170
+  },
+  {
+    "id": 1394,
+    "name": "Panamá Oeste",
+    "iso2": "10",
+    "native": "Panamá Oeste",
+    "latitude": "8.73008700",
+    "longitude": "-79.87558170",
+    "type": "province",
+    "timezone": "America/Panama",
+    "CountryID": 170
+  },
+  {
+    "id": 1392,
+    "name": "Veraguas",
+    "iso2": "9",
+    "native": "Veraguas",
+    "latitude": "8.24141310",
+    "longitude": "-81.09034640",
+    "type": "province",
+    "timezone": "America/Panama",
+    "CountryID": 170
+  }
+]

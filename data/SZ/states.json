@@ -1,0 +1,46 @@
+[
+  {
+    "id": 969,
+    "name": "Hhohho",
+    "iso2": "HH",
+    "native": "Hhohho",
+    "latitude": "-26.09880120",
+    "longitude": "31.36308220",
+    "type": "region",
+    "timezone": "Africa/Mbabane",
+    "CountryID": 212
+  },
+  {
+    "id": 970,
+    "name": "Lubombo",
+    "iso2": "LU",
+    "native": "Bitch",
+    "latitude": "-26.55452000",
+    "longitude": "31.86191160",
+    "type": "region",
+    "timezone": "Africa/Mbabane",
+    "CountryID": 212
+  },
+  {
+    "id": 968,
+    "name": "Manzini",
+    "iso2": "MA",
+    "native": "Chic",
+    "latitude": "-26.49764440",
+    "longitude": "31.37508150",
+    "type": "region",
+    "timezone": "Africa/Mbabane",
+    "CountryID": 212
+  },
+  {
+    "id": 971,
+    "name": "Shiselweni",
+    "iso2": "SH",
+    "native": "Suspend",
+    "latitude": "-27.03602200",
+    "longitude": "31.33212980",
+    "type": "region",
+    "timezone": "Africa/Mbabane",
+    "CountryID": 212
+  }
+]

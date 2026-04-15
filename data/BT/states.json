@@ -1,0 +1,222 @@
+[
+  {
+    "id": 240,
+    "name": "Bumthang ",
+    "iso2": "33",
+    "native": "Bumthang ",
+    "latitude": "27.70791320",
+    "longitude": "90.76974350",
+    "type": "district",
+    "timezone": "Asia/Thimphu",
+    "CountryID": 26
+  },
+  {
+    "id": 239,
+    "name": "Chukha ",
+    "iso2": "12",
+    "native": "Chukha ",
+    "latitude": "27.05758030",
+    "longitude": "89.56381780",
+    "type": "district",
+    "timezone": "Asia/Thimphu",
+    "CountryID": 26
+  },
+  {
+    "id": 238,
+    "name": "Dagana ",
+    "iso2": "22",
+    "native": "Dagana ",
+    "latitude": "27.07466530",
+    "longitude": "89.87866850",
+    "type": "district",
+    "timezone": "Asia/Thimphu",
+    "CountryID": 26
+  },
+  {
+    "id": 229,
+    "name": "Gasa ",
+    "iso2": "GA",
+    "native": "Gasa ",
+    "latitude": "27.91908750",
+    "longitude": "89.78753180",
+    "type": "district",
+    "timezone": "Asia/Thimphu",
+    "CountryID": 26
+  },
+  {
+    "id": 232,
+    "name": "Haa ",
+    "iso2": "13",
+    "native": "Haa ",
+    "latitude": "27.35966580",
+    "longitude": "89.23575560",
+    "type": "district",
+    "timezone": "Asia/Thimphu",
+    "CountryID": 26
+  },
+  {
+    "id": 234,
+    "name": "Lhuntse ",
+    "iso2": "44",
+    "native": "Lhuntse ",
+    "latitude": "27.72874480",
+    "longitude": "91.13636240",
+    "type": "district",
+    "timezone": "Asia/Thimphu",
+    "CountryID": 26
+  },
+  {
+    "id": 242,
+    "name": "Mongar ",
+    "iso2": "42",
+    "native": "Mongar ",
+    "latitude": "27.27630050",
+    "longitude": "91.23753600",
+    "type": "district",
+    "timezone": "Asia/Thimphu",
+    "CountryID": 26
+  },
+  {
+    "id": 237,
+    "name": "Paro ",
+    "iso2": "11",
+    "native": "Paro ",
+    "latitude": "27.42859490",
+    "longitude": "89.41665160",
+    "type": "district",
+    "timezone": "Asia/Thimphu",
+    "CountryID": 26
+  },
+  {
+    "id": 244,
+    "name": "Pemagatshel ",
+    "iso2": "43",
+    "native": "Pemagatshel ",
+    "latitude": "27.00304150",
+    "longitude": "91.36770540",
+    "type": "district",
+    "timezone": "Asia/Thimphu",
+    "CountryID": 26
+  },
+  {
+    "id": 235,
+    "name": "Punakha ",
+    "iso2": "23",
+    "native": "Punakha ",
+    "latitude": "27.58428570",
+    "longitude": "89.85930940",
+    "type": "district",
+    "timezone": "Asia/Thimphu",
+    "CountryID": 26
+  },
+  {
+    "id": 243,
+    "name": "Samdrup Jongkhar ",
+    "iso2": "45",
+    "native": "Samdrup Jongkhar ",
+    "latitude": "26.80356820",
+    "longitude": "91.50392070",
+    "type": "district",
+    "timezone": "Asia/Thimphu",
+    "CountryID": 26
+  },
+  {
+    "id": 246,
+    "name": "Samtse ",
+    "iso2": "14",
+    "native": "Samtse ",
+    "latitude": "27.03525320",
+    "longitude": "89.01473440",
+    "type": "district",
+    "timezone": "Asia/Thimphu",
+    "CountryID": 26
+  },
+  {
+    "id": 247,
+    "name": "Sarpang ",
+    "iso2": "31",
+    "native": "Sarpang ",
+    "latitude": "26.98638970",
+    "longitude": "90.38006730",
+    "type": "district",
+    "timezone": "Asia/Thimphu",
+    "CountryID": 26
+  },
+  {
+    "id": 241,
+    "name": "Thimphu ",
+    "iso2": "15",
+    "native": "Thimphu ",
+    "latitude": "27.47122160",
+    "longitude": "89.63390410",
+    "type": "district",
+    "timezone": "Asia/Thimphu",
+    "CountryID": 26
+  },
+  {
+    "id": 5242,
+    "name": "Trashi Yangtse\t",
+    "iso2": "TY",
+    "native": "Trashi Yangtse\t",
+    "latitude": "27.71758500",
+    "longitude": "91.19811020",
+    "type": "district",
+    "timezone": "Asia/Thimphu",
+    "CountryID": 26
+  },
+  {
+    "id": 236,
+    "name": "Trashigang ",
+    "iso2": "41",
+    "native": "Trashigang ",
+    "latitude": "27.28437780",
+    "longitude": "91.57425090",
+    "type": "district",
+    "timezone": "Asia/Thimphu",
+    "CountryID": 26
+  },
+  {
+    "id": 245,
+    "name": "Trongsa ",
+    "iso2": "32",
+    "native": "Trongsa ",
+    "latitude": "27.50022690",
+    "longitude": "90.50806340",
+    "type": "district",
+    "timezone": "Asia/Thimphu",
+    "CountryID": 26
+  },
+  {
+    "id": 230,
+    "name": "Tsirang ",
+    "iso2": "21",
+    "native": "Tsirang ",
+    "latitude": "27.00722320",
+    "longitude": "90.13262890",
+    "type": "district",
+    "timezone": "Asia/Thimphu",
+    "CountryID": 26
+  },
+  {
+    "id": 231,
+    "name": "Wangdue Phodrang ",
+    "iso2": "24",
+    "native": "Wangdue Phodrang ",
+    "latitude": "27.54463400",
+    "longitude": "89.95558100",
+    "type": "district",
+    "timezone": "Asia/Thimphu",
+    "CountryID": 26
+  },
+  {
+    "id": 233,
+    "name": "Zhemgang ",
+    "iso2": "34",
+    "native": "Zhemgang ",
+    "latitude": "27.08211480",
+    "longitude": "90.84089840",
+    "type": "district",
+    "timezone": "Asia/Thimphu",
+    "CountryID": 26
+  }
+]

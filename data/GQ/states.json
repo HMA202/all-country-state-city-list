@@ -1,0 +1,112 @@
+[
+  {
+    "id": 3444,
+    "name": "Annobón",
+    "iso2": "AN",
+    "native": "Annobón",
+    "latitude": "-1.42687820",
+    "longitude": "5.63528010",
+    "type": "province",
+    "timezone": "Africa/Malabo",
+    "CountryID": 67
+  },
+  {
+    "id": 3446,
+    "name": "Bioko Norte",
+    "iso2": "BN",
+    "native": "Bioko norte",
+    "latitude": "3.64845940",
+    "longitude": "8.78511550",
+    "type": "province",
+    "timezone": "Africa/Malabo",
+    "CountryID": 67
+  },
+  {
+    "id": 3443,
+    "name": "Bioko Sur",
+    "iso2": "BS",
+    "native": "Bioko sur",
+    "latitude": "3.42452540",
+    "longitude": "8.66460920",
+    "type": "province",
+    "timezone": "Africa/Malabo",
+    "CountryID": 67
+  },
+  {
+    "id": 3445,
+    "name": "Centro Sur",
+    "iso2": "CS",
+    "native": "Centro Sur",
+    "latitude": "1.39699660",
+    "longitude": "10.45385280",
+    "type": "province",
+    "timezone": "Africa/Malabo",
+    "CountryID": 67
+  },
+  {
+    "id": 5551,
+    "name": "Djibloho",
+    "iso2": "DJ",
+    "native": "Djibloho",
+    "latitude": "1.60000000",
+    "longitude": "10.80000000",
+    "type": "province",
+    "timezone": "Africa/Malabo",
+    "CountryID": 67
+  },
+  {
+    "id": 3442,
+    "name": "Insular",
+    "iso2": "I",
+    "native": "Insular",
+    "latitude": "3.49865230",
+    "longitude": "8.71360620",
+    "type": "region",
+    "timezone": "Africa/Malabo",
+    "CountryID": 67
+  },
+  {
+    "id": 3439,
+    "name": "Kié-Ntem",
+    "iso2": "KN",
+    "native": "A quien hice",
+    "latitude": "2.05792660",
+    "longitude": "10.98559160",
+    "type": "province",
+    "timezone": "Africa/Malabo",
+    "CountryID": 67
+  },
+  {
+    "id": 3441,
+    "name": "Litoral",
+    "iso2": "LI",
+    "native": "Costero",
+    "latitude": "1.60263740",
+    "longitude": "9.84156900",
+    "type": "province",
+    "timezone": "Africa/Malabo",
+    "CountryID": 67
+  },
+  {
+    "id": 3438,
+    "name": "Río Muni",
+    "iso2": "C",
+    "native": "Río Muni",
+    "latitude": "1.05709510",
+    "longitude": "9.65329170",
+    "type": "region",
+    "timezone": "Africa/Malabo",
+    "CountryID": 67
+  },
+  {
+    "id": 3440,
+    "name": "Wele-Nzas",
+    "iso2": "WN",
+    "native": "Wele-nza",
+    "latitude": "1.46487190",
+    "longitude": "11.13167600",
+    "type": "province",
+    "timezone": "Africa/Malabo",
+    "CountryID": 67
+  }
+]

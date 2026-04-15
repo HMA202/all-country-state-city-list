@@ -1,0 +1,57 @@
+[
+  {
+    "id": 5369,
+    "name": "Austral Islands",
+    "iso2": "01",
+    "native": "Îles austral",
+    "latitude": "-23.36556170",
+    "longitude": "-149.46208160",
+    "type": "division",
+    "timezone": "Pacific/Gambier",
+    "CountryID": 77
+  },
+  {
+    "id": 5370,
+    "name": "Leeward Islands",
+    "iso2": "02",
+    "native": "Îles sous le vent",
+    "latitude": "-16.63083480",
+    "longitude": "-151.50391590",
+    "type": "division",
+    "timezone": "Pacific/Gambier",
+    "CountryID": 77
+  },
+  {
+    "id": 5371,
+    "name": "Marquesas Islands",
+    "iso2": "03",
+    "native": "Îles de Marquesas",
+    "latitude": "-9.77932550",
+    "longitude": "-139.00678350",
+    "type": "division",
+    "timezone": "Pacific/Marquesas",
+    "CountryID": 77
+  },
+  {
+    "id": 5372,
+    "name": "Tuamotu-Gambier",
+    "iso2": "04",
+    "native": "Tuamotu-gambier",
+    "latitude": "-18.80276870",
+    "longitude": "-141.90549290",
+    "type": "division",
+    "timezone": "Pacific/Gambier",
+    "CountryID": 77
+  },
+  {
+    "id": 5373,
+    "name": "Windward Islands",
+    "iso2": "05",
+    "native": "Îles du vent",
+    "latitude": "-17.68734390",
+    "longitude": "-149.44516810",
+    "type": "division",
+    "timezone": "Pacific/Gambier",
+    "CountryID": 77
+  }
+]

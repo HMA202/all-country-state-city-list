@@ -1,0 +1,1498 @@
+[
+  {
+    "id": 129777,
+    "name": "Artigas",
+    "latitude": "-30.40000000",
+    "longitude": "-56.46667000",
+    "CountryID": 235,
+    "StateID": 3205
+  },
+  {
+    "id": 129779,
+    "name": "Baltasar Brum",
+    "latitude": "-30.71905000",
+    "longitude": "-57.32596000",
+    "CountryID": 235,
+    "StateID": 3205
+  },
+  {
+    "id": 129782,
+    "name": "Bella Unión",
+    "latitude": "-30.25966000",
+    "longitude": "-57.59919000",
+    "CountryID": 235,
+    "StateID": 3205
+  },
+  {
+    "id": 129820,
+    "name": "Las Piedras",
+    "latitude": "-30.26204000",
+    "longitude": "-57.58174000",
+    "CountryID": 235,
+    "StateID": 3205
+  },
+  {
+    "id": 129881,
+    "name": "Tomás Gomensoro",
+    "latitude": "-30.42870000",
+    "longitude": "-57.43609000",
+    "CountryID": 235,
+    "StateID": 3205
+  },
+  {
+    "id": 129774,
+    "name": "Aguas Corrientes",
+    "latitude": "-34.52194000",
+    "longitude": "-56.39361000",
+    "CountryID": 235,
+    "StateID": 3213
+  },
+  {
+    "id": 129778,
+    "name": "Atlántida",
+    "latitude": "-34.77190000",
+    "longitude": "-55.75840000",
+    "CountryID": 235,
+    "StateID": 3213
+  },
+  {
+    "id": 129780,
+    "name": "Barra de Carrasco",
+    "latitude": "-34.87722000",
+    "longitude": "-56.02972000",
+    "CountryID": 235,
+    "StateID": 3213
+  },
+  {
+    "id": 129781,
+    "name": "Barros Blancos",
+    "latitude": "-34.75240000",
+    "longitude": "-56.00259000",
+    "CountryID": 235,
+    "StateID": 3213
+  },
+  {
+    "id": 129785,
+    "name": "Canelones",
+    "latitude": "-34.52278000",
+    "longitude": "-56.27778000",
+    "CountryID": 235,
+    "StateID": 3213
+  },
+  {
+    "id": 129794,
+    "name": "Colonia Nicolich",
+    "latitude": "-34.81516000",
+    "longitude": "-56.02435000",
+    "CountryID": 235,
+    "StateID": 3213
+  },
+  {
+    "id": 129802,
+    "name": "Empalme Olmos",
+    "latitude": "-34.69753000",
+    "longitude": "-55.89268000",
+    "CountryID": 235,
+    "StateID": 3213
+  },
+  {
+    "id": 129809,
+    "name": "Joaquín Suárez",
+    "latitude": "-34.73501000",
+    "longitude": "-56.03470000",
+    "CountryID": 235,
+    "StateID": 3213
+  },
+  {
+    "id": 129814,
+    "name": "Juanicó",
+    "latitude": "-34.59454000",
+    "longitude": "-56.25334000",
+    "CountryID": 235,
+    "StateID": 3213
+  },
+  {
+    "id": 129815,
+    "name": "La Floresta",
+    "latitude": "-34.75572000",
+    "longitude": "-55.68141000",
+    "CountryID": 235,
+    "StateID": 3213
+  },
+  {
+    "id": 129818,
+    "name": "La Paz",
+    "latitude": "-34.76031000",
+    "longitude": "-56.22590000",
+    "CountryID": 235,
+    "StateID": 3213
+  },
+  {
+    "id": 129819,
+    "name": "Las Piedras",
+    "latitude": "-34.73020000",
+    "longitude": "-56.21915000",
+    "CountryID": 235,
+    "StateID": 3213
+  },
+  {
+    "id": 129821,
+    "name": "Las Toscas",
+    "latitude": "-34.73333000",
+    "longitude": "-55.71667000",
+    "CountryID": 235,
+    "StateID": 3213
+  },
+  {
+    "id": 129824,
+    "name": "Los Cerrillos",
+    "latitude": "-34.60500000",
+    "longitude": "-56.35639000",
+    "CountryID": 235,
+    "StateID": 3213
+  },
+  {
+    "id": 129829,
+    "name": "Migues",
+    "latitude": "-34.48759000",
+    "longitude": "-55.62793000",
+    "CountryID": 235,
+    "StateID": 3213
+  },
+  {
+    "id": 129832,
+    "name": "Montes",
+    "latitude": "-34.49339000",
+    "longitude": "-55.56219000",
+    "CountryID": 235,
+    "StateID": 3213
+  },
+  {
+    "id": 129841,
+    "name": "Pando",
+    "latitude": "-34.71716000",
+    "longitude": "-55.95840000",
+    "CountryID": 235,
+    "StateID": 3213
+  },
+  {
+    "id": 129842,
+    "name": "Paso de Carrasco",
+    "latitude": "-34.86028000",
+    "longitude": "-56.05222000",
+    "CountryID": 235,
+    "StateID": 3213
+  },
+  {
+    "id": 129847,
+    "name": "Progreso",
+    "latitude": "-34.66737000",
+    "longitude": "-56.21758000",
+    "CountryID": 235,
+    "StateID": 3213
+  },
+  {
+    "id": 129858,
+    "name": "San Antonio",
+    "latitude": "-34.45130000",
+    "longitude": "-56.08036000",
+    "CountryID": 235,
+    "StateID": 3213
+  },
+  {
+    "id": 129859,
+    "name": "San Bautista",
+    "latitude": "-34.44016000",
+    "longitude": "-55.95861000",
+    "CountryID": 235,
+    "StateID": 3213
+  },
+  {
+    "id": 129862,
+    "name": "San Jacinto",
+    "latitude": "-34.54465000",
+    "longitude": "-55.87151000",
+    "CountryID": 235,
+    "StateID": 3213
+  },
+  {
+    "id": 129865,
+    "name": "San Ramón",
+    "latitude": "-34.29155000",
+    "longitude": "-55.95571000",
+    "CountryID": 235,
+    "StateID": 3213
+  },
+  {
+    "id": 129869,
+    "name": "Santa Lucía",
+    "latitude": "-34.45333000",
+    "longitude": "-56.39056000",
+    "CountryID": 235,
+    "StateID": 3213
+  },
+  {
+    "id": 129870,
+    "name": "Santa Rosa",
+    "latitude": "-34.49819000",
+    "longitude": "-56.03795000",
+    "CountryID": 235,
+    "StateID": 3213
+  },
+  {
+    "id": 129874,
+    "name": "Sauce",
+    "latitude": "-34.65191000",
+    "longitude": "-56.06431000",
+    "CountryID": 235,
+    "StateID": 3213
+  },
+  {
+    "id": 129875,
+    "name": "Soca",
+    "latitude": "-34.68432000",
+    "longitude": "-55.70200000",
+    "CountryID": 235,
+    "StateID": 3213
+  },
+  {
+    "id": 129878,
+    "name": "Tala",
+    "latitude": "-34.34349000",
+    "longitude": "-55.76375000",
+    "CountryID": 235,
+    "StateID": 3213
+  },
+  {
+    "id": 129880,
+    "name": "Toledo",
+    "latitude": "-34.73807000",
+    "longitude": "-56.09469000",
+    "CountryID": 235,
+    "StateID": 3213
+  },
+  {
+    "id": 129773,
+    "name": "Aceguá",
+    "latitude": "-31.87178000",
+    "longitude": "-54.16351000",
+    "CountryID": 235,
+    "StateID": 3211
+  },
+  {
+    "id": 129808,
+    "name": "Isidoro Noblía",
+    "latitude": "-31.96218000",
+    "longitude": "-54.12309000",
+    "CountryID": 235,
+    "StateID": 3211
+  },
+  {
+    "id": 129827,
+    "name": "Melo",
+    "latitude": "-32.37028000",
+    "longitude": "-54.16750000",
+    "CountryID": 235,
+    "StateID": 3211
+  },
+  {
+    "id": 129856,
+    "name": "Río Branco",
+    "latitude": "-32.59802000",
+    "longitude": "-53.38583000",
+    "CountryID": 235,
+    "StateID": 3211
+  },
+  {
+    "id": 129885,
+    "name": "Tupambaé",
+    "latitude": "-32.83333000",
+    "longitude": "-54.76667000",
+    "CountryID": 235,
+    "StateID": 3211
+  },
+  {
+    "id": 129789,
+    "name": "Carmelo",
+    "latitude": "-34.00023000",
+    "longitude": "-58.28402000",
+    "CountryID": 235,
+    "StateID": 3208
+  },
+  {
+    "id": 129795,
+    "name": "Colonia del Sacramento",
+    "latitude": "-34.46262000",
+    "longitude": "-57.83976000",
+    "CountryID": 235,
+    "StateID": 3208
+  },
+  {
+    "id": 129804,
+    "name": "Florencio Sánchez",
+    "latitude": "-33.87785000",
+    "longitude": "-57.37166000",
+    "CountryID": 235,
+    "StateID": 3208
+  },
+  {
+    "id": 129813,
+    "name": "Juan L. Lacaze",
+    "latitude": "-34.41888000",
+    "longitude": "-57.45285000",
+    "CountryID": 235,
+    "StateID": 3208
+  },
+  {
+    "id": 129834,
+    "name": "Nueva Helvecia",
+    "latitude": "-34.30000000",
+    "longitude": "-57.23333000",
+    "CountryID": 235,
+    "StateID": 3208
+  },
+  {
+    "id": 129835,
+    "name": "Nueva Palmira",
+    "latitude": "-33.87031000",
+    "longitude": "-58.41176000",
+    "CountryID": 235,
+    "StateID": 3208
+  },
+  {
+    "id": 129837,
+    "name": "Ombúes de Lavalle",
+    "latitude": "-33.93783000",
+    "longitude": "-57.80959000",
+    "CountryID": 235,
+    "StateID": 3208
+  },
+  {
+    "id": 129855,
+    "name": "Rosario",
+    "latitude": "-34.31667000",
+    "longitude": "-57.35000000",
+    "CountryID": 235,
+    "StateID": 3208
+  },
+  {
+    "id": 129879,
+    "name": "Tarariras",
+    "latitude": "-34.26555000",
+    "longitude": "-57.61866000",
+    "CountryID": 235,
+    "StateID": 3208
+  },
+  {
+    "id": 129784,
+    "name": "Blanquillo",
+    "latitude": "-32.76667000",
+    "longitude": "-55.63333000",
+    "CountryID": 235,
+    "StateID": 3209
+  },
+  {
+    "id": 129788,
+    "name": "Carlos Reyles",
+    "latitude": "-33.05658000",
+    "longitude": "-56.47652000",
+    "CountryID": 235,
+    "StateID": 3209
+  },
+  {
+    "id": 129800,
+    "name": "Durazno",
+    "latitude": "-33.38056000",
+    "longitude": "-56.52361000",
+    "CountryID": 235,
+    "StateID": 3209
+  },
+  {
+    "id": 129817,
+    "name": "La Paloma",
+    "latitude": "-32.72689000",
+    "longitude": "-55.58270000",
+    "CountryID": 235,
+    "StateID": 3209
+  },
+  {
+    "id": 129866,
+    "name": "Santa Bernardina",
+    "latitude": "-33.35360000",
+    "longitude": "-56.52498000",
+    "CountryID": 235,
+    "StateID": 3209
+  },
+  {
+    "id": 129873,
+    "name": "Sarandí del Yi",
+    "latitude": "-33.35000000",
+    "longitude": "-55.63333000",
+    "CountryID": 235,
+    "StateID": 3209
+  },
+  {
+    "id": 129892,
+    "name": "Villa del Carmen",
+    "latitude": "-33.23943000",
+    "longitude": "-56.00936000",
+    "CountryID": 235,
+    "StateID": 3209
+  },
+  {
+    "id": 129884,
+    "name": "Trinidad",
+    "latitude": "-33.51650000",
+    "longitude": "-56.89957000",
+    "CountryID": 235,
+    "StateID": 3203
+  },
+  {
+    "id": 129771,
+    "name": "25 de Agosto",
+    "latitude": "-34.41167000",
+    "longitude": "-56.40222000",
+    "CountryID": 235,
+    "StateID": 3217
+  },
+  {
+    "id": 129772,
+    "name": "25 de Mayo",
+    "latitude": "-34.18917000",
+    "longitude": "-56.33944000",
+    "CountryID": 235,
+    "StateID": 3217
+  },
+  {
+    "id": 129776,
+    "name": "Alejandro Gallinal",
+    "latitude": "-33.86252000",
+    "longitude": "-55.54264000",
+    "CountryID": 235,
+    "StateID": 3217
+  },
+  {
+    "id": 129786,
+    "name": "Cardal",
+    "latitude": "-34.29056000",
+    "longitude": "-56.38889000",
+    "CountryID": 235,
+    "StateID": 3217
+  },
+  {
+    "id": 129791,
+    "name": "Casupá",
+    "latitude": "-34.09994000",
+    "longitude": "-55.64811000",
+    "CountryID": 235,
+    "StateID": 3217
+  },
+  {
+    "id": 129805,
+    "name": "Florida",
+    "latitude": "-34.09556000",
+    "longitude": "-56.21417000",
+    "CountryID": 235,
+    "StateID": 3217
+  },
+  {
+    "id": 129872,
+    "name": "Sarandí Grande",
+    "latitude": "-33.73333000",
+    "longitude": "-56.33333000",
+    "CountryID": 235,
+    "StateID": 3217
+  },
+  {
+    "id": 129810,
+    "name": "José Batlle y Ordóñez",
+    "latitude": "-33.46667000",
+    "longitude": "-55.11667000",
+    "CountryID": 235,
+    "StateID": 3215
+  },
+  {
+    "id": 129812,
+    "name": "José Pedro Varela",
+    "latitude": "-33.45451000",
+    "longitude": "-54.53586000",
+    "CountryID": 235,
+    "StateID": 3215
+  },
+  {
+    "id": 129826,
+    "name": "Mariscala",
+    "latitude": "-34.04085000",
+    "longitude": "-54.77732000",
+    "CountryID": 235,
+    "StateID": 3215
+  },
+  {
+    "id": 129830,
+    "name": "Minas",
+    "latitude": "-34.37589000",
+    "longitude": "-55.23771000",
+    "CountryID": 235,
+    "StateID": 3215
+  },
+  {
+    "id": 129876,
+    "name": "Solís de Mataojo",
+    "latitude": "-34.59951000",
+    "longitude": "-55.46808000",
+    "CountryID": 235,
+    "StateID": 3215
+  },
+  {
+    "id": 129775,
+    "name": "Aiguá",
+    "latitude": "-34.20498000",
+    "longitude": "-54.75665000",
+    "CountryID": 235,
+    "StateID": 3206
+  },
+  {
+    "id": 129825,
+    "name": "Maldonado",
+    "latitude": "-34.90000000",
+    "longitude": "-54.95000000",
+    "CountryID": 235,
+    "StateID": 3206
+  },
+  {
+    "id": 129840,
+    "name": "Pan de Azúcar",
+    "latitude": "-34.77870000",
+    "longitude": "-55.23582000",
+    "CountryID": 235,
+    "StateID": 3206
+  },
+  {
+    "id": 129846,
+    "name": "Piriápolis",
+    "latitude": "-34.86287000",
+    "longitude": "-55.27471000",
+    "CountryID": 235,
+    "StateID": 3206
+  },
+  {
+    "id": 129848,
+    "name": "Punta del Este",
+    "latitude": "-34.94747000",
+    "longitude": "-54.93382000",
+    "CountryID": 235,
+    "StateID": 3206
+  },
+  {
+    "id": 129860,
+    "name": "San Carlos",
+    "latitude": "-34.79123000",
+    "longitude": "-54.91824000",
+    "CountryID": 235,
+    "StateID": 3206
+  },
+  {
+    "id": 153689,
+    "name": "Aires Puros",
+    "latitude": "-34.85200000",
+    "longitude": "-56.18300000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153690,
+    "name": "Arroyo Seco",
+    "latitude": "-34.80400000",
+    "longitude": "-56.27700000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153691,
+    "name": "Atahualpa",
+    "latitude": "-34.80900000",
+    "longitude": "-56.23000000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153692,
+    "name": "Bañados de Carrasco",
+    "latitude": "-34.82100000",
+    "longitude": "-56.06700000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153693,
+    "name": "Barra de Carrasco",
+    "latitude": "-34.88400000",
+    "longitude": "-56.04700000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153694,
+    "name": "Barrio Sur",
+    "latitude": "-34.90800000",
+    "longitude": "-56.19400000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153695,
+    "name": "Bella Italia",
+    "latitude": "-34.85600000",
+    "longitude": "-56.15500000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 149276,
+    "name": "Bella Vista",
+    "latitude": "-34.87527778",
+    "longitude": "-56.18666667",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 149277,
+    "name": "Belvedere",
+    "latitude": "-34.85155556",
+    "longitude": "-56.21611111",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 149278,
+    "name": "Buceo",
+    "latitude": "-34.90000000",
+    "longitude": "-56.13305556",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153696,
+    "name": "Capurro",
+    "latitude": "-34.90500000",
+    "longitude": "-56.21700000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 149280,
+    "name": "Carrasco",
+    "latitude": "-34.88333333",
+    "longitude": "-56.06666667",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153697,
+    "name": "Carrasco Norte",
+    "latitude": "-34.86800000",
+    "longitude": "-56.04300000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 149281,
+    "name": "Casabó",
+    "latitude": "-34.86388889",
+    "longitude": "-56.34111111",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153698,
+    "name": "Casavalle",
+    "latitude": "-34.84300000",
+    "longitude": "-56.20300000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 149282,
+    "name": "Centro",
+    "latitude": "-34.90361111",
+    "longitude": "-56.18833333",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153699,
+    "name": "Cerrito",
+    "latitude": "-34.81500000",
+    "longitude": "-56.22500000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 149307,
+    "name": "Cerro",
+    "latitude": "-34.88444444",
+    "longitude": "-56.25138889",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153700,
+    "name": "Ciudad Vieja",
+    "latitude": "-34.90800000",
+    "longitude": "-56.20400000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153701,
+    "name": "Colón",
+    "latitude": "-34.86500000",
+    "longitude": "-56.18000000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 149286,
+    "name": "Conciliación",
+    "latitude": "-34.82361111",
+    "longitude": "-56.23194444",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 149287,
+    "name": "Cordón",
+    "latitude": "-34.90000000",
+    "longitude": "-56.17858333",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 149288,
+    "name": "Flor de Maroñas",
+    "latitude": "-34.85055556",
+    "longitude": "-56.12472222",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153702,
+    "name": "Goes",
+    "latitude": "-34.87500000",
+    "longitude": "-56.19200000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 149289,
+    "name": "Ituzaingó",
+    "latitude": "-34.84750000",
+    "longitude": "-56.14361111",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153703,
+    "name": "Jacinto Vera",
+    "latitude": "-34.88300000",
+    "longitude": "-56.16600000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153704,
+    "name": "Jardines del Hipódromo",
+    "latitude": "-34.88100000",
+    "longitude": "-56.15300000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153705,
+    "name": "La Blanqueada",
+    "latitude": "-34.89700000",
+    "longitude": "-56.18500000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153706,
+    "name": "La Comercial",
+    "latitude": "-34.89400000",
+    "longitude": "-56.19700000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153707,
+    "name": "La Figurita",
+    "latitude": "-34.88600000",
+    "longitude": "-56.20300000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153708,
+    "name": "La Teja",
+    "latitude": "-34.86200000",
+    "longitude": "-56.23600000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 149290,
+    "name": "La Unión",
+    "latitude": "-34.87861111",
+    "longitude": "-56.13583333",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153709,
+    "name": "Larrañaga",
+    "latitude": "-34.86100000",
+    "longitude": "-56.16300000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153710,
+    "name": "Las Acacias",
+    "latitude": "-34.85500000",
+    "longitude": "-56.17000000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153711,
+    "name": "Lezica",
+    "latitude": "-34.84600000",
+    "longitude": "-56.22300000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 149291,
+    "name": "Malvín",
+    "latitude": "-34.89352778",
+    "longitude": "-56.09994444",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153712,
+    "name": "Malvín Norte",
+    "latitude": "-34.87800000",
+    "longitude": "-56.08300000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 149292,
+    "name": "Manga",
+    "latitude": "-34.80722222",
+    "longitude": "-56.13805556",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153713,
+    "name": "Marconi",
+    "latitude": "-34.86200000",
+    "longitude": "-56.14700000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 149293,
+    "name": "Maroñas",
+    "latitude": "-34.86338889",
+    "longitude": "-56.12963889",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153714,
+    "name": "Melilla",
+    "latitude": "-34.83700000",
+    "longitude": "-56.25900000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153715,
+    "name": "Mercado Modelo",
+    "latitude": "-34.85600000",
+    "longitude": "-56.20200000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 129833,
+    "name": "Montevideo",
+    "latitude": "-34.90328000",
+    "longitude": "-56.18816000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 149294,
+    "name": "Nuevo París",
+    "latitude": "-34.83333333",
+    "longitude": "-56.25000000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 129838,
+    "name": "Pajas Blancas",
+    "latitude": "-34.80167000",
+    "longitude": "-56.33417000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153716,
+    "name": "Palermo",
+    "latitude": "-34.90300000",
+    "longitude": "-56.18200000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153717,
+    "name": "Parque Batlle",
+    "latitude": "-34.90000000",
+    "longitude": "-56.18000000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153718,
+    "name": "Parque Rodó",
+    "latitude": "-34.90800000",
+    "longitude": "-56.17100000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153719,
+    "name": "Paso de la Arena",
+    "latitude": "-34.86100000",
+    "longitude": "-56.23900000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 149295,
+    "name": "Paso Molino",
+    "latitude": "-34.85000000",
+    "longitude": "-56.21666667",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 149296,
+    "name": "Peñarol",
+    "latitude": "-34.82519444",
+    "longitude": "-56.19916667",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153720,
+    "name": "Perez Castellanos",
+    "latitude": "-34.84300000",
+    "longitude": "-56.21300000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 149297,
+    "name": "Piedras Blancas",
+    "latitude": "-34.82361111",
+    "longitude": "-56.14027778",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 149298,
+    "name": "Pocitos",
+    "latitude": "-34.90833333",
+    "longitude": "-56.15000000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153721,
+    "name": "Prado",
+    "latitude": "-34.85600000",
+    "longitude": "-56.20400000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 149299,
+    "name": "Punta Carretas",
+    "latitude": "-34.92188889",
+    "longitude": "-56.15944444",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153723,
+    "name": "Punta de Rieles",
+    "latitude": "-34.84700000",
+    "longitude": "-56.25200000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153722,
+    "name": "Punta Espinillo",
+    "latitude": "-34.83500000",
+    "longitude": "-56.28600000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 149300,
+    "name": "Punta Gorda",
+    "latitude": "-34.88647222",
+    "longitude": "-56.08983333",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 149301,
+    "name": "Reducto",
+    "latitude": "-34.87831944",
+    "longitude": "-56.18957778",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 129871,
+    "name": "Santiago Vázquez",
+    "latitude": "-34.79028000",
+    "longitude": "-56.35000000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 149302,
+    "name": "Sayago",
+    "latitude": "-34.83583333",
+    "longitude": "-56.21250000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 149303,
+    "name": "Tres Cruces",
+    "latitude": "-34.89583333",
+    "longitude": "-56.16805556",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 153724,
+    "name": "Tres Ombues",
+    "latitude": "-34.76600000",
+    "longitude": "-56.33000000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 149304,
+    "name": "Villa Española",
+    "latitude": "-34.86388889",
+    "longitude": "-56.14472222",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 149305,
+    "name": "Villa García",
+    "latitude": "-34.78111000",
+    "longitude": "-56.05333000",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 149306,
+    "name": "Villa Muñoz",
+    "latitude": "-34.88781389",
+    "longitude": "-56.17701389",
+    "CountryID": 235,
+    "StateID": 3218
+  },
+  {
+    "id": 129803,
+    "name": "Estación Porvenir",
+    "latitude": "-32.37085000",
+    "longitude": "-57.85371000",
+    "CountryID": 235,
+    "StateID": 3212
+  },
+  {
+    "id": 129807,
+    "name": "Guichón",
+    "latitude": "-32.35846000",
+    "longitude": "-57.19778000",
+    "CountryID": 235,
+    "StateID": 3212
+  },
+  {
+    "id": 129844,
+    "name": "Paysandú",
+    "latitude": "-32.31710000",
+    "longitude": "-58.08072000",
+    "CountryID": 235,
+    "StateID": 3212
+  },
+  {
+    "id": 129845,
+    "name": "Piedras Coloradas",
+    "latitude": "-32.37183000",
+    "longitude": "-57.60901000",
+    "CountryID": 235,
+    "StateID": 3212
+  },
+  {
+    "id": 129850,
+    "name": "Quebracho",
+    "latitude": "-31.93526000",
+    "longitude": "-57.90140000",
+    "CountryID": 235,
+    "StateID": 3212
+  },
+  {
+    "id": 129861,
+    "name": "San Félix",
+    "latitude": "-32.34631000",
+    "longitude": "-58.10094000",
+    "CountryID": 235,
+    "StateID": 3212
+  },
+  {
+    "id": 129806,
+    "name": "Fray Bentos",
+    "latitude": "-33.11651000",
+    "longitude": "-58.31067000",
+    "CountryID": 235,
+    "StateID": 3210
+  },
+  {
+    "id": 129836,
+    "name": "Nuevo Berlín",
+    "latitude": "-32.97974000",
+    "longitude": "-58.05858000",
+    "CountryID": 235,
+    "StateID": 3210
+  },
+  {
+    "id": 129863,
+    "name": "San Javier",
+    "latitude": "-32.66523000",
+    "longitude": "-58.13320000",
+    "CountryID": 235,
+    "StateID": 3210
+  },
+  {
+    "id": 129893,
+    "name": "Young",
+    "latitude": "-32.69844000",
+    "longitude": "-57.62693000",
+    "CountryID": 235,
+    "StateID": 3210
+  },
+  {
+    "id": 129831,
+    "name": "Minas de Corrales",
+    "latitude": "-31.57375000",
+    "longitude": "-55.47075000",
+    "CountryID": 235,
+    "StateID": 3207
+  },
+  {
+    "id": 129852,
+    "name": "Rivera",
+    "latitude": "-30.90534000",
+    "longitude": "-55.55076000",
+    "CountryID": 235,
+    "StateID": 3207
+  },
+  {
+    "id": 129882,
+    "name": "Tranqueras",
+    "latitude": "-31.20000000",
+    "longitude": "-55.75000000",
+    "CountryID": 235,
+    "StateID": 3207
+  },
+  {
+    "id": 129888,
+    "name": "Vichadero",
+    "latitude": "-31.77794000",
+    "longitude": "-54.69183000",
+    "CountryID": 235,
+    "StateID": 3207
+  },
+  {
+    "id": 129790,
+    "name": "Castillos",
+    "latitude": "-34.19871000",
+    "longitude": "-53.85919000",
+    "CountryID": 235,
+    "StateID": 3216
+  },
+  {
+    "id": 129792,
+    "name": "Cebollatí",
+    "latitude": "-33.26703000",
+    "longitude": "-53.79425000",
+    "CountryID": 235,
+    "StateID": 3216
+  },
+  {
+    "id": 129793,
+    "name": "Chui",
+    "latitude": "-33.69792000",
+    "longitude": "-53.45926000",
+    "CountryID": 235,
+    "StateID": 3216
+  },
+  {
+    "id": 129798,
+    "name": "Dieciocho de Julio",
+    "latitude": "-33.68216000",
+    "longitude": "-53.55325000",
+    "CountryID": 235,
+    "StateID": 3216
+  },
+  {
+    "id": 129816,
+    "name": "La Paloma",
+    "latitude": "-34.66268000",
+    "longitude": "-54.16452000",
+    "CountryID": 235,
+    "StateID": 3216
+  },
+  {
+    "id": 129822,
+    "name": "Lascano",
+    "latitude": "-33.67235000",
+    "longitude": "-54.20650000",
+    "CountryID": 235,
+    "StateID": 3216
+  },
+  {
+    "id": 129853,
+    "name": "Rocha",
+    "latitude": "-34.48333000",
+    "longitude": "-54.33333000",
+    "CountryID": 235,
+    "StateID": 3216
+  },
+  {
+    "id": 129886,
+    "name": "Velázquez",
+    "latitude": "-34.03631000",
+    "longitude": "-54.28054000",
+    "CountryID": 235,
+    "StateID": 3216
+  },
+  {
+    "id": 129783,
+    "name": "Belén",
+    "latitude": "-30.78716000",
+    "longitude": "-57.77577000",
+    "CountryID": 235,
+    "StateID": 3220
+  },
+  {
+    "id": 129857,
+    "name": "Salto",
+    "latitude": "-31.38333000",
+    "longitude": "-57.96667000",
+    "CountryID": 235,
+    "StateID": 3220
+  },
+  {
+    "id": 129889,
+    "name": "Villa Constitución",
+    "latitude": "-31.06913000",
+    "longitude": "-57.84946000",
+    "CountryID": 235,
+    "StateID": 3220
+  },
+  {
+    "id": 129797,
+    "name": "Delta del Tigre",
+    "latitude": "-34.76488000",
+    "longitude": "-56.36450000",
+    "CountryID": 235,
+    "StateID": 3204
+  },
+  {
+    "id": 129801,
+    "name": "Ecilda Paullier",
+    "latitude": "-34.35778000",
+    "longitude": "-57.04883000",
+    "CountryID": 235,
+    "StateID": 3204
+  },
+  {
+    "id": 129823,
+    "name": "Libertad",
+    "latitude": "-34.63459000",
+    "longitude": "-56.61739000",
+    "CountryID": 235,
+    "StateID": 3204
+  },
+  {
+    "id": 129849,
+    "name": "Puntas de Valdéz",
+    "latitude": "-34.58550000",
+    "longitude": "-56.70097000",
+    "CountryID": 235,
+    "StateID": 3204
+  },
+  {
+    "id": 129851,
+    "name": "Rafael Perazza",
+    "latitude": "-34.52335000",
+    "longitude": "-56.79710000",
+    "CountryID": 235,
+    "StateID": 3204
+  },
+  {
+    "id": 129854,
+    "name": "Rodríguez",
+    "latitude": "-34.38100000",
+    "longitude": "-56.53797000",
+    "CountryID": 235,
+    "StateID": 3204
+  },
+  {
+    "id": 129864,
+    "name": "San José de Mayo",
+    "latitude": "-34.33750000",
+    "longitude": "-56.71361000",
+    "CountryID": 235,
+    "StateID": 3204
+  },
+  {
+    "id": 129787,
+    "name": "Cardona",
+    "latitude": "-33.87049000",
+    "longitude": "-57.36954000",
+    "CountryID": 235,
+    "StateID": 3219
+  },
+  {
+    "id": 129799,
+    "name": "Dolores",
+    "latitude": "-33.53009000",
+    "longitude": "-58.21701000",
+    "CountryID": 235,
+    "StateID": 3219
+  },
+  {
+    "id": 129811,
+    "name": "José Enrique Rodó",
+    "latitude": "-33.69618000",
+    "longitude": "-57.53153000",
+    "CountryID": 235,
+    "StateID": 3219
+  },
+  {
+    "id": 129828,
+    "name": "Mercedes",
+    "latitude": "-33.25240000",
+    "longitude": "-58.03047000",
+    "CountryID": 235,
+    "StateID": 3219
+  },
+  {
+    "id": 129839,
+    "name": "Palmitas",
+    "latitude": "-33.50719000",
+    "longitude": "-57.80079000",
+    "CountryID": 235,
+    "StateID": 3219
+  },
+  {
+    "id": 129867,
+    "name": "Santa Catalina",
+    "latitude": "-33.79100000",
+    "longitude": "-57.48824000",
+    "CountryID": 235,
+    "StateID": 3219
+  },
+  {
+    "id": 129891,
+    "name": "Villa Soriano",
+    "latitude": "-33.39811000",
+    "longitude": "-58.32177000",
+    "CountryID": 235,
+    "StateID": 3219
+  },
+  {
+    "id": 129796,
+    "name": "Curtina",
+    "latitude": "-32.15000000",
+    "longitude": "-56.11667000",
+    "CountryID": 235,
+    "StateID": 3221
+  },
+  {
+    "id": 129843,
+    "name": "Paso de los Toros",
+    "latitude": "-32.81667000",
+    "longitude": "-56.51667000",
+    "CountryID": 235,
+    "StateID": 3221
+  },
+  {
+    "id": 129877,
+    "name": "Tacuarembó",
+    "latitude": "-31.71694000",
+    "longitude": "-55.98111000",
+    "CountryID": 235,
+    "StateID": 3221
+  },
+  {
+    "id": 129868,
+    "name": "Santa Clara de Olimar",
+    "latitude": "-32.92254000",
+    "longitude": "-54.94447000",
+    "CountryID": 235,
+    "StateID": 3214
+  },
+  {
+    "id": 129883,
+    "name": "Treinta y Tres",
+    "latitude": "-33.23333000",
+    "longitude": "-54.38333000",
+    "CountryID": 235,
+    "StateID": 3214
+  },
+  {
+    "id": 129887,
+    "name": "Vergara",
+    "latitude": "-32.94419000",
+    "longitude": "-53.93810000",
+    "CountryID": 235,
+    "StateID": 3214
+  },
+  {
+    "id": 129890,
+    "name": "Villa Sara",
+    "latitude": "-33.25340000",
+    "longitude": "-54.41947000",
+    "CountryID": 235,
+    "StateID": 3214
+  }
+]

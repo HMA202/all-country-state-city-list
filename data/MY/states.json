@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1950,
+    "name": "Johor",
+    "iso2": "01",
+    "native": "Johor",
+    "latitude": "2.02288210",
+    "longitude": "103.31145640",
+    "type": "state",
+    "timezone": "Asia/Kuala_Lumpur",
+    "CountryID": 132
+  },
+  {
+    "id": 1947,
+    "name": "Kedah",
+    "iso2": "02",
+    "native": "Kedah",
+    "latitude": "5.80982650",
+    "longitude": "100.67150350",
+    "type": "state",
+    "timezone": "Asia/Kuala_Lumpur",
+    "CountryID": 132
+  },
+  {
+    "id": 1946,
+    "name": "Kelantan",
+    "iso2": "03",
+    "native": "Kelantan",
+    "latitude": "5.40213020",
+    "longitude": "102.06359720",
+    "type": "state",
+    "timezone": "Asia/Kuala_Lumpur",
+    "CountryID": 132
+  },
+  {
+    "id": 1949,
+    "name": "Kuala Lumpur",
+    "iso2": "14",
+    "native": "Kuala Lumpur",
+    "latitude": "3.15169640",
+    "longitude": "101.69423710",
+    "type": "federal territory",
+    "timezone": "Asia/Kuala_Lumpur",
+    "CountryID": 132
+  },
+  {
+    "id": 1935,
+    "name": "Labuan",
+    "iso2": "15",
+    "native": "Labuan",
+    "latitude": "5.31683360",
+    "longitude": "115.21986130",
+    "type": "federal territory",
+    "timezone": "Asia/Kuala_Lumpur",
+    "CountryID": 132
+  },
+  {
+    "id": 1941,
+    "name": "Malacca",
+    "iso2": "04",
+    "native": "Melaka",
+    "latitude": "2.18959400",
+    "longitude": "102.25008680",
+    "type": "state",
+    "timezone": "Asia/Kuala_Lumpur",
+    "CountryID": 132
+  },
+  {
+    "id": 1948,
+    "name": "Negeri Sembilan",
+    "iso2": "05",
+    "native": "Negeri Sembilan",
+    "latitude": "2.78318950",
+    "longitude": "102.19253190",
+    "type": "state",
+    "timezone": "Asia/Kuala_Lumpur",
+    "CountryID": 132
+  },
+  {
+    "id": 1940,
+    "name": "Pahang",
+    "iso2": "06",
+    "native": "Pahang",
+    "latitude": "3.61688220",
+    "longitude": "102.59945470",
+    "type": "state",
+    "timezone": "Asia/Kuala_Lumpur",
+    "CountryID": 132
+  },
+  {
+    "id": 1939,
+    "name": "Penang",
+    "iso2": "07",
+    "native": "Pulau Pinang",
+    "latitude": "5.40650130",
+    "longitude": "100.25590770",
+    "type": "state",
+    "timezone": "Asia/Kuala_Lumpur",
+    "CountryID": 132
+  },
+  {
+    "id": 1943,
+    "name": "Perak",
+    "iso2": "08",
+    "native": "Perak",
+    "latitude": "4.81218100",
+    "longitude": "100.97979080",
+    "type": "state",
+    "timezone": "Asia/Kuala_Lumpur",
+    "CountryID": 132
+  },
+  {
+    "id": 1938,
+    "name": "Perlis",
+    "iso2": "09",
+    "native": "Perlis",
+    "latitude": "6.48683920",
+    "longitude": "100.25776230",
+    "type": "state",
+    "timezone": "Asia/Kuala_Lumpur",
+    "CountryID": 132
+  },
+  {
+    "id": 1945,
+    "name": "Putrajaya",
+    "iso2": "16",
+    "native": "Putrajaya",
+    "latitude": "2.93843810",
+    "longitude": "101.69223000",
+    "type": "federal territory",
+    "timezone": "Asia/Kuala_Lumpur",
+    "CountryID": 132
+  },
+  {
+    "id": 1936,
+    "name": "Sabah",
+    "iso2": "12",
+    "native": "Sabah",
+    "latitude": "5.42573590",
+    "longitude": "117.03263920",
+    "type": "state",
+    "timezone": "Asia/Kuala_Lumpur",
+    "CountryID": 132
+  },
+  {
+    "id": 1937,
+    "name": "Sarawak",
+    "iso2": "13",
+    "native": "Sarawak",
+    "latitude": "2.50238550",
+    "longitude": "112.95472830",
+    "type": "state",
+    "timezone": "Asia/Kuala_Lumpur",
+    "CountryID": 132
+  },
+  {
+    "id": 1944,
+    "name": "Selangor",
+    "iso2": "10",
+    "native": "Selangor",
+    "latitude": "3.20833040",
+    "longitude": "101.30414600",
+    "type": "state",
+    "timezone": "Asia/Kuala_Lumpur",
+    "CountryID": 132
+  },
+  {
+    "id": 1942,
+    "name": "Terengganu",
+    "iso2": "11",
+    "native": "Terengganu",
+    "latitude": "4.86307430",
+    "longitude": "102.99492970",
+    "type": "state",
+    "timezone": "Asia/Kuala_Lumpur",
+    "CountryID": 132
+  }
+]

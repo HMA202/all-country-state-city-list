@@ -1,0 +1,458 @@
+[
+  {
+    "id": 160325,
+    "name": "Acoua",
+    "latitude": "-12.72391000",
+    "longitude": "45.05819000",
+    "CountryID": 141,
+    "StateID": 5415
+  },
+  {
+    "id": 160324,
+    "name": "Mtsangadoua",
+    "latitude": "-12.71112000",
+    "longitude": "45.05118000",
+    "CountryID": 141,
+    "StateID": 5415
+  },
+  {
+    "id": 160330,
+    "name": "Bandraboua",
+    "latitude": "-12.70440000",
+    "longitude": "45.12231000",
+    "CountryID": 141,
+    "StateID": 5417
+  },
+  {
+    "id": 160329,
+    "name": "Bouyouni",
+    "latitude": "-12.73462000",
+    "longitude": "45.13914000",
+    "CountryID": 141,
+    "StateID": 5417
+  },
+  {
+    "id": 160333,
+    "name": "Dzumogne",
+    "latitude": "-12.71667000",
+    "longitude": "45.11667000",
+    "CountryID": 141,
+    "StateID": 5417
+  },
+  {
+    "id": 160332,
+    "name": "Handréma",
+    "latitude": "-12.68112000",
+    "longitude": "45.09965000",
+    "CountryID": 141,
+    "StateID": 5417
+  },
+  {
+    "id": 160331,
+    "name": "Mtsangamboua",
+    "latitude": "-12.69033000",
+    "longitude": "45.10926000",
+    "CountryID": 141,
+    "StateID": 5417
+  },
+  {
+    "id": 160302,
+    "name": "Bandrele",
+    "latitude": "-12.91276000",
+    "longitude": "45.19256000",
+    "CountryID": 141,
+    "StateID": 5406
+  },
+  {
+    "id": 160303,
+    "name": "Hamouro",
+    "latitude": "-12.88130000",
+    "longitude": "45.21494000",
+    "CountryID": 141,
+    "StateID": 5406
+  },
+  {
+    "id": 160300,
+    "name": "Mtsamoudou",
+    "latitude": "-12.96232000",
+    "longitude": "45.17449000",
+    "CountryID": 141,
+    "StateID": 5406
+  },
+  {
+    "id": 160301,
+    "name": "Nyambadao",
+    "latitude": "-12.89346000",
+    "longitude": "45.20214000",
+    "CountryID": 141,
+    "StateID": 5406
+  },
+  {
+    "id": 160305,
+    "name": "Bouéni",
+    "latitude": "-12.90250000",
+    "longitude": "45.07611000",
+    "CountryID": 141,
+    "StateID": 5408
+  },
+  {
+    "id": 160306,
+    "name": "Mouanatrindri",
+    "latitude": "-12.89960000",
+    "longitude": "45.09792000",
+    "CountryID": 141,
+    "StateID": 5408
+  },
+  {
+    "id": 160307,
+    "name": "Mzouazia",
+    "latitude": "-12.92717000",
+    "longitude": "45.10336000",
+    "CountryID": 141,
+    "StateID": 5408
+  },
+  {
+    "id": 160318,
+    "name": "Chiconi",
+    "latitude": "-12.83333000",
+    "longitude": "45.11056000",
+    "CountryID": 141,
+    "StateID": 5412
+  },
+  {
+    "id": 160319,
+    "name": "Sohoa",
+    "latitude": "-12.82233000",
+    "longitude": "45.10552000",
+    "CountryID": 141,
+    "StateID": 5412
+  },
+  {
+    "id": 160309,
+    "name": "Chirongui",
+    "latitude": "-12.93194000",
+    "longitude": "45.14833000",
+    "CountryID": 141,
+    "StateID": 5409
+  },
+  {
+    "id": 160311,
+    "name": "Miréréni",
+    "latitude": "-12.90708000",
+    "longitude": "45.15295000",
+    "CountryID": 141,
+    "StateID": 5409
+  },
+  {
+    "id": 160310,
+    "name": "Mramadoudou",
+    "latitude": "-12.92846000",
+    "longitude": "45.15324000",
+    "CountryID": 141,
+    "StateID": 5409
+  },
+  {
+    "id": 160312,
+    "name": "Poroani",
+    "latitude": "-12.89226000",
+    "longitude": "45.14121000",
+    "CountryID": 141,
+    "StateID": 5409
+  },
+  {
+    "id": 160308,
+    "name": "Tsimkoura",
+    "latitude": "-12.93934000",
+    "longitude": "45.13739000",
+    "CountryID": 141,
+    "StateID": 5409
+  },
+  {
+    "id": 160299,
+    "name": "Dembeni",
+    "latitude": "-12.84360000",
+    "longitude": "45.18436000",
+    "CountryID": 141,
+    "StateID": 5405
+  },
+  {
+    "id": 160295,
+    "name": "Hajangoua",
+    "latitude": "-12.86607000",
+    "longitude": "45.19857000",
+    "CountryID": 141,
+    "StateID": 5405
+  },
+  {
+    "id": 160296,
+    "name": "Iloni",
+    "latitude": "-12.84553000",
+    "longitude": "45.19037000",
+    "CountryID": 141,
+    "StateID": 5405
+  },
+  {
+    "id": 160297,
+    "name": "Ongojou",
+    "latitude": "-12.83883000",
+    "longitude": "45.16012000",
+    "CountryID": 141,
+    "StateID": 5405
+  },
+  {
+    "id": 160298,
+    "name": "Tsararano",
+    "latitude": "-12.83528000",
+    "longitude": "45.17355000",
+    "CountryID": 141,
+    "StateID": 5405
+  },
+  {
+    "id": 160283,
+    "name": "Dzaoudzi",
+    "latitude": "-12.78339000",
+    "longitude": "45.25693000",
+    "CountryID": 141,
+    "StateID": 5402
+  },
+  {
+    "id": 160282,
+    "name": "Labattoir",
+    "latitude": "-12.77698000",
+    "longitude": "45.28234000",
+    "CountryID": 141,
+    "StateID": 5402
+  },
+  {
+    "id": 160304,
+    "name": "Kani-Kéli",
+    "latitude": "-12.95361000",
+    "longitude": "45.10333000",
+    "CountryID": 141,
+    "StateID": 5407
+  },
+  {
+    "id": 160337,
+    "name": "Kangani",
+    "latitude": "-12.73186000",
+    "longitude": "45.18694000",
+    "CountryID": 141,
+    "StateID": 5418
+  },
+  {
+    "id": 160335,
+    "name": "Koungou",
+    "latitude": "-12.73361000",
+    "longitude": "45.20417000",
+    "CountryID": 141,
+    "StateID": 5418
+  },
+  {
+    "id": 160338,
+    "name": "Longoni",
+    "latitude": "-12.73426000",
+    "longitude": "45.16298000",
+    "CountryID": 141,
+    "StateID": 5418
+  },
+  {
+    "id": 160334,
+    "name": "Majikavo Koropa",
+    "latitude": "-12.74701000",
+    "longitude": "45.22058000",
+    "CountryID": 141,
+    "StateID": 5418
+  },
+  {
+    "id": 160336,
+    "name": "Trévani",
+    "latitude": "-12.73437000",
+    "longitude": "45.19861000",
+    "CountryID": 141,
+    "StateID": 5418
+  },
+  {
+    "id": 160323,
+    "name": "Chembényoumba",
+    "latitude": "-12.76472000",
+    "longitude": "45.07793000",
+    "CountryID": 141,
+    "StateID": 5414
+  },
+  {
+    "id": 160322,
+    "name": "M'Tsangamouji",
+    "latitude": "-12.75944000",
+    "longitude": "45.08361000",
+    "CountryID": 141,
+    "StateID": 5414
+  },
+  {
+    "id": 160292,
+    "name": "Combani",
+    "latitude": "-12.80000000",
+    "longitude": "45.16667000",
+    "CountryID": 141,
+    "StateID": 5404
+  },
+  {
+    "id": 160290,
+    "name": "Kaouéni",
+    "latitude": "-12.77121000",
+    "longitude": "45.22419000",
+    "CountryID": 141,
+    "StateID": 5404
+  },
+  {
+    "id": 160289,
+    "name": "Kavani",
+    "latitude": "-12.78447000",
+    "longitude": "45.22299000",
+    "CountryID": 141,
+    "StateID": 5404
+  },
+  {
+    "id": 160291,
+    "name": "Majikavo Lamir",
+    "latitude": "-12.75572000",
+    "longitude": "45.22968000",
+    "CountryID": 141,
+    "StateID": 5404
+  },
+  {
+    "id": 160293,
+    "name": "Mamoudzou",
+    "latitude": "-12.78234000",
+    "longitude": "45.22878000",
+    "CountryID": 141,
+    "StateID": 5404
+  },
+  {
+    "id": 160288,
+    "name": "Mtsapéré",
+    "latitude": "-12.78636000",
+    "longitude": "45.21732000",
+    "CountryID": 141,
+    "StateID": 5404
+  },
+  {
+    "id": 160294,
+    "name": "Passamainty",
+    "latitude": "-12.80201000",
+    "longitude": "45.20818000",
+    "CountryID": 141,
+    "StateID": 5404
+  },
+  {
+    "id": 160287,
+    "name": "Tsoundzou 1",
+    "latitude": "-12.80615000",
+    "longitude": "45.20230000",
+    "CountryID": 141,
+    "StateID": 5404
+  },
+  {
+    "id": 160286,
+    "name": "Tsoundzou 2",
+    "latitude": "-12.81845000",
+    "longitude": "45.19720000",
+    "CountryID": 141,
+    "StateID": 5404
+  },
+  {
+    "id": 160285,
+    "name": "Vahibé",
+    "latitude": "-12.79024000",
+    "longitude": "45.17707000",
+    "CountryID": 141,
+    "StateID": 5404
+  },
+  {
+    "id": 160327,
+    "name": "Hamjago",
+    "latitude": "-12.68832000",
+    "longitude": "45.07450000",
+    "CountryID": 141,
+    "StateID": 5416
+  },
+  {
+    "id": 160328,
+    "name": "Mtsahara",
+    "latitude": "-12.68137000",
+    "longitude": "45.08274000",
+    "CountryID": 141,
+    "StateID": 5416
+  },
+  {
+    "id": 160326,
+    "name": "Mtsamboro",
+    "latitude": "-12.69982000",
+    "longitude": "45.06894000",
+    "CountryID": 141,
+    "StateID": 5416
+  },
+  {
+    "id": 160317,
+    "name": "Barakani",
+    "latitude": "-12.83799000",
+    "longitude": "45.13120000",
+    "CountryID": 141,
+    "StateID": 5411
+  },
+  {
+    "id": 160315,
+    "name": "Kahani",
+    "latitude": "-12.82385000",
+    "longitude": "45.13141000",
+    "CountryID": 141,
+    "StateID": 5411
+  },
+  {
+    "id": 160316,
+    "name": "Ouangani",
+    "latitude": "-12.84639000",
+    "longitude": "45.13611000",
+    "CountryID": 141,
+    "StateID": 5411
+  },
+  {
+    "id": 160284,
+    "name": "Pamandzi",
+    "latitude": "-12.79674000",
+    "longitude": "45.27938000",
+    "CountryID": 141,
+    "StateID": 5403
+  },
+  {
+    "id": 160314,
+    "name": "Mangajou",
+    "latitude": "-12.84404000",
+    "longitude": "45.11716000",
+    "CountryID": 141,
+    "StateID": 5410
+  },
+  {
+    "id": 160313,
+    "name": "Sada",
+    "latitude": "-12.85055000",
+    "longitude": "45.10205000",
+    "CountryID": 141,
+    "StateID": 5410
+  },
+  {
+    "id": 160320,
+    "name": "Miréréni",
+    "latitude": "-12.78867000",
+    "longitude": "45.14113000",
+    "CountryID": 141,
+    "StateID": 5413
+  },
+  {
+    "id": 160321,
+    "name": "Tsingoni",
+    "latitude": "-12.78722000",
+    "longitude": "45.10278000",
+    "CountryID": 141,
+    "StateID": 5413
+  }
+]

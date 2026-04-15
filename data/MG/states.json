@@ -1,0 +1,68 @@
+[
+  {
+    "id": 2951,
+    "name": "Antananarivo",
+    "iso2": "T",
+    "native": "Antananarivo",
+    "latitude": "-18.91001220",
+    "longitude": "47.52558090",
+    "type": "province",
+    "timezone": "Indian/Antananarivo",
+    "CountryID": 130
+  },
+  {
+    "id": 2950,
+    "name": "Antsiranana",
+    "iso2": "D",
+    "native": "Antsiranana",
+    "latitude": "-13.72297220",
+    "longitude": "49.18018360",
+    "type": "province",
+    "timezone": "Indian/Antananarivo",
+    "CountryID": 130
+  },
+  {
+    "id": 2948,
+    "name": "Fianarantsoa",
+    "iso2": "F",
+    "native": "Fianarantsoa",
+    "latitude": "-21.91742000",
+    "longitude": "46.87098510",
+    "type": "province",
+    "timezone": "Indian/Antananarivo",
+    "CountryID": 130
+  },
+  {
+    "id": 2953,
+    "name": "Mahajanga",
+    "iso2": "M",
+    "native": "Mahajanga",
+    "latitude": "-16.59441040",
+    "longitude": "46.17197960",
+    "type": "province",
+    "timezone": "Indian/Antananarivo",
+    "CountryID": 130
+  },
+  {
+    "id": 2952,
+    "name": "Toamasina",
+    "iso2": "A",
+    "native": "Toamasina",
+    "latitude": "-18.15539850",
+    "longitude": "49.40983520",
+    "type": "province",
+    "timezone": "Indian/Antananarivo",
+    "CountryID": 130
+  },
+  {
+    "id": 2949,
+    "name": "Toliara",
+    "iso2": "U",
+    "native": "Toliara",
+    "latitude": "-23.35417300",
+    "longitude": "43.66966000",
+    "type": "province",
+    "timezone": "Indian/Antananarivo",
+    "CountryID": 130
+  }
+]

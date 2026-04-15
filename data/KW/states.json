@@ -1,0 +1,68 @@
+[
+  {
+    "id": 977,
+    "name": "Al Ahmadi",
+    "iso2": "AH",
+    "native": "الأحمدي",
+    "latitude": "28.85385710",
+    "longitude": "48.16523770",
+    "type": "governorate",
+    "timezone": "Asia/Kuwait",
+    "CountryID": 117
+  },
+  {
+    "id": 976,
+    "name": "Al Asimah",
+    "iso2": "KU",
+    "native": "العاصمة",
+    "latitude": "29.09261280",
+    "longitude": "48.51335500",
+    "type": "governorate",
+    "timezone": "Asia/Kuwait",
+    "CountryID": 117
+  },
+  {
+    "id": 975,
+    "name": "Al Farwaniyah",
+    "iso2": "FA",
+    "native": "الفروانية",
+    "latitude": "29.24825390",
+    "longitude": "47.91367550",
+    "type": "governorate",
+    "timezone": "Asia/Kuwait",
+    "CountryID": 117
+  },
+  {
+    "id": 972,
+    "name": "Al Jahra",
+    "iso2": "JA",
+    "native": "الجهراء",
+    "latitude": "29.34746360",
+    "longitude": "47.67220540",
+    "type": "governorate",
+    "timezone": "Asia/Kuwait",
+    "CountryID": 117
+  },
+  {
+    "id": 973,
+    "name": "Hawalli",
+    "iso2": "HA",
+    "native": "حولي",
+    "latitude": "29.32366090",
+    "longitude": "48.11531480",
+    "type": "governorate",
+    "timezone": "Asia/Kuwait",
+    "CountryID": 117
+  },
+  {
+    "id": 974,
+    "name": "Mubarak Al-Kabeer",
+    "iso2": "MU",
+    "native": "مبارك الكبير",
+    "latitude": "29.18709560",
+    "longitude": "48.08275890",
+    "type": "governorate",
+    "timezone": "Asia/Kuwait",
+    "CountryID": 117
+  }
+]

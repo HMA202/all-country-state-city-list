@@ -1,0 +1,698 @@
+[
+  {
+    "id": 67758,
+    "name": "Attard",
+    "latitude": "35.88972000",
+    "longitude": "14.44250000",
+    "CountryID": 135,
+    "StateID": 110
+  },
+  {
+    "id": 67759,
+    "name": "Balzan",
+    "latitude": "35.90028000",
+    "longitude": "14.45500000",
+    "CountryID": 135,
+    "StateID": 108
+  },
+  {
+    "id": 67817,
+    "name": "Birgu (Vittoriosa)",
+    "latitude": "35.89222000",
+    "longitude": "14.51833000",
+    "CountryID": 135,
+    "StateID": 107
+  },
+  {
+    "id": 67760,
+    "name": "Birkirkara",
+    "latitude": "35.89722000",
+    "longitude": "14.46111000",
+    "CountryID": 135,
+    "StateID": 97
+  },
+  {
+    "id": 153733,
+    "name": "Fleur De Lys",
+    "latitude": "35.89530000",
+    "longitude": "14.46560000",
+    "CountryID": 135,
+    "StateID": 97
+  },
+  {
+    "id": 153742,
+    "name": "Swatar",
+    "latitude": "35.89877800",
+    "longitude": "14.47659200",
+    "CountryID": 135,
+    "StateID": 97
+  },
+  {
+    "id": 67761,
+    "name": "Birżebbuġa",
+    "latitude": "35.82583000",
+    "longitude": "14.52694000",
+    "CountryID": 135,
+    "StateID": 88
+  },
+  {
+    "id": 153734,
+    "name": "Ħal Far",
+    "latitude": "35.81134900",
+    "longitude": "14.51068600",
+    "CountryID": 135,
+    "StateID": 88
+  },
+  {
+    "id": 67762,
+    "name": "Cospicua",
+    "latitude": "35.88556000",
+    "longitude": "14.52750000",
+    "CountryID": 135,
+    "StateID": 138
+  },
+  {
+    "id": 67763,
+    "name": "Dingli",
+    "latitude": "35.86139000",
+    "longitude": "14.38222000",
+    "CountryID": 135,
+    "StateID": 117
+  },
+  {
+    "id": 67764,
+    "name": "Fgura",
+    "latitude": "35.87028000",
+    "longitude": "14.51333000",
+    "CountryID": 135,
+    "StateID": 129
+  },
+  {
+    "id": 67765,
+    "name": "Floriana",
+    "latitude": "35.89583000",
+    "longitude": "14.50833000",
+    "CountryID": 135,
+    "StateID": 84
+  },
+  {
+    "id": 67766,
+    "name": "Fontana",
+    "latitude": "36.03750000",
+    "longitude": "14.23611000",
+    "CountryID": 135,
+    "StateID": 134
+  },
+  {
+    "id": 67768,
+    "name": "Għajnsielem",
+    "latitude": "36.02639000",
+    "longitude": "14.28500000",
+    "CountryID": 135,
+    "StateID": 130
+  },
+  {
+    "id": 67772,
+    "name": "Ħal Għargħur",
+    "latitude": "35.92409000",
+    "longitude": "14.45118000",
+    "CountryID": 135,
+    "StateID": 130
+  },
+  {
+    "id": 67770,
+    "name": "Ħal Għaxaq",
+    "latitude": "35.84889000",
+    "longitude": "14.51667000",
+    "CountryID": 135,
+    "StateID": 120
+  },
+  {
+    "id": 67767,
+    "name": "Gudja",
+    "latitude": "35.84917000",
+    "longitude": "14.50306000",
+    "CountryID": 135,
+    "StateID": 106
+  },
+  {
+    "id": 67771,
+    "name": "Gżira",
+    "latitude": "35.90583000",
+    "longitude": "14.48806000",
+    "CountryID": 135,
+    "StateID": 124
+  },
+  {
+    "id": 67769,
+    "name": "Għarb",
+    "latitude": "36.06000000",
+    "longitude": "14.20889000",
+    "CountryID": 135,
+    "StateID": 113
+  },
+  {
+    "id": 153730,
+    "name": "Blata l' Bajda",
+    "latitude": "35.88750000",
+    "longitude": "14.49861100",
+    "CountryID": 135,
+    "StateID": 105
+  },
+  {
+    "id": 67821,
+    "name": "Ħamrun",
+    "latitude": "35.88472000",
+    "longitude": "14.48444000",
+    "CountryID": 135,
+    "StateID": 105
+  },
+  {
+    "id": 67781,
+    "name": "L-Iklin",
+    "latitude": "35.90414000",
+    "longitude": "14.45415000",
+    "CountryID": 135,
+    "StateID": 93
+  },
+  {
+    "id": 67777,
+    "name": "Imġarr",
+    "latitude": "35.92056000",
+    "longitude": "14.36639000",
+    "CountryID": 135,
+    "StateID": 99
+  },
+  {
+    "id": 67791,
+    "name": "Mġarr",
+    "latitude": "36.02528000",
+    "longitude": "14.29500000",
+    "CountryID": 135,
+    "StateID": 99
+  },
+  {
+    "id": 67789,
+    "name": "Mqabba",
+    "latitude": "35.84763000",
+    "longitude": "14.46824000",
+    "CountryID": 135,
+    "StateID": 91
+  },
+  {
+    "id": 67775,
+    "name": "Imsida",
+    "latitude": "35.89250000",
+    "longitude": "14.48278000",
+    "CountryID": 135,
+    "StateID": 82
+  },
+  {
+    "id": 67780,
+    "name": "Kirkop",
+    "latitude": "35.84222000",
+    "longitude": "14.48528000",
+    "CountryID": 135,
+    "StateID": 82
+  },
+  {
+    "id": 67782,
+    "name": "Ħal Lija",
+    "latitude": "35.90056000",
+    "longitude": "14.44639000",
+    "CountryID": 135,
+    "StateID": 126
+  },
+  {
+    "id": 67776,
+    "name": "Imtarfa",
+    "latitude": "35.89333000",
+    "longitude": "14.39889000",
+    "CountryID": 135,
+    "StateID": 126
+  },
+  {
+    "id": 67783,
+    "name": "Ħal Luqa",
+    "latitude": "35.85889000",
+    "longitude": "14.48861000",
+    "CountryID": 135,
+    "StateID": 77
+  },
+  {
+    "id": 67809,
+    "name": "Senglea",
+    "latitude": "35.88750000",
+    "longitude": "14.51694000",
+    "CountryID": 135,
+    "StateID": 77
+  },
+  {
+    "id": 67778,
+    "name": "Kalkara",
+    "latitude": "35.88917000",
+    "longitude": "14.53278000",
+    "CountryID": 135,
+    "StateID": 128
+  },
+  {
+    "id": 67779,
+    "name": "Kerċem",
+    "latitude": "36.04194000",
+    "longitude": "14.22667000",
+    "CountryID": 135,
+    "StateID": 137
+  },
+  {
+    "id": 67785,
+    "name": "Marsaskala",
+    "latitude": "35.86220000",
+    "longitude": "14.56701000",
+    "CountryID": 135,
+    "StateID": 137
+  },
+  {
+    "id": 67786,
+    "name": "Marsaxlokk",
+    "latitude": "35.84194000",
+    "longitude": "14.54306000",
+    "CountryID": 135,
+    "StateID": 78
+  },
+  {
+    "id": 153737,
+    "name": "Manikata",
+    "latitude": "35.94000000",
+    "longitude": "14.35333000",
+    "CountryID": 135,
+    "StateID": 102
+  },
+  {
+    "id": 67784,
+    "name": "Marsa",
+    "latitude": "35.87917000",
+    "longitude": "14.49528000",
+    "CountryID": 135,
+    "StateID": 109
+  },
+  {
+    "id": 153728,
+    "name": "Bidnija",
+    "latitude": "35.92694400",
+    "longitude": "14.39833300",
+    "CountryID": 135,
+    "StateID": 140
+  },
+  {
+    "id": 67787,
+    "name": "Mellieħa",
+    "latitude": "35.95639000",
+    "longitude": "14.36222000",
+    "CountryID": 135,
+    "StateID": 96
+  },
+  {
+    "id": 67790,
+    "name": "Munxar",
+    "latitude": "36.03000000",
+    "longitude": "14.23333000",
+    "CountryID": 135,
+    "StateID": 132
+  },
+  {
+    "id": 67792,
+    "name": "Nadur",
+    "latitude": "36.03778000",
+    "longitude": "14.29417000",
+    "CountryID": 135,
+    "StateID": 133
+  },
+  {
+    "id": 153726,
+    "name": "Baħar iċ-Ċagħaq",
+    "latitude": "35.93878700",
+    "longitude": "14.45372500",
+    "CountryID": 135,
+    "StateID": 112
+  },
+  {
+    "id": 153736,
+    "name": "Magħtab",
+    "latitude": "35.94500000",
+    "longitude": "14.44000000",
+    "CountryID": 135,
+    "StateID": 112
+  },
+  {
+    "id": 67793,
+    "name": "Naxxar",
+    "latitude": "35.91361000",
+    "longitude": "14.44361000",
+    "CountryID": 135,
+    "StateID": 112
+  },
+  {
+    "id": 153741,
+    "name": "Salina",
+    "latitude": "35.94555600",
+    "longitude": "14.42444400",
+    "CountryID": 135,
+    "StateID": 112
+  },
+  {
+    "id": 67794,
+    "name": "Paola",
+    "latitude": "35.87306000",
+    "longitude": "14.49889000",
+    "CountryID": 135,
+    "StateID": 115
+  },
+  {
+    "id": 67795,
+    "name": "Pembroke",
+    "latitude": "35.93056000",
+    "longitude": "14.47639000",
+    "CountryID": 135,
+    "StateID": 125
+  },
+  {
+    "id": 67796,
+    "name": "Pietà",
+    "latitude": "35.89472000",
+    "longitude": "14.49500000",
+    "CountryID": 135,
+    "StateID": 127
+  },
+  {
+    "id": 67797,
+    "name": "Qala",
+    "latitude": "36.03611000",
+    "longitude": "14.30944000",
+    "CountryID": 135,
+    "StateID": 79
+  },
+  {
+    "id": 67798,
+    "name": "Qormi",
+    "latitude": "35.87601000",
+    "longitude": "14.47200000",
+    "CountryID": 135,
+    "StateID": 119
+  },
+  {
+    "id": 67799,
+    "name": "Qrendi",
+    "latitude": "35.83472000",
+    "longitude": "14.45833000",
+    "CountryID": 135,
+    "StateID": 111
+  },
+  {
+    "id": 153727,
+    "name": "Baħrija",
+    "latitude": "35.89472200",
+    "longitude": "14.34833300",
+    "CountryID": 135,
+    "StateID": 83
+  },
+  {
+    "id": 153729,
+    "name": "Binġemma",
+    "latitude": "35.90277800",
+    "longitude": "14.37777800",
+    "CountryID": 135,
+    "StateID": 83
+  },
+  {
+    "id": 153740,
+    "name": "Ħal Safi",
+    "latitude": "35.83333300",
+    "longitude": "14.48500000",
+    "CountryID": 135,
+    "StateID": 5642
+  },
+  {
+    "id": 67805,
+    "name": "San Ġiljan (St. Julian's)",
+    "latitude": "35.91839000",
+    "longitude": "14.48977000",
+    "CountryID": 135,
+    "StateID": 75
+  },
+  {
+    "id": 67803,
+    "name": "San Lawrenz",
+    "latitude": "36.05556000",
+    "longitude": "14.20361000",
+    "CountryID": 135,
+    "StateID": 87
+  },
+  {
+    "id": 67804,
+    "name": "San Pawl il-Baħar",
+    "latitude": "35.95064000",
+    "longitude": "14.41561000",
+    "CountryID": 135,
+    "StateID": 116
+  },
+  {
+    "id": 67806,
+    "name": "Sannat",
+    "latitude": "36.02444000",
+    "longitude": "14.24278000",
+    "CountryID": 135,
+    "StateID": 116
+  },
+  {
+    "id": 67808,
+    "name": "Santa Venera",
+    "latitude": "35.89083000",
+    "longitude": "14.47417000",
+    "CountryID": 135,
+    "StateID": 94
+  },
+  {
+    "id": 67774,
+    "name": "Imdina",
+    "latitude": "35.88694000",
+    "longitude": "14.40250000",
+    "CountryID": 135,
+    "StateID": 136
+  },
+  {
+    "id": 67810,
+    "name": "Siġġiewi",
+    "latitude": "35.85556000",
+    "longitude": "14.43639000",
+    "CountryID": 135,
+    "StateID": 98
+  },
+  {
+    "id": 67811,
+    "name": "Sliema",
+    "latitude": "35.91250000",
+    "longitude": "14.50194000",
+    "CountryID": 135,
+    "StateID": 104
+  },
+  {
+    "id": 153738,
+    "name": "Paceville",
+    "latitude": "35.92370000",
+    "longitude": "14.49140000",
+    "CountryID": 135,
+    "StateID": 100
+  },
+  {
+    "id": 67801,
+    "name": "San Ġwann",
+    "latitude": "35.90556000",
+    "longitude": "14.47611000",
+    "CountryID": 135,
+    "StateID": 100
+  },
+  {
+    "id": 153731,
+    "name": "Buġibba",
+    "latitude": "35.94916700",
+    "longitude": "14.41166700",
+    "CountryID": 135,
+    "StateID": 139
+  },
+  {
+    "id": 153732,
+    "name": "Burmarrad",
+    "latitude": "35.93490000",
+    "longitude": "14.41430000",
+    "CountryID": 135,
+    "StateID": 139
+  },
+  {
+    "id": 67788,
+    "name": "Mosta",
+    "latitude": "35.90917000",
+    "longitude": "14.42556000",
+    "CountryID": 135,
+    "StateID": 139
+  },
+  {
+    "id": 153739,
+    "name": "Qawra",
+    "latitude": "35.95416700",
+    "longitude": "14.42000000",
+    "CountryID": 135,
+    "StateID": 139
+  },
+  {
+    "id": 67802,
+    "name": "Santa Luċija",
+    "latitude": "36.04306000",
+    "longitude": "14.21722000",
+    "CountryID": 135,
+    "StateID": 139
+  },
+  {
+    "id": 67807,
+    "name": "Santa Luċija, Gozo",
+    "latitude": "35.86278000",
+    "longitude": "14.50750000",
+    "CountryID": 135,
+    "StateID": 139
+  },
+  {
+    "id": 153743,
+    "name": "Wardija",
+    "latitude": "35.93795800",
+    "longitude": "14.39254200",
+    "CountryID": 135,
+    "StateID": 139
+  },
+  {
+    "id": 153744,
+    "name": "Xemxija",
+    "latitude": "35.95055600",
+    "longitude": "14.38583300",
+    "CountryID": 135,
+    "StateID": 139
+  },
+  {
+    "id": 153735,
+    "name": "Madliena",
+    "latitude": "35.93333300",
+    "longitude": "14.46666700",
+    "CountryID": 135,
+    "StateID": 86
+  },
+  {
+    "id": 67812,
+    "name": "Swieqi",
+    "latitude": "35.92250000",
+    "longitude": "14.48000000",
+    "CountryID": 135,
+    "StateID": 86
+  },
+  {
+    "id": 67814,
+    "name": "Ta’ Xbiex",
+    "latitude": "35.89917000",
+    "longitude": "14.49444000",
+    "CountryID": 135,
+    "StateID": 122
+  },
+  {
+    "id": 67813,
+    "name": "Ħal Tarxien",
+    "latitude": "35.86583000",
+    "longitude": "14.51500000",
+    "CountryID": 135,
+    "StateID": 103
+  },
+  {
+    "id": 67815,
+    "name": "Valletta",
+    "latitude": "35.89972000",
+    "longitude": "14.51472000",
+    "CountryID": 135,
+    "StateID": 95
+  },
+  {
+    "id": 67800,
+    "name": "Rabat",
+    "latitude": "35.88152000",
+    "longitude": "14.39872000",
+    "CountryID": 135,
+    "StateID": 101
+  },
+  {
+    "id": 67816,
+    "name": "Victoria",
+    "latitude": "36.04444000",
+    "longitude": "14.23972000",
+    "CountryID": 135,
+    "StateID": 101
+  },
+  {
+    "id": 67818,
+    "name": "Xagħra",
+    "latitude": "36.05000000",
+    "longitude": "14.26444000",
+    "CountryID": 135,
+    "StateID": 114
+  },
+  {
+    "id": 67819,
+    "name": "Xewkija",
+    "latitude": "36.03278000",
+    "longitude": "14.25806000",
+    "CountryID": 135,
+    "StateID": 121
+  },
+  {
+    "id": 67820,
+    "name": "Xgħajra",
+    "latitude": "35.88556000",
+    "longitude": "14.54750000",
+    "CountryID": 135,
+    "StateID": 81
+  },
+  {
+    "id": 67822,
+    "name": "Żabbar",
+    "latitude": "35.87611000",
+    "longitude": "14.53500000",
+    "CountryID": 135,
+    "StateID": 123
+  },
+  {
+    "id": 67773,
+    "name": "Ħaż-Żebbuġ",
+    "latitude": "35.87194000",
+    "longitude": "14.44111000",
+    "CountryID": 135,
+    "StateID": 85
+  },
+  {
+    "id": 67823,
+    "name": "Żebbuġ",
+    "latitude": "36.07222000",
+    "longitude": "14.23583000",
+    "CountryID": 135,
+    "StateID": 80
+  },
+  {
+    "id": 67824,
+    "name": "Żejtun",
+    "latitude": "35.85583000",
+    "longitude": "14.53306000",
+    "CountryID": 135,
+    "StateID": 135
+  },
+  {
+    "id": 67825,
+    "name": "Żurrieq",
+    "latitude": "35.83111000",
+    "longitude": "14.47417000",
+    "CountryID": 135,
+    "StateID": 76
+  }
+]

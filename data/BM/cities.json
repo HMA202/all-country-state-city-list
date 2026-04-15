@@ -1,0 +1,74 @@
+[
+  {
+    "id": 153518,
+    "name": "Devonshire",
+    "latitude": "32.29300000",
+    "longitude": "-64.80000000",
+    "CountryID": 25,
+    "StateID": 4860
+  },
+  {
+    "id": 153515,
+    "name": "Hamilton",
+    "latitude": "32.29400000",
+    "longitude": "-64.78300000",
+    "CountryID": 25,
+    "StateID": 4861
+  },
+  {
+    "id": 153516,
+    "name": "Paget",
+    "latitude": "32.27800000",
+    "longitude": "-64.76900000",
+    "CountryID": 25,
+    "StateID": 4863
+  },
+  {
+    "id": 153514,
+    "name": "St. George's",
+    "latitude": "32.38100000",
+    "longitude": "-64.67400000",
+    "CountryID": 25,
+    "StateID": 4866
+  },
+  {
+    "id": 153517,
+    "name": "Tucker’s Town",
+    "latitude": "32.33280000",
+    "longitude": "-64.68810000",
+    "CountryID": 25,
+    "StateID": 4866
+  },
+  {
+    "id": 153513,
+    "name": "Somerset",
+    "latitude": "32.28200000",
+    "longitude": "-64.84400000",
+    "CountryID": 25,
+    "StateID": 4867
+  },
+  {
+    "id": 153512,
+    "name": "Flatts",
+    "latitude": "32.32800000",
+    "longitude": "-64.73600000",
+    "CountryID": 25,
+    "StateID": 4868
+  },
+  {
+    "id": 153511,
+    "name": "Southampton",
+    "latitude": "32.24900000",
+    "longitude": "-64.86100000",
+    "CountryID": 25,
+    "StateID": 4869
+  },
+  {
+    "id": 153510,
+    "name": "Warwick",
+    "latitude": "32.26700000",
+    "longitude": "-64.80600000",
+    "CountryID": 25,
+    "StateID": 4870
+  }
+]

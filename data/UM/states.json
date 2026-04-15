@@ -1,0 +1,101 @@
+[
+  {
+    "id": 5212,
+    "name": "Baker Island",
+    "iso2": "81",
+    "native": "Baker Island",
+    "latitude": "0.19362660",
+    "longitude": "-176.47690800",
+    "type": "island",
+    "timezone": "Pacific/Midway",
+    "CountryID": 234
+  },
+  {
+    "id": 5213,
+    "name": "Howland Island",
+    "iso2": "84",
+    "native": "Howland Island",
+    "latitude": "0.81132190",
+    "longitude": "-176.61827360",
+    "type": "island",
+    "timezone": "Pacific/Midway",
+    "CountryID": 234
+  },
+  {
+    "id": 5214,
+    "name": "Jarvis Island",
+    "iso2": "86",
+    "native": "Jarvis Island",
+    "latitude": "-0.37435030",
+    "longitude": "-159.99672060",
+    "type": "island",
+    "timezone": "Pacific/Midway",
+    "CountryID": 234
+  },
+  {
+    "id": 5215,
+    "name": "Johnston Atoll",
+    "iso2": "67",
+    "native": "Johnston Atoll",
+    "latitude": "16.72950350",
+    "longitude": "-169.53364770",
+    "type": "island",
+    "timezone": "Pacific/Midway",
+    "CountryID": 234
+  },
+  {
+    "id": 5216,
+    "name": "Kingman Reef",
+    "iso2": "89",
+    "native": "Kingman Reef",
+    "latitude": "6.38333300",
+    "longitude": "-162.41666700",
+    "type": "island",
+    "timezone": "Pacific/Midway",
+    "CountryID": 234
+  },
+  {
+    "id": 5217,
+    "name": "Midway Islands",
+    "iso2": "71",
+    "native": "Midway Islands",
+    "latitude": "28.20721680",
+    "longitude": "-177.37349260",
+    "type": "island",
+    "timezone": "Pacific/Midway",
+    "CountryID": 234
+  },
+  {
+    "id": 5218,
+    "name": "Navassa Island",
+    "iso2": "76",
+    "native": "Navassa Island",
+    "latitude": "18.41006890",
+    "longitude": "-75.01146120",
+    "type": "island",
+    "timezone": "Pacific/Midway",
+    "CountryID": 234
+  },
+  {
+    "id": 5219,
+    "name": "Palmyra Atoll",
+    "iso2": "95",
+    "native": "Palmyra atoll",
+    "latitude": "5.88850260",
+    "longitude": "-162.07866560",
+    "type": "island",
+    "timezone": "Pacific/Midway",
+    "CountryID": 234
+  },
+  {
+    "id": 5220,
+    "name": "Wake Island",
+    "iso2": "79",
+    "native": "Wake Island",
+    "latitude": "19.27961900",
+    "longitude": "166.64993480",
+    "type": "island",
+    "timezone": "Pacific/Midway",
+    "CountryID": 234
+  }
+]

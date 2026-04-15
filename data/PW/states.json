@@ -1,0 +1,178 @@
+[
+  {
+    "id": 4540,
+    "name": "Aimeliik",
+    "iso2": "002",
+    "native": "Ameliikik",
+    "latitude": "7.56514970",
+    "longitude": "134.14696650",
+    "type": "state",
+    "timezone": "Pacific/Palau",
+    "CountryID": 168
+  },
+  {
+    "id": 4528,
+    "name": "Airai",
+    "iso2": "004",
+    "native": "Airai",
+    "latitude": "7.35993420",
+    "longitude": "134.56011540",
+    "type": "state",
+    "timezone": "Pacific/Palau",
+    "CountryID": 168
+  },
+  {
+    "id": 4538,
+    "name": "Angaur",
+    "iso2": "010",
+    "native": "Angaur",
+    "latitude": "6.90922300",
+    "longitude": "134.13879340",
+    "type": "state",
+    "timezone": "Pacific/Palau",
+    "CountryID": 168
+  },
+  {
+    "id": 4529,
+    "name": "Hatohobei",
+    "iso2": "050",
+    "native": "Hatohobei",
+    "latitude": "3.00706580",
+    "longitude": "131.12377810",
+    "type": "state",
+    "timezone": "Pacific/Palau",
+    "CountryID": 168
+  },
+  {
+    "id": 4539,
+    "name": "Kayangel",
+    "iso2": "100",
+    "native": "Kayael",
+    "latitude": "8.08224910",
+    "longitude": "134.71896330",
+    "type": "state",
+    "timezone": "Pacific/Palau",
+    "CountryID": 168
+  },
+  {
+    "id": 4532,
+    "name": "Koror",
+    "iso2": "150",
+    "native": "Increase",
+    "latitude": "7.33374870",
+    "longitude": "134.47628060",
+    "type": "state",
+    "timezone": "Pacific/Palau",
+    "CountryID": 168
+  },
+  {
+    "id": 4530,
+    "name": "Melekeok",
+    "iso2": "212",
+    "native": "Melekeok",
+    "latitude": "7.47260130",
+    "longitude": "134.75487430",
+    "type": "state",
+    "timezone": "Pacific/Palau",
+    "CountryID": 168
+  },
+  {
+    "id": 4537,
+    "name": "Ngaraard",
+    "iso2": "214",
+    "native": "To eat",
+    "latitude": "7.64245290",
+    "longitude": "134.73280640",
+    "type": "state",
+    "timezone": "Pacific/Palau",
+    "CountryID": 168
+  },
+  {
+    "id": 4533,
+    "name": "Ngarchelong",
+    "iso2": "218",
+    "native": "Ngarchelong",
+    "latitude": "7.84672350",
+    "longitude": "134.47330140",
+    "type": "state",
+    "timezone": "Pacific/Palau",
+    "CountryID": 168
+  },
+  {
+    "id": 4527,
+    "name": "Ngardmau",
+    "iso2": "222",
+    "native": "Kerdown",
+    "latitude": "7.72678900",
+    "longitude": "134.27654860",
+    "type": "state",
+    "timezone": "Pacific/Palau",
+    "CountryID": 168
+  },
+  {
+    "id": 4531,
+    "name": "Ngatpang",
+    "iso2": "224",
+    "native": "Ngatpang",
+    "latitude": "7.61175910",
+    "longitude": "134.17997320",
+    "type": "state",
+    "timezone": "Pacific/Palau",
+    "CountryID": 168
+  },
+  {
+    "id": 4536,
+    "name": "Ngchesar",
+    "iso2": "226",
+    "native": "Nkchesar",
+    "latitude": "7.41771600",
+    "longitude": "134.71149470",
+    "type": "state",
+    "timezone": "Pacific/Palau",
+    "CountryID": 168
+  },
+  {
+    "id": 4541,
+    "name": "Ngeremlengui",
+    "iso2": "227",
+    "native": "Ngeremlengui",
+    "latitude": "7.65902070",
+    "longitude": "134.21200440",
+    "type": "state",
+    "timezone": "Pacific/Palau",
+    "CountryID": 168
+  },
+  {
+    "id": 4534,
+    "name": "Ngiwal",
+    "iso2": "228",
+    "native": "Ngiwal",
+    "latitude": "7.54073160",
+    "longitude": "134.72982020",
+    "type": "state",
+    "timezone": "Pacific/Palau",
+    "CountryID": 168
+  },
+  {
+    "id": 4526,
+    "name": "Peleliu",
+    "iso2": "350",
+    "native": "Turn over",
+    "latitude": "7.01137970",
+    "longitude": "134.24606500",
+    "type": "state",
+    "timezone": "Pacific/Palau",
+    "CountryID": 168
+  },
+  {
+    "id": 4535,
+    "name": "Sonsorol",
+    "iso2": "370",
+    "native": "Sonsorol",
+    "latitude": "5.32681190",
+    "longitude": "132.22391170",
+    "type": "state",
+    "timezone": "Pacific/Palau",
+    "CountryID": 168
+  }
+]

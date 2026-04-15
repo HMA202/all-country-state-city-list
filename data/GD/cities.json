@@ -1,0 +1,58 @@
+[
+  {
+    "id": 52030,
+    "name": "Hillsborough",
+    "latitude": "12.48292000",
+    "longitude": "-61.45597000",
+    "CountryID": 87,
+    "StateID": 3867
+  },
+  {
+    "id": 52029,
+    "name": "Grenville",
+    "latitude": "12.12278000",
+    "longitude": "-61.62498000",
+    "CountryID": 87,
+    "StateID": 3865
+  },
+  {
+    "id": 52031,
+    "name": "Saint David’s",
+    "latitude": "12.04903000",
+    "longitude": "-61.66875000",
+    "CountryID": 87,
+    "StateID": 3869
+  },
+  {
+    "id": 52032,
+    "name": "Saint George's",
+    "latitude": "12.05288000",
+    "longitude": "-61.75226000",
+    "CountryID": 87,
+    "StateID": 3864
+  },
+  {
+    "id": 52028,
+    "name": "Gouyave",
+    "latitude": "12.16462000",
+    "longitude": "-61.72965000",
+    "CountryID": 87,
+    "StateID": 3868
+  },
+  {
+    "id": 52034,
+    "name": "Victoria",
+    "latitude": "12.19021000",
+    "longitude": "-61.70677000",
+    "CountryID": 87,
+    "StateID": 3866
+  },
+  {
+    "id": 52033,
+    "name": "Sauteurs",
+    "latitude": "12.21833000",
+    "longitude": "-61.63917000",
+    "CountryID": 87,
+    "StateID": 3863
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": 154920,
+    "name": "Ituʻau",
+    "latitude": "-14.30616430",
+    "longitude": "-170.80691440",
+    "CountryID": 5,
+    "StateID": 5375
+  },
+  {
+    "id": 154921,
+    "name": "Maʻoputasi",
+    "latitude": "-14.25216850",
+    "longitude": "-170.74187670",
+    "CountryID": 5,
+    "StateID": 5375
+  },
+  {
+    "id": 154924,
+    "name": "Saʻole",
+    "latitude": "-14.29995700",
+    "longitude": "-170.61763370",
+    "CountryID": 5,
+    "StateID": 5375
+  },
+  {
+    "id": 154923,
+    "name": "Sua",
+    "latitude": "-14.27710880",
+    "longitude": "-170.71442630",
+    "CountryID": 5,
+    "StateID": 5375
+  },
+  {
+    "id": 154922,
+    "name": "Vaifanua",
+    "latitude": "-14.25578040",
+    "longitude": "-170.76301810",
+    "CountryID": 5,
+    "StateID": 5375
+  },
+  {
+    "id": 154928,
+    "name": "Faleasao",
+    "latitude": "-14.20385490",
+    "longitude": "-169.54907370",
+    "CountryID": 5,
+    "StateID": 5376
+  },
+  {
+    "id": 154929,
+    "name": "Fitiuta",
+    "latitude": "-14.20386340",
+    "longitude": "-169.51690440",
+    "CountryID": 5,
+    "StateID": 5376
+  },
+  {
+    "id": 154925,
+    "name": "Ofu",
+    "latitude": "-14.17135950",
+    "longitude": "-169.71939120",
+    "CountryID": 5,
+    "StateID": 5376
+  },
+  {
+    "id": 154926,
+    "name": "Olosega",
+    "latitude": "-14.17422270",
+    "longitude": "-169.63981240",
+    "CountryID": 5,
+    "StateID": 5376
+  },
+  {
+    "id": 154927,
+    "name": "Tau",
+    "latitude": "-14.24215010",
+    "longitude": "-169.55101650",
+    "CountryID": 5,
+    "StateID": 5376
+  },
+  {
+    "id": 154916,
+    "name": "Lealataua",
+    "latitude": "-14.32261520",
+    "longitude": "-170.90849930",
+    "CountryID": 5,
+    "StateID": 5374
+  },
+  {
+    "id": 154917,
+    "name": "Leasina",
+    "latitude": "-14.29581640",
+    "longitude": "-170.80459320",
+    "CountryID": 5,
+    "StateID": 5374
+  },
+  {
+    "id": 154918,
+    "name": "Tualatai",
+    "latitude": "-14.37923540",
+    "longitude": "-170.81033120",
+    "CountryID": 5,
+    "StateID": 5374
+  },
+  {
+    "id": 154919,
+    "name": "Tualauta",
+    "latitude": "-14.35876890",
+    "longitude": "-170.75583320",
+    "CountryID": 5,
+    "StateID": 5374
+  }
+]

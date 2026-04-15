@@ -1,0 +1,211 @@
+[
+  {
+    "id": 3205,
+    "name": "Artigas",
+    "iso2": "AR",
+    "native": "Artigas",
+    "latitude": "-30.61707560",
+    "longitude": "-56.93734510",
+    "type": "department",
+    "timezone": "America/Montevideo",
+    "CountryID": 235
+  },
+  {
+    "id": 3213,
+    "name": "Canelones",
+    "iso2": "CA",
+    "native": "Canelones",
+    "latitude": "-34.62224820",
+    "longitude": "-55.99037970",
+    "type": "department",
+    "timezone": "America/Montevideo",
+    "CountryID": 235
+  },
+  {
+    "id": 3211,
+    "name": "Cerro Largo",
+    "iso2": "CL",
+    "native": "Cerro Largo",
+    "latitude": "-32.33333300",
+    "longitude": "-54.33333300",
+    "type": "department",
+    "timezone": "America/Montevideo",
+    "CountryID": 235
+  },
+  {
+    "id": 3208,
+    "name": "Colonia",
+    "iso2": "CO",
+    "native": "Colonia",
+    "latitude": "-34.16645160",
+    "longitude": "-57.49932680",
+    "type": "department",
+    "timezone": "America/Montevideo",
+    "CountryID": 235
+  },
+  {
+    "id": 3209,
+    "name": "Durazno",
+    "iso2": "DU",
+    "native": "Durazno",
+    "latitude": "-33.08333290",
+    "longitude": "-56.08333310",
+    "type": "department",
+    "timezone": "America/Montevideo",
+    "CountryID": 235
+  },
+  {
+    "id": 3203,
+    "name": "Flores",
+    "iso2": "FS",
+    "native": "Flores",
+    "latitude": "-33.65188450",
+    "longitude": "-56.83935530",
+    "type": "department",
+    "timezone": "America/Montevideo",
+    "CountryID": 235
+  },
+  {
+    "id": 3217,
+    "name": "Florida",
+    "iso2": "FD",
+    "native": "Florida",
+    "latitude": "-33.83333300",
+    "longitude": "-55.91666700",
+    "type": "department",
+    "timezone": "America/Montevideo",
+    "CountryID": 235
+  },
+  {
+    "id": 3215,
+    "name": "Lavalleja",
+    "iso2": "LA",
+    "native": "Lavalleja",
+    "latitude": "-33.99719640",
+    "longitude": "-54.99922420",
+    "type": "department",
+    "timezone": "America/Montevideo",
+    "CountryID": 235
+  },
+  {
+    "id": 3206,
+    "name": "Maldonado",
+    "iso2": "MA",
+    "native": "Maldonado",
+    "latitude": "-34.66666700",
+    "longitude": "-54.91666700",
+    "type": "department",
+    "timezone": "America/Montevideo",
+    "CountryID": 235
+  },
+  {
+    "id": 3218,
+    "name": "Montevideo",
+    "iso2": "MO",
+    "native": "Montevideo",
+    "latitude": "-34.86527240",
+    "longitude": "-56.18195120",
+    "type": "department",
+    "timezone": "America/Montevideo",
+    "CountryID": 235
+  },
+  {
+    "id": 3212,
+    "name": "Paysandú",
+    "iso2": "PA",
+    "native": "Paysandú",
+    "latitude": "-32.00000000",
+    "longitude": "-57.25000000",
+    "type": "department",
+    "timezone": "America/Montevideo",
+    "CountryID": 235
+  },
+  {
+    "id": 3210,
+    "name": "Río Negro",
+    "iso2": "RN",
+    "native": "Río Negro",
+    "latitude": "-32.72574190",
+    "longitude": "-57.38757800",
+    "type": "department",
+    "timezone": "America/Montevideo",
+    "CountryID": 235
+  },
+  {
+    "id": 3207,
+    "name": "Rivera",
+    "iso2": "RV",
+    "native": "Rivera",
+    "latitude": "-31.50000000",
+    "longitude": "-55.25000000",
+    "type": "department",
+    "timezone": "America/Montevideo",
+    "CountryID": 235
+  },
+  {
+    "id": 3216,
+    "name": "Rocha",
+    "iso2": "RO",
+    "native": "Rocha",
+    "latitude": "-34.00000000",
+    "longitude": "-54.00000000",
+    "type": "department",
+    "timezone": "America/Montevideo",
+    "CountryID": 235
+  },
+  {
+    "id": 3220,
+    "name": "Salto",
+    "iso2": "SA",
+    "native": "Tacón",
+    "latitude": "-31.38802800",
+    "longitude": "-57.96124550",
+    "type": "department",
+    "timezone": "America/Montevideo",
+    "CountryID": 235
+  },
+  {
+    "id": 3204,
+    "name": "San José",
+    "iso2": "SJ",
+    "native": "San José",
+    "latitude": "-34.33965210",
+    "longitude": "-56.71431550",
+    "type": "department",
+    "timezone": "America/Montevideo",
+    "CountryID": 235
+  },
+  {
+    "id": 3219,
+    "name": "Soriano",
+    "iso2": "SO",
+    "native": "Soriano",
+    "latitude": "-33.49212660",
+    "longitude": "-57.78931050",
+    "type": "department",
+    "timezone": "America/Montevideo",
+    "CountryID": 235
+  },
+  {
+    "id": 3221,
+    "name": "Tacuarembó",
+    "iso2": "TA",
+    "native": "Tacuarembó",
+    "latitude": "-31.71101830",
+    "longitude": "-55.97887620",
+    "type": "department",
+    "timezone": "America/Montevideo",
+    "CountryID": 235
+  },
+  {
+    "id": 3214,
+    "name": "Treinta y Tres",
+    "iso2": "TT",
+    "native": "Treinta y Tres",
+    "latitude": "-33.00000000",
+    "longitude": "-54.25000000",
+    "type": "department",
+    "timezone": "America/Montevideo",
+    "CountryID": 235
+  }
+]

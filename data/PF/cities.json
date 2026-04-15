@@ -1,0 +1,386 @@
+[
+  {
+    "id": 154867,
+    "name": "Raivavae",
+    "latitude": "-23.86946330",
+    "longitude": "-147.73244720",
+    "CountryID": 77,
+    "StateID": 5369
+  },
+  {
+    "id": 154868,
+    "name": "Rapa",
+    "latitude": "-27.60822390",
+    "longitude": "-144.38427770",
+    "CountryID": 77,
+    "StateID": 5369
+  },
+  {
+    "id": 154869,
+    "name": "Rimatara",
+    "latitude": "-22.64382540",
+    "longitude": "-152.83120520",
+    "CountryID": 77,
+    "StateID": 5369
+  },
+  {
+    "id": 154870,
+    "name": "Rurutu",
+    "latitude": "-22.46958690",
+    "longitude": "-151.39113710",
+    "CountryID": 77,
+    "StateID": 5369
+  },
+  {
+    "id": 154871,
+    "name": "Tubuai",
+    "latitude": "-23.36850430",
+    "longitude": "-149.54496480",
+    "CountryID": 77,
+    "StateID": 5369
+  },
+  {
+    "id": 154872,
+    "name": "Bora-Bora",
+    "latitude": "-16.39169250",
+    "longitude": "-151.93003350",
+    "CountryID": 77,
+    "StateID": 5370
+  },
+  {
+    "id": 154873,
+    "name": "Huahine",
+    "latitude": "-16.75212330",
+    "longitude": "-151.07889500",
+    "CountryID": 77,
+    "StateID": 5370
+  },
+  {
+    "id": 154874,
+    "name": "Maupiti",
+    "latitude": "-16.31438490",
+    "longitude": "-154.79908630",
+    "CountryID": 77,
+    "StateID": 5370
+  },
+  {
+    "id": 154875,
+    "name": "Tahaa",
+    "latitude": "-16.61957120",
+    "longitude": "-151.57215390",
+    "CountryID": 77,
+    "StateID": 5370
+  },
+  {
+    "id": 154876,
+    "name": "Taputapuatea",
+    "latitude": "-16.82062470",
+    "longitude": "-151.47741330",
+    "CountryID": 77,
+    "StateID": 5370
+  },
+  {
+    "id": 154877,
+    "name": "Tumaraa",
+    "latitude": "-16.82985330",
+    "longitude": "-151.53381840",
+    "CountryID": 77,
+    "StateID": 5370
+  },
+  {
+    "id": 154878,
+    "name": "Uturoa",
+    "latitude": "-16.73858290",
+    "longitude": "-151.49549020",
+    "CountryID": 77,
+    "StateID": 5370
+  },
+  {
+    "id": 154879,
+    "name": "Fatu-Hiva",
+    "latitude": "-10.48604740",
+    "longitude": "-138.69188860",
+    "CountryID": 77,
+    "StateID": 5371
+  },
+  {
+    "id": 154880,
+    "name": "Hiva-Oa",
+    "latitude": "-9.72631690",
+    "longitude": "-139.30998880",
+    "CountryID": 77,
+    "StateID": 5371
+  },
+  {
+    "id": 154881,
+    "name": "Nuku-Hiva",
+    "latitude": "-8.41030010",
+    "longitude": "-141.02327110",
+    "CountryID": 77,
+    "StateID": 5371
+  },
+  {
+    "id": 154882,
+    "name": "Tahuata",
+    "latitude": "-9.95732410",
+    "longitude": "-139.16563470",
+    "CountryID": 77,
+    "StateID": 5371
+  },
+  {
+    "id": 154883,
+    "name": "Ua-Huka",
+    "latitude": "-8.90967990",
+    "longitude": "-139.63171970",
+    "CountryID": 77,
+    "StateID": 5371
+  },
+  {
+    "id": 154884,
+    "name": "Ua-Pou",
+    "latitude": "-9.40892440",
+    "longitude": "-140.15553770",
+    "CountryID": 77,
+    "StateID": 5371
+  },
+  {
+    "id": 154885,
+    "name": "Anaa",
+    "latitude": "-17.41194390",
+    "longitude": "-145.66284990",
+    "CountryID": 77,
+    "StateID": 5372
+  },
+  {
+    "id": 154886,
+    "name": "Arutua",
+    "latitude": "-15.31203340",
+    "longitude": "-146.91262850",
+    "CountryID": 77,
+    "StateID": 5372
+  },
+  {
+    "id": 154887,
+    "name": "Fakarava",
+    "latitude": "-16.29845160",
+    "longitude": "-145.92218890",
+    "CountryID": 77,
+    "StateID": 5372
+  },
+  {
+    "id": 154888,
+    "name": "Fangatau",
+    "latitude": "-15.82097880",
+    "longitude": "-140.90810600",
+    "CountryID": 77,
+    "StateID": 5372
+  },
+  {
+    "id": 154889,
+    "name": "Gambier",
+    "latitude": "-23.10088440",
+    "longitude": "-135.07922550",
+    "CountryID": 77,
+    "StateID": 5372
+  },
+  {
+    "id": 154890,
+    "name": "Hao",
+    "latitude": "-18.74532930",
+    "longitude": "-145.33383850",
+    "CountryID": 77,
+    "StateID": 5372
+  },
+  {
+    "id": 154891,
+    "name": "Hikueru",
+    "latitude": "-17.58767480",
+    "longitude": "-142.69120590",
+    "CountryID": 77,
+    "StateID": 5372
+  },
+  {
+    "id": 154892,
+    "name": "Makemo",
+    "latitude": "-16.59334420",
+    "longitude": "-144.01756280",
+    "CountryID": 77,
+    "StateID": 5372
+  },
+  {
+    "id": 154893,
+    "name": "Manihi",
+    "latitude": "-14.39757810",
+    "longitude": "-146.12217070",
+    "CountryID": 77,
+    "StateID": 5372
+  },
+  {
+    "id": 154894,
+    "name": "Napuka",
+    "latitude": "-14.17342310",
+    "longitude": "-141.30676690",
+    "CountryID": 77,
+    "StateID": 5372
+  },
+  {
+    "id": 154895,
+    "name": "Nukutavake",
+    "latitude": "-18.97808660",
+    "longitude": "-139.29284520",
+    "CountryID": 77,
+    "StateID": 5372
+  },
+  {
+    "id": 154896,
+    "name": "Puka-Puka",
+    "latitude": "-14.81902510",
+    "longitude": "-138.86100870",
+    "CountryID": 77,
+    "StateID": 5372
+  },
+  {
+    "id": 154897,
+    "name": "Rangiroa",
+    "latitude": "-15.12282920",
+    "longitude": "-147.91140150",
+    "CountryID": 77,
+    "StateID": 5372
+  },
+  {
+    "id": 154898,
+    "name": "Reao",
+    "latitude": "-18.51946500",
+    "longitude": "-136.46088500",
+    "CountryID": 77,
+    "StateID": 5372
+  },
+  {
+    "id": 154899,
+    "name": "Takaroa",
+    "latitude": "-14.67263940",
+    "longitude": "-145.22680410",
+    "CountryID": 77,
+    "StateID": 5372
+  },
+  {
+    "id": 154900,
+    "name": "Tatakoto",
+    "latitude": "-17.34173160",
+    "longitude": "-138.47584630",
+    "CountryID": 77,
+    "StateID": 5372
+  },
+  {
+    "id": 154901,
+    "name": "Tureia",
+    "latitude": "-20.82803180",
+    "longitude": "-138.58163900",
+    "CountryID": 77,
+    "StateID": 5372
+  },
+  {
+    "id": 154902,
+    "name": "Arue",
+    "latitude": "-17.27738940",
+    "longitude": "-149.87199430",
+    "CountryID": 77,
+    "StateID": 5373
+  },
+  {
+    "id": 154903,
+    "name": "Faaa",
+    "latitude": "-17.58391940",
+    "longitude": "-149.64609260",
+    "CountryID": 77,
+    "StateID": 5373
+  },
+  {
+    "id": 154904,
+    "name": "Hitiaa O Te Ra",
+    "latitude": "-17.59142580",
+    "longitude": "-149.47324810",
+    "CountryID": 77,
+    "StateID": 5373
+  },
+  {
+    "id": 154905,
+    "name": "Mahina",
+    "latitude": "-17.55747420",
+    "longitude": "-149.51647820",
+    "CountryID": 77,
+    "StateID": 5373
+  },
+  {
+    "id": 154906,
+    "name": "Moorea-Maiao",
+    "latitude": "-17.57566530",
+    "longitude": "-150.86188770",
+    "CountryID": 77,
+    "StateID": 5373
+  },
+  {
+    "id": 154907,
+    "name": "Paea",
+    "latitude": "-17.69616980",
+    "longitude": "-149.58969660",
+    "CountryID": 77,
+    "StateID": 5373
+  },
+  {
+    "id": 154908,
+    "name": "Papara",
+    "latitude": "-17.71187630",
+    "longitude": "-149.59042950",
+    "CountryID": 77,
+    "StateID": 5373
+  },
+  {
+    "id": 154909,
+    "name": "Papeete",
+    "latitude": "-17.55713870",
+    "longitude": "-149.59660090",
+    "CountryID": 77,
+    "StateID": 5373
+  },
+  {
+    "id": 154910,
+    "name": "Pirae",
+    "latitude": "-17.56986380",
+    "longitude": "-149.56352800",
+    "CountryID": 77,
+    "StateID": 5373
+  },
+  {
+    "id": 154911,
+    "name": "Punaauia",
+    "latitude": "-17.61796960",
+    "longitude": "-149.63102240",
+    "CountryID": 77,
+    "StateID": 5373
+  },
+  {
+    "id": 154912,
+    "name": "Taiarapu-Est",
+    "latitude": "-17.75551280",
+    "longitude": "-149.39533960",
+    "CountryID": 77,
+    "StateID": 5373
+  },
+  {
+    "id": 154913,
+    "name": "Taiarapu-Ouest",
+    "latitude": "-17.81004520",
+    "longitude": "-149.32700520",
+    "CountryID": 77,
+    "StateID": 5373
+  },
+  {
+    "id": 154914,
+    "name": "Teva I Uta",
+    "latitude": "-17.72250080",
+    "longitude": "-149.48196150",
+    "CountryID": 77,
+    "StateID": 5373
+  }
+]

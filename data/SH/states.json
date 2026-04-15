@@ -1,0 +1,90 @@
+[
+  {
+    "id": 5440,
+    "name": "Alarm Forest",
+    "iso2": "01",
+    "native": "Alarm Forest",
+    "latitude": "-15.94850430",
+    "longitude": "-5.70281940",
+    "type": "district",
+    "timezone": "Atlantic/St_Helena",
+    "CountryID": 184
+  },
+  {
+    "id": 5441,
+    "name": "Blue Hill",
+    "iso2": "02",
+    "native": "Blue Hill",
+    "latitude": "-15.98013030",
+    "longitude": "-5.74898560",
+    "type": "district",
+    "timezone": "Atlantic/St_Helena",
+    "CountryID": 184
+  },
+  {
+    "id": 5442,
+    "name": "Half Tree Hollow",
+    "iso2": "03",
+    "native": "Half Tree Hollow",
+    "latitude": "-15.93463280",
+    "longitude": "-5.71947320",
+    "type": "district",
+    "timezone": "Atlantic/St_Helena",
+    "CountryID": 184
+  },
+  {
+    "id": 5443,
+    "name": "Jamestown",
+    "iso2": "04",
+    "native": "Jamestown",
+    "latitude": "-15.92883080",
+    "longitude": "-5.72033380",
+    "type": "district",
+    "timezone": "Atlantic/St_Helena",
+    "CountryID": 184
+  },
+  {
+    "id": 5444,
+    "name": "Levelwood",
+    "iso2": "05",
+    "native": "Levelwood",
+    "latitude": "-15.97431290",
+    "longitude": "-5.68057850",
+    "type": "district",
+    "timezone": "Atlantic/St_Helena",
+    "CountryID": 184
+  },
+  {
+    "id": 5445,
+    "name": "Longwood",
+    "iso2": "06",
+    "native": "Longwood",
+    "latitude": "-15.94932880",
+    "longitude": "-5.68586050",
+    "type": "district",
+    "timezone": "Atlantic/St_Helena",
+    "CountryID": 184
+  },
+  {
+    "id": 5447,
+    "name": "Saint Paul's",
+    "iso2": "08",
+    "native": "Saint Paul's",
+    "latitude": "-15.98512670",
+    "longitude": "-5.73809860",
+    "type": "district",
+    "timezone": "Atlantic/St_Helena",
+    "CountryID": 184
+  },
+  {
+    "id": 5446,
+    "name": "Sandy Bay",
+    "iso2": "07",
+    "native": "Sandy Bay",
+    "latitude": "-16.00606010",
+    "longitude": "-5.71270750",
+    "type": "district",
+    "timezone": "Atlantic/St_Helena",
+    "CountryID": 184
+  }
+]

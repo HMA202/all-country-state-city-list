@@ -1,0 +1,170 @@
+[
+  {
+    "id": 67929,
+    "name": "Hithadhoo",
+    "latitude": "-0.60000000",
+    "longitude": "73.08333000",
+    "CountryID": 133,
+    "StateID": 2594
+  },
+  {
+    "id": 67937,
+    "name": "Meedhoo",
+    "latitude": "-0.58333000",
+    "longitude": "73.23333000",
+    "CountryID": 133,
+    "StateID": 2594
+  },
+  {
+    "id": 67934,
+    "name": "Mahibadhoo",
+    "latitude": "3.75713000",
+    "longitude": "72.96893000",
+    "CountryID": 133,
+    "StateID": 2600
+  },
+  {
+    "id": 67931,
+    "name": "Kudahuvadhoo",
+    "latitude": "2.67075000",
+    "longitude": "72.89437000",
+    "CountryID": 133,
+    "StateID": 2590
+  },
+  {
+    "id": 67943,
+    "name": "Viligili",
+    "latitude": "0.75906000",
+    "longitude": "73.43296000",
+    "CountryID": 133,
+    "StateID": 2598
+  },
+  {
+    "id": 67940,
+    "name": "Thinadhoo",
+    "latitude": "0.53060000",
+    "longitude": "72.99969000",
+    "CountryID": 133,
+    "StateID": 2603
+  },
+  {
+    "id": 67927,
+    "name": "Fuvahmulah",
+    "latitude": "-0.29878000",
+    "longitude": "73.42403000",
+    "CountryID": 133,
+    "StateID": 2595
+  },
+  {
+    "id": 67923,
+    "name": "Dhidhdhoo",
+    "latitude": "6.88744000",
+    "longitude": "73.11402000",
+    "CountryID": 133,
+    "StateID": 2586
+  },
+  {
+    "id": 67932,
+    "name": "Kulhudhuffushi",
+    "latitude": "6.62207000",
+    "longitude": "73.06998000",
+    "CountryID": 133,
+    "StateID": 2597
+  },
+  {
+    "id": 67928,
+    "name": "Guraidhoo",
+    "latitude": "3.90045000",
+    "longitude": "73.46623000",
+    "CountryID": 133,
+    "StateID": 2596
+  },
+  {
+    "id": 67930,
+    "name": "Hulhumale",
+    "latitude": "4.21169000",
+    "longitude": "73.54008000",
+    "CountryID": 133,
+    "StateID": 2596
+  },
+  {
+    "id": 67933,
+    "name": "Maafushi",
+    "latitude": "3.94231000",
+    "longitude": "73.49070000",
+    "CountryID": 133,
+    "StateID": 2596
+  },
+  {
+    "id": 67935,
+    "name": "Male",
+    "latitude": "4.17521000",
+    "longitude": "73.50916000",
+    "CountryID": 133,
+    "StateID": 2596
+  },
+  {
+    "id": 67925,
+    "name": "Fonadhoo",
+    "latitude": "1.83243000",
+    "longitude": "73.50257000",
+    "CountryID": 133,
+    "StateID": 2601
+  },
+  {
+    "id": 67939,
+    "name": "Naifaru",
+    "latitude": "5.44438000",
+    "longitude": "73.36571000",
+    "CountryID": 133,
+    "StateID": 2607
+  },
+  {
+    "id": 67938,
+    "name": "Muli",
+    "latitude": "2.91667000",
+    "longitude": "73.56667000",
+    "CountryID": 133,
+    "StateID": 2608
+  },
+  {
+    "id": 67936,
+    "name": "Manadhoo",
+    "latitude": "5.76687000",
+    "longitude": "73.41360000",
+    "CountryID": 133,
+    "StateID": 2592
+  },
+  {
+    "id": 67941,
+    "name": "Ugoofaaru",
+    "latitude": "5.66812000",
+    "longitude": "73.03017000",
+    "CountryID": 133,
+    "StateID": 2602
+  },
+  {
+    "id": 67926,
+    "name": "Funadhoo",
+    "latitude": "6.15091000",
+    "longitude": "73.29013000",
+    "CountryID": 133,
+    "StateID": 2585
+  },
+  {
+    "id": 67942,
+    "name": "Veymandoo",
+    "latitude": "2.18772000",
+    "longitude": "73.09556000",
+    "CountryID": 133,
+    "StateID": 2591
+  },
+  {
+    "id": 67924,
+    "name": "Felidhoo",
+    "latitude": "3.47182000",
+    "longitude": "73.54699000",
+    "CountryID": 133,
+    "StateID": 2584
+  }
+]

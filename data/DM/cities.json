@@ -1,0 +1,138 @@
+[
+  {
+    "id": 31003,
+    "name": "Calibishie",
+    "latitude": "15.59297000",
+    "longitude": "-61.34901000",
+    "CountryID": 61,
+    "StateID": 4082
+  },
+  {
+    "id": 31008,
+    "name": "Marigot",
+    "latitude": "15.53886000",
+    "longitude": "-61.28375000",
+    "CountryID": 61,
+    "StateID": 4082
+  },
+  {
+    "id": 31017,
+    "name": "Wesley",
+    "latitude": "15.56667000",
+    "longitude": "-61.31667000",
+    "CountryID": 61,
+    "StateID": 4082
+  },
+  {
+    "id": 31018,
+    "name": "Woodford Hill",
+    "latitude": "15.58093000",
+    "longitude": "-61.33149000",
+    "CountryID": 61,
+    "StateID": 4082
+  },
+  {
+    "id": 31004,
+    "name": "Castle Bruce",
+    "latitude": "15.44397000",
+    "longitude": "-61.25723000",
+    "CountryID": 61,
+    "StateID": 4078
+  },
+  {
+    "id": 31012,
+    "name": "Rosalie",
+    "latitude": "15.36667000",
+    "longitude": "-61.26667000",
+    "CountryID": 61,
+    "StateID": 4078
+  },
+  {
+    "id": 31013,
+    "name": "Roseau",
+    "latitude": "15.30174000",
+    "longitude": "-61.38808000",
+    "CountryID": 61,
+    "StateID": 4079
+  },
+  {
+    "id": 31011,
+    "name": "Portsmouth",
+    "latitude": "15.58333000",
+    "longitude": "-61.46667000",
+    "CountryID": 61,
+    "StateID": 4076
+  },
+  {
+    "id": 31014,
+    "name": "Saint Joseph",
+    "latitude": "15.40000000",
+    "longitude": "-61.43333000",
+    "CountryID": 61,
+    "StateID": 4085
+  },
+  {
+    "id": 31015,
+    "name": "Salisbury",
+    "latitude": "15.43689000",
+    "longitude": "-61.43637000",
+    "CountryID": 61,
+    "StateID": 4085
+  },
+  {
+    "id": 31009,
+    "name": "Pointe Michel",
+    "latitude": "15.25976000",
+    "longitude": "-61.37452000",
+    "CountryID": 61,
+    "StateID": 4083
+  },
+  {
+    "id": 31016,
+    "name": "Soufrière",
+    "latitude": "15.23374000",
+    "longitude": "-61.35881000",
+    "CountryID": 61,
+    "StateID": 4077
+  },
+  {
+    "id": 31002,
+    "name": "Berekua",
+    "latitude": "15.23333000",
+    "longitude": "-61.31667000",
+    "CountryID": 61,
+    "StateID": 4080
+  },
+  {
+    "id": 31006,
+    "name": "La Plaine",
+    "latitude": "15.32768000",
+    "longitude": "-61.24753000",
+    "CountryID": 61,
+    "StateID": 4080
+  },
+  {
+    "id": 31007,
+    "name": "Mahaut",
+    "latitude": "15.36357000",
+    "longitude": "-61.39701000",
+    "CountryID": 61,
+    "StateID": 4084
+  },
+  {
+    "id": 31010,
+    "name": "Pont Cassé",
+    "latitude": "15.36667000",
+    "longitude": "-61.35000000",
+    "CountryID": 61,
+    "StateID": 4084
+  },
+  {
+    "id": 31005,
+    "name": "Colihaut",
+    "latitude": "15.48478000",
+    "longitude": "-61.46215000",
+    "CountryID": 61,
+    "StateID": 4081
+  }
+]

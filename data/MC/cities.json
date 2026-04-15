@@ -1,0 +1,138 @@
+[
+  {
+    "id": 160046,
+    "name": "Fontvieille",
+    "latitude": "43.72944444",
+    "longitude": "7.41500000",
+    "CountryID": 145,
+    "StateID": 5668
+  },
+  {
+    "id": 160047,
+    "name": "Jardin Exotique",
+    "latitude": "43.73138889",
+    "longitude": "7.41388889",
+    "CountryID": 145,
+    "StateID": 5669
+  },
+  {
+    "id": 160048,
+    "name": "La Colle",
+    "latitude": "43.73274650",
+    "longitude": "7.41372760",
+    "CountryID": 145,
+    "StateID": 4917
+  },
+  {
+    "id": 160049,
+    "name": "La Condamine",
+    "latitude": "43.73506650",
+    "longitude": "7.41990600",
+    "CountryID": 145,
+    "StateID": 4918
+  },
+  {
+    "id": 160050,
+    "name": "La Gare",
+    "latitude": "43.73190000",
+    "longitude": "7.41680000",
+    "CountryID": 145,
+    "StateID": 5670
+  },
+  {
+    "id": 160051,
+    "name": "La Source",
+    "latitude": "43.73650000",
+    "longitude": "7.41950000",
+    "CountryID": 145,
+    "StateID": 5671
+  },
+  {
+    "id": 160052,
+    "name": "Larvotto",
+    "latitude": "43.74666667",
+    "longitude": "7.43333333",
+    "CountryID": 145,
+    "StateID": 5672
+  },
+  {
+    "id": 160053,
+    "name": "Malbousquet",
+    "latitude": "43.73450000",
+    "longitude": "7.42150000",
+    "CountryID": 145,
+    "StateID": 5673
+  },
+  {
+    "id": 160054,
+    "name": "Monaco-Ville",
+    "latitude": "43.73110000",
+    "longitude": "7.42000000",
+    "CountryID": 145,
+    "StateID": 5674
+  },
+  {
+    "id": 160055,
+    "name": "Moneghetti",
+    "latitude": "43.73649270",
+    "longitude": "7.41533830",
+    "CountryID": 145,
+    "StateID": 4919
+  },
+  {
+    "id": 160056,
+    "name": "Monte-Carlo",
+    "latitude": "43.73972222",
+    "longitude": "7.42722222",
+    "CountryID": 145,
+    "StateID": 5675
+  },
+  {
+    "id": 160057,
+    "name": "Moulins",
+    "latitude": "43.73890000",
+    "longitude": "7.41850000",
+    "CountryID": 145,
+    "StateID": 5676
+  },
+  {
+    "id": 160058,
+    "name": "Port-Hercule",
+    "latitude": "43.73470000",
+    "longitude": "7.42530000",
+    "CountryID": 145,
+    "StateID": 5677
+  },
+  {
+    "id": 160059,
+    "name": "Saint-Roman",
+    "latitude": "43.74530000",
+    "longitude": "7.43180000",
+    "CountryID": 145,
+    "StateID": 5678
+  },
+  {
+    "id": 160060,
+    "name": "Sainte-Dévote",
+    "latitude": "43.73720000",
+    "longitude": "7.42080000",
+    "CountryID": 145,
+    "StateID": 5679
+  },
+  {
+    "id": 160061,
+    "name": "Spélugues",
+    "latitude": "43.73920000",
+    "longitude": "7.42510000",
+    "CountryID": 145,
+    "StateID": 5680
+  },
+  {
+    "id": 160062,
+    "name": "Vallon de la Rousse",
+    "latitude": "43.74010000",
+    "longitude": "7.41750000",
+    "CountryID": 145,
+    "StateID": 5681
+  }
+]

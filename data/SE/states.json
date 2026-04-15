@@ -1,0 +1,233 @@
+[
+  {
+    "id": 1537,
+    "name": "Blekinge",
+    "iso2": "K",
+    "native": "Blekinge",
+    "latitude": "56.12401220",
+    "longitude": "15.40220880",
+    "type": "county",
+    "timezone": "Europe/Stockholm",
+    "CountryID": 213
+  },
+  {
+    "id": 1534,
+    "name": "Dalarna",
+    "iso2": "W",
+    "native": "Dalarna",
+    "latitude": "61.06037780",
+    "longitude": "14.21508730",
+    "type": "county",
+    "timezone": "Europe/Stockholm",
+    "CountryID": 213
+  },
+  {
+    "id": 1533,
+    "name": "Gävleborg",
+    "iso2": "X",
+    "native": "Gävleborg",
+    "latitude": "61.26034240",
+    "longitude": "16.69469850",
+    "type": "county",
+    "timezone": "Europe/Stockholm",
+    "CountryID": 213
+  },
+  {
+    "id": 1546,
+    "name": "Gotland",
+    "iso2": "I",
+    "native": "Gotland",
+    "latitude": "57.49987320",
+    "longitude": "18.49989270",
+    "type": "county",
+    "timezone": "Europe/Stockholm",
+    "CountryID": 213
+  },
+  {
+    "id": 1548,
+    "name": "Halland",
+    "iso2": "N",
+    "native": "Halland",
+    "latitude": "56.96081040",
+    "longitude": "12.85470660",
+    "type": "county",
+    "timezone": "Europe/Stockholm",
+    "CountryID": 213
+  },
+  {
+    "id": 5117,
+    "name": "Jämtland",
+    "iso2": "Z",
+    "native": "Jämtland",
+    "latitude": "63.34522220",
+    "longitude": "14.12498600",
+    "type": "county",
+    "timezone": "Europe/Stockholm",
+    "CountryID": 213
+  },
+  {
+    "id": 1550,
+    "name": "Jönköping",
+    "iso2": "F",
+    "native": "Jönköping",
+    "latitude": "57.78256340",
+    "longitude": "14.16571900",
+    "type": "county",
+    "timezone": "Europe/Stockholm",
+    "CountryID": 213
+  },
+  {
+    "id": 1544,
+    "name": "Kalmar",
+    "iso2": "H",
+    "native": "Kalmar",
+    "latitude": "56.66666700",
+    "longitude": "16.33305600",
+    "type": "county",
+    "timezone": "Europe/Stockholm",
+    "CountryID": 213
+  },
+  {
+    "id": 1542,
+    "name": "Kronoberg",
+    "iso2": "G",
+    "native": "Kronoberg",
+    "latitude": "56.80067810",
+    "longitude": "14.41116100",
+    "type": "county",
+    "timezone": "Europe/Stockholm",
+    "CountryID": 213
+  },
+  {
+    "id": 1538,
+    "name": "Norrbotten",
+    "iso2": "BD",
+    "native": "Norrbotten",
+    "latitude": "66.52825000",
+    "longitude": "22.95302000",
+    "type": "county",
+    "timezone": "Europe/Stockholm",
+    "CountryID": 213
+  },
+  {
+    "id": 1539,
+    "name": "Örebro",
+    "iso2": "T",
+    "native": "Örebro",
+    "latitude": "59.27472870",
+    "longitude": "15.21511810",
+    "type": "county",
+    "timezone": "Europe/Stockholm",
+    "CountryID": 213
+  },
+  {
+    "id": 1536,
+    "name": "Östergötland",
+    "iso2": "E",
+    "native": "Östergötland",
+    "latitude": "58.36502490",
+    "longitude": "16.04471420",
+    "type": "county",
+    "timezone": "Europe/Stockholm",
+    "CountryID": 213
+  },
+  {
+    "id": 1541,
+    "name": "Skåne",
+    "iso2": "M",
+    "native": "Skåne",
+    "latitude": "55.84794160",
+    "longitude": "13.63371170",
+    "type": "county",
+    "timezone": "Europe/Stockholm",
+    "CountryID": 213
+  },
+  {
+    "id": 1540,
+    "name": "Södermanland",
+    "iso2": "D",
+    "native": "Södermanland",
+    "latitude": "58.96492140",
+    "longitude": "16.72940120",
+    "type": "county",
+    "timezone": "Europe/Stockholm",
+    "CountryID": 213
+  },
+  {
+    "id": 1551,
+    "name": "Stockholm",
+    "iso2": "AB",
+    "native": "Stockholm",
+    "latitude": "59.33361730",
+    "longitude": "18.02769730",
+    "type": "county",
+    "timezone": "Europe/Stockholm",
+    "CountryID": 213
+  },
+  {
+    "id": 1545,
+    "name": "Uppsala",
+    "iso2": "C",
+    "native": "Uppsala",
+    "latitude": "59.86619860",
+    "longitude": "17.59843270",
+    "type": "county",
+    "timezone": "Europe/Stockholm",
+    "CountryID": 213
+  },
+  {
+    "id": 1535,
+    "name": "Värmland",
+    "iso2": "S",
+    "native": "Värmland",
+    "latitude": "59.89076240",
+    "longitude": "13.29476170",
+    "type": "county",
+    "timezone": "Europe/Stockholm",
+    "CountryID": 213
+  },
+  {
+    "id": 1543,
+    "name": "Västerbotten",
+    "iso2": "AC",
+    "native": "Västerbotten",
+    "latitude": "64.72847100",
+    "longitude": "18.55332350",
+    "type": "county",
+    "timezone": "Europe/Stockholm",
+    "CountryID": 213
+  },
+  {
+    "id": 1552,
+    "name": "Västernorrland",
+    "iso2": "Y",
+    "native": "Västernorrland",
+    "latitude": "63.05896930",
+    "longitude": "18.10136860",
+    "type": "county",
+    "timezone": "Europe/Stockholm",
+    "CountryID": 213
+  },
+  {
+    "id": 1549,
+    "name": "Västmanland",
+    "iso2": "U",
+    "native": "Västmanland",
+    "latitude": "59.69656390",
+    "longitude": "16.18465410",
+    "type": "county",
+    "timezone": "Europe/Stockholm",
+    "CountryID": 213
+  },
+  {
+    "id": 1547,
+    "name": "Västra Götaland",
+    "iso2": "O",
+    "native": "Västra Götaland",
+    "latitude": "58.21585020",
+    "longitude": "12.65182080",
+    "type": "county",
+    "timezone": "Europe/Stockholm",
+    "CountryID": 213
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "id": 4047,
+    "name": "Atlántida",
+    "iso2": "AT",
+    "native": "Atlántida",
+    "latitude": "15.81724920",
+    "longitude": "-87.11469350",
+    "type": "department",
+    "timezone": "America/Tegucigalpa",
+    "CountryID": 97
+  },
+  {
+    "id": 4045,
+    "name": "Bay Islands",
+    "iso2": "IB",
+    "native": "Islas de la Bahía",
+    "latitude": "16.32176740",
+    "longitude": "-86.17868330",
+    "type": "department",
+    "timezone": "America/Tegucigalpa",
+    "CountryID": 97
+  },
+  {
+    "id": 4041,
+    "name": "Choluteca",
+    "iso2": "CH",
+    "native": "Choluteca",
+    "latitude": "13.30140810",
+    "longitude": "-87.18423230",
+    "type": "department",
+    "timezone": "America/Tegucigalpa",
+    "CountryID": 97
+  },
+  {
+    "id": 4051,
+    "name": "Colón",
+    "iso2": "CL",
+    "native": "Colon",
+    "latitude": "15.71495520",
+    "longitude": "-85.70235840",
+    "type": "department",
+    "timezone": "America/Tegucigalpa",
+    "CountryID": 97
+  },
+  {
+    "id": 4042,
+    "name": "Comayagua",
+    "iso2": "CM",
+    "native": "Comayagua",
+    "latitude": "14.55258370",
+    "longitude": "-87.69031540",
+    "type": "department",
+    "timezone": "America/Tegucigalpa",
+    "CountryID": 97
+  },
+  {
+    "id": 4049,
+    "name": "Copán",
+    "iso2": "CP",
+    "native": "Copán",
+    "latitude": "14.89586850",
+    "longitude": "-88.92558120",
+    "type": "department",
+    "timezone": "America/Tegucigalpa",
+    "CountryID": 97
+  },
+  {
+    "id": 4046,
+    "name": "Cortés",
+    "iso2": "CR",
+    "native": "Cortés",
+    "latitude": "15.47840730",
+    "longitude": "-88.03438580",
+    "type": "department",
+    "timezone": "America/Tegucigalpa",
+    "CountryID": 97
+  },
+  {
+    "id": 4043,
+    "name": "El Paraíso",
+    "iso2": "EP",
+    "native": "El Paraíso",
+    "latitude": "13.96199410",
+    "longitude": "-86.56279210",
+    "type": "department",
+    "timezone": "America/Tegucigalpa",
+    "CountryID": 97
+  },
+  {
+    "id": 4052,
+    "name": "Francisco Morazán",
+    "iso2": "FM",
+    "native": "Francisco Morazán",
+    "latitude": "14.34304780",
+    "longitude": "-87.11419570",
+    "type": "department",
+    "timezone": "America/Tegucigalpa",
+    "CountryID": 97
+  },
+  {
+    "id": 4048,
+    "name": "Gracias a Dios",
+    "iso2": "GD",
+    "native": "Gracias a Dios",
+    "latitude": "15.43333050",
+    "longitude": "-84.14868700",
+    "type": "department",
+    "timezone": "America/Tegucigalpa",
+    "CountryID": 97
+  },
+  {
+    "id": 4044,
+    "name": "Intibucá",
+    "iso2": "IN",
+    "native": "Intibucá",
+    "latitude": "14.31213750",
+    "longitude": "-88.17808470",
+    "type": "department",
+    "timezone": "America/Tegucigalpa",
+    "CountryID": 97
+  },
+  {
+    "id": 4058,
+    "name": "La Paz",
+    "iso2": "LP",
+    "native": "La Paz",
+    "latitude": "14.12840890",
+    "longitude": "-87.96152760",
+    "type": "department",
+    "timezone": "America/Tegucigalpa",
+    "CountryID": 97
+  },
+  {
+    "id": 4054,
+    "name": "Lempira",
+    "iso2": "LE",
+    "native": "Lempira",
+    "latitude": "14.45566020",
+    "longitude": "-88.61885580",
+    "type": "department",
+    "timezone": "America/Tegucigalpa",
+    "CountryID": 97
+  },
+  {
+    "id": 4056,
+    "name": "Ocotepeque",
+    "iso2": "OC",
+    "native": "Ocotepeque",
+    "latitude": "14.47594330",
+    "longitude": "-89.03656330",
+    "type": "department",
+    "timezone": "America/Tegucigalpa",
+    "CountryID": 97
+  },
+  {
+    "id": 4050,
+    "name": "Olancho",
+    "iso2": "OL",
+    "native": "Olancho",
+    "latitude": "14.82110280",
+    "longitude": "-85.95498810",
+    "type": "department",
+    "timezone": "America/Tegucigalpa",
+    "CountryID": 97
+  },
+  {
+    "id": 4053,
+    "name": "Santa Bárbara",
+    "iso2": "SB",
+    "native": "Santa Bárbara",
+    "latitude": "15.09605580",
+    "longitude": "-88.36736920",
+    "type": "department",
+    "timezone": "America/Tegucigalpa",
+    "CountryID": 97
+  },
+  {
+    "id": 4055,
+    "name": "Valle",
+    "iso2": "VA",
+    "native": "Valle",
+    "latitude": "13.51109960",
+    "longitude": "-87.54729250",
+    "type": "department",
+    "timezone": "America/Tegucigalpa",
+    "CountryID": 97
+  },
+  {
+    "id": 4057,
+    "name": "Yoro",
+    "iso2": "YO",
+    "native": "Yoro",
+    "latitude": "15.29944740",
+    "longitude": "-87.29169810",
+    "type": "department",
+    "timezone": "America/Tegucigalpa",
+    "CountryID": 97
+  }
+]

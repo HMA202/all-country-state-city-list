@@ -1,0 +1,178 @@
+[
+  {
+    "id": 283,
+    "name": "Artemisa",
+    "iso2": "15",
+    "native": "Artemisa",
+    "latitude": "22.82727630",
+    "longitude": "-82.92592450",
+    "type": "province",
+    "timezone": "America/Havana",
+    "CountryID": 56
+  },
+  {
+    "id": 286,
+    "name": "Camagüey",
+    "iso2": "09",
+    "native": "Camagüey",
+    "latitude": "21.31089320",
+    "longitude": "-77.94286950",
+    "type": "province",
+    "timezone": "America/Havana",
+    "CountryID": 56
+  },
+  {
+    "id": 282,
+    "name": "Ciego de Ávila",
+    "iso2": "08",
+    "native": "Ciego de Ávila",
+    "latitude": "21.84204720",
+    "longitude": "-78.75996820",
+    "type": "province",
+    "timezone": "America/Havana",
+    "CountryID": 56
+  },
+  {
+    "id": 287,
+    "name": "Cienfuegos",
+    "iso2": "06",
+    "native": "Cienfuegos",
+    "latitude": "22.14598640",
+    "longitude": "-80.45307750",
+    "type": "province",
+    "timezone": "America/Havana",
+    "CountryID": 56
+  },
+  {
+    "id": 275,
+    "name": "Granma",
+    "iso2": "12",
+    "native": "Granma",
+    "latitude": "20.19478890",
+    "longitude": "-77.29362650",
+    "type": "province",
+    "timezone": "America/Havana",
+    "CountryID": 56
+  },
+  {
+    "id": 285,
+    "name": "Guantánamo",
+    "iso2": "14",
+    "native": "Guantánamo",
+    "latitude": "20.21060630",
+    "longitude": "-74.69383950",
+    "type": "province",
+    "timezone": "America/Havana",
+    "CountryID": 56
+  },
+  {
+    "id": 272,
+    "name": "Havana",
+    "iso2": "03",
+    "native": "la Habana",
+    "latitude": "23.13530500",
+    "longitude": "-82.35896310",
+    "type": "province",
+    "timezone": "America/Havana",
+    "CountryID": 56
+  },
+  {
+    "id": 279,
+    "name": "Holguín",
+    "iso2": "11",
+    "native": "Holguín",
+    "latitude": "20.91155760",
+    "longitude": "-75.78919780",
+    "type": "province",
+    "timezone": "America/Havana",
+    "CountryID": 56
+  },
+  {
+    "id": 278,
+    "name": "Isla de la Juventud",
+    "iso2": "99",
+    "native": "Isla de la Juventud",
+    "latitude": "21.69109760",
+    "longitude": "-82.81558560",
+    "type": "special municipality",
+    "timezone": "America/Havana",
+    "CountryID": 56
+  },
+  {
+    "id": 281,
+    "name": "Las Tunas",
+    "iso2": "10",
+    "native": "Las Tunas",
+    "latitude": "21.08870450",
+    "longitude": "-76.81216480",
+    "type": "province",
+    "timezone": "America/Havana",
+    "CountryID": 56
+  },
+  {
+    "id": 284,
+    "name": "Matanzas",
+    "iso2": "04",
+    "native": "Matanzas",
+    "latitude": "22.45459990",
+    "longitude": "-81.49615850",
+    "type": "province",
+    "timezone": "America/Havana",
+    "CountryID": 56
+  },
+  {
+    "id": 276,
+    "name": "Mayabeque",
+    "iso2": "16",
+    "native": "Mayabeque",
+    "latitude": "22.82541570",
+    "longitude": "-82.07010620",
+    "type": "province",
+    "timezone": "America/Havana",
+    "CountryID": 56
+  },
+  {
+    "id": 277,
+    "name": "Pinar del Río",
+    "iso2": "01",
+    "native": "Pinar del Río",
+    "latitude": "22.31244700",
+    "longitude": "-83.93893860",
+    "type": "province",
+    "timezone": "America/Havana",
+    "CountryID": 56
+  },
+  {
+    "id": 274,
+    "name": "Sancti Spíritus",
+    "iso2": "07",
+    "native": "Espíritu santo",
+    "latitude": "21.92756670",
+    "longitude": "-79.44321100",
+    "type": "province",
+    "timezone": "America/Havana",
+    "CountryID": 56
+  },
+  {
+    "id": 273,
+    "name": "Santiago de Cuba",
+    "iso2": "13",
+    "native": "Santiago de Cuba",
+    "latitude": "20.12094750",
+    "longitude": "-75.92400900",
+    "type": "province",
+    "timezone": "America/Havana",
+    "CountryID": 56
+  },
+  {
+    "id": 280,
+    "name": "Villa Clara",
+    "iso2": "05",
+    "native": "Villa Clara",
+    "latitude": "22.70361190",
+    "longitude": "-79.69449680",
+    "type": "province",
+    "timezone": "America/Havana",
+    "CountryID": 56
+  }
+]

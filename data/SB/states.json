@@ -1,0 +1,112 @@
+[
+  {
+    "id": 4784,
+    "name": "Central",
+    "iso2": "CE",
+    "native": "Central",
+    "latitude": "-8.98333350",
+    "longitude": "159.75000000",
+    "type": "province",
+    "timezone": "Pacific/Guadalcanal",
+    "CountryID": 202
+  },
+  {
+    "id": 4781,
+    "name": "Choiseul",
+    "iso2": "CH",
+    "native": "Choiseul",
+    "latitude": "-7.00917560",
+    "longitude": "156.92395320",
+    "type": "province",
+    "timezone": "Pacific/Guadalcanal",
+    "CountryID": 202
+  },
+  {
+    "id": 4785,
+    "name": "Guadalcanal",
+    "iso2": "GU",
+    "native": "Guadalcanal",
+    "latitude": "-9.59842090",
+    "longitude": "160.14851170",
+    "type": "province",
+    "timezone": "Pacific/Guadalcanal",
+    "CountryID": 202
+  },
+  {
+    "id": 4778,
+    "name": "Honiara",
+    "iso2": "CT",
+    "native": "Honeycomb",
+    "latitude": "-9.43779750",
+    "longitude": "159.96241750",
+    "type": "capital territory",
+    "timezone": "Pacific/Guadalcanal",
+    "CountryID": 202
+  },
+  {
+    "id": 4780,
+    "name": "Isabel",
+    "iso2": "IS",
+    "native": "Isabel",
+    "latitude": "-7.99999990",
+    "longitude": "158.99999990",
+    "type": "province",
+    "timezone": "Pacific/Guadalcanal",
+    "CountryID": 202
+  },
+  {
+    "id": 4782,
+    "name": "Makira-Ulawa",
+    "iso2": "MK",
+    "native": "Missing up",
+    "latitude": "-10.28352570",
+    "longitude": "161.72807310",
+    "type": "province",
+    "timezone": "Pacific/Guadalcanal",
+    "CountryID": 202
+  },
+  {
+    "id": 4783,
+    "name": "Malaita",
+    "iso2": "ML",
+    "native": "Malaita",
+    "latitude": "-8.95516870",
+    "longitude": "160.95144130",
+    "type": "province",
+    "timezone": "Pacific/Guadalcanal",
+    "CountryID": 202
+  },
+  {
+    "id": 4787,
+    "name": "Rennell and Bellona",
+    "iso2": "RB",
+    "native": "Rennell and Bellona",
+    "latitude": "-12.11342660",
+    "longitude": "160.31705230",
+    "type": "province",
+    "timezone": "Pacific/Guadalcanal",
+    "CountryID": 202
+  },
+  {
+    "id": 4779,
+    "name": "Temotu",
+    "iso2": "TE",
+    "native": "Temotu",
+    "latitude": "-10.88913220",
+    "longitude": "166.23103500",
+    "type": "province",
+    "timezone": "Pacific/Guadalcanal",
+    "CountryID": 202
+  },
+  {
+    "id": 4786,
+    "name": "Western",
+    "iso2": "WE",
+    "native": "Western",
+    "latitude": "-7.81666670",
+    "longitude": "156.68398800",
+    "type": "province",
+    "timezone": "Pacific/Guadalcanal",
+    "CountryID": 202
+  }
+]
