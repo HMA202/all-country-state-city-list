@@ -24,7 +24,7 @@
 
 ```bash
 npm install all-country-state-city-list
-
+```
 ---
 
 ## 👨‍💻 Author
