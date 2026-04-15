@@ -51,21 +51,21 @@ console.log(states);
 
 🏙️ Get Cities by Country
 ```js
-const cities = geo.getCities('BH');
+const cities = geo.getCitiesByCountry('BH');
 
 console.log(cities);
 ```
 🔎 Get Cities by State (Advanced)
 
 ```js
-const cities = geo.getCities('BH', 'Manama');
+const cities = geo.getCities('BH', 'Capital'); 
 
 console.log(cities);
 
 ```
 📍 Get Single City
 ```js
-const city = geo.getCity('AD', 'Andorra la Vella');
+const city = geo.getCity('BH', 'Manama');
 
 console.log(city.name);
 ```
