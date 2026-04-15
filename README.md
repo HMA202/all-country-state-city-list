@@ -30,7 +30,12 @@ npm install all-country-state-city-list
 ## 👨‍💻 Author
 
 <p align="center">
-  <img src="https://github.com/HMA202.png" width="90" height="90" />
+  <img 
+    src="https://github.com/HMA202.png" 
+    width="90" 
+    height="90" 
+    style="border-radius: 50%;" 
+  />
 </p>
 
 <p align="center">
